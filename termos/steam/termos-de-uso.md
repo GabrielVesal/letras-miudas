@@ -3,8 +3,8 @@ empresa: "Steam"
 documento: "Termos de Uso"
 categoria: "Jogos"
 fonte: "http://store.steampowered.com:80/subscriber_agreement?l=brazilian"
-capturado_em: 2015-04-20
-wayback: "https://web.archive.org/web/20150420012132/http://store.steampowered.com:80/subscriber_agreement?l=brazilian"
+capturado_em: 2015-06-21
+wayback: "https://web.archive.org/web/20150621043811/http://store.steampowered.com:80/subscriber_agreement?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/termos-de-uso.md"
 ---
 
@@ -24,7 +24,7 @@ Você pode tornar-se assinante do Steam ("Assinante") instalando o software clie
 
 Como Assinante, você pode obter acesso a determinados serviços, software e conteúdo disponíveis para os Assinantes. O software cliente Steam e qualquer outro software, conteúdo e atualizações que você baixar ou acessar por meio do Steam, incluindo, mas sem caráter limitativo, videogames e conteúdo do jogo da Valve ou de terceiros, e quaisquer itens virtuais que trocar, vender ou comprar em um Mercado de Assinaturas Steam, são mencionados no presente Acordo como "Conteúdo e Serviços”; os direitos de acesso e/ou uso de quaisquer Conteúdo e Serviços por meio do Steam são mencionados no presente Acordo como "Assinaturas".
 
-Cada Assinatura permite o acesso a Conteúdo e Serviços específicos. Algumas Assinaturas podem impor termos adicionais específicos de tal Assinatura ("Termos de Assinatura") (por exemplo, um acordo de licença para o usuário final específico de um determinado jogo, ou termos de uso de um determinado produto ou funcionalidade do Steam). Além disso, os termos adicionais (por exemplo, procedimentos de pagamento e faturamento) podem ser publicados em http://www.steampowered.com ou no serviço Steam ("Regras de Uso"). As Regras de Uso incluem as Regras de Conduta Online Steam, que podem ser consultadas em http://steampowered.com/index.php?area=online\_conduct. Os Termos de Assinatura, as Regras de Uso e a Política de Privacidade da Valve (que pode ser consultada em http://www.valvesoftware.com/privacy.htm) estarão vinculados a você assim que sua aceitação deles ou do presente Acordo for indicada, ou você se tornará vinculado a eles do modo descrito na Seção 8 (Alterações do presente Acordo).
+Cada Assinatura permite o acesso a Conteúdo e Serviços específicos. Algumas Assinaturas podem impor termos adicionais específicos de tal Assinatura ("Termos de Assinatura") (por exemplo, um acordo de licença para o usuário final específico de um determinado jogo, ou termos de uso de um determinado produto ou funcionalidade do Steam). Além disso, os termos adicionais (por exemplo, procedimentos de pagamento e faturamento) podem ser publicados em http://www.steampowered.com ou no serviço Steam ("Regras de Uso"). As Regras de Uso incluem as Regras de Conduta Online Steam http://steampowered.com/index.php?area=online\_conduct e a Política de Reembolso do Steam http://store.steampowered.com/steam\_refunds. Os Termos de Assinatura, as Regras de Uso e a Política de Privacidade da Valve (que pode ser consultada em http://www.valvesoftware.com/privacy.htm) estarão vinculados a você assim que sua aceitação deles ou do presente Acordo for indicada, ou você se tornará vinculado a eles do modo descrito na Seção 8 (Alterações do presente Acordo).
 
 Quando você concluir o processo de registro no Steam, será criada uma conta Steam ("Conta"). A sua Conta também poderá incluir informações de faturamento fornecidas à Valve para a compra de Assinaturas. Você poderá não revelar, compartilhar ou de outra forma permitir que outras pessoas usem sua senha ou Conta, exceto se for especificamente autorizado de outra forma pela Valve. Qualquer uso da sua Conta com seu login e/ou senha será considerado como tendo sido feito por você, e você será responsável por ele e para a segurança do seu sistema de computador. A Valve não é responsável pelo uso da sua senha e Conta nem por todas as comunicações e atividades no Steam que resultem do uso do seu nome de login e senha. Você não pode vender, nem cobrar dos outros pelo direito de uso da sua Conta, nem transferir, de outro modo, a sua Conta, nem pode vender, nem cobrar dos outros pelo direito de uso, nem transferir quaisquer Assinaturas que não sejam as expressamente autorizadas pelo presente Acordo (incluindo quaisquer Termos de Assinatura ou Regras de Uso) ou especificamente permitidas, de outra forma, pela Valve.
 
@@ -76,7 +76,7 @@ Você tem o direito de uso do Conteúdo e dos Serviços para uso pessoal, mas n�
 
 3. FATURAMENTO, PAGAMENTO E OUTRAS ASSINATURAS
 
-TODOS OS CUSTOS INCORRIDOS NO STEAM, E TODAS AS COMPRAS EFETUADAS COM A CARTEIRA STEAM, SÃO PAGÁVEIS COM ANTECEDÊNCIA E NÃO SÃO REEMBOLSÁVEIS, TOTAL OU PARCIALMENTE, INDEPENDENTEMENTE DO MÉTODO DE PAGAMENTO, SALVO COMO EXPRESSAMENTE ESTIPULADO NO PRESENTE ACORDO.
+Todas as cobranças feitas no Steam e compras com a Carteira Steam são finais e debitadas imediatamente. No entanto, em certas situações descritas na Política de Reembolso do Steam http://store.steampowered.com/steam\_refunds, reembolsos podem ser requisitados.
 
 A. Autorização de pagamento
 
@@ -270,4 +270,4 @@ As obrigações da Valve estão sujeitas às leis existentes e aos processos leg
 
 Você concorda agir de acordo com todas as leis e regulamentos de importação/exportação. Você concorda em não exportar o Conteúdo e os Serviços nem autorizar o uso da sua Conta por parte de indivíduos de quaisquer países que apoiem atividades terroristas para os quais as exportações de criptografia são restritas no momento pelo Bureau of Export Administration dos EUA. Você declara e garante que não se encontra em um país proibido, não está sob controle de indivíduos desses países e não é cidadão nem residente em nenhum desses países.
 
-*Última revisão:* 15/03/2015
+*Última revisão:* 02/06/2015
