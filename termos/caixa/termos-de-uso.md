@@ -3,8 +3,8 @@ empresa: "Caixa"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
-capturado_em: 2015-01-18
-wayback: "https://web.archive.org/web/20150118025709/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
+capturado_em: 2015-06-23
+wayback: "https://web.archive.org/web/20150623210307/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md"
 ---
 
@@ -30,7 +30,7 @@ Por fim, é proibido modificar, divulgar, distribuir, reproduzir ou copiar qualq
 
 Encontre uma agência próxima Será um prazer atendê-lo.
 
-Ligue para 0800 726 4555 Fale diretamente conosco.
+Ligue para 0800 726 0101 Fale diretamente conosco.
 
 Redes Sociais Atendemos também no facebook
 
