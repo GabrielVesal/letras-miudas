@@ -35,31 +35,31 @@ Atendemos também no facebook
 Envie uma mensagem
 Responderemos por e-mail
 
-Ajude-nos a melhorar essa página. Você achou esse conteúdo útil?
+Queremos melhorar o nosso site para você. Ficou satisfeito com o conteúdo desta página?
 Sim
 Não
 
 Obrigado! Nossa equipe vai avaliar suas considerações.
 
-- Poderia possuir mais informações
+- Gostaria de outras informações
 
  Enviar Comentário
-- Não respondeu minhas dúvidas
+- Não encontrei o que procurava
 
  Enviar Comentário
-- Contém informações incorretas
+- Encontrei informações incorretas
 
  Enviar Comentário
-- Não fiquei satisfeito com a resposta
+- Tive problemas com o acesso
 
  Enviar Comentário
 - Muita coisa para ler
 
  Enviar Comentário
-- Está confuso
+- Achei as informações confusas
 
  Enviar Comentário
-- Outro
+- Outros
 
  Enviar Comentário
 
