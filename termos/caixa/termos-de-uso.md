@@ -3,8 +3,8 @@ empresa: "Caixa"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
-capturado_em: 2015-06-23
-wayback: "https://web.archive.org/web/20150623210307/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
+capturado_em: 2015-08-10
+wayback: "https://web.archive.org/web/20150810221537/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md"
 ---
 
@@ -36,29 +36,29 @@ Redes Sociais Atendemos também no facebook
 
 Envie uma mensagem Responderemos por e-mail
 
-Ajude-nos a melhorar essa página. Você achou esse conteúdo útil? Sim Não
+Queremos melhorar o nosso site para você. Ficou satisfeito com o conteúdo desta página? Sim Não
 
 Obrigado! Nossa equipe vai avaliar suas considerações.
 
-- Poderia possuir mais informações
+- Gostaria de outras informações
 
  Enviar Comentário
-- Não respondeu minhas dúvidas
+- Não encontrei o que procurava
 
  Enviar Comentário
-- Contém informações incorretas
+- Encontrei informações incorretas
 
  Enviar Comentário
-- Não fiquei satisfeito com a resposta
+- Tive problemas com o acesso
 
  Enviar Comentário
 - Muita coisa para ler
 
  Enviar Comentário
-- Está confuso
+- Achei as informações confusas
 
  Enviar Comentário
-- Outro
+- Outros
 
  Enviar Comentário
 
