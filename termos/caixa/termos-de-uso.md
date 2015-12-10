@@ -3,8 +3,8 @@ empresa: "Caixa"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
-capturado_em: 2015-08-10
-wayback: "https://web.archive.org/web/20150810221537/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
+capturado_em: 2015-12-10
+wayback: "https://web.archive.org/web/20151210040918/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md"
 ---
 
@@ -86,6 +86,6 @@ Escolha agora o seu ›
 
 ### Contas Caixa
 
-As contas Caixa têm as menores tarifas do mercado.
+As contas Caixa têm as melhores tarifas do mercado.
 
 Abra sua conta ›
