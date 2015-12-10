@@ -87,6 +87,6 @@ Escolha agora o seu ›
 
 ### Contas Caixa
 
-As contas Caixa têm as menores tarifas do mercado.
+As contas Caixa têm as melhores tarifas do mercado.
 
 Abra sua conta ›
