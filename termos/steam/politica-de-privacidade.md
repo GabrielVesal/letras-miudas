@@ -3,8 +3,8 @@ empresa: "Steam"
 documento: "Política de Privacidade"
 categoria: "Jogos"
 fonte: "http://store.steampowered.com:80/privacy_agreement?l=brazilian"
-capturado_em: 2015-05-03
-wayback: "https://web.archive.org/web/20150503135038/http://store.steampowered.com:80/privacy_agreement?l=brazilian"
+capturado_em: 2016-07-27
+wayback: "https://web.archive.org/web/20160727060820/http://store.steampowered.com:80/privacy_agreement?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/politica-de-privacidade.md"
 ---
 
@@ -54,7 +54,7 @@ A Valve® Corporation e a Valve S.A.R.L (no seu conjunto, "Valve") respeitam a p
 
 **Armazenamento e segurança das informações pessoais identificáveis**
 
- As informações pessoais identificáveis fornecidas à Valve por seus clientes na União Europeia são controladas pela Valve S.a.r.l., com local de atividade definido abaixo. As informações pessoais identificáveis fornecidas à Valve são recolhidas, processadas e armazenadas pela Valve Corporation nos Estados Unidos. A Valve tomou medidas razoáveis para proteger as informações que os usuários compartilham conosco, que incluem, sem limitação, a implementação de processos, de equipamentos e de software, para evitar acessos e divulgação não autorizados dessas informações. A Valve Corporation age em conformidade com o conceito de "Porto Seguro" desenvolvido pelo U.S. Department of Commerce (Departamento do Comércio dos E.U.A.) e pela União Europeia relativamente à transferência e processamento de informações pessoais identificáveis. Para obter mais informações sobre o programa "Porto Seguro" ou para visualizar a certificação da Valve, visite http://export.gov/safeharbor/eu/eg\_main\_018476.asp.
+ As informações pessoais identificáveis fornecidas à Valve por seus clientes na União Europeia são controladas pela Valve S.a.r.l., com local de atividade definido abaixo. As informações pessoais identificáveis fornecidas à Valve são recolhidas, processadas e armazenadas pela Valve Corporation nos Estados Unidos. A Valve tomou medidas razoáveis para proteger as informações que os usuários compartilham conosco, que incluem, sem limitação, a implementação de processos, de equipamentos e de software, para evitar acessos e divulgação não autorizados dessas informações. A Valve Corporation age em conformidade com o conceito de "Porto Seguro" desenvolvido pelo U.S. Department of Commerce (Departamento do Comércio dos E.U.A.) e pela União Europeia relativamente à transferência e processamento de informações pessoais identificáveis. Para obter mais informações sobre o programa "Porto Seguro" ou para visualizar a certificação da Valve, visite http://safeharbor.export.gov/companyinfo.aspx?id=28415.
 
 ****Correções, atualizações e remoção de informações pessoais identificáveis**** Se a exatidão das informações pessoais identificáveis mantidas pela Valve o preocupar, ou caso pretenda revisar, acessar, acrescentar ou corrigir tais informações, ou desejar que suas informações pessoais identificáveis sejam removidas dos registros da Valve ou, de outra forma, desativadas, entre em contato conosco aqui. Poderemos recusar solicitações que sejam injustificadamente repetitivas, exijam esforço técnico desproporcionado, arrisquem a privacidade de outros ou que sejam extremamente impraticáveis.
 
