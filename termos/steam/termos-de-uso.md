@@ -3,8 +3,8 @@ empresa: "Steam"
 documento: "Termos de Uso"
 categoria: "Jogos"
 fonte: "http://store.steampowered.com:80/subscriber_agreement?l=brazilian"
-capturado_em: 2016-01-24
-wayback: "https://web.archive.org/web/20160124050545/http://store.steampowered.com:80/subscriber_agreement?l=brazilian"
+capturado_em: 2016-09-23
+wayback: "https://web.archive.org/web/20160923143601/http://store.steampowered.com:80/subscriber_agreement?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/termos-de-uso.md"
 ---
 
@@ -12,13 +12,13 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/st
 
 Este Acordo de Assinatura do Steam ("Acordo") é um documento legal que explica seus direitos e obrigações como um assinante do Steam de qualquer Valve Corporation (“Valve”) ou, conforme aplicável, Valve S.a.r.l (“Valve EU”). Leia-o atentamente.
 
-A SEÇÃO 11 CONTÉM UM ACORDO DE ARBITRAGEM VINCULATIVA E UMA RENÚNCIA À AÇÃO COLETIVA. ISSO PODE AFETAR SEUS DIREITOS LEGAIS. LEIA OS ITENS MENCIONADOS.
+A SEÇÃO 11 CONTÉM UM ACORDO DE ARBITRAGEM VINCULATIVA E UMA RENÚNCIA À AÇÃO COLETIVA. ISSO PODE AFETAR SEUS DIREITOS LEGAIS. LEIA OS ITENS MENCIONADOS. SE VOCÊ FOR UM CLIENTE COM RESIDÊNCIA NA UNIÃO EUROPEIA, A SEÇÃO 11 NÃO SERÁ APLICÁVEL AO SEU CASO.
 
 1. REGISTRO COMO ASSINANTE; APLICAÇÃO DOS TERMOS A VOCÊ; SUA CONTA
 
 O Steam é um serviço online disponibilizado pela Valve.
 
-Você se tornar um assinante do Steam ("Assinante") ao completar o registro de uma conta de usuário do Steam. O presente Acordo entra em vigor assim que você indicar a sua aceitação destes termos.
+Você se tornar um assinante do Steam ("Assinante") ao completar o registro de uma conta de usuário do Steam. O presente Acordo entra em vigor assim que você indicar a sua aceitação destes termos. Você não pode se tornar um Assinante se tiver menos de 13 (treze) anos de idade. O Steam não foi feito para crianças menores de 13 anos e a Valve não coletará intencionalmente informações pessoais de crianças menores de 13 anos.
 
 A. Parte contratante
 
@@ -37,7 +37,9 @@ Cada Assinatura permite o acesso a Conteúdo e Serviços específicos. Algumas A
 
 C. Sua Conta
 
-Quando você concluir o processo de registro no Steam, será criada uma conta Steam ("Conta"). Sua Conta também poderá incluir informações de faturamento fornecidas à Valve para a compra de Assinaturas, Conteúdo, Serviços e Hardware. Você poderá não revelar, compartilhar ou de outra forma permitir que outras pessoas usem sua senha ou Conta, exceto se for especificamente autorizado de outra forma pela Valve. Qualquer uso da sua Conta com seu login e/ou senha será considerado como tendo sido feito por você, e você será responsável por ele e para a segurança do seu sistema de computador. A Valve não é responsável pelo uso da sua senha e Conta nem por todas as comunicações e atividades no Steam que resultem do uso do seu nome de login e senha. Você não pode vender, nem cobrar dos outros pelo direito de uso da sua Conta, nem transferir, de outro modo, a sua Conta, nem pode vender, nem cobrar dos outros pelo direito de uso, nem transferir quaisquer Assinaturas que não sejam as expressamente autorizadas pelo presente Acordo (incluindo quaisquer Termos de Assinatura ou Regras de Uso) ou especificamente permitidas, de outra forma, pela Valve.
+Quando você concluir o processo de registro no Steam, será criada uma conta Steam ("Conta"). Sua Conta também poderá incluir informações de faturamento fornecidas à Valve para a compra de Assinaturas, Conteúdo, Serviços e Hardware. Você é o responsável pela confidencialidade de seu nome de login e senha assim como pela segurança do seu sistema de computador. A Valve não é responsável pelo uso da sua senha e Conta nem por todas as comunicações e atividades no Steam que resultem do uso de seu nome de login e senha por você, por qualquer pessoa a qual tenha, de forma intencional ou não, divulgado o seu login e/ou senha em violação à disposição de confidencialidade, ou por qualquer outra pessoa que venha a usar de forma fraudulenta seu nome de login e senha sem sua permissão. Se você acreditar que a confidencialidade de seu nome de login e/ou senha pode ter sido comprometida, você deverá notificar a Valve por meio do formulário de suporte (https://support.steampowered.com/newticket.php) imediatamente.
+
+A sua Conta, incluindo informações pertinentes dela (ex: informações de contato, informações de cobrança, histórico e Assinaturas da Conta, etc.) é estritamente pessoal. Portanto, você não pode vender, nem cobrar dos outros pelo direito de uso da sua Conta, nem transferir, de outro modo, a sua Conta, nem pode vender, nem cobrar dos outros pelo direito de uso, nem transferir quaisquer Assinaturas que não sejam as expressamente autorizadas pelo presente Acordo (incluindo quaisquer Termos de Assinatura ou Regras de Uso) ou especificamente permitidas, de outra forma, pela Valve.
 
 2. LICENÇAS
 
@@ -53,7 +55,7 @@ A Valve pode, ao longo do tempo, disponibilizar software para você, por meio do
 
 - Seu direito de utilizar o Software Beta pode estar limitado por tempo e pode estar sujeito a Termos de Assinatura adicionais;
 - A Valve ou qualquer afiliada da Valve pode solicitar ou pedir o fornecimento de sugestões, feedback ou dados relativos ao uso do Software Beta, que serão considerados Conteúdo Gerado pelo Usuário sob a Seção 6 (Conteúdo Gerado pelo Usuário) abaixo; e
-- Em acréscimo às renúncias e limitações de responsabilidade para todo o Software sob a Seção 7 (Isenção de Responsabilidade, Limites de Responsabilidade; Ausência de Garantias; Garantia Limitada) abaixo, você reconhece especificamente que o Software Beta contém erros, não está terminado e pode gerar incompatibilidades ou danificar seu computador, dados e/ou software. Se você optar por instalar e/ou usar o Software Beta, deverá apenas usá-lo em conformidade com suas finalidades, ou seja, para fins de teste e aprimoramentos e em ambos os casos não em um sistema nem para finalidades nas quais o mau funcionamento do Software Beta possa causar qualquer tipo de danos. Especialmente, mantenha backups completos de qualquer sistema no qual você opte por instalar o Software Beta.
+- Em acréscimo às renúncias e limitações de responsabilidade para todo o Software sob a Seção 7 (Isenção de Responsabilidade, Limites de Responsabilidade; Ausência de Garantias; Garantia Limitada) abaixo conforme aplicável, você reconhece especificamente que o Software Beta é lançado apenas com o propósito de testes e aprimoramentos, especialmente para fornecer para a Valve feedback sobre a qualidade e usabilidade do referido Software Beta, e portanto contém erros, não está terminado e pode gerar incompatibilidades ou danificar seu computador, dados e/ou software. Se você optar por instalar e/ou usar o Software Beta, deverá apenas usá-lo em conformidade com suas finalidades, ou seja, para fins de teste e aprimoramentos e em ambos os casos não em um sistema nem para finalidades nas quais o mau funcionamento do Software Beta possa causar qualquer tipo de danos. Especialmente, mantenha backups completos de qualquer sistema no qual você opte por instalar o Software Beta.
 
 C. Licença de Uso para Ferramentas de Desenvolvedor Valve
 
@@ -105,7 +107,7 @@ Como titular da Conta, você é o responsável por todos os custos incorridos, i
 
 C. Carteira Steam
 
-O Steam pode disponibilizar um saldo de conta associado a sua Conta (a "Carteira Steam"). Você pode depositar fundos na sua Carteira Steam até a um montante máximo determinado pela Valve, por cartão de crédito, cartão pré-pago, código promocional ou qualquer outro método de pagamento aceito pelo Steam. Em qualquer período de 24 (vinte e quatro) horas, o montante total armazenado em sua Carteira Steam, mais o montante total gasto da sua Carteira Steam, no total, não poderá exceder US$ 2.000 ou o respectivo equivalente em sua moeda local aplicável -- as tentativas de depósitos em sua Carteira Steam que excederem esse limite poderão não ser creditados em sua Carteira Steam até que sua atividade fique abaixo deste limite. A Valve pode, ao longo do tempo, alterar ou estabelecer diferentes limites de saldo e de uso da Carteira Steam.
+O Steam pode disponibilizar um saldo de conta associado a sua Conta (a "Carteira Steam"). A Carteira Steam não é uma conta de banco nem qualquer tipo de instrumento de pagamento. Ela funciona como um saldo pré-pago para comprar Conteúdo e Serviços. Você pode depositar fundos na sua Carteira Steam até a um montante máximo determinado pela Valve, por cartão de crédito, cartão pré-pago, código promocional ou qualquer outro método de pagamento aceito pelo Steam. Em qualquer período de 24 (vinte e quatro) horas, o montante total armazenado em sua Carteira Steam, mais o montante total gasto da sua Carteira Steam, no total, não poderá exceder US$ 2.000 ou o respectivo equivalente em sua moeda local aplicável -- as tentativas de depósitos em sua Carteira Steam que excederem esse limite poderão não ser creditados em sua Carteira Steam até que sua atividade fique abaixo deste limite. A Valve pode, ao longo do tempo, alterar ou estabelecer diferentes limites de saldo e de uso da Carteira Steam.
 
 Você será notificado por e-mail sobre qualquer alteração no saldo da Carteira Steam e sobre limites de uso em 60 (sessenta) dias antes da entrada em vigor da referida alteração. Seu uso contínuo da Conta Steam há mais de 30 (trinta) dias antes da entrada em vigor das alterações constituirá sua aceitação das alterações. Se você não concordar com as alterações, seu único recurso será encerrar sua Conta Steam ou cessar o uso da sua Carteira Steam. Neste caso, a Valve não deverá ter nenhuma obrigação de reembolsar quaisquer créditos remanescentes em sua Carteira Steam.
 
@@ -141,8 +143,6 @@ O Steam poderá disponibilizar links para sites de terceiros. Alguns desses site
 
 4. CONDUTA, TRAPAÇA E COMPORTAMENTO ILEGAL ONLINE
 
-Você concorda que será pessoalmente responsável por qualquer uso de sua Conta com seu login e/ou senha e por toda comunicação e atividade no Steam que resulte de tal uso de sua Conta e do Steam, e que a Valve não é responsável pelo uso da sua Conta e de todas as comunicações e atividades no Steam resultantes do uso de sua Conta. Se você acreditar que a confidencialidade de seu login e/ou senha pode ter sido comprometida, você deverá notificar a Valve por meio do formulário de suporte (https://support.steampowered.com/newticket.php) imediatamente.
-
 A sua conduta e interação online com outros Assinantes deverá se orientar pelo bom senso e pelas regras básicas de etiqueta. Você também poderá consultar os requisitos específicos nas regras de Conduta Online Steam em http://steampowered.com/index.php?area=online\_conduct, outras Regras de Uso, os Termos de Assinatura, ou em termos de uso impostos por terceiros que hospedam jogos específicos ou outros serviços.
 
 O Steam e o Conteúdo e os Serviços poderão incluir funcionalidades criadas para identificar processos ou funcionalidades de software ou hardware que poderão fornecer a determinado jogador uma vantagem competitiva injusta ao jogar versões multijogadores de qualquer Conteúdo e Serviços ou modificações deles ("Métodos de Trapaça"). Você concorda em não criar Métodos de Trapaça nem auxiliar terceiros, de qualquer forma, na criação ou no uso de Métodos de Trapaça. Você concorda em não desativar, contornar ou interferir de qualquer outra forma, direta ou indiretamente, no funcionamento do software concebido para impedir ou comunicar o uso de métodos de Trapaça. Você reconhece e concorda que a Valve, ou qualquer outro anfitrião de multijogadores online, poderá recusar sua participação em determinados jogos de multijogadores online se você usar métodos de Trapaça em conexão com o Steam ou o Conteúdo e os Serviços. Além disso, você reconhece e concorda que um anfitrião de multijogadores online poderá comunicar seu uso de Métodos de Trapaça à Valve, e a Valve poderá comunicar seu histórico de uso de Métodos de Trapaça a outros anfitriões de multijogadores online. A Valve poderá terminar a sua Conta ou uma Assinatura específica por qualquer conduta ou atividade que ela considere ilegal, que constitua um Método de Trapaça, ou que de outra forma afete negativamente a satisfação com o Steam dos outros Assinantes. Você reconhece que a Valve não é obrigada a avisá-lo previamente do término das suas Assinaturas e/ou Conta, mas poderá optar por fazê-lo.
@@ -157,9 +157,9 @@ Em relação a todas as Assinaturas, Conteúdos e Serviços que não sejam de au
 
 A. Provisões gerais
 
-"Conteúdo Gerado pelo Usuário" significa quaisquer informações disponibilizadas para outros usuários por meio do uso de funcionalidades para vários usuários do Steam, ou à Valve ou às suas afiliadas pelo uso do Conteúdo e dos Serviços ou de outro modo.
+O Steam fornece interfaces e ferramentas para que você possa gerar conteúdo e disponibilizá-lo para outros usuários e/ou para a Valve a seu critério exclusivo. "Conteúdo Gerado pelo Usuário" significa quaisquer informações disponibilizadas para outros usuários por meio do uso de funcionalidades para vários usuários do Steam, ou à Valve ou às suas afiliadas pelo uso do Conteúdo e dos Serviços ou de outro modo.
 
-Você concede à Valve e às suas afiliadas o direito mundial e não exclusivo de uso, reprodução, modificação, criação de trabalhos derivados, distribuição, transmissão, transcodificação, conversão, difusão e de comunicação, apresentação e execução pública, de qualquer outra forma, do Conteúdo Gerado pelo Usuário e trabalhos derivados dele, em relação com a operação e a promoção do site do Steam. Esta licença é concedida à Valve pela duração dos direitos de propriedade intelectual e poderá ser rescindida se a Valve violar a licença e não sanar tal violação em 14 (quatorze) dias contados a partir do recebimento da notificação enviada por você aos cuidados do Departamento Jurídico da Valve, no endereço aplicável da Valve, informado nesta página da Política de Privacidade. A rescisão da referida licença não afeta os direitos de quaisquer sublicenciados de acordo com qualquer sublicença concedida pela Valve antes do término da licença. A Valve é a única proprietária dos trabalhos derivados criados pela Valve a partir do seu Conteúdo e, portanto, está qualificada a fornecer licenças sobre estes trabalhos derivados. Caso você use o armazenamento em nuvem da Valve, você nos concede uma licença para armazenamento de suas informações como parte desse serviço. A Valve pode limitar a quantidade de armazenamento que você pode utilizar.
+Quando você carrega seu conteúdo para o Steam para disponibilizá-lo para outros usuários e/ou para a Valve, você concede à Valve e às suas afiliadas o direito mundial e não exclusivo de uso, reprodução, modificação, criação de trabalhos derivados, distribuição, transmissão, transcodificação, conversão, difusão e de comunicação, apresentação e execução pública, de qualquer outra forma, do Conteúdo Gerado pelo Usuário e trabalhos derivados dele, em relação com a operação e a promoção do site do Steam. Esta licença é concedida à Valve pela duração dos direitos de propriedade intelectual e poderá ser rescindida se a Valve violar a licença e não sanar tal violação em 14 (quatorze) dias contados a partir do recebimento da notificação enviada por você aos cuidados do Departamento Jurídico da Valve, no endereço aplicável da Valve, informado nesta página da Política de Privacidade. A rescisão da referida licença não afeta os direitos de quaisquer sublicenciados de acordo com qualquer sublicença concedida pela Valve antes do término da licença. A Valve é a única proprietária dos trabalhos derivados criados pela Valve a partir do seu Conteúdo e, portanto, está qualificada a fornecer licenças sobre estes trabalhos derivados. Caso você use o armazenamento em nuvem da Valve, você nos concede uma licença para armazenamento de suas informações como parte desse serviço. A Valve pode limitar a quantidade de armazenamento que você pode utilizar.
 
 Caso você forneça à Valve quaisquer comentários e sugestões sobre o Steam, o Conteúdo e Serviços ou quaisquer produtos ou serviços da Valve, a Valve pode usar os comentários ou as sugestões da maneira que preferir, sem obrigação de responder a você.
 
@@ -189,11 +189,11 @@ Além disso, você declara e garante que o Conteúdo Gerado pelo Usuário, seu e
 
 7. ISENÇÃO DE RESPONSABILIDADE; LIMITAÇÃO DE RESPONSABILIDADE; AUSÊNCIA DE GARANTIAS; GARANTIA LIMITADA
 
-Antes de adquirir uma Assinatura, você deveria consultar as informações do produto disponibilizadas no Steam, incluindo a descrição da Assinatura, requisitos técnicos mínimos e revisões de usuários.
-
 ESTA SEÇÃO NÃO REDUZ OS DIREITOS OBRIGATÓRIOS DO CONSUMIDOR DE ACORDO COM AS LEIS DE SUA JURISDIÇÃO LOCAL. EM PARTICULAR, AS SEÇÕES 7.A, B E C NÃO SE APLICAM A ASSINANTES DA UE.
 
 - PARA OS ASSINANTES DA NOVA ZELÂNDIA, ESTA SEÇÃO 7 NÃO EXCLUI, RESTRINGE NEM MODIFICA O APLICATIVO DE QUALQUER DIREITO OU RECURSO QUE NÃO POSSA SER EXCLUÍDO, RESTRINGIDO OU MODIFICADO, INCLUINDO AQUELES CONFERIDOS PELA LEI DE GARANTIAS AO CONSUMIDOR DA NOVA ZELÂNDIA DE 1993. NO ÂMBITO DESTA LEI, EXISTEM GARANTIAS DE QUE O SOFTWARE POSSUI QUALIDADE ACEITÁVEL. SE ESTA GARANTIA NÃO FOR ATENDIDA, HAVERÁ QUALIFICAÇÕES PARA QUE O SOFTWARE SEJA CORRIGIDO (QUE PODEM INCLUIR REPAROS, SUBSTITUIÇÃO OU REEMBOLSO). SE UM RECURSO NÃO PUDER SER FORNECIDO OU SE A FALHA TIVER CARÁCTER SUBSTANCIAL, A LEI PREVÊ UM REEMBOLSO.
+
+Antes de adquirir uma Assinatura, você deveria consultar as informações do produto disponibilizadas no Steam, incluindo a descrição da Assinatura, requisitos técnicos mínimos e revisões de usuários.
 
 A. ISENÇÃO DE RESPONSABILIDADE
 
@@ -247,11 +247,15 @@ Você concorda que o presente Acordo deverá ser considerado estabelecido e cele
 
 Para clientes da União Europeia:
 
-Você concorda que o presente Acordo deverá ser considerado estabelecido e formalizado no Grão-Ducado do Luxemburgo e está sujeito à legislação do Luxemburgo, excluindo a lei dos conflitos e a Convenção para a Venda Internacional de Mercadorias (CISG). Contudo, quando as leis do Luxemburgo garantirem um grau inferior de proteção do consumidor em comparação ao país de residência, as leis de proteção do consumidor desse país deverão prevalecer. Em qualquer litígio originado sob o presente Acordo, a parte vencedora receberá os honorários e despesas dos advogados.
+Antes de adquirir uma Assinatura, você deve consultar as informações do produto disponibilizadas no Steam, incluindo descrição da Assinatura, requisitos técnicos mínimos e análises de usuários. No caso de uma disputa relacionada à interpretação, desempenho ou validade do Acordo de Assinatura, uma solução amigável será buscada antes de qualquer ação legal. Você pode registrar a sua reclamação no site http://help.steampowered.com. Em caso de falha, você pode, em até um ano depois da solicitação que falhou, registrar uma reclamação online no website de Resolução de Litígios em Linha da Comissão Europeia: https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage, ou no website da Central de Consumidores Europeus: http://www.europe-consommateurs.eu/index.php?id=2514.
+
+No caso de falha em resolução extrajudicial da disputa, esta pode ser levada aos tribunais competentes.
+
+Você concorda que o presente Acordo deverá ser considerado estabelecido e formalizado no Grão-Ducado do Luxemburgo e está sujeito à legislação do Luxemburgo, excluindo a lei dos conflitos e a Convenção para a Venda Internacional de Mercadorias (CISG). Contudo, quando as leis do Luxemburgo garantirem um grau inferior de proteção do consumidor em comparação ao país de residência, as leis de proteção do consumidor desse país deverão prevalecer. Em qualquer litígio originado sob o presente Acordo, a parte vencedora receberá os honorários e despesas dos advogados, dado que o juiz não de outra forma decida com base nas circunstâncias exepcionais do caso.
 
 11. RESOLUÇÃO DE DISPUTAS/ARBITRAGEM VINCULATIVA/RENÚNCIA DE AÇÃO COLETIVA
 
-A presente Seção 11 deverá ser aplicada na máxima extensão permitida pela legislação aplicável. Caso as leis da sua jurisdição proíbam a aplicação de algumas ou de todas as provisões desta Seção, apesar da Seção 10 (Lei/Jurisdição Aplicável), tais provisões não se aplicarão a você. ESPECIALMENTE, SE VOCÊ FOR UM ASSINANTE DA UNIÃO EUROPEIA, A SEÇÃO 11 NÃO SERÁ APLICÁVEL AO SEU CASO.
+A presente Seção 11 deverá ser aplicada na máxima extensão permitida pela legislação aplicável. Caso as leis da sua jurisdição proíbam a aplicação de algumas ou de todas as provisões desta Seção, apesar da Seção 10 (Lei/Jurisdição Aplicável), tais provisões não se aplicarão a você. ESPECIALMENTE, SE VOCÊ MORAR NA UNIÃO EUROPEIA, A SEÇÃO 11 NÃO SERÁ APLICÁVEL AO SEU CASO.
 
 A maior parte dos problemas dos usuários pode ser resolvida por meio do nosso site de Atendimento ao Cliente Steam em https://support.steampowered.com/. Se a Valve não conseguir resolver seus problemas e o litígio entre você e a Valve permanecer, esta Seção explica como as partes devem resolver a referida disputa.
 
@@ -285,4 +289,4 @@ As obrigações da Valve, e, conforme aplicável, da Valve EU, estão sujeitas �
 
 Você concorda agir de acordo com todas as leis e regulamentos de importação/exportação. Você concorda em não exportar o Conteúdo, os Serviços ou o Hardware nem autorizar o uso de sua Conta por indivíduos de quaisquer países que apoiem atividades terroristas, para os quais as exportações de criptografia são restritas no momento pelo Bureau of Export Administration dos EUA. Você declara e garante que não se encontra em um país proibido, não está sob controle de indivíduos desses países e não é cidadão nem residente em nenhum desses países.
 
-Este Acordo foi atualizado pela última vez em 1 de janeiro de 2016 ("Data de Revisão"). Se você assinou este Acordo antes da Data de Revisão, ele substitui o contrato existente com a Valve ou Valve EU no dia da assinatura. Se você preferir continuar utilizando o Steam e suas Assinaturas existentes na versão do Acordo em vigor antes da Data de Revisão, você poderá fazê-lo.
+Este Acordo foi atualizado pela última vez em 10 de setembro de 2016 ("Data de Revisão"). Se você assinou este Acordo antes da Data de Revisão, ele substitui o contrato existente com a Valve ou Valve EU no dia da assinatura. Se você preferir continuar utilizando o Steam e suas Assinaturas existentes na versão do Acordo em vigor antes da Data de Revisão, você poderá fazê-lo.
