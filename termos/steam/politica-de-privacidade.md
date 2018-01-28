@@ -2,13 +2,13 @@
 empresa: "Steam"
 documento: "Política de Privacidade"
 categoria: "Jogos"
-fonte: "http://store.steampowered.com:80/privacy_agreement?l=brazilian"
-capturado_em: 2016-11-20
-wayback: "https://web.archive.org/web/20161120153416/http://store.steampowered.com:80/privacy_agreement?l=brazilian"
+fonte: "http://store.steampowered.com/privacy_agreement/?l=brazilian"
+capturado_em: 2018-01-28
+wayback: "https://web.archive.org/web/20180128123203/http://store.steampowered.com/privacy_agreement/?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/politica-de-privacidade.md"
 ---
 
-A Valve® Corporation respeita a privacidade de seus visitantes on-line e usuários de seus produtos e serviços em conformidade com o conceito de proteção de privacidade, conforme acordado pelo Departamento de Comércio dos EUA e pela Comissão Europeia. A Valve reconhece a importância de proteger as informações recolhidas dos usuários e adotou esta política de privacidade para informar os usuários sobre o modo como a Valve recolhe, armazena e utiliza as informações decorrentes da sua utilização de produtos, serviços e sites on-line da Valve.
+A Valve® Corporation respeita a privacidade de seus visitantes on-line e usuários de seus produtos e serviços em conformidade com o Conceito de proteção de privacidade (Privacy Shield Frameworks), conforme acordado entre o Departamento de Comércio dos EUA e os órgãos reguladores da Suíça e a União Europeia. A Valve reconhece a importância de proteger as informações recolhidas dos usuários e adotou esta política de privacidade para informar os usuários sobre o modo como a Valve recolhe, armazena e utiliza as informações decorrentes da sua utilização de produtos, serviços e sites on-line da Valve.
 
 A presente política de privacidade é aplicável a partir da sua última data de revisão. Contudo, observe que ela poderá ser alterada periodicamente para refletir alterações e aditamentos à política de privacidade. Verifique novamente a versão mais atual antes de se basear em qualquer provisão presente nesta política de privacidade.
 
@@ -40,9 +40,7 @@ A Valve não coleta propositalmente informações pessoalmente identificáveis d
 
 Os produtos, serviços e sites da Valve podem utilizar cookies e outras tecnologias, como beacons da web e pixel tags. Os cookies são pequenos blocos de informações eletrônicas que podem ser transferidos para o disco rígido de um usuário para personalizar a utilização de um site ou produto, para manter um registro dos acessos do usuário a determinado site ou produto ou para armazenar informações que o usuário necessita regularmente. A utilização de cookies é normalmente associada a sites. Por exemplo, quando você acessa o Steam, a Valve armazena um cookie no seu disco rígido com a sua ID de usuário e uma combinação do seu endereço IP e da hora em que iniciou a sessão. Este cookie permite que você navegue entre diversas páginas e elimina a necessidade de iniciar a sessão em cada página. Do mesmo modo, se você inserir informações durante a sessão, como dados de verificação de idade, elas serão armazenadas em um cookie e não será necessário voltar a inserir essas informações durante a sessão. Também poderemos utilizar ferramentas de análise de sites de terceiros que utilizam cookies para recolher determinadas informações pessoais não identificáveis relativas à utilização dos nossos sites, como sites que o redirecionaram a determinados sites, visualizações de páginas e tipos de browser.
 
-No entanto, os usuários podem desabilitar os cookies alterando as configurações do navegador.
-
-A Valve também armazena uma chave de autorização ou chave de CD única que é inserida pelo usuário ou transferida automaticamente durante o processo de registro. Essa chave de autorização é utilizada para identificar um usuário como válido e permitir o acesso a produtos e serviços da Valve e a jogos de terceiros. Essa chave é necessária para que a Valve forneça quaisquer produtos e serviços assinados pelos usuários.
+No entanto, os usuários podem desabilitar os cookies alterando as configurações do navegador. A Valve também armazena uma chave de autorização ou chave de CD única que é inserida pelo usuário ou transferida automaticamente durante o processo de registro. Essa chave de autorização é utilizada para identificar um usuário como válido e permitir o acesso a produtos e serviços da Valve e a jogos de terceiros. Essa chave é necessária para que a Valve forneça quaisquer produtos e serviços assinados pelos usuários.
 
 As informações relativas às cobranças do Steam, a uma conta de usuário do Steam, à conexão de Internet de um usuário e ao software Valve instalado no computador de determinado usuário são carregadas para o servidor quando relacionadas ao uso que o usuário faz do Steam e de software Valve. O software Valve cria e envia para a Valve relatórios de erros automaticamente, após a ocorrência de falha de sistema ou outras falhas no software ou serviços da Valve ou em jogos do Steam. As informações do relatório de erros criado automaticamente podem incluir informações sobre um outro software ou hardware no sistema do usuário. A Valve não armazena nem associa as informações de relatório de erros gerado automaticamente às informações pessoais identificáveis do usuário. Quaisquer informações de relatório de erro manualmente enviadas por usuários (por exemplo, através do formulário de Relatório de erros da Valve) são associadas e armazenadas com informações identificáveis pessoais enviadas voluntariamente pelo usuário através de um relatório de erros.
 
@@ -66,16 +64,16 @@ Se a exatidão das informações pessoais identificáveis mantidas pela Valve o 
 
 Caso tenha alguma dúvida ou reclamação sobre essa política de privacidade, ou sobre as práticas de privacidade da Valve, entre em contato conosco aqui. Você também pode entrar em contato com a Valve Corp. no endereço abaixo.
 
-Valve Corporation P.O. Box 1688 Bellevue, WA 98004
+Valve Corporation P.O. Box 1688 Bellevue, WA 98009
 
 **Proteção de Privacidade**
 
-A Valve age em conformidade com o conceito de proteção de privacidade da UE e EUA, conforme estabelecido Departamento de Comércio dos Estados Unidos em relação a coleta, uso e retenção de informações pessoais transferidas da União Europeia para os Estados Unidos. A Valve garante ao Departamento de Comércio que adere aos Princípios de Proteção de Privacidade. Se houver algum conflito entre os termos desta política de privacidade e os Princípios de Proteção de Privacidade, os Princípios de Proteção de Privacidade deverão prevalecer. Para saber mais sobre o programa de Proteção de Privacidade e visualizar nossa certificação, visite http://www.privacyshield.gov.
+A Valve age em conformidade com o Conceito de proteção de privacidade da UE e EUA e com o Conceito de proteção de privacidade da Suíça e EUA, conforme estabelecido pelo Departamento de Comércio dos Estados Unidos em relação à coleta, uso e retenção de informações pessoais transferidas da União Europeia e Suíça para os Estados Unidos. A Valve garante ao Departamento de Comércio que adere aos Princípios de Proteção de Privacidade. Se houver algum conflito entre os termos desta política de privacidade e os Princípios de Proteção de Privacidade, os Princípios de Proteção de Privacidade deverão prevalecer. Para saber mais sobre o programa de Proteção de Privacidade e visualizar nossa certificação, acesse http://www.privacyshield.gov.
 
-Em conformidade com os Princípios de Proteção de Privacidade, a Valve compromete-se a resolver as reclamações sobre nossa coleta ou uso de suas informações pessoais. Os indivíduos da União Europeia com consultas ou reclamações sobre nossa política de Proteção de Privacidade devem entrar em contato com a Valve **aqui**. Se você tiver problemas de privacidade ou uso de dados que não foram resolvidos de maneira satisfatória, entre em contato com nosso provedor terceirizado de resoluções de disputa em nossa sede nos Estados Unidos (gratuitamente) em https://feedback-form.truste.com/watchdog/request. Conforme explicado na documentação de Proteção de Privacidade (https://www.privacyshield.gov/article?id=ANNEX-I-introduction) certas reivindicações residuais, não resolvidas por outros meios, podem estar sujeitas à arbitragem. Nesse caso, uma opção de arbitragem será disponibilizada para você.
+Em conformidade com os Princípios de Proteção de Privacidade, a Valve compromete-se a resolver as reclamações sobre nossa coleta ou uso de suas informações pessoais. Os indivíduos da UE e Suíça com consultas ou reclamações sobre nossa política de Proteção de Privacidade devem entrar em contato com a Valve **aqui**. Se você tiver problemas de privacidade ou uso de dados que não foram resolvidos de maneira satisfatória, entre em contato com nosso provedor terceirizado de resoluções de disputa em nossa sede nos Estados Unidos (gratuitamente) em https://feedback-form.truste.com/watchdog/request. Conforme explicado na documentação de Proteção de Privacidade (https://www.privacyshield.gov/article?id=ANNEX-I-introduction) certas reivindicações residuais, não resolvidas por outros meios, podem estar sujeitas à arbitragem. Nesse caso, uma opção de arbitragem será disponibilizada para você.
 
 Os princípios de Proteção de Privacidade descrevem a responsabilidade da Valve em relação aos dados pessoais que ela possa, subsequentemente, transferir para terceiros. De acordo com esses princípios, a Valve permanecerá responsável caso terceiros processem as informações pessoais de forma diferente da mencionada nos Princípios, a menos que a Valve prove que não é responsável pelo ocorrido que causou o dano.
 
 A Federal Trade Commission tem jurisdição sobre a conformidade da Valve com a Proteção de Privacidade.
 
-*Data da revisão: 16 de novembro de 2016*
+*Data da revisão: 23 de janeiro de 2018*
