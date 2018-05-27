@@ -3,8 +3,8 @@ empresa: "Caixa"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
-capturado_em: 2016-10-10
-wayback: "https://web.archive.org/web/20161010025309/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
+capturado_em: 2018-05-27
+wayback: "https://web.archive.org/web/20180527003448/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md"
 ---
 
@@ -52,7 +52,7 @@ Algumas partes ou páginas deste site ou dos serviços da Caixa podem conter lin
 
 Este termo de uso e todas informações e documentos fornecidos pela Caixa que tratam de privacidade referem-se exclusivamente ao site e aos serviços do banco. A Caixa não se responsabiliza pelos termos e condições de uso de qualquer outro site que esteja relacionado ao banco por meio de links ou de outras formas de divulgação e acesso.
 
-Portanto, em caso de "conflito" com estes termos, valerão os termos de uso dos parceiros ou terceiros.
+Portanto, em caso de conflito com estes termos, valerão os termos de uso dos parceiros ou terceiros.
 
 #### Limite de responsabilidade
 
