@@ -25,7 +25,8 @@ Todas as informações constantes do site e serviços por ele relacionados, como
 
 #### Proteção à Privacidade
 
-A Caixa possui um documento que explica de forma detalhada como o banco utiliza os dados pessoais, outras informações que você nos fornece e ainda como faz para garantir e proteger a sua privacidade quando você utiliza os nossos serviços. Este documento se chama Política de Privacidade e pode ser consultado a qualquer momento.
+A Caixa possui um documento que explica de forma detalhada como o banco utiliza os dados pessoais, outras informações que você nos fornece e ainda como faz para garantir e proteger a sua privacidade quando você utiliza os nossos serviços. Este documento se chama
+Política de Privacidade e pode ser consultado a qualquer momento.
 
 #### Internet banking
 
@@ -41,7 +42,8 @@ No entanto, a Caixa pode utilizar *cookies, que* são pequenos arquivos que serv
 A qualquer momento você pode usar recursos do seu navegador para bloquear a instalação destes arquivos ou para ser informado sobre quando os
 *cookies* estão ativados. Mas tenha em mente que isso pode ocasionar a limitação no uso dos serviços.
 
-Para saber mais detalhes sobre cookies, sobre como bloqueá-los ou ainda como a Caixa utiliza suas informações, acesse nossa Política de Privacidade.
+Para saber mais detalhes sobre cookies, sobre como bloqueá-los ou ainda como a Caixa utiliza suas informações, acesse nossa
+Política de Privacidade.
 
 #### Termos de uso de outros parceiros e terceiros
 
@@ -49,7 +51,7 @@ Algumas partes ou páginas deste site ou dos serviços da Caixa podem conter lin
 
 Este termo de uso e todas informações e documentos fornecidos pela Caixa que tratam de privacidade referem-se exclusivamente ao site e aos serviços do banco. A Caixa não se responsabiliza pelos termos e condições de uso de qualquer outro site que esteja relacionado ao banco por meio de links ou de outras formas de divulgação e acesso.
 
-Portanto, em caso de "conflito" com estes termos, valerão os termos de uso dos parceiros ou terceiros.
+Portanto, em caso de conflito com estes termos, valerão os termos de uso dos parceiros ou terceiros.
 
 #### Limite de responsabilidade
 
