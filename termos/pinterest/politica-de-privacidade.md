@@ -3,8 +3,8 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2018-05-12
-wayback: "https://web.archive.org/web/20180512202253/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2018-06-13
+wayback: "https://web.archive.org/web/20180613235312/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
 
@@ -43,7 +43,7 @@ O que fazemos com as informações que coletamos:
 
  - Identificá-lo quando você usar o Pinterest e processar suas transações.
  - Recomendar Pins, pastas, interesses ou categorias de que você pode gostar com base em sua atividade no Pinterest. Por exemplo, se virmos que você gosta de cozinhar, podemos lhe mostrar anúncios ou sugerir Pins, pastas ou pessoas relacionados com comida que achamos que podem lhe interessar.
- - Responder a suas dúvidas e comentários.
+ - Responder às suas dúvidas ou comentários.
 
  Além disso, e por motivos semelhantes, temos um interesse legítimo em usar suas informações dessas maneiras. Elas são fundamentais para a natureza do Serviço que prestamos. Em suma, é necessário que façamos essas coisas para tornar o Serviço relevante, interessante e pessoal para você como prometemos, e é do interesse de ambos que façamos isso.
 
@@ -80,9 +80,15 @@ O que fazemos com as informações que coletamos:
 
 Como transferir suas informações:
 
-- O Pinterest é um serviço mundial. Ao usar o Pinterest, você nos autoriza a transferir e armazenar suas informações fora do seu país de origem, inclusive nos Estados Unidos, para os fins descritos nesta política. As proteções à privacidade e os direitos das autoridades de acessar suas informações nesses países poderão não ser iguais àqueles aplicados em seu país de origem.
+- O Pinterest é um serviço mundial. Ao usar nossos produtos e serviços, você nos autoriza a transferir e armazenar suas informações fora do seu país de origem, inclusive nos Estados Unidos, para os fins descritos nesta política. As proteções à privacidade e os direitos das autoridades de acessar suas informações pessoais nesses países poderão não ser equivalentes àqueles aplicados em seu país de origem.
 
- Tomamos medidas adicionais quando as informações são transferidas do Espaço Econômico Europeu (EEE). Isso inclui cláusulas padrão aprovadas pela Comissão Europeia em nossos contratos com partes que recebem informações fora do EEE. Também dependemos das decisões de adequação da Comissão Europeia sobre determinados países, conforme aplicável, para transferências de dados para países fora do EEE.
+ Para todas as transferências de suas informações do EEE para os EUA, o Pinterest é certificado sob o Privacy Shield e segue seus princípios. Saiba mais sobre o Privacy Shield e os princípios.
+
+ Onde compartilhamos informações que recebemos sob o Privacy Shield com terceiros, somos responsáveis por garantir que esses terceiros também estejam em conformidade com o Privacy Shield, a menos que possamos provar que não somos responsáveis pelo evento prejudicial.
+
+ Se você é um usuário no EEE e tem alguma dúvida ou reclamação sobre o Pinterest e o Privacy Shield, entre em contato conosco. Se não formos capazes de resolver o problema, o Pinterest cooperará com o Serviço de Arbitragem e Mediação da JAMS. Eles prestam um serviço independente de resolução de disputa para reclamações do Privacy Shield nos EUA. Em determinadas circunstâncias, e se o processo de resolução de disputa ainda não resolver o problema, os usuários do EEE podem buscar um processo arbitral. O Pinterest também está sujeito aos poderes de investigação e fiscalização da Federal Trade Commission.
+
+ Nos casos em que transferirmos informações do EEE para um país que não ofereça um nível adequado de proteção, só o faremos em conformidade com as salvaguardas apropriadas para proteger suas informações, como cláusulas contratuais padrão ou a certificação Privacy Shield.
 
 Escolhas que você tem sobre suas informações:
 
@@ -111,7 +117,7 @@ Como e quando compartilhamos informações:
 - Qualquer pessoa pode ver as pastas públicas e Pins que você criou, bem como as informações do perfil que você nos forneceu. Também tornamos essas informações públicas disponíveis por meio do que chamamos de APIs (basicamente, uma maneira técnica de compartilhar informações rapidamente). Por exemplo, um parceiro pode estudar quais são seus Pins mais populares ou como seus Pins estão sendo compartilhados no Pinterest usando uma API do Pinterest. Algumas das maneiras como usamos suas informações requerem que compartilhemos informações com terceiros. Para podermos proporcionar sua experiência do Pinterest, verifique se nossa personalização é eficaz e cumpre as leis que se aplicam a nós. Nós compartilhamos suas informações com:
 
  - Outros serviços (como Facebook ou Google) quando você decide vincular sua conta do Pinterest a esses serviços ou publicar neles suas atividades do Pinterest. Você pode, por exemplo, escolher publicar seus Pins no Facebook ou no Twitter.
- - Vendedores de quem você compra no Pinterest Quando você compra algo no Pinterest utilizando seu cartão de pagamento, compartilhamos as informações necessárias para você fazer sua compra, como as informações do seu cartão de pagamento, informações de contato e outras informações sobre a transação com o vendedor de quem você está comprando. Por exemplo, se você compra algo no Pinterest usando o Apple Pay, o número do seu cartão não é compartilhado com o vendedor, mas nós ainda compartilhamos informações de contato e da transação. Compartilhamos essas informações porque são necessárias para fazer a compra. Os vendedores tratam essas informações da mesma forma como se tivessem efetuado uma compra diretamente nos sites deles; ou seja, as políticas de privacidade e marketing deles aplicam-se às informações que compartilhamos com eles. Para obter mais informações sobre o que compartilhamos com vendedores, consulte nossa Central de Ajuda.
+ - Vendedores de quem você compra no Pinterest. Quando você compra algo no Pinterest utilizando seu cartão de pagamento, compartilhamos as informações necessárias para você fazer sua compra, como as informações do seu cartão de pagamento, informações de contato e outras informações sobre a transação com o vendedor de quem você está comprando. Por exemplo, se você compra algo no Pinterest usando o Apple Pay, o número do seu cartão não é compartilhado com o vendedor, mas nós ainda compartilhamos informações de contato e da transação. Compartilhamos essas informações porque são necessárias para fazer a compra. Os vendedores tratam essas informações da mesma forma como se tivessem efetuado uma compra diretamente nos sites deles; ou seja, as políticas de privacidade e marketing deles aplicam-se às informações que compartilhamos com eles. Para obter mais informações sobre o que compartilhamos com vendedores, consulte nossa Central de Ajuda.
  - Anunciantes online e empresas de terceiros que nós ou eles usam para auditar ou melhorar a veiculação e o desempenho de anúncios ou o conteúdo em sites e aplicativos (por exemplo, por meio do Google Analytics). Isso inclui quais Pins ou anúncios foram exibidos para você no Pinterest e se ou como você interagiu com esses Pins ou anúncios, ou outras informações sobre sua atividade no Pinterest. Saiba mais sobre como compartilhamos informações com anunciantes online. Para saber mais sobre empresas de terceiros que analisam o desempenho de anúncios, consulte nossa Central de Ajuda.
  - Empresas de terceiros ou indivíduos que empregamos para processar informações em nosso nome, com base em nossas instruções e em conformidade com esta Política de Privacidade. Por exemplo, compartilhamos informações do cartão de pagamento com as empresas de pagamento que usamos para armazenar suas informações de pagamento. Também compartilhamos dados com consultores de segurança para nos ajudar a melhor identificar spam. Algumas informações que adquirimos podem ser coletadas por provedores terceiros em nosso nome.
  - Agências de aplicação da lei ou órgãos do governo. Nós compartilhamos informações apenas se acreditamos que a divulgação dos dados é razoavelmente necessária para cumprir uma lei, regulamento ou solicitação legal; para proteger a segurança, os direitos ou a propriedade do público, de qualquer pessoa ou do Pinterest; ou para detectar, impedir ou lidar com fraude, problemas de segurança ou técnicos.
@@ -139,18 +145,6 @@ Como fazemos alterações nessa políticas:
 
 - Podemos alterar esta política de tempos em tempos e, se o fizermos, publicaremos as alterações nesta página. Se continuar a usar o Pinterest depois que essas alterações entrarem em vigor, você estará concordando com a nova política. Caso as mudanças sejam significativas, poderemos fornecer um aviso mais destacado ou obter sua permissão, conforme exigido por lei.
 
-Como transferir suas informações:
-
-- O Pinterest é um serviço mundial. Ao usar nossos produtos e serviços, você nos autoriza a transferir e armazenar suas informações fora do seu país de origem, inclusive nos Estados Unidos, para os fins descritos nesta política. As proteções à privacidade e os direitos das autoridades de acessar suas informações pessoais nesses países poderão não ser equivalentes àqueles aplicados em seu país de origem.
-
- Para todas as transferências de suas informações do EEE para os EUA, o Pinterest é certificado sob o Privacy Shield e segue seus princípios. Saiba mais sobre o Privacy Shield e os princípios.
-
- Onde compartilhamos informações que recebemos sob o Privacy Shield com terceiros, somos responsáveis por garantir que esses terceiros também estejam em conformidade com o Privacy Shield, a menos que possamos provar que não somos responsáveis pelo evento prejudicial.
-
- Se você é um usuário no EEE e tem alguma dúvida ou reclamação sobre o Pinterest e o Privacy Shield, entre em contato conosco. Se não formos capazes de resolver o problema, o Pinterest cooperará com o Serviço de Arbitragem e Mediação da JAMS. Eles prestam um serviço independente de resolução de disputa para reclamações do Privacy Shield nos EUA. Em determinadas circunstâncias, e se o processo de resolução de disputa ainda não resolver o problema, os usuários do EEE podem buscar um processo arbitral. O Pinterest também está sujeito aos poderes de investigação e fiscalização da Federal Trade Commission.
-
- Nos casos em que transferirmos informações do EEE para um país que não ofereça um nível adequado de proteção, só o faremos em conformidade com as salvaguardas apropriadas para proteger suas informações, como cláusulas contratuais padrão ou a certificação Privacy Shield.
-
 Fale conosco:
 
 - A melhor maneira de nos contatar é por meio da Central de Ajuda. Se você reside nos Estados Unidos, o Pinterest, Inc. é responsável pelas suas informações. Você pode entrar em contato com o Pinterest Inc, localizado em 651 Brannan Street, São Francisco, CA 94103.
@@ -159,4 +153,4 @@ Fale conosco:
 
  Você também pode entrar em contato com o nosso responsável pela proteção dos dados.
 
- Em vigor a partir de 1º de maio de 2018
+ Em vigor a partir de 1º de maio de 2018 Última atualização em 24 de maio de 2018
