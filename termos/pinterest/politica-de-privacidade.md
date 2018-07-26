@@ -3,8 +3,8 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2018-06-13
-wayback: "https://web.archive.org/web/20180613235312/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2018-07-26
+wayback: "https://web.archive.org/web/20180726060903/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
 
@@ -86,7 +86,7 @@ Como transferir suas informações:
 
  Onde compartilhamos informações que recebemos sob o Privacy Shield com terceiros, somos responsáveis por garantir que esses terceiros também estejam em conformidade com o Privacy Shield, a menos que possamos provar que não somos responsáveis pelo evento prejudicial.
 
- Se você é um usuário no EEE e tem alguma dúvida ou reclamação sobre o Pinterest e o Privacy Shield, entre em contato conosco. Se não formos capazes de resolver o problema, o Pinterest cooperará com o Serviço de Arbitragem e Mediação da JAMS. Eles prestam um serviço independente de resolução de disputa para reclamações do Privacy Shield nos EUA. Em determinadas circunstâncias, e se o processo de resolução de disputa ainda não resolver o problema, os usuários do EEE podem buscar um processo arbitral. O Pinterest também está sujeito aos poderes de investigação e fiscalização da Federal Trade Commission.
+ Em conformidade com os Princípios do Escudo de Proteção da Privacidade, o Pinterest se compromete a resolver reclamações sobre a coleta ou uso de suas informações pessoais. Indivíduos do EEE com dúvidas ou reclamações sobre a nossa política do Escudo de Proteção da Privacidade devem primeiro entrar em contato conosco. O Pinterest compromete-se ainda a encaminhar reclamações não resolvidas do Escudo de Proteção da Privacidade para o JAMS Arbitration and Mediation Services, um fornecedor alternativo de resolução de disputas localizado nos Estados Unidos. Se você não receber uma confirmação de sua reclamação em tempo hábil ou se não tivermos resolvido sua reclamação a contento, entre em contato com o JAMS ou clique aqui para obter mais informações ou para registrar uma reclamação. Os serviços do JAMS são oferecidos sem nenhum custo para você. Em determinadas circunstâncias e se o processo de resolução de disputa ainda não resolver o problema, os indivíduos do EEE poderão buscar uma arbitragem vinculante por meio do processo descrito aqui. O Pinterest também está sujeito aos poderes de investigação e fiscalização da Federal Trade Commission.
 
  Nos casos em que transferirmos informações do EEE para um país que não ofereça um nível adequado de proteção, só o faremos em conformidade com as salvaguardas apropriadas para proteger suas informações, como cláusulas contratuais padrão ou a certificação Privacy Shield.
 
@@ -153,4 +153,4 @@ Fale conosco:
 
  Você também pode entrar em contato com o nosso responsável pela proteção dos dados.
 
- Em vigor a partir de 1º de maio de 2018 Última atualização em 24 de maio de 2018
+ Em vigor a partir de 1º de maio de 2018 Última atualização em 29 de junho de 2018
