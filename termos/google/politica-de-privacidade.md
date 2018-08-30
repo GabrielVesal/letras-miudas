@@ -343,44 +343,6 @@ Temos servidores em todo o mundo e suas informações podem ser processadas em s
 
 Quando recebemos reclamações formais por escrito, respondemos entrando em contato com o requerente. Trabalhamos com as autoridades reguladoras apropriadas, inclusive autoridades locais de proteção de dados, para resolver quaisquer reclamações referentes à transferência de dados que não possamos resolver diretamente com você.
 
-## Requisitos europeus
-
-Se a legislação de proteção de dados da União Europeia (UE) se aplicar ao processamento das suas informações, forneceremos os controles descritos nesta política para que você possa exercer seu direito de solicitar acesso, atualizar, remover e restringir o processamento das informações. Você também tem o direito de se opor ao processamento das suas informações ou à exportação delas para outro serviço.
-
-Processamos suas informações para os fins descritos nesta política, com base nos fundamentos legais descritos abaixo.
-
-### Com sua autorização
-
-Pedimos sua autorização para processar suas informações para fins específicos, e você tem o direito de revogar o consentimento a qualquer momento. Por exemplo, pedimos seu consentimento para fornecer serviços personalizados, como anúncios. Também pedimos consentimento para coletar sua atividade de voz e áudio para reconhecimento de fala. Você pode gerenciar essas configurações na sua Conta do Google.
-
-### Quando atendemos a interesses legítimos
-
-Processamos suas informações e as de terceiros para nossos interesses legítimos, ao mesmo tempo em que aplicamos salvaguardas apropriadas que protegem sua privacidade. Isso significa que processamos suas informações para:
-
-- fornecer, manter e melhorar nossos serviços para atender às necessidades dos nossos usuários;
-- desenvolver novos produtos e recursos que sejam úteis para nossos usuários;
-- entender como as pessoas usam nossos serviços para garantir e melhorar o desempenho desses serviços;
-- personalizar nossos serviços para proporcionar uma melhor experiência do usuário;
-- marketing para informar os usuários sobre nossos serviços;
-- fornecer publicidade para disponibilizar muitos dos nossos serviços gratuitamente para os usuários;
-- detectar, impedir ou lidar de outra forma com fraudes, abusos, problemas técnicos ou de segurança com nossos serviços;
-- proteger contra prejuízo aos direitos, à propriedade ou à segurança do Google, dos nossos usuários ou do público, conforme solicitado ou permitido por lei;
-- realizar pesquisas que melhorem nossos serviços para nossos usuários e beneficiem o público;
-- cumprir obrigações com nossos parceiros, como desenvolvedores e detentores de direitos;
-- cumprir ações judiciais, incluindo a investigação de possíveis violações dos Termos de Serviço aplicáveis.
-
-### Quando fornecemos um serviço
-
-Processamos seus dados para fornecer um serviço solicitado por você por meio de um contrato. Por exemplo, processamos suas informações de pagamento quando você compra armazenamento adicional no Google Drive.
-
-### Quando cumprimos obrigações legais
-
-Processaremos seus dados quando tivermos uma obrigação legal de fazer isso, como, por exemplo, se estivermos respondendo a uma ordem judicial ou solicitação governamental aplicável.
-
----
-
-Se você tiver dúvidas, entre em contato com o Google e com nosso escritório de proteção de dados. Você também pode entrar em contato com a autoridade local de proteção de dados se tiver dúvidas sobre seus direitos de acordo com a legislação local.
-
 # Sobre esta política
 
 ## Quando esta política se aplica
