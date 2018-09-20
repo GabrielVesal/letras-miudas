@@ -3,8 +3,8 @@ empresa: "Apple"
 documento: "Termos de Uso"
 categoria: "Tecnologia"
 fonte: "https://www.apple.com/br/legal/internet-services/itunes/br/terms.html"
-capturado_em: 2018-07-26
-wayback: "https://web.archive.org/web/20180726210107/https://www.apple.com/br/legal/internet-services/itunes/br/terms.html"
+capturado_em: 2018-09-20
+wayback: "https://web.archive.org/web/20180920181357/https://www.apple.com/br/legal/internet-services/itunes/br/terms.html"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/termos-de-uso.md"
 ---
 
@@ -12,13 +12,13 @@ Estes termos e condições criam um contrato entre você e a Apple (o “Contrat
 
 A. INTRODUÇÃO AOS NOSSOS SERVIÇOS
 
-Este Contrato rege a sua utilização dos serviços da Apple (“Serviços”), através dos quais você pode comprar, obter, licenciar, alugar ou assinar mídia, aplicativos (“Apps”) e outros serviços dentro do aplicativo (“Conteúdo”). Os nossos Serviços são: iTunes Store, App Store, iBooks Store, Apple Music e Apple News. Nossos Serviços estão disponíveis para utilização no seu país de residência (“País de Residência”). Para utilizar os nossos Serviços, você necessita de hardware compatível, software (última versão recomendada e por vezes exigida) e acesso à Internet (poderão ser aplicadas tarifas). O desempenho dos nossos Serviços poderá ser afetado por estes fatores.
+Este Contrato rege a sua utilização dos serviços da Apple (“Serviços”), através dos quais você pode comprar, obter, licenciar, alugar ou assinar mídia, aplicativos (“Apps”) e outros serviços dentro do aplicativo (“Conteúdo”). Os nossos Serviços são: iTunes Store, App Store, Apple Books, Apple Music e Apple News. Nossos Serviços estão disponíveis para utilização no seu país de residência (“País de Residência”). Para utilizar os nossos Serviços, você necessita de hardware compatível, software (última versão recomendada e por vezes exigida) e acesso à Internet (poderão ser aplicadas tarifas). O desempenho dos nossos Serviços poderá ser afetado por estes fatores.
 
 B. UTILIZANDO NOSSOS SERVIÇOS
 
 PAGAMENTOS, IMPOSTOS E REEMBOLSOS
 
-Você poderá adquirir Conteúdo nos nossos Serviços gratuitamente ou por um valor, sendo cada um referido como uma “Transação”. Cada Transação constitui um contrato eletrônico entre você e a Apple, e/ou entre você e a entidade fornecendo o Conteúdo nos nossos Serviços. Contudo, caso você seja um cliente da Apple Distribution International e você adquira um App ou um livro, a Apple Distribution International é o comerciante registado; isto significa que você adquire o Conteúdo da Apple Distribution International, e que é licenciado pelo Fornecedor de App (conforme abaixo definido) ou pela editora do livro. Quando você efetua a sua primeira Transação, nós solicitaremos que escolha com que frequência devemos solicitar a sua senha para futuras Transações. Caso ative o Touch ID para Transações, solicitaremos que autentique todas as Transações com a sua impressão digital. Gerencie suas configurações de senha a qualquer momento seguindo estas instruções: https://support.apple.com/pt-br/HT204030 . A Apple cobrará, por meio de uma empresa afiliada designada para atividades de serviços de cobrança e remessa de valores, o seu método de pagamento (tal como o seu cartão de crédito ou outro método disponível no seu País de Residência) para quaisquer Transações pagas. Você deve fornecer as informações requeridas pela Apple nos ajustes da sua conta para viabilizar tais Transações. Caso você pré-encomende Conteúdo, você será cobrado quando o Conteúdo lhe for entregue (exceto se você cancelar antes da disponibilização do Conteúdo). De acordo com a legislação local, a Apple pode atualizar informações relativas ao seu método de pagamento, caso tais informações sejam fornecidas por sua instituição financeira. Para detalhes sobre como as Transações são faturadas, por favor, visite http://support.apple.com/pt-br/HT201359. Todas as Transações são finais (direito de arrependimento não é aplicável) e você é responsável pelo pagamento pontual dos valores e de quaisquer tributos aplicáveis a você, exceto se for aplicável à Transação o recolhimento de imposto de renda retido na fonte sobre remessa de valores ao exterior, o qual será recolhido pela empresa afiliada da Apple designada para atividades de serviços de cobrança e remessa. Os preços do Conteúdo poderão ser alterados a qualquer momento. Caso problemas técnicos impeçam ou atrasem injustificadamente a entrega de Conteúdo, o seu exclusivo e único recurso será a substituição do Conteúdo ou o reembolso do valor pago, conforme determinado pela Apple. De tempos em tempos, a Apple poderá recusar um pedido de reembolso, caso encontremos uma prova de fraude, abuso de reembolso, ou outro comportamento manipulativo que dê direito à Apple a uma correspondente reconvenção. Os termos relacionados aos cartões-presente/ códigos de conteúdo estão disponíveis aqui: https://www.apple.com/legal/internet-services/itunes/giftcards/.
+Você poderá adquirir Conteúdo nos nossos Serviços gratuitamente ou por um valor, sendo cada um referido como uma “Transação”. Cada Transação constitui um contrato eletrônico entre você e a Apple, e/ou entre você e a entidade fornecendo o Conteúdo nos nossos Serviços. Contudo, caso você seja um cliente da Apple Distribution International e você adquira um App ou um livro, a Apple Distribution International é o comerciante registado; isto significa que você adquire o Conteúdo da Apple Distribution International, e que é licenciado pelo Fornecedor de App (conforme abaixo definido) ou pela editora do livro. Quando você efetua a sua primeira Transação, nós solicitaremos que escolha com que frequência devemos solicitar a sua senha para futuras Transações. Caso ative o Touch ID para Transações, solicitaremos que autentique todas as Transações com a sua impressão digital e se você ativar o Face ID para Transações, solicitaremos que autentique todas as Transações usando o reconhecimento facial . Gerencie suas configurações de senha a qualquer momento seguindo estas instruções: https://support.apple.com/pt-br/HT204030. A Apple cobrará, por meio de uma empresa afiliada designada para atividades de serviços de cobrança e remessa de valores, o seu método de pagamento (tal como o seu cartão de crédito ou outro método disponível no seu País de Residência) para quaisquer Transações pagas. Você deve fornecer as informações requeridas pela Apple nos ajustes da sua conta para viabilizar tais Transações. Caso não seja possível emitir a cobrança para seu método de pagamento por qualquer motivo (por exemplo, cartão expirado ou fundos insuficientes), você permanece responsável por quaisquer quantias não coletadas e tentaremos emitir a cobrança para seu método de pagamento assim que você atualizar suas informações. Caso você pré-encomende Conteúdo, você será cobrado quando o Conteúdo lhe for entregue (exceto se você cancelar antes da disponibilização do Conteúdo). De acordo com a legislação local, a Apple pode atualizar informações relativas ao seu método de pagamento, caso tais informações sejam fornecidas por sua instituição financeira. Para detalhes sobre como as Transações são faturadas, por favor, visite http://support.apple.com/pt-br/HT201359. Todas as Transações são finais (direito de arrependimento não é aplicável) e você é responsável pelo pagamento pontual dos valores e de quaisquer tributos aplicáveis a você, exceto se for aplicável à Transação o recolhimento de imposto de renda retido na fonte sobre remessa de valores ao exterior, o qual será recolhido pela empresa afiliada da Apple designada para atividades de serviços de cobrança e remessa. Os preços do Conteúdo poderão ser alterados a qualquer momento. Caso problemas técnicos impeçam ou atrasem injustificadamente a entrega de Conteúdo, o seu exclusivo e único recurso será a substituição do Conteúdo ou o reembolso do valor pago, conforme determinado pela Apple. De tempos em tempos, a Apple poderá recusar um pedido de reembolso, caso encontremos uma prova de fraude, abuso de reembolso, ou outro comportamento manipulativo que dê direito à Apple a uma correspondente reconvenção. Os termos relacionados ao crédito da loja e cartões-presente/códigos de conteúdo estão disponíveis aqui: https://www.apple.com/legal/internet-services/itunes/giftcards/.
 
 APPLE ID
 
@@ -54,7 +54,7 @@ Conteúdo da iTunes Store:
 
 - Você poderá utilizar Conteúdo sem Gestão de Direitos Digitais (Digital Rights Management - DRM) em um número razoável de dispositivos compatíveis que você detenha ou controle. Conteúdo protegido por DRM poderá ser utilizado em até cinco computadores e em qualquer número de dispositivos que você sincronize a partir de tais computadores.
 
-- Conteúdo alugado poderá ser visualizado em um único dispositivo de cada vez, e deve ser reproduzido no prazo de 30 dias, e completado no prazo de 24 a 48 horas a contar do início da reprodução dependendo do Conteúdo oferecido nos Serviços no seu País de Residência (parar, pausar ou recomeçar não prolonga este período).
+- Conteúdo alugado poderá ser visualizado em um único dispositivo de cada vez, e deve ser reproduzido no prazo de 30 dias, e completado no prazo de 48 horas a contar do início da reprodução (parar, pausar ou recomeçar não prolonga este período).
 
 - Você poderá gravar uma lista de reprodução de áudio em um CD para fins de ouvi-la, até sete vezes (esta limitação não é aplicável a Conteúdo sem DRM).
 
@@ -66,11 +66,11 @@ Conteúdo da App Store:
 
 - Os indivíduos atuando em nome de uma empresa comercial, organização governamental ou instituição de ensino (“Empresa”) poderão fazer o download e sincronizar os Apps para utilização por (i) um único indivíduo em um ou mais dispositivos detidos ou controlados por uma Empresa; ou (ii) múltiplos indivíduos em um único dispositivo compartilhado detido ou controlado por uma Empresa. Para fins de esclarecimento, cada dispositivo utilizado em série ou coletivamente por múltiplos usuários requer uma licença separada.
 
-Conteúdo da iBooks Store:
+Conteúdo da Apple Books:
 
 - Você poderá utilizar Conteúdo sem DRM em qualquer dispositivo compatível que você detenha ou controle. Conteúdo protegido por DRM poderá ser utilizado em até cinco computadores e em qualquer número de dispositivos que você sincronize a partir desses computadores.
 
-- Você não poderá gravar Conteúdo da iBooks Store em um disco.
+- Você não poderá gravar Conteúdo da Apple Books em um disco.
 
 Apple Music:
 
@@ -98,7 +98,7 @@ Caso você utilize os nossos Serviços em um dispositivo que não seja da marca 
 
 C. ENVIOS PARA OS NOSSOS SERVIÇOS
 
-Os nossos Serviços poderão permitir que você envie materiais tais como comentários, fotografias, vídeos e podcasts (incluindo metadados e arte gráfica associados). A sua utilização de tais recursos deverá cumprir com as Orientações de Envios abaixo, as quais poderão ser atualizadas de tempos em tempos. Caso você veja materiais que não cumpram com as Orientações de Envios, por favor, utilize o recurso de Comunicar um Problema. Você concede à Apple, por meio deste instrumento, uma licença mundial, gratuita, perpétua, não-exclusiva para utilizar os materiais que você enviar dentro dos Serviços e marketing relacionado. A Apple poderá monitorar e decidir remover ou editar qualquer material enviado.
+Os nossos Serviços poderão permitir que você envie materiais tais como comentários, fotografias, vídeos e podcasts (incluindo metadados e arte gráfica associados). A sua utilização de tais recursos deverá cumprir com as Orientações de Envios abaixo, as quais poderão ser atualizadas de tempos em tempos. Caso você veja materiais que não cumpram com as Orientações de Envios, por favor, utilize o recurso de Comunicar um Problema. Você concede à Apple, por meio deste instrumento, uma licença mundial, gratuita, perpétua, não-exclusiva para utilizar os materiais que você enviar dentro dos Serviços e marketing relacionado e para fins internos da Apple. A Apple poderá monitorar e decidir remover ou editar qualquer material enviado.
 
 Orientações de Envio: Você não poderá utilizar os Serviços para:
 
@@ -148,11 +148,15 @@ Licenças de Apps são fornecidas a você pela Apple ou por um terceiro desenvol
 
 COMPRAS DENTRO DO APP
 
-Apps poderão oferecer conteúdo, serviços ou funcionalidade para utilização dentro de tais Apps (“Compras Dentro do App), e este é um contrato entre Você e o respectivo Fornecedor de App. As Compras Dentro do App que são consumidas durante a utilização do App (por exemplo, joias virtuais) não podem ser transferidas entre dispositivos e podem ser baixadas apenas uma vez. Você deve autenticar a sua conta antes de efetuar Compras Dentro do App – separadamente de qualquer autenticação para obter outro Conteúdo – ao introduzir sua senha ou utilizar o Touch ID. Você será capaz de efetuar Compras Dentro do App adicionais por quinze minutos sem se autenticar novamente, exceto se você tiver solicitado que nos exijamos uma senha para todas as compras ou se tiver ativado o Touch ID. Você poderá desativar a capacidade de efetuar Compras Dentro do App seguindo estas instruções: https://support.apple.com/pt-br/HT201304.
+Apps poderão oferecer conteúdo, serviços ou funcionalidade para utilização dentro de tais Apps (“Compras Dentro do App), e este é um contrato entre Você e o respectivo Fornecedor de App. As Compras Dentro do App que são consumidas durante a utilização do App (por exemplo, joias virtuais) não podem ser transferidas entre dispositivos e podem ser baixadas apenas uma vez. Você deve autenticar a sua conta antes de efetuar Compras Dentro do App – separadamente de qualquer autenticação para obter outro Conteúdo – ao introduzir sua senha ou utilizar o Touch ID ou Face ID. Você será capaz de efetuar Compras Dentro do App adicionais por quinze minutos sem se autenticar novamente, exceto se você tiver solicitado que nos exijamos uma senha para todas as compras ou se tiver ativado o Touch ID ou Face ID. Você poderá desativar a capacidade de efetuar Compras Dentro do App seguindo estas instruções: https://support.apple.com/pt-br/HT201304.
 
 MANUTENÇÃO E SUPORTE DE APP
 
 A Apple é responsável por fornecer manutenção e suporte apenas para Apps Apple, ou conforme exigível pela lei aplicável. Os Fornecedores de App são responsáveis por fornecer manutenção e suporte de Apps de Terceiros.
+
+PACOTES DE APP
+
+Alguns apps podem ser vendidos juntos como um pacote (“Pacote de app”). O preço exibido em um Pacote de app é o preço que você será cobrado após a compra do Pacote de app. O preço do Pacote de app pode ser reduzido caso inclua apps que você já comprou ou adquiriu, mas pode incluir uma taxa mínima para completar o Pacote de app.
 
 CONTRATO DE LICENÇA DE USUÁRIO FINAL DE APLICATIVO LICENCIADO
 
@@ -180,9 +184,9 @@ Caso seja um cidadão de qualquer país da União Europeia ou da Suíça, Norueg
 
 Fica especificamente excluída de aplicação a este Contrato a lei que é conhecida como a Convenção das Nações Unidas sobre Contratos de Compra e Venda Internacional de Mercadorias.
 
-H. TERMOS ADICIONAIS DA IBOOKS STORE
+H. TERMOS ADICIONAIS DA APPLEBOOKS
 
-Você adquire Conteúdo da iBooks Store de terceiro, fornecedor de tal Conteúdo (o “Editor”), não da Apple. A Apple atua como um agente para o Editor na disponibilização de Conteúdo da iBooks Store para você, e como tal a Apple não é parte na Transação entre você e o Editor. Caso você seja um cliente da Apple Distribution International, o comerciante de registo será a Apple Distribution International, o que significa que você adquire uma licença para utilizar o conteúdo da Apple Distribution International, mas o Conteúdo é licenciado pelo Editor. O Editor da iBooks Store se reserva o direito de fazer valer os termos de utilização de tal Conteúdo da iBooks Store. O Editor do Conteúdo da iBooks Store é exclusivamente responsável por tal Conteúdo, quaisquer garantias na medida em que tais garantias não tenham sido renunciadas, e quaisquer reclamações que o usuário ou qualquer outro terceiro possa ter com relação a tal Conteúdo.
+Você adquire Conteúdo da Apple Books de terceiro, fornecedor de tal Conteúdo (o “Editor”), não da Apple. A Apple atua como um agente para o Editor na disponibilização de Conteúdo da Apple Books para você, e como tal a Apple não é parte na Transação entre você e o Editor. Caso você seja um cliente da Apple Distribution International, o comerciante de registo será a Apple Distribution International, o que significa que você adquire uma licença para utilizar o conteúdo da Apple Distribution International, mas o Conteúdo é licenciado pelo Editor. O Editor da Apple Books se reserva o direito de fazer valer os termos de utilização de tal Conteúdo da Apple Books. O Editor do Conteúdo da Apple Books é exclusivamente responsável por tal Conteúdo, quaisquer garantias na medida em que tais garantias não tenham sido renunciadas, e quaisquer reclamações que o usuário ou qualquer outro terceiro possa ter com relação a tal Conteúdo.
 
 I. TERMOS ADICIONAIS DA APPLE MUSIC
 
@@ -204,7 +208,7 @@ Dependendo do seu País de Residência, “Apple” significa:
 
 Apple Inc., localizada em One Apple Park Way, Cupertino, Califórnia, para usuários na América do Norte, América Central, e América do Sul (incluindo o Canadá para utilização da iTunes Store e Apple Music), bem como territórios e possessões dos Estados Unidos; e possessões Francesas e Britânicas na América do Norte, América do Sul, e no Caribe;
 
-Apple Canada Inc., localizada em 120 Bremner Blvd., Suite 1600, Toronto ON M5J 0A8, Canadá, para os usuários da App Store e iBooks Store no Canadá ou seus territórios ou possessões;
+Apple Canada Inc., localizada em 120 Bremner Blvd., Suite 1600, Toronto ON M5J 0A8, Canadá, para os usuários da App Store e Apple Books no Canadá ou seus territórios ou possessões;
 
 iTunes K.K., localizada em Roppongi Hills, 6-10-1 Roppongi, Minato-ku, Tóquio 106-6140, Tóquio, para usuários no Japão;
 
@@ -224,7 +228,7 @@ PROPRIEDADE INTELECTUAL
 
 Você concorda que os Serviços, incluindo, mas sem limitação, Conteúdo, gráficos, interface de usuário, clips de áudio, vídeo clips, conteúdo editorial e scripts e software utilizados para implementar os Serviços, contém informações proprietárias e material que são propriedade da Apple e/ou dos seus licenciantes e são protegidos por leis de propriedade intelectual aplicável e outras leis, incluindo, mas sem limitação, a lei de direitos autorais. Você concorda que não utilizará tal informação proprietária ou materiais por qualquer forma, exceto para utilização dos Serviços para usos pessoais, não-comerciais, em conformidade com este Contrato. Nenhuma parte dos Serviços poderá ser reproduzida em qualquer formato ou por quaisquer meios, exceto conforme expressamente permitido por este Contrato. Você concorda em não modificar, alugar, locar, emprestar, vender, ou distribuir os Serviços ou Conteúdo de qualquer forma, e não explorará os Serviços de qualquer forma não expressamente autorizada.
 
-O nome Apple, o logo Apple, iTunes, iTunes Store, App Store, iBooks Store, Apple Music e outras marcas Apple, marcas de serviço, gráficos e logos utilizados em conexão com os Serviços são marcas ou marcas registradas da Apple nos E.U.A. e outros países ao redor do mundo. Não é concedido a você qualquer direito ou licença referente a quaisquer das marcas acima mencionadas.
+O nome Apple, o logo Apple, iTunes, iTunes Store, App Store, Apple Books, Apple Music e outras marcas Apple, marcas de serviço, gráficos e logos utilizados em conexão com os Serviços são marcas ou marcas registradas da Apple nos E.U.A. e outros países ao redor do mundo. Não é concedido a você qualquer direito ou licença referente a quaisquer das marcas acima mencionadas.
 
 AVISO DE DIREITO AUTORAL
 
@@ -234,7 +238,7 @@ Caso você acredite que qualquer Conteúdo disponível através dos Serviços in
 
 - App Store: https://www.apple.com/legal/internet-services/itunes/appstorenotices/
 
-- iBooks Store: https://www.apple.com/legal/internet-services/itunes/ibooksstorenotices
+- Apple Books: https://www.apple.com/legal/internet-services/itunes/applebooksnotices/
 
 - Apple Music: https://www.apple.com/legal/trademark/claimsofcopyright.html
 
@@ -288,4 +292,4 @@ Pelo presente instrumento você concede à Apple o direito de tomar medidas que 
 
 Crianças com idade inferior à maioridade deverão rever este Contrato com os seus pais ou tutores legais para assegurar que a criança e pai/mãe ou tutor legal o entendem.
 
-Última Atualização: 4 de janeiro de 2018
+Última Atualização: 17 de setembro de 2018
