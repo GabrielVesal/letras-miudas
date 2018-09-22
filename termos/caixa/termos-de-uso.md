@@ -3,8 +3,8 @@ empresa: "Caixa"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
-capturado_em: 2018-05-27
-wayback: "https://web.archive.org/web/20180527003448/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
+capturado_em: 2018-09-22
+wayback: "https://web.archive.org/web/20180922024218/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md"
 ---
 
@@ -66,6 +66,8 @@ Você pode consultar a data da última modificação realizada no final do docum
 
 **Última atualização: 13/09/2016**
 
+Cross Selling
+
 ## Canais de atendimento
 
 Encontre uma agência próxima Será um prazer atendê-lo.
@@ -82,27 +84,43 @@ Obrigado! Nossa equipe vai avaliar suas considerações.
 
 - Gostaria de outras informações
 
+ Campo de Justificativa
+
  Enviar Comentário
 - Não encontrei o que procurava
+
+ Campo de Justificativa
 
  Enviar Comentário
 - Encontrei informações incorretas
 
+ Campo de Justificativa
+
  Enviar Comentário
 - Tive problemas com o acesso
+
+ Campo de Justificativa
 
  Enviar Comentário
 - Muita coisa para ler
 
+ Campo de Justificativa
+
  Enviar Comentário
 - Achei as informações confusas
+
+ Campo de Justificativa
 
  Enviar Comentário
 - Outros
 
+ Campo de Justificativa
+
  Enviar Comentário
 
 Obrigado! Seu comentário foi enviado. Nossa equipe irá rever o conteúdo desta página.
+
+Cross Selling
 
 ## Outros produtos Caixa
 
