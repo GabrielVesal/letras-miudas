@@ -3,8 +3,8 @@ empresa: "Caixa"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
-capturado_em: 2018-09-22
-wayback: "https://web.archive.org/web/20180922024218/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
+capturado_em: 2019-01-28
+wayback: "https://web.archive.org/web/20190128000837/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md"
 ---
 
@@ -76,7 +76,7 @@ Ligue para 0800 726 0101 Fale diretamente conosco.
 
 Redes Sociais Atendemos também no facebook
 
-Envie uma mensagem Responderemos por e-mail
+Acesse a Caixa pelo Google Assistente Fale com a gente pelo assistente virtual
 
 Queremos melhorar o nosso site para você. Ficou satisfeito com o conteúdo desta página? Sim Não
 
