@@ -78,8 +78,8 @@ Fale diretamente conosco.
 Redes Sociais
 Atendemos também no facebook
 
-Envie uma mensagem
-Responderemos por e-mail
+Acesse a Caixa pelo Google Assistente
+Fale com a gente pelo assistente virtual
 
 Queremos melhorar o nosso site para você. Ficou satisfeito com o conteúdo desta página?
 Sim
