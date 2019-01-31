@@ -4,13 +4,11 @@
 
 # Política de Privacidade do Google
 
-Uma versão atualizada da nossa Política de Privacidade entrará em vigor em 22 de janeiro de 2019.
-
 Quando você usa nossos serviços, está confiando a nós suas informações. Entendemos que isso é uma grande responsabilidade e trabalhamos duro para proteger essas informações e colocar você no controle.
 
 Esta Política de Privacidade destina-se a ajudar você a entender quais informações coletamos, por que as coletamos e como você pode atualizar, gerenciar, exportar e excluir essas informações.
 
-Em vigor a partir de 25 de maio de 2018 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 22 de janeiro de 2019 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -100,7 +98,7 @@ Sua localização pode ser determinada com vários graus de precisão por:
 - dados do sensor do seu dispositivo
 - informações de itens próximos do dispositivo, como pontos de acesso Wi-Fi, torres de celular e dispositivos com Bluetooth ativado
 
-Os tipos de dados de localização que coletamos dependem, em parte, do dispositivo e das configurações da conta. Por exemplo, é possível ativar ou desativar a localização do dispositivo Android usando o app de configurações do dispositivo. Também é possível ativar o Histórico de localização para salvar e gerenciar as informações de localização na sua conta.
+Os tipos de dados de localização que coletamos dependem, em parte, do dispositivo e das configurações da conta. Por exemplo, é possível ativar ou desativar a localização do dispositivo Android usando o app de configurações do dispositivo. Também é possível ativar o Histórico de localização caso você queira criar um mapa particular dos lugares que visita com seus dispositivos conectados.
 
 ---
 
@@ -271,7 +269,7 @@ Não compartilhamos informações pessoais com empresas, organizações ou indiv
 
 ### Com sua autorização
 
-Compartilharemos informações pessoais fora do Google quando tivermos seu consentimento. Por exemplo, se você usar o Google Home para pedir uma carona em um serviço de compartilhamento de caronas, pediremos sua autorização antes de compartilhar seu endereço com esse serviço. Solicitaremos seu consentimento explícito para compartilhar quaisquer informações pessoais confidenciais.
+Compartilharemos informações pessoais fora do Google quando tivermos seu consentimento. Por exemplo, se você usar o Google Home para fazer uma reserva por meio de um serviços de reservas, pediremos sua autorização antes de compartilhar seu nome ou número de telefone com o restaurante. Solicitaremos seu consentimento explícito para compartilhar quaisquer informações pessoais sensíveis.
 
 ### Com administradores de domínios
 
@@ -370,10 +368,10 @@ Os seguintes avisos de privacidade fornecem informações adicionais sobre algun
 - Play Livros
 - Payments
 - Fiber
-- Project Fi
+- Google Fi
 - G Suite for Education
 - YouTube Kids
-- Contas do Google gerenciadas com o Family Link
+- Contas do Google gerenciadas no Family Link para crianças menores de 13 anos (ou a idade aplicável no seu país).
 
 ## Outros recursos úteis
 
@@ -381,15 +379,13 @@ Os links a seguir destacam recursos úteis para você saber mais sobre nossas pr
 
 - Sua Conta do Google é o local onde ficam muitas das configurações que você pode usar para gerenciar a conta.
 - O Check-up de privacidade contém orientações sobre as principais configurações de privacidade da Conta do Google.
-- A Central de segurança do Google contém instruções para manter a segurança.
-- O site de privacidade do Google contém mais informações sobre como mantemos suas informações privadas e seguras.
+- Na Central de segurança do Google, é possível saber mais sobre nossa segurança integrada, os controles de privacidade e as ferramentas que ajudam a definir regras digitais básicas para sua família on-line.
 - Privacidade e Termos contêm mais contexto a respeito desta Política de Privacidade e dos nossos Termos de Serviço.
-- Tecnologias e princípios incluem mais informações sobre:
+- Tecnologias inclui mais informações sobre:
  - Como a Google usa os cookies
  - tecnologias usadas para publicidade;
  - como o Google usa o reconhecimento de padrões para reconhecer itens como rostos em fotos.
- - Uma página que explica quais dados são compartilhados com o Google quando você visita sites que usam nossos produtos de publicidade, de análise e sociais.
- - Como a Google utiliza os dados quando o usuário usa sites ou aplicativos dos nossos parceiros
+ - Como o Google usa informações de sites ou apps que utilizam nossos serviços
 
 ### anúncios que você pode considerar mais úteis
 
@@ -431,7 +427,7 @@ São exemplos desses serviços:
 
 - Google Hangouts, para fazer chamadas domésticas e internacionais
 - Google Voice, para fazer chamadas, enviar mensagens de texto e gerenciar o correio de voz
-- Project Fi, para um plano de telefone
+- Google Fi, para um plano de telefone
 
 ### dados do sensor do seu dispositivo
 
@@ -461,6 +457,7 @@ Exemplos de como usamos suas informações para fornecer nossos serviços inclue
 - a utilização dos identificadores exclusivos armazenados em cookies no seu dispositivo, que nos ajudam a autenticar você como a pessoa que deve ter acesso à sua Conta do Google;
 - a utilização de fotos e vídeos enviados para o Google Fotos para ajudar você a criar álbuns, animações e outras criações que podem ser compartilhadas; Saiba mais
 - a utilização de um e-mail de confirmação de voo recebido por você para criar um botão de "check-in" no Gmail.
+- Quando você compra serviços ou produtos físicos conosco, você pode nos fornecer informações como endereço de entrega ou instruções para a entrega. Usamos essas informações para, dentre outros, processar, atender e entregar o seu pedido, além de oferecer o suporte relacionado ao produto ou serviço comprado.
 
 ### garantir que nossos serviços funcionem como o esperado
 
@@ -558,7 +555,7 @@ Por exemplo, podemos exibir um Doodle do Google na página inicial da Pesquisa p
 
 ### Afiliados
 
-Um afiliado é uma entidade que pertence ao grupo de empresas Google, inclusive as seguintes empresas que fornecem serviços ao consumidor na UE: Google Commerce Ltd, Google Payment Corp e Google Dialer Inc. Saiba mais sobre as empresas que fornecem serviços comerciais na UE.
+Uma afiliada é uma entidade que pertence ao grupo de empresas do Google, incluindo as seguintes empresas que fornecem serviços ao cliente na UE: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp e Google Dialer Inc. Saiba mais sobre as empresas que fornecem serviços comerciais na UE.
 
 ### Algoritmo
 
