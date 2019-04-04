@@ -3,8 +3,8 @@ empresa: "Roblox"
 documento: "Política de Privacidade"
 categoria: "Jogos"
 fonte: "https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-cookies-da-Roblox"
-capturado_em: 2019-03-25
-wayback: "https://web.archive.org/web/20190325221707/https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-cookies-da-Roblox"
+capturado_em: 2019-04-04
+wayback: "https://web.archive.org/web/20190404093239/https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-cookies-da-Roblox"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/politica-de-privacidade.md"
 ---
 
@@ -170,7 +170,7 @@ A versão da Política de Cookies e Privacidade da Roblox em inglês deve preval
  - Serviços de moderação e filtragem da comunidade (por exemplo, CommunitySift);
  - Serviços de suporte ao cliente (por exemplo, Zendesk);
  - Pesquisas e promoções (por exemplo, Magid);
- - Serviços de faturamento e provedores de portais de pagamentos (por exemplo, Kount, SiftScience, PayPal, Vantiv, Incomm, Rixty, Google, Apple, Amazon, Windows Store); e
+ - Serviços de faturamento e provedores de portais de pagamentos (por exemplo, Kount, SiftScience, PayPal, Vantiv, Incomm, Google, Apple, Amazon, Windows Store); e
  - Serviços de hospedagem e rede de fornecimento de conteúdo (por exemplo, AWS, Equinix, CenturyLink).
 
  Esses fornecedores e representantes só poderão utilizar as informações compartilhadas com eles apenas para as tarefas específicas para as quais forem contratados e de maneira condizente com esta Política de Privacidade e para nenhum outro fim. A Roblox toma medidas para garantir que todos os prestadores de serviço com acesso a dados pessoais sejam capazes de proteger as informações que compartilhamos com eles.
@@ -267,7 +267,7 @@ A versão da Política de Cookies e Privacidade da Roblox em inglês deve preval
  - Serviços de moderação e filtragem da comunidade (por exemplo, CommunitySift);
  - Serviços de suporte ao cliente (por exemplo, Zendesk);
  - Pesquisas e promoções (por exemplo, Magid);
- - Serviços de faturamento e provedores de portais de pagamentos (por exemplo, Kount, SiftScience, PayPal, Vantiv, Incomm, Rixty, Google, Apple, Amazon, Windows Store); e
+ - Serviços de faturamento e provedores de portais de pagamentos (por exemplo, Kount, SiftScience, PayPal, Vantiv, Incomm, Google, Apple, Amazon, Windows Store); e
  - Serviços de hospedagem e rede de fornecimento de conteúdo (por exemplo, AWS, Equinix, CenturyLink)
 
  A fundamentação legal para essa atividade de processamento e transferência de dados é o Artigo 28 do RGPD em conjunto com os contratos de processamento de dados que celebramos com respectivos agentes terceiros. Esses fornecedores e representantes só poderão utilizar as informações compartilhadas com eles apenas para as tarefas específicas para as quais forem contratados e de maneira condizente com esta Política de Privacidade e para nenhum outro fim. A Roblox toma medidas para garantir que todos os prestadores de serviço com acesso a dados pessoais sejam capazes de proteger as informações que compartilhamos com eles.
@@ -299,4 +299,4 @@ A versão da Política de Cookies e Privacidade da Roblox em inglês deve preval
 
  Podemos atualizar esta Política de Privacidade de modo a refletir alterações feitas em nossas práticas de informações a qualquer tempo, então queira revisá-la com frequência. Se atualizarmos esta Política, as alterações serão apresentadas nesta página e atualizaremos a "Data da última atualização" indicada abaixo. Se fizermos quaisquer alterações consideráveis a esta Política de Privacidade, tentaremos notificar você por e-mail (enviando um e-mail ao endereço de e-mail especificado em sua conta, se uma conta de e-mail estiver associada à sua conta) ou por meio de um aviso visível neste site da Web antes da alteração entrar em vigor. Obteremos a anuência prévia dos pais se quaisquer alterações que fizermos a esta Política afetar usuários menores de 13 anos de maneira que requeira essa anuência segundo a COPPA ou afetar usuários de 16 anos de maneira que requeira essa anuência segundo o Regulamento Geral Europeu sobre a Proteção de Dados.
 
-**Data da última atualização:** 12 de novembro de 2018
+**Data da última atualização:** 27 de março de 2019
