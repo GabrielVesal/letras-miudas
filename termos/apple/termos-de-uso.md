@@ -3,8 +3,8 @@ empresa: "Apple"
 documento: "Termos de Uso"
 categoria: "Tecnologia"
 fonte: "https://www.apple.com/br/legal/internet-services/itunes/br/terms.html"
-capturado_em: 2018-09-20
-wayback: "https://web.archive.org/web/20180920181357/https://www.apple.com/br/legal/internet-services/itunes/br/terms.html"
+capturado_em: 2019-05-20
+wayback: "https://web.archive.org/web/20190520123327/https://www.apple.com/br/legal/internet-services/itunes/br/terms.html"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/termos-de-uso.md"
 ---
 
@@ -12,17 +12,17 @@ Estes termos e condições criam um contrato entre você e a Apple (o “Contrat
 
 A. INTRODUÇÃO AOS NOSSOS SERVIÇOS
 
-Este Contrato rege a sua utilização dos serviços da Apple (“Serviços”), através dos quais você pode comprar, obter, licenciar, alugar ou assinar mídia, aplicativos (“Apps”) e outros serviços dentro do aplicativo (“Conteúdo”). Os nossos Serviços são: iTunes Store, App Store, Apple Books, Apple Music e Apple News. Nossos Serviços estão disponíveis para utilização no seu país de residência (“País de Residência”). Para utilizar os nossos Serviços, você necessita de hardware compatível, software (última versão recomendada e por vezes exigida) e acesso à Internet (poderão ser aplicadas tarifas). O desempenho dos nossos Serviços poderá ser afetado por estes fatores.
+Este Contrato rege a sua utilização dos serviços da Apple (“Serviços”), através dos quais você pode comprar, obter, licenciar, alugar ou assinar conteúdos, aplicativos (“Apps”) e outros serviços dentro do aplicativo (em conjunto, “Conteúdo”). O Conteúdo pode ser disponibilizado através dos Serviços oferecidos pela Apple ou por terceiros. Nossos Serviços estão disponíveis para utilização no seu país de residência (“País de Residência”). Para utilizar os nossos Serviços, você necessita de hardware compatível, software (última versão recomendada e por vezes exigida) e acesso à Internet (poderão ser aplicadas tarifas). O desempenho dos nossos Serviços poderá ser afetado por estes fatores.
 
 B. UTILIZANDO NOSSOS SERVIÇOS
 
 PAGAMENTOS, IMPOSTOS E REEMBOLSOS
 
-Você poderá adquirir Conteúdo nos nossos Serviços gratuitamente ou por um valor, sendo cada um referido como uma “Transação”. Cada Transação constitui um contrato eletrônico entre você e a Apple, e/ou entre você e a entidade fornecendo o Conteúdo nos nossos Serviços. Contudo, caso você seja um cliente da Apple Distribution International e você adquira um App ou um livro, a Apple Distribution International é o comerciante registado; isto significa que você adquire o Conteúdo da Apple Distribution International, e que é licenciado pelo Fornecedor de App (conforme abaixo definido) ou pela editora do livro. Quando você efetua a sua primeira Transação, nós solicitaremos que escolha com que frequência devemos solicitar a sua senha para futuras Transações. Caso ative o Touch ID para Transações, solicitaremos que autentique todas as Transações com a sua impressão digital e se você ativar o Face ID para Transações, solicitaremos que autentique todas as Transações usando o reconhecimento facial . Gerencie suas configurações de senha a qualquer momento seguindo estas instruções: https://support.apple.com/pt-br/HT204030. A Apple cobrará, por meio de uma empresa afiliada designada para atividades de serviços de cobrança e remessa de valores, o seu método de pagamento (tal como o seu cartão de crédito ou outro método disponível no seu País de Residência) para quaisquer Transações pagas. Você deve fornecer as informações requeridas pela Apple nos ajustes da sua conta para viabilizar tais Transações. Caso não seja possível emitir a cobrança para seu método de pagamento por qualquer motivo (por exemplo, cartão expirado ou fundos insuficientes), você permanece responsável por quaisquer quantias não coletadas e tentaremos emitir a cobrança para seu método de pagamento assim que você atualizar suas informações. Caso você pré-encomende Conteúdo, você será cobrado quando o Conteúdo lhe for entregue (exceto se você cancelar antes da disponibilização do Conteúdo). De acordo com a legislação local, a Apple pode atualizar informações relativas ao seu método de pagamento, caso tais informações sejam fornecidas por sua instituição financeira. Para detalhes sobre como as Transações são faturadas, por favor, visite http://support.apple.com/pt-br/HT201359. Todas as Transações são finais (direito de arrependimento não é aplicável) e você é responsável pelo pagamento pontual dos valores e de quaisquer tributos aplicáveis a você, exceto se for aplicável à Transação o recolhimento de imposto de renda retido na fonte sobre remessa de valores ao exterior, o qual será recolhido pela empresa afiliada da Apple designada para atividades de serviços de cobrança e remessa. Os preços do Conteúdo poderão ser alterados a qualquer momento. Caso problemas técnicos impeçam ou atrasem injustificadamente a entrega de Conteúdo, o seu exclusivo e único recurso será a substituição do Conteúdo ou o reembolso do valor pago, conforme determinado pela Apple. De tempos em tempos, a Apple poderá recusar um pedido de reembolso, caso encontremos uma prova de fraude, abuso de reembolso, ou outro comportamento manipulativo que dê direito à Apple a uma correspondente reconvenção. Os termos relacionados ao crédito da loja e cartões-presente/códigos de conteúdo estão disponíveis aqui: https://www.apple.com/legal/internet-services/itunes/giftcards/.
+Você poderá adquirir Conteúdo nos nossos Serviços gratuitamente ou por um valor, sendo cada um referido como uma “Transação”. Cada Transação constitui um contrato eletrônico entre você e a Apple, e/ou entre você e a entidade fornecendo o Conteúdo nos nossos Serviços. Contudo, caso você seja um cliente da Apple Distribution International e você adquira um App ou um livro, a Apple Distribution International é o comerciante registado; isto significa que você adquire o Conteúdo da Apple Distribution International, e que é licenciado pelo Fornecedor de App (conforme abaixo definido) ou pela editora do livro. Quando você efetua a sua primeira Transação, nós solicitaremos que escolha com que frequência devemos solicitar a sua senha para futuras Transações. Caso ative o Touch ID para Transações, solicitaremos que autentique todas as Transações com a sua impressão digital e se você ativar o Face ID para Transações, solicitaremos que autentique todas as Transações usando o reconhecimento facial. Gerencie suas configurações de senha a qualquer momento seguindo estas instruções: https://support.apple.com/pt-br/HT204030. A Apple cobrará, por meio de uma empresa afiliada designada para atividades de serviços de cobrança e remessa de valores, o seu método de pagamento selecionado (tal como o seu cartão de crédito ou outro método disponível no seu País de Residência) para quaisquer Transações pagas. Caso você tenha adicionado esse método à Apple Wallet, a Apple pode cobrar o seu método de pagamento selecionado na Apple Wallet usando o Apple Pay. Você deve fornecer as informações requeridas pela Apple nos ajustes da sua conta para viabilizar tais Transações. Caso não seja possível emitir a cobrança para seu método de pagamento selecionado por qualquer motivo (por exemplo, cartão expirado ou fundos insuficientes), você permanece responsável por quaisquer quantias não coletadas e tentaremos emitir a cobrança para seu método de pagamento novamente assim que você atualizar suas informações. Caso você pré-encomende Conteúdo, você será cobrado quando o Conteúdo lhe for entregue (exceto se você cancelar antes da disponibilização do Conteúdo). De acordo com a legislação local, a Apple pode atualizar informações relativas ao seu método de pagamento selecionado, caso tais informações sejam fornecidas por sua instituição financeira. Para detalhes sobre como as Transações são faturadas, por favor, visite http://support.apple.com/pt-br/HT201359. Todas as Transações são finais (direito de arrependimento não é aplicável) e você é responsável pelo pagamento pontual dos valores e de quaisquer tributos aplicáveis a você, exceto se for aplicável à Transação o recolhimento de imposto de renda retido na fonte sobre remessa de valores ao exterior, o qual será recolhido pela empresa afiliada da Apple designada para atividades de serviços de cobrança e remessa. Os preços do Conteúdo poderão ser alterados a qualquer momento. Caso problemas técnicos impeçam ou atrasem injustificadamente a entrega de Conteúdo, o seu exclusivo e único recurso será a substituição do Conteúdo ou o reembolso do valor pago, conforme determinado pela Apple. De tempos em tempos, a Apple poderá recusar um pedido de reembolso, caso encontremos uma prova de fraude, abuso de reembolso, ou outro comportamento manipulativo que dê direito à Apple a uma correspondente reconvenção. Os termos relacionados ao crédito da loja e cartões-presente/códigos de conteúdo estão disponíveis aqui: https://www.apple.com/legal/internet-services/itunes/giftcards/.
 
 APPLE ID
 
-A utilização dos nossos Serviços e o acesso ao seu Conteúdo requer uma Apple ID. Apple ID é a conta que você utiliza em todo o ecossistema da Apple. A sua Apple ID é valiosa, e você é responsável por manter a sua confidencialidade e segurança. A Apple não é responsável por quaisquer perdas resultantes da utilização não autorizada da sua Apple ID. Por favor, contate a Apple caso suspeite que a sua Apple ID foi comprometida.
+A utilização dos nossos Serviços e o acesso ao seu Conteúdo podem requerer uma Apple ID. Apple ID é a conta que você utiliza em todo o ecossistema da Apple. A sua Apple ID é valiosa, e você é responsável por manter a sua confidencialidade e segurança. A Apple não é responsável por quaisquer perdas resultantes da utilização não autorizada da sua Apple ID. Por favor, contate a Apple caso suspeite que a sua Apple ID foi comprometida.
 
 Você deve ter 13 anos de idade (ou a idade mínima equivalente no seu País de Residência, conforme definido no processo de registo) para criar uma Apple ID e utilizar os nossos Serviços. Apple IDs para pessoas com idades inferiores a esta poderão ser criadas pelo pai/mãe ou tutor legal utilizando o Compartilhamento Familiar ou por uma instituição de ensino aprovada.
 
@@ -38,7 +38,7 @@ Todos os Serviços:
 
 - Você poderá utilizar os Serviços e Conteúdo apenas para fins pessoais, não-comerciais (exceto conforme definido na cláusula de Conteúdo App Store abaixo).
 
-- A entrega de Conteúdo pela Apple não transfere quaisquer direitos de utilização comercial a você, e não constitui uma concessão ou renúncia de quaisquer direitos dos titulares do direito de autoral.
+- A entrega de Conteúdo pela Apple não transfere quaisquer direitos de utilização comercial ou promocional a você, e não constitui uma concessão ou renúncia de quaisquer direitos dos titulares do direito de autoral.
 
 - Você poderá utilizar o Conteúdo de até cinco Apple IDs diferentes em cada dispositivo.
 
@@ -50,27 +50,21 @@ Todos os Serviços:
 
 - O Conteúdo de Vídeo requer uma conexão HDCP.
 
-Conteúdo da iTunes Store:
+Venda e Aluguel de Conteúdo de Áudio e Vídeo:
 
 - Você poderá utilizar Conteúdo sem Gestão de Direitos Digitais (Digital Rights Management - DRM) em um número razoável de dispositivos compatíveis que você detenha ou controle. Conteúdo protegido por DRM poderá ser utilizado em até cinco computadores e em qualquer número de dispositivos que você sincronize a partir de tais computadores.
 
 - Conteúdo alugado poderá ser visualizado em um único dispositivo de cada vez, e deve ser reproduzido no prazo de 30 dias, e completado no prazo de 48 horas a contar do início da reprodução (parar, pausar ou recomeçar não prolonga este período).
 
-- Você poderá gravar uma lista de reprodução de áudio em um CD para fins de ouvi-la, até sete vezes (esta limitação não é aplicável a Conteúdo sem DRM).
+- Você poderá gravar, em um disco, uma lista de reprodução de áudio com músicas compradas para fins de ouvi-la, até sete vezes; Esta limitação não é aplicável a Conteúdo sem DRM. Outros Conteúdos não podem ser gravados em disco.
 
 Conteúdo da App Store:
 
-- O termo “App” inclui apps, iMessage e apps do Apple Watch, compras dentro do app, extensões (tais como teclados), figurinhas (stickers), e assinaturas disponibilizadas em um app.
+- O termo “App” inclui apps para qualquer plataforma e/ou sistema operacional da Apple, compras dentro do app, extensões (tais como teclados), figurinhas (stickers), e assinaturas disponibilizadas em um app.
 
 - Você poderá utilizar Apps em qualquer dispositivo que você detenha ou controle.
 
-- Os indivíduos atuando em nome de uma empresa comercial, organização governamental ou instituição de ensino (“Empresa”) poderão fazer o download e sincronizar os Apps para utilização por (i) um único indivíduo em um ou mais dispositivos detidos ou controlados por uma Empresa; ou (ii) múltiplos indivíduos em um único dispositivo compartilhado detido ou controlado por uma Empresa. Para fins de esclarecimento, cada dispositivo utilizado em série ou coletivamente por múltiplos usuários requer uma licença separada.
-
-Conteúdo da Apple Books:
-
-- Você poderá utilizar Conteúdo sem DRM em qualquer dispositivo compatível que você detenha ou controle. Conteúdo protegido por DRM poderá ser utilizado em até cinco computadores e em qualquer número de dispositivos que você sincronize a partir desses computadores.
-
-- Você não poderá gravar Conteúdo da Apple Books em um disco.
+- Os indivíduos atuando em nome de uma empresa comercial, organização governamental ou instituição de ensino (“Empresa”) poderão fazer o download e sincronizar os Apps que não sejam do Arcade para utilização por (i) um único indivíduo em um ou mais dispositivos detidos ou controlados por uma Empresa; ou (ii) múltiplos indivíduos em um único dispositivo compartilhado detido ou controlado por uma Empresa. Para fins de esclarecimento, cada dispositivo utilizado em série ou coletivamente por múltiplos usuários requer uma licença separada.
 
 Apple Music:
 
@@ -78,19 +72,35 @@ Apple Music:
 
 - Uma assinatura Apple Music Individual permite que você faça o streaming em um único dispositivo de cada vez; uma assinatura de Família permite que você ou os membros da sua Família façam o streaming em até seis dispositivos de cada vez.
 
+Apple Arcade:
+
+- Os Apps da Apple Arcade podem ser baixados ou baixados novamente somente durante um período de teste ou mediante uma assinatura válida do Apple Arcade.
+
+- Quando sua assinatura expirar, os Apps baixados através do Apple Arcade não serão mais acessíveis a você.
+
+Conteúdo da Apple TV
+
+- Você pode fazer o streaming de Conteúdo da maioria dos canais em até três dispositivos simultaneamente.
+
+- Pode haver uma limitação na quantidade de Conteúdo que você pode baixar, e alguns Conteúdos baixados podem perder a validade depois de um certo tempo após o download ou a primeira reprodução. Determinados Conteúdos podem não estar disponíveis pra download.
+
+- Saiba mais sobre as Regras de Uso do Conteúdo da Apple TV acessando https://support.apple.com/pt-br/HT210074
+
 NOVOS DOWNLOADS
 
 Você poderá ser capaz de efetuar um novo download de Conteúdo previamente adquirido (“Novo Download”) para os seus dispositivos que estejam autenticados com a mesma Apple ID (“Dispositivos Associados”). Você poderá ver tipos de Conteúdo disponíveis para Novo Download no seu País de Residência em https://support.apple.com/pt-br/HT204632. O Conteúdo poderá não estar disponível para Novo Download se esse Conteúdo já não for mais oferecido nos nossos Serviços.
 
-Regras de Dispositivos Associados: Você poderá ter 10 dispositivos (mas apenas um máximo de 5 computadores) autenticados com a sua Apple ID de uma só vez. Cada computador também deverá estar autorizado a utilizar a mesma Apple ID (para aprender mais sobre a autorização de computadores, visite https://support.apple.com/pt-br/HT201251). Os dispositivos poderão ser associados com uma Apple ID diferente a cada 90 dias.
+Regras de Dispositivos Associados (exceto Apple Arcade): Você poderá ter até 10 dispositivos (mas apenas um máximo de 5 computadores) autenticados com a sua Apple ID de uma só vez. Cada computador também deverá estar autorizado a utilizar a mesma Apple ID (para aprender mais sobre a autorização de computadores, visite https://support.apple.com/pt-br/HT201251). Os dispositivos poderão ser associados com uma Apple ID diferente a cada 90 dias.
+
+Regras de Dispositivos Associados para o Apple Arcade: Você pode ter até 10 dispositivos autenticados no Apple Arcade por membro da Família por vez. Os Dispositivos podem ser associados a diferentes Apple ID uma vez a cada 90 dias.
 
 ASSINATURAS
 
-Os Serviços e determinados Apps poderão permitir que você adquira acesso a Conteúdo ou serviços com base em assinatura (“Assinaturas Pagas”). Assinaturas Pagas renovam-se automaticamente até você cancelar na seção Gerenciar Assinaturas do ajuste da sua conta. Vamos notificá-lo caso o preço de uma Assinatura Paga aumente e permitiremos que você cancele a Assinatura previamente ou, se necessário, obteremos o seu consentimento para continuar. Você será cobrado não mais do que 24 horas antes do início do último período de Assinatura Paga. Caso não consigamos realizar a cobrança usando seu método de pagamento por qualquer motivo (por exemplo, expiração ou capital insuficiente) e você não tiver cancelado a Assinatura Paga, você permanecerá responsável por quaisquer quantias não coletadas e tentaremos realizar a cobrança assim que você atualizar as informações do seu método de pagamento. Determinadas Assinaturas Pagas poderão oferecer um período de teste grátis antes de cobrar o seu método de pagamento. Caso decida cancelar a assinatura de uma Assinatura Paga antes de começarmos a cobrar o seu método de pagamento, cancele antes do período de teste grátis terminar.
+Os Serviços e determinados Apps poderão permitir que você adquira acesso a Conteúdo ou serviços com base em assinatura (“Assinaturas Pagas”). Assinaturas Pagas renovam-se automaticamente até você cancelar na seção Gerenciar Assinaturas do ajuste da sua conta. Para saber mais a respeito do cancelamento de suas assinaturas, visite https://support.apple.com/pt-br/HT202039. Vamos notificá-lo caso o preço de uma Assinatura Paga aumente e permitiremos que você cancele a Assinatura previamente ou, se necessário, obteremos o seu consentimento para continuar. Você será cobrado não mais do que 24 horas antes do início do último período de Assinatura Paga. Caso não consigamos realizar a cobrança usando seu método de pagamento por qualquer motivo (por exemplo, expiração ou capital insuficiente) e você não tiver cancelado a Assinatura Paga, você permanecerá responsável por quaisquer quantias não coletadas e tentaremos realizar a cobrança assim que você atualizar as informações do seu método de pagamento. Reservamo-nos o direito de cancelar a sua Assinatura Paga caso não seja possível realizar a cobrança usando o seu método de pagamento para renovar a sua assinatura. Determinadas Assinaturas Pagas poderão oferecer um período de teste grátis antes de cobrar o seu método de pagamento. Caso decida cancelar a assinatura de uma Assinatura Paga antes de começarmos a cobrar o seu método de pagamento, cancele pelo menos 24 horas antes do período de teste grátis terminar.
 
 DISPONIBILIDADE DE CONTEÚDO E SERVIÇO
 
-Os Termos encontrados neste Contrato que estão relacionados com Serviços, tipos de Conteúdo, recursos ou funcionalidade não disponível no seu País de Residência não serão aplicáveis a você, exceto e até que os mesmos sejam disponibilizados a você. Para ver os tipos de Conteúdo que são disponibilizados a você no seu País de Residência, vá até aos Serviços ou visite https://support.apple.com/pt-br/HT204411.
+Os Termos encontrados neste Contrato que estão relacionados com Serviços, tipos de Conteúdo, recursos ou funcionalidade não disponível no seu País de Residência não serão aplicáveis a você, exceto e até que os mesmos sejam disponibilizados a você. Para ver os tipos de Conteúdo que são disponibilizados a você no seu País de Residência, vá até aos Serviços ou visite https://support.apple.com/pt-br/HT204411. Determinados Serviços e Conteúdo disponíveis para você em seu País de Residência podem não estar disponíveis quando você viajar a outros países.
 
 DISPOSITIVOS QUE NÃO SEJAM DA APPLE
 
@@ -126,11 +136,11 @@ Pedir para Comprar: Pedir para Comprar é um recurso conveniente que permite a u
 
 Alterações dos Membros da Família: Quando um membro da Família deixa ou é removido da Família, os membros remanescentes da Família poderão não ser mais capazes de acessar o Conteúdo do antigo membro, incluindo Conteúdo adquirido com o método de pagamento do Organizador.
 
-Regras do Compartilhamento Familiar: Você somente pode pertencer a uma Família de cada vez, e poderá juntar-se a qualquer Família não mais de duas vezes por ano. Você poderá alterar a Apple ID que associa com uma Família não mais do que uma vez a cada 90 dias. Todos os membros da Família devem compartilhar o mesmo País de Residência. Nem todo o Conteúdo, incluindo as Compras dentro do App, assinaturas, e alguns Apps previamente adquiridos, são elegíveis para o Compartilhamento de Compra.
+Regras do Compartilhamento Familiar: Você somente pode pertencer a uma Família de cada vez, e poderá juntar-se a qualquer Família não mais de duas vezes por ano. Você poderá alterar a Apple ID que associa com uma Família não mais do que uma vez a cada 90 dias. Todos os membros da Família devem compartilhar o mesmo País de Residência. Nem todo o Conteúdo, incluindo as Compras dentro do App, assinaturas, e alguns Apps previamente adquiridos, são elegíveis para o Compartilhamento de Compra. As assinaturas do Apple Arcade e do Apple News+ são automaticamente habilitadas para o Compartilhamento de Compra. Assinaturas compartilhadas por uma Família podem estar sujeitas a limitações de uso do Conteúdo em um sistema de uso por assinatura.
 
-E. RECURSOS DE RECOMENDAÇÃO
+E. RECURSOS DE RECOMENDAÇÃO PERSONALIZADA
 
-Os Serviços irão recomendar Conteúdo a você com base nos seus downloads, aquisições e outras atividades. Você, por meio deste instrumento, expressamente autoriza a Apple a enviar a você essas recomendações, e você poderá optar por não mais receber essas recomendações nas configurações de sua conta.
+Os Serviços podem recomendar Conteúdo a você com base nos seus downloads, aquisições e outras atividades. Você, por meio deste instrumento, expressamente autoriza a Apple a enviar a você essas recomendações personalizadas para alguns Serviços, e você poderá optar por não mais receber essas recomendações nas configurações de sua conta.
 
 Alguns recursos de recomendação poderão exigir a sua permissão antes de serem ativados. Caso ative estes recursos, você será solicitado a dar permissão à Apple para coletar e armazenar determinados dados, incluindo, mas sem limitação, dados sobre a atividade, localização e utilização do seu dispositivo. Por favor, leia cuidadosamente a informação apresentada quando você ativar estes recursos.
 
@@ -138,13 +148,13 @@ F. TERMOS ADICIONAIS DA ITUNES STORE
 
 PASSE DE TEMPORADA E MULTI-PASSE
 
-Um Passe permite que você adquira e receba o Conteúdo televisivo quando este estiver disponível. Um Passe de Temporada é aplicável a Conteúdo televisivo que tem um número limitado de episódios por temporada; um Multi-Passe é aplicável a Conteúdo televisivo que esteja disponível de forma contínua. O preço total de um Passe de Temporada ou Multi-Passe é cobrado no momento da Transação. Conteúdo de Passe de Temporada ou Multi-Passe está disponível para download até 90 dias após o último episódio ser disponibilizado. Caso a renovação automática esteja selecionada quando você obtém um Multi-Passe, o preço total de cada ciclo Multi-Passe subsequente será cobrado de você. Você poderá desativar a renovação automática antes do início do próximo ciclo Multi-Passe nas definições de sua conta. Caso um fornecedor de Conteúdo entregue à Apple menos episódios de TV do que aqueles que estavam planejados quando você comprou o Passe de Temporada, nós creditaremos a sua Apple ID o valor de compra correspondente ao número de episódios que não tiverem sido disponibilizados à Apple.
+Um Passe permite que você adquira e receba o Conteúdo televisivo quando este estiver disponível. Um Passe de Temporada é aplicável a Conteúdo televisivo que tem um número limitado de episódios por temporada; um Multi-Passe é aplicável a Conteúdo televisivo que esteja disponível de forma contínua. O preço total de um Passe de Temporada ou Multi-Passe é cobrado no momento da Transação. Conteúdo de Passe de Temporada ou Multi-Passe está disponível para download até 90 dias após o último episódio ser disponibilizado. Caso a renovação automática esteja selecionada quando você obtém um Multi-Passe, o preço total de cada ciclo Multi-Passe subsequente será cobrado de você. Você poderá desativar a renovação automática pelo menos 24 horas antes do início do próximo ciclo Multi-Passe nas definições de sua conta. Caso um fornecedor de Conteúdo entregue à Apple menos episódios de TV do que aqueles que estavam planejados quando você comprou o Passe de Temporada, nós creditaremos a sua Apple ID o valor de compra correspondente ao número de episódios que não tiverem sido disponibilizados à Apple.
 
-G. TERMOS ADICIONAIS DA APP STORE
+G. TERMOS ADICIONAIS DA APP STORE (EXCETO APPS DO APPLE ARCADE)
 
 LICENÇA DE CONTEÚDO DA APP STORE
 
-Licenças de Apps são fornecidas a você pela Apple ou por um terceiro desenvolvedor (“Fornecedor de App”). Caso você seja um cliente da Apple Distribution International, o comerciante de registo é a Apple Distribution International, o que significa que você adquire a licença do App da Apple Distribution International, mas o App é licenciado pelo Fornecedor de App. Um App licenciado pela Apple é um “App Apple;” um App licenciado por um Fornecedor de App é um “App de Terceiro.” A Apple atua como um agente para os Fornecedores de App ao disponibilizar a App Store e não é parte no contrato de venda ou acordo de usuário entre você e o Fornecedor de App. Qualquer App que adquira é regido pelo Contrato de Licença de Usuário Final de Aplicativo (“EULA Padrão”) definido abaixo, exceto se a Apple ou o Fornecedor de App disponibilizar um contrato de licença customizado prevalente (“EULA Customizado”). O Fornecedor de App de qualquer App de Terceiro é exclusivamente responsável pelo seu conteúdo, garantias e por reclamações que você poderá ter relacionadas com o App de Terceiro. Você reconhece e concorda que a Apple é um terceiro beneficiário do EULA Padrão ou EULA Customizado aplicável a cada App de Terceiro e poderá, portanto, fazer valer esse contrato. Determinados Apps, tais como os figurinhas (stickers) e iMessage apps, poderão não aparecer no painel do dispositivo, mas poderão ser acessados e utilizados dentro do app Mensagens.
+Licenças de Apps são fornecidas a você pela Apple ou por um terceiro desenvolvedor (“Fornecedor de App”). Caso você seja um cliente da Apple Distribution International, o comerciante de registo é a Apple Distribution International, o que significa que você adquire a licença do App da Apple Distribution International, mas o App é licenciado pelo Fornecedor de App. Um App licenciado pela Apple é um “App Apple”; um App licenciado por um Fornecedor de App é um “App de Terceiro”. A Apple atua como um agente para os Fornecedores de App ao disponibilizar a App Store e não é parte no contrato de venda ou acordo de usuário entre você e o Fornecedor de App. Qualquer App que adquira é regido pelo Contrato de Licença de Usuário Final de Aplicativo (“EULA Padrão”) definido abaixo, exceto se a Apple ou o Fornecedor de App disponibilizar um contrato de licença customizado prevalente (“EULA Customizado”). O Fornecedor de App de qualquer App de Terceiro é exclusivamente responsável pelo seu conteúdo, garantias e por reclamações que você poderá ter relacionadas com o App de Terceiro. Você reconhece e concorda que a Apple é um terceiro beneficiário do EULA Padrão ou EULA Customizado aplicável a cada App de Terceiro e poderá, portanto, fazer valer esse contrato. Determinados Apps, tais como as figurinhas (stickers) e iMessage apps, poderão não aparecer no painel do dispositivo, mas poderão ser acessados e utilizados dentro do app Mensagens.
 
 COMPRAS DENTRO DO APP
 
@@ -160,7 +170,7 @@ Alguns apps podem ser vendidos juntos como um pacote (“Pacote de app”). O pr
 
 CONTRATO DE LICENÇA DE USUÁRIO FINAL DE APLICATIVO LICENCIADO
 
-Apps disponibilizados através da App Store são licenciados a você, não vendidos. A sua licença para cada App está sujeita à sua prévia aceitação deste Contrato de Licença de Usuário Final de Aplicativo Licenciado (“EULA Padrão”), o contrato de licença de usuário final entre você e o Fornecedor de App (“EULA Customizado”), se disponibilizado. A sua licença para qualquer App Apple sob este EULA Padrão ou do EULA Customizado é concedida pela Apple, e a sua licença para qualquer App de Terceiro sob este EULA Padrão ou EULA Customizado é concedida pelo Fornecedor de App desse App de Terceiro. Qualquer App que esteja sujeito a este EULA Padrão é aqui referido como o “Aplicativo Licenciado.” O Fornecedor de App ou a Apple, conforme aplicável, (“Licenciante”) reservam todos os direitos no e sobre o Aplicativo Licenciado não expressamente concedidos a você sob este EULA Padrão.
+Apps disponibilizados através da App Store são licenciados a você, não vendidos. A sua licença para cada App está sujeita à sua prévia aceitação deste Contrato de Licença de Usuário Final de Aplicativo Licenciado (“EULA Padrão”), o contrato de licença de usuário final entre você e o Fornecedor de App (“EULA Customizado”), se disponibilizado. A sua licença para qualquer App Apple sob este EULA Padrão ou do EULA Customizado é concedida pela Apple, e a sua licença para qualquer App de Terceiro sob este EULA Padrão ou EULA Customizado é concedida pelo Fornecedor de App desse App de Terceiro. Qualquer App que esteja sujeito a este EULA Padrão é aqui referido como o “Aplicativo Licenciado”. O Fornecedor de App ou a Apple, conforme aplicável, (“Licenciante”) reservam todos os direitos no e sobre o Aplicativo Licenciado não expressamente concedidos a você sob este EULA Padrão.
 
 a. Escopo da Licença: O Licenciante concede a você uma licença não transferível para utilizar o Aplicativo Licenciado em quaisquer produtos da marca Apple que você detenha ou controle e conforme permitido pelas Regras de Utilização. Os termos deste EULA Padrão regerão qualquer conteúdo, materiais, ou serviços acessíveis a partir ou adquiridos dentro do Aplicativo Licenciado bem como atualizações fornecidas pelo Licenciante que substituem ou complementam o Aplicativo Licenciado original, exceto se essa atualização for acompanhada por um EULA Customizado. Exceto conforme disposto nas Regras de Utilização, você não poderá distribuir ou disponibilizar o Aplicativo Licenciado em uma rede na qual poderia ser utilizado por múltiplos dispositivos ao mesmo tempo. Você não poderá transferir, redistribuir ou sublicenciar o Aplicativo Licenciado e, caso venda o seu Dispositivo Apple a um terceiro, você deve remover o Aplicativo Licenciado do Dispositivo Apple antes de fazê-lo. Você não poderá copiar (exceto conforme permitido por esta licença e pelas Regras de Utilização), fazer engenharia reversa, desmontar, tentar obter o código fonte, modificar, ou criar obras derivadas do Aplicativo Licenciado, quaisquer atualizações, ou de qualquer parte destes (exceto se e apenas na medida em que quaisquer das restrições acima forem proibidas pela lei aplicável ou na medida em que possa ser permitido pelos termos de licença que regem a utilização de quaisquer componentes de código aberto incluídos com o Aplicativo Licenciado).
 
@@ -192,7 +202,7 @@ I. TERMOS ADICIONAIS DA APPLE MUSIC
 
 ASSINATURA APPLE MUSIC
 
-Apple Music é um serviço de música de assinatura. A sua assinatura da Apple Music será automaticamente renovada até que você desative a renovação automática nas configurações de conta. Veja a seção de “Assinaturas” para mais detalhes. Quando a sua assinatura Apple Music terminar, você perderá o acesso a qualquer funcionalidade da Apple Music que requeira a assinatura, incluindo, mas sem limitação, acesso às músicas Apple Music armazenadas no seu dispositivo, e à Biblioteca de Música do iCloud. A Apple se reserva o direito de cancelar a sua assinatura Apple Music se nós não formos capazes de cobrar com sucesso o seu método de pagamento para renovar a sua assinatura.
+Apple Music é um serviço de música de assinatura. A sua assinatura da Apple Music será automaticamente renovada até que faça o cancelamento nas configurações de conta. Veja a seção de “Assinaturas” para mais detalhes. Quando a sua assinatura Apple Music terminar, você perderá o acesso a qualquer funcionalidade da Apple Music que requeira a assinatura, incluindo, mas sem limitação, acesso às músicas Apple Music armazenadas no seu dispositivo, e à Biblioteca de Música do iCloud.
 
 Onde disponível, poderá ser oferecida uma assinatura Apple Music a você através da sua operadora móvel (uma “Assinatura de Operadora”). Caso adquira uma Assinatura de Operadora, a sua operadora irá cobrar o valor da sua assinatura Apple Music. A sua relação de faturamento com a operadora se rege pelos termos e condições da operadora, não por este Contrato, e quaisquer disputas de faturamento relacionados à Assinatura de Operadora deverão ser dirigidas à sua Operadora, não à Apple. Você, por meio deste instrumento, expressamente consente e concorda, e ao utilizar a Apple Music, você também concorda que a sua operadora poderá compartilhar suas informações de conta de operadora, número de telefone e informação de assinatura com a Apple, e que a Apple poderá utilizar estas informações para determinar o status da sua Assinatura de Operadora.
 
@@ -200,15 +210,21 @@ BIBLIOTECA DE MÚSICA DO ICLOUD
 
 A Biblioteca de Música do iCloud é um recurso da Apple Music que permite que você acesse suas músicas identificadas (matched) ou enviadas por upload, playlists e vídeos de música adquiridos na Apple Music, na iTunes Store ou de um terceiro (“Conteúdo da Biblioteca de Música do iCloud”) nos seus dispositivos ativados para Apple Music. A Biblioteca de Música do iCloud é ativada automaticamente quando você configura a sua assinatura Apple Music. A Biblioteca de Música do iCloud coleta informação sobre o seu Conteúdo da Biblioteca de Música do iCloud. Esta informação é associada com a sua Apple ID e comparada com o Conteúdo da Biblioteca de Música do iCloud atualmente disponível na Apple Music. O Conteúdo da Biblioteca de Música do iCloud que não for identificado (matched) é enviado para os servidores da Biblioteca de Música do iCloud da Apple (em um formato determinado pela Apple). Você pode fazer o upload de até 100.000 músicas. As músicas adquiridas a partir da iTunes Store ou Apple Music não contam para este limite. Músicas que não cumprirem com determinados critérios (por exemplo, arquivos excessivamente grandes) ou que não estejam autorizados para o seu dispositivo não são elegíveis para a Biblioteca de Música do iCloud. Quando você utiliza a Biblioteca de Música do iCloud, a Apple registra informações, tal como as faixas que você reproduzir, parar ou pular, os dispositivos que você usar, e o tempo e duração da reprodução. Você concorda em utilizar a Biblioteca de Música do iCloud apenas para conteúdo adquirido legalmente. A Biblioteca de Música em iCloud é disponibilizada “NO ESTADO EM QUE SE ENCONTRA” e poderá conter erros ou inexatidões. Você deverá efetuar uma cópia de segurança dos seus dados e informação antes de utilizar a Biblioteca de Música do iCloud. Caso não seja um membro da Apple Music, você poderá adquirir uma assinatura iTunes Match, que fica sujeita aos termos definidos nesta seção.
 
-J. DISPOSIÇÕES GERAIS APLICÁVEIS A TODOS OS SERVIÇOS
+J. DISPOSIÇÕES ADICIONAIS DO APPLE ARCADE
+
+ASSINATURA DO APPLE ARCADE
+
+O Apple Arcade é um serviço de assinatura de jogos. A sua assinatura do Apple Arcade será automaticamente renovada até que você faça o cancelamento nas configurações da conta. Consulte a seção “Assinaturas” para mais detalhes. Quando a sua assinatura do Apple Arcade expirar, você não terá mais acesso a qualquer funcionalidade do Apple Arcade que exija uma assinatura, incluindo, entre outros, acesso aos apps baixados do Apple Arcade armazenados no seu dispositivo.
+
+K. DISPOSIÇÕES GERAIS APLICÁVEIS A TODOS OS SERVIÇOS
 
 DEFINIÇÃO DA APPLE
 
 Dependendo do seu País de Residência, “Apple” significa:
 
-Apple Inc., localizada em One Apple Park Way, Cupertino, Califórnia, para usuários na América do Norte, América Central, e América do Sul (incluindo o Canadá para utilização da iTunes Store e Apple Music), bem como territórios e possessões dos Estados Unidos; e possessões Francesas e Britânicas na América do Norte, América do Sul, e no Caribe;
+Apple Inc., localizada em One Apple Park Way, Cupertino, Califórnia, para usuários na América do Norte, América Central, e América do Sul (exceto o Canadá), bem como territórios e possessões dos Estados Unidos; e possessões Francesas e Britânicas na América do Norte, América do Sul, e no Caribe;
 
-Apple Canada Inc., localizada em 120 Bremner Blvd., Suite 1600, Toronto ON M5J 0A8, Canadá, para os usuários da App Store e Apple Books no Canadá ou seus territórios ou possessões;
+Apple Canada Inc., localizada em 120 Bremner Blvd., Suite 1600, Toronto ON M5J 0A8, Canadá, para os usuários no Canadá ou seus territórios ou possessões;
 
 iTunes K.K., localizada em Roppongi Hills, 6-10-1 Roppongi, Minato-ku, Tóquio 106-6140, Tóquio, para usuários no Japão;
 
@@ -234,13 +250,11 @@ AVISO DE DIREITO AUTORAL
 
 Caso você acredite que qualquer Conteúdo disponível através dos Serviços infringe um direito autoral reivindicado por você, por favor, contate a Apple nos seguintes locais:
 
-- iTunes Store: https://www.apple.com/legal/internet-services/itunes/itunesstorenotices/
+- iTunes Store, Apple Music, Apple Podcasts: https://www.apple.com/legal/internet-services/itunes/itunesstorenotices/
 
 - App Store: https://www.apple.com/legal/internet-services/itunes/appstorenotices/
 
 - Apple Books: https://www.apple.com/legal/internet-services/itunes/applebooksnotices/
-
-- Apple Music: https://www.apple.com/legal/trademark/claimsofcopyright.html
 
 TÉRMINO E SUSPENSÃO DOS SERVIÇOS
 
@@ -256,13 +270,15 @@ VOCÊ CONCORDA EXPRESSAMENTE QUE SEU USO DE, OU INCAPACIDADE DE USAR, O SERVIÇO
 
 EM HIPÓTESE ALGUMA A APPLE, SEUS DIRETORES, ADMINISTRADORES, EMPREGADOS, AFILIADAS, PREPOSTOS, CONTRATANTES OU LICENCIANTES SERÃO RESPONSÁVEIS POR QUAISQUER DANOS INDIRETOS, PUNITIVOS, ESPECIAIS OU CONSEQUENCIAIS DECORRENTES DE SEU USO DE QUALQUER DOS SERVIÇOS OU POR QUALQUER OUTRA RECLAMAÇÃO RELACIONADA DE QUALQUER FORMA AO SEU USO DOS SERVIÇOS, MESMO QUE A APPLE TENHA SIDO AVISADA SOBRE TAL POSSIBILIDADE. COMO ALGUNS ESTADOS OU JURISDIÇÕES NÃO PERMITEM A EXCLUSÃO OU A LIMITAÇÃO DE RESPONSABILIDADE POR DANOS CONSEQUENCIAIS OU INCIDENTAIS, NESSES ESTADOS OU JURISDIÇÕES, A RESPONSABILIDADE DA APPLE SERÁ LIMITADA NA EXTENSÃO PERMITIDA PELA LEI.
 
-NA MÁXIMA EXTENSÃO PERMITIDA PELAS LEIS APLICÁVEIS, NA MEDIDA EM QUE QUAISQUER RESPONSABILIDADES NÃO SERÃO EXCLUÍDAS OU LIMITADAS POR MOTIVO DE LEI, A MÁXIMA RESPONSABILIDADE AGREGADA E CUMULATIVA POR DANOS DIRETOS CAUSADOS PELA APPLE, SUAS AFILIADAS E FORNECEDORES, QUE SEJAM DECORRENTES OU POR VIOLAÇÃO DO CONTRATO, ATO ILÍCITO (INCLUINDO NEGLIGÊNCIA), VIOLAÇÃO DE OBRIGAÇÃO LEGAL, OU DE QUALQUER OUTRA MANEIRA, NÃO EXCEDERÁ A QUANTIA QUE VOCÊ PAGOU PELOS CONTEÚDOS. VOCÊ RECONHECE E CONCORDA QUE AS LIMITAÇÕES ESTABELECIDAS POR MEIO DESTAS DISPOSIÇÕES SÃO PARTE ESSENCIAL DESTE CONTRATO, E QUE NA AUSÊNCIA DESTAS DISPOSIÇÕES, OS TERMOS E CONDIÇÕES ESTABELECIDOS NESTE CONTRATO SERIAM SUBSTANCIALMENTE DIFERENTES. VOCÊ RECONHECE E CONCORDA QUE AS QUANTIAS PAGAS POR VOCÊ PELOS CONTEÚDOS FORAM ESTABELECIDAS EM CONSIDERAÇÃO AOS RISCOS ENVOLVIDOS NESTA TRANSAÇÃO E A AVALIAÇÃO DA VIABILIDADE ECONÔMICA EXECUTADA PELA APPLE PARA O LANÇAMENTO DE SEUS PRODUTOS NO MERCADO.
+NA MÁXIMA EXTENSÃO PERMITIDA PELAS LEIS APLICÁVEIS, NA MEDIDA EM QUE QUAISQUER RESPONSABILIDADES NÃO SERÃO EXCLUÍDAS OU LIMITADAS POR MOTIVO DE LEI, A MÁXIMA RESPONSABILIDADE AGREGADA E CUMULATIVA POR DANOS DIRETOS CAUSADOS PELA APPLE, SUAS AFILIADAS E FORNECEDORES, QUE SEJAM DECORRENTES OU POR VIOLAÇÃO DO CONTRATO, ATO ILÍCITO (INCLUINDO NEGLIGÊNCIA), VIOLAÇÃO DE OBRIGAÇÃO LEGAL, OU DE QUALQUER OUTRA MANEIRA, NÃO EXCEDERÁ A QUANTIA QUE VOCÊ PAGOU PELOS CONTEÚDOS.
+
+VOCÊ RECONHECE E CONCORDA QUE AS LIMITAÇÕES ESTABELECIDAS POR MEIO DESTAS DISPOSIÇÕES SÃO PARTE ESSENCIAL DESTE CONTRATO, E QUE NA AUSÊNCIA DESTAS DISPOSIÇÕES, OS TERMOS E CONDIÇÕES ESTABELECIDOS NESTE CONTRATO SERIAM SUBSTANCIALMENTE DIFERENTES. VOCÊ RECONHECE E CONCORDA QUE AS QUANTIAS PAGAS POR VOCÊ PELOS CONTEÚDOS FORAM ESTABELECIDAS EM CONSIDERAÇÃO AOS RISCOS ENVOLVIDOS NESTA TRANSAÇÃO E A AVALIAÇÃO DA VIABILIDADE ECONÔMICA EXECUTADA PELA APPLE PARA O LANÇAMENTO DE SEUS PRODUTOS NO MERCADO.
 
 A APPLE ENVIDARÁ ESFORÇOS RAZOÁVEIS PARA PROTEGER A INFORMAÇÃO ENVIADA POR VOCÊ EM RELAÇÃO AO SERVIÇO, MAS VOCÊ CONCORDA QUE SEU ENVIO DE TAL INFORMAÇÃO É POR SEU PRÓPRIO RISCO, E A APPLE NESTE ATO RENUNCIA A TODA E QUALQUER RESPONSABILIDADE PERANTE VOCÊ POR QUALQUER PERDA OU RESPONSABILIDADE RELACIONADA DE QUALQUER FORMA A TAL INFORMAÇÃO.
 
 A APPLE NÃO DECLARA OU GARANTE QUE O SERVIÇO SERÁ LIVRE DE PERDAS, DEFEITOS, ATAQUES, VÍRUS, INTERFERÊNCIAS, ATIVIDADES DE HACKERS OU OUTRA INTRUSÃO DE SEGURANÇA, E A APPLE RENUNCIA A QUALQUER RESPONSABILIDADE COM RELAÇÃO A ISSO. ALGUNS CONTEÚDOS APENAS PODEM SER OBTIDOS UMA VEZ. APÓS O DOWNLOAD, ESSE CONTEÚDO NÃO PODE SER SUBSTITUÍDO CASO SEJA PERDIDO FOR QUALQUER MOTIVO. VOCÊ SERÁ RESPONSÁVEL POR REALIZAR BACKUP DE SEU PRÓPRIO SISTEMA, INCLUINDO QUAISQUER CONTEÚDOS ADQUIRIDOS OU ALUGADOS.
 
-A APPLE NÃO É RESPONSÁVEL POR COBRANÇAS DE DADOS FEITAS A VOCÊ POR CONTA DO SEU USO DOS SERVIÇOS.
+A APPLE NÃO É RESPONSÁVEL POR POSSÍVEIS COBRANÇAS DE DADOS FEITAS A VOCÊ POR CONTA DO SEU USO DOS SERVIÇOS.
 
 RENÚNCIA E INDENIZAÇÃO
 
@@ -292,4 +308,4 @@ Pelo presente instrumento você concede à Apple o direito de tomar medidas que 
 
 Crianças com idade inferior à maioridade deverão rever este Contrato com os seus pais ou tutores legais para assegurar que a criança e pai/mãe ou tutor legal o entendem.
 
-Última Atualização: 17 de setembro de 2018
+Última Atualização: 13 de maio de 2019
