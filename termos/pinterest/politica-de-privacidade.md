@@ -3,8 +3,8 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2018-07-26
-wayback: "https://web.archive.org/web/20180726060903/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2019-05-29
+wayback: "https://web.archive.org/web/20190529231427/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
 
@@ -53,7 +53,7 @@ O que fazemos com as informações que coletamos:
  - Ajudar seus amigos e contatos a encontrar você no Pinterest, caso você concorde com isso em suas configurações. Por exemplo, se você se inscreveu usando uma conta do Facebook, podemos ajudar seus amigos do Facebook a encontrar você quando se inscreverem no Pinterest. Ou as pessoas podem pesquisar sua conta no Pinterest usando seu e-mail.
  - Realizar análises sobre quem está usando o Pinterest e o que essas pessoas estão fazendo. Por exemplo, ao registrar com que frequência as pessoas usam duas versões diferentes de um recurso no Pinterest, podemos entender qual versão é melhor.
  - Melhorar o Pinterest e oferecer novos recursos.
- - Enviar atualizações (por exemplo, quando alguma atividade ocorre no Pinterest, como salvamentos ou comentários) e novidades por e-mail ou notificações push, dependendo das suas configurações. Por exemplo, enviamos atualizações semanais que incluem Pins que podem lhe interessar. Você pode decidir parar de receber essas notificações atualizando suas configurações.
+ - Enviar atualizações (por exemplo, quando alguma atividade ocorre no Pinterest, como Pins salvos ou comentários) e novidades por e-mail ou notificações push, dependendo das suas configurações. Por exemplo, enviamos atualizações semanais que incluem Pins que podem lhe interessar. Você pode decidir parar de receber essas notificações atualizando suas configurações.
  - Trabalhar com as autoridades e manter o Pinterest seguro. Podemos receber solicitações de informações de contas por parte de autoridades, como a polícia ou o poder judiciário, por exemplo. Para saber mais sobre como respondemos a solicitações de autoridades, consulte nossas Diretrizes de Aplicação da Lei.
 
  Temos um interesse legítimo em veicular anúncios que sejam relevantes, interessantes e pessoais para você, a fim de gerar receita (a prestação deste Serviço custa caro!). Para promover esses interesses, usamos as informações que coletamos para:
