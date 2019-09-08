@@ -3,15 +3,9 @@ empresa: "Airbnb"
 documento: "Termos de Uso"
 categoria: "Apps"
 fonte: "https://www.airbnb.com.br/terms"
-capturado_em: 2019-03-28
-wayback: "https://web.archive.org/web/20190328051240/https://www.airbnb.com.br/terms"
+capturado_em: 2019-09-08
+wayback: "https://web.archive.org/web/20190908235544/https://www.airbnb.com.br/terms"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/airbnb/termos-de-uso.md"
----
-
-## Termos de Serviço Atualizados
-
-Recentemente, nós atualizamos nossos: (1) Termos de Serviço, (2) Termos de Serviço de Pagamentos e nossa (3) Política de Privacidade (coletivamente, “**Termos**”). Se você cadastrou uma conta antes de 21 de Janeiro de 2019, nós pediremos para que você concorde com estes novos Termos de Serviço e Termos de Serviço de Pagamentos quando você utilizar o Airbnb no dia 27 de Março de 2019 ou depois dele; até 27 de Março de 2019 os Termos de Serviço e Termos de Serviço de Pagamentos anteriores continuarão sendo aplicados a você. A Política de Privacidade atualizada entrará em vigor automaticamente para todos os atuais usuários em 27 de Março de 2019. Sua utilização contínua da Plataforma do Airbnb a partir deste estará sujeita às novas Políticas de Privacidade. Por favor, leia estes Termos com atenção. Caso você tenha cadastrado uma conta no dia 21 de Janeiro de 2019 ou depois, os Termos atualizados se aplicam a você. Saiba mais sobre o que está sendo alterado em
-
 ---
 
 **Se o seu país de residência estiver localizado fora do Espaço Económico Europeu (“EEE”) ou no Reino Unido, o seu acordo com a Airbnb será regulado pelos Termos de Serviço para Usuários não-Europeus.**
