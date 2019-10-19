@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2019-06-29
-wayback: "https://web.archive.org/web/20190629224030/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2019-10-19
+wayback: "https://web.archive.org/web/20191019125758/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -14,7 +14,7 @@ Quando você usa nossos serviços, está confiando a nós suas informações. En
 
 Esta Política de Privacidade destina-se a ajudar você a entender quais informações coletamos, por que as coletamos e como você pode atualizar, gerenciar, exportar e excluir essas informações.
 
-Em vigor a partir de 22 de janeiro de 2019 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 15 de outubro de 2019 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -205,7 +205,7 @@ Ir para Recomendações compartilhadas
 
 ### Informações que o usuário compartilha
 
-Controle com quem compartilha informações pela conta no Google+.
+Se você é um usuário do G Suite, controle com quem compartilha informações pela conta do Google+.
 
 Ir para Informações que você compartilha
 
@@ -267,7 +267,7 @@ Existem outras formas de controlar as informações coletadas pelo Google, estan
 
 Muitos de nossos serviços permitem que você compartilhe informações com outras pessoas, e você tem o controle sobre o modo como elas são compartilhadas. Por exemplo, você pode compartilhar vídeos no YouTube publicamente ou optar por manter os vídeos particulares. Lembre-se de que quando você compartilha informações publicamente, o conteúdo pode ser acessado por meio de mecanismos de pesquisa, inclusive a Pesquisa do Google.
 
-Quando você está conectado e interage com alguns serviços do Google, por exemplo, deixando comentários em um vídeo do YouTube ou avaliando uma música no Play, seu nome e sua foto aparecem ao lado da sua atividade. Também podemos exibir essas informações em anúncios, dependendo da sua configuração de Recomendações compartilhadas.
+Quando sua conta está conectada e você interage com alguns serviços do Google, por exemplo, deixando comentários em um vídeo do YouTube ou avaliando um app no Google Play, seu nome e sua foto aparecem ao lado da atividade. Também podemos exibir essas informações em anúncios, dependendo da sua configuração de "Recomendações compartilhadas".
 
 ## Quando o Google compartilha as informações
 
@@ -335,9 +335,18 @@ Para excluir suas informações, você pode:
 
 Excluir suas informações
 
-Em alguns casos, armazenamos os dados por períodos limitados, quando eles precisam ser mantidos para fins comerciais ou legais legítimos. Leia sobre os períodos de armazenamento de dados do Google, incluindo quanto tempo levamos para excluir suas informações.
+## Retenção das suas informações
 
-Tentamos garantir que nossos serviços protejam as informações de exclusão acidental ou maliciosa. Devido a isso, pode haver um espaço de tempo entre o momento em que você exclui algo e o momento em que as cópias são excluídas dos nossos sistemas ativos e de backup.
+Nós retemos os dados coletados por diferentes períodos, dependendo de quais dados são, de como os usamos e de como você definiu suas configurações:
+
+- Você pode excluir certos dados quando quiser, como o conteúdo que você cria ou faz upload. Você também pode excluir informações de atividades salvas na sua conta ou escolher que elas sejam excluídas automaticamente depois de um período.
+- Outros dados são excluídos ou anonimizados automaticamente depois de um período, como dados de publicidade em registros de servidores.
+- Alguns dos dados são armazenados até que você exclua sua Conta do Google, como as informações sobre a frequência com que você usa nossos serviços.
+- Além disso, alguns dados são armazenados por maiores períodos para fins comerciais ou legais legítimos, como segurança, prevenção de fraude e abuso ou manutenção de registros financeiros.
+
+Quando você exclui dados, seguimos uma política de exclusão para garantir que eles sejam removidos de forma segura e completa dos nossos servidores ou retidos apenas de forma anônima. Nós nos esforçamos para que nossos serviços mantenham as informações protegidas em caso de exclusão acidental ou maliciosa. Devido a isso, pode haver um espaço de tempo entre o momento em que você exclui algo e o momento em que as cópias são excluídas dos nossos sistemas ativos e de backup.
+
+Leia sobre os períodos de armazenamento de dados do Google, incluindo quanto tempo levamos para excluir suas informações.
 
 # Compliance e cooperação com regulamentadores
 
@@ -378,6 +387,7 @@ Os seguintes avisos de privacidade fornecem informações adicionais sobre algun
 - G Suite for Education
 - YouTube Kids
 - Contas do Google gerenciadas no Family Link para crianças menores de 13 anos (ou a idade aplicável no seu país).
+- Coleta de voz e áudio dos recursos para crianças no Google Assistente
 
 ## Outros recursos úteis
 
