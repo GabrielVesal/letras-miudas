@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2019-10-19
-wayback: "https://web.archive.org/web/20191019125758/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2019-12-14
+wayback: "https://web.archive.org/web/20191214133436/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -31,6 +31,8 @@ Compartilhamento de informações
 Manter suas informações seguras
 
 Exportar e excluir informações
+
+Retenção das suas informações
 
 Compliance e cooperação com regulamentadores
 
@@ -335,7 +337,7 @@ Para excluir suas informações, você pode:
 
 Excluir suas informações
 
-## Retenção das suas informações
+# Retenção das suas informações
 
 Nós retemos os dados coletados por diferentes períodos, dependendo de quais dados são, de como os usamos e de como você definiu suas configurações:
 
