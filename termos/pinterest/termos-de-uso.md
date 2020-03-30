@@ -3,8 +3,8 @@ empresa: "Pinterest"
 documento: "Termos de Uso"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/terms-of-service"
-capturado_em: 2019-03-29
-wayback: "https://web.archive.org/web/20190329154548/https://policy.pinterest.com/pt-br/terms-of-service"
+capturado_em: 2020-03-30
+wayback: "https://web.archive.org/web/20200330103236/https://policy.pinterest.com/pt-br/terms-of-service"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/termos-de-uso.md"
 ---
 
@@ -99,7 +99,7 @@ Obrigado por usar o Pinterest!
 
 7. Encerramento
 
-- O Pinterest pode encerrar ou suspender o seu direito de acessar ou usar o Pinterest por qualquer motivo, mediante aviso apropriado. Podemos encerrar ou suspender seu acesso imediatamente e sem aviso prévio se tivermos um bom motivo, incluindo qualquer violação das nossas Diretrizes da Comunidade. Após o encerramento, você continuará vinculado às Seções 3 e 8 destes Termos.
+- O Pinterest pode encerrar ou suspender o seu direito de acessar ou usar o Pinterest por qualquer motivo, mediante aviso apropriado. Podemos encerrar ou suspender seu acesso imediatamente e sem aviso prévio se tivermos um bom motivo, incluindo qualquer violação das nossas Diretrizes da Comunidade. Após o encerramento, você continuará vinculado às subpastas 3 e 8 destes Termos.
 
  #### Simplificando
 
