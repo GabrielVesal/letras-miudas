@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2019-12-14
-wayback: "https://web.archive.org/web/20191214133436/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2020-04-24
+wayback: "https://web.archive.org/web/20200424065055/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -14,7 +14,7 @@ Quando você usa nossos serviços, está confiando a nós suas informações. En
 
 Esta Política de Privacidade destina-se a ajudar você a entender quais informações coletamos, por que as coletamos e como você pode atualizar, gerenciar, exportar e excluir essas informações.
 
-Em vigor a partir de 15 de outubro de 2019 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 31 de março de 2020 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -356,7 +356,7 @@ Revisamos regularmente esta Política de Privacidade e nos certificamos de que p
 
 ## Transferências de dados
 
-Temos servidores em todo o mundo e suas informações podem ser processadas em servidores localizados fora do país em que você vive. As leis de proteção de dados variam de acordo com o país, sendo que algumas oferecem mais proteção que outras. Independentemente do local onde suas informações são processadas, aplicamos as mesmas proteções descritas nesta política. Também atuamos em conformidade com determinadas estruturas legais relacionadas à transferência de dados, como as estruturas Privacy Shields entre União Europeia e Estados Unidos e Suíça e Estados Unidos.
+Temos servidores em todo o mundo e suas informações podem ser processadas em servidores localizados fora do país em que você vive. As leis de proteção de dados variam de acordo com o país, sendo que algumas oferecem mais proteção que outras. Independentemente do local onde suas informações são processadas, aplicamos as mesmas proteções descritas nesta política. Também atuamos em conformidade com determinadas estruturas legais relacionadas à transferência de dados, como as estruturas do EU-U.S. e Swiss-U.S. Privacy Shield (Escudo de Proteção da Privacidade entre os Estados Unidos e a União Europeia e entre os Estados Unidos e a Suíça).
 
 Quando recebemos reclamações formais por escrito, respondemos entrando em contato com o requerente. Trabalhamos com as autoridades reguladoras apropriadas, inclusive autoridades locais de proteção de dados, para resolver quaisquer reclamações referentes à transferência de dados que não possamos resolver diretamente com você.
 
@@ -405,171 +405,7 @@ Os links a seguir destacam recursos úteis para você saber mais sobre nossas pr
  - como o Google usa o reconhecimento de padrões para reconhecer itens como rostos em fotos.
  - Como o Google usa informações de sites ou apps que utilizam nossos serviços
 
-### anúncios que você pode considerar mais úteis
-
-Por exemplo, se você assistir a vídeos sobre culinária no YouTube, poderá ver mais anúncios relacionados à culinária ao navegar na Web. Também podemos usar seu endereço IP para determinar sua localização aproximada, para que possamos exibir anúncios de um serviço de entrega de pizza nas proximidades se você pesquisar "pizza". Saiba mais sobre os anúncios do Google e por que você pode ver anúncios específicos.
-
-### as pessoas on-line que são mais importantes para você
-
-Por exemplo, quando você digita um endereço no campo Para, Cc ou Cco de um e-mail que está escrevendo, o Gmail sugere endereços com base nas pessoas com quem você entra em contato com mais frequência.
-
-### número de telefone
-
-Se você adicionar seu número de telefone à conta, ele poderá ser usado para diferentes fins nos serviços do Google, dependendo das suas configurações. Por exemplo, o número de telefone pode ser usado para ajudar você a acessar sua conta caso esqueça a senha, ajudar as pessoas a encontrarem e entrarem em contato com você e tornar os anúncios exibidos mais relevantes. Saiba mais
-
-### informações de pagamento
-
-Por exemplo, se você adicionar um cartão de crédito ou outra forma de pagamento à Conta do Google, poderá usá-lo para comprar itens em nossos serviços, como apps na Play Store. Também podemos solicitar outras informações, como o CNPJ de empresas, para ajudar a processar o pagamento. Em alguns casos, também pode ser necessário confirmar sua identidade e solicitar informações para isso.
-
-Também podemos usar as informações de pagamento para verificar se você atende aos requisitos de idade se, por exemplo, você inserir uma data de nascimento incorreta indicando que não tem idade suficiente para ter uma Conta do Google. Saiba mais
-
-### dispositivos
-
-Podemos, por exemplo, usar informações dos seus dispositivos para ajudar você a decidir qual dispositivo gostaria de usar para instalar um app ou ver um filme que comprou no Google Play. Também usamos essas informações para ajudar a proteger sua conta.
-
-### dispositivo Android com apps do Google
-
-Os dispositivos Android com Google apps incluem dispositivos vendidos pelo Google ou por um de nossos parceiros e incluem smartphones, câmeras, veículos, wearables e televisões. Esses dispositivos usam o Google Play Services e outros apps pré-instalados que incluem serviços como o Gmail, o Google Maps, a câmera e o discador do smartphone, conversão de texto em voz, entrada do teclado e recursos de segurança.
-
-### visualizações e interações com conteúdo e anúncios
-
-Por exemplo, coletamos informações sobre visualizações e interações com anúncios para que possamos fornecer relatórios agregados aos anunciantes, como informar se veiculamos o anúncio deles em uma página e se o anúncio provavelmente foi visto por um espectador. Podemos também mensurar outras interações, como o modo que você move o mouse sobre um anúncio ou se você interage com a página em que o anúncio é exibido.
-
-### sincronizou com a Conta do Google
-
-O histórico de navegação do Google Chrome só é salvo na sua conta se você tiver ativado a sincronização do Chrome com a Conta do Google. Saiba mais
-
-### serviços para fazer e receber chamadas ou enviar e receber mensagens
-
-São exemplos desses serviços:
-
-- Google Hangouts, para fazer chamadas domésticas e internacionais
-- Google Voice, para fazer chamadas, enviar mensagens de texto e gerenciar o correio de voz
-- Google Fi, para um plano de telefone
-
-### dados do sensor do seu dispositivo
-
-Seu dispositivo pode ter sensores que podem ser usados para entender melhor sua localização e movimentação. Por exemplo, um acelerômetro pode ser usado para determinar sua velocidade e um giroscópio pode ser usado para descobrir em que direção você está indo.
-
-### informações sobre itens próximos do dispositivo
-
-Se você usa os serviços de localização do Google no Android, podemos melhorar o desempenho dos apps que dependem da localização, como o Google Maps. Se você usa os serviços de localização do Google, o dispositivo envia ao Google informações sobre localização, sensores (por exemplo, acelerômetro), torres de celular e pontos de acesso Wi-Fi próximos (por exemplo, endereço MAC e intensidade do sinal). Todos esses itens ajudam a determinar sua localização. Você pode usar as configurações do dispositivo para ativar os serviços de localização do Google. Saiba mais
-
-### fontes de acesso público
-
-Podemos, por exemplo, coletar informações disponíveis publicamente on-line ou de outras fontes públicas para ajudar a treinar os modelos de idiomas do Google e criar recursos como o Google Tradutor.
-
-### proteção contra abuso
-
-Por exemplo, informações sobre ameaças de segurança podem nos ajudar a notificar você se acreditarmos que sua conta foi comprometida, e, então, podemos ajudar com as medidas para proteger sua conta.
-
-### serviços de publicidade e pesquisa em nome deles
-
-Por exemplo, os anunciantes podem fazer upload de dados dos programas de cartão de fidelidade para que possam entender melhor o desempenho das campanhas publicitárias deles. Apenas fornecemos relatórios agregados aos anunciantes, esses relatórios não revelam informações sobre pessoas específicas.
-
-### fornecer nossos serviços
-
-Exemplos de como usamos suas informações para fornecer nossos serviços incluem:
-
-- a utilização do endereço IP atribuído ao seu dispositivo para enviar os dados solicitados por você, como o carregamento de um vídeo do YouTube;
-- a utilização dos identificadores exclusivos armazenados em cookies no seu dispositivo, que nos ajudam a autenticar você como a pessoa que deve ter acesso à sua Conta do Google;
-- a utilização de fotos e vídeos enviados para o Google Fotos para ajudar você a criar álbuns, animações e outras criações que podem ser compartilhadas; Saiba mais
-- a utilização de um e-mail de confirmação de voo recebido por você para criar um botão de "check-in" no Gmail.
-- Quando você compra serviços ou produtos físicos conosco, você pode nos fornecer informações como endereço de entrega ou instruções para a entrega. Usamos essas informações para, dentre outros, processar, atender e entregar o seu pedido, além de oferecer o suporte relacionado ao produto ou serviço comprado.
-
-### garantir que nossos serviços funcionem como o esperado
-
-Por exemplo, monitoramos continuamente nossos sistemas em busca de problemas. E se encontramos algo errado com um recurso específico, a avaliação das informações de atividades coletadas antes do início do problema nos permite corrigir os erros mais rapidamente.
-
-### aprimorar
-
-Por exemplo, usamos cookies para analisar como as pessoas interagem com nossos serviços. E essa análise pode nos ajudar a criar produtos melhores. Por exemplo, pode nos ajudar a descobrir que as pessoas estão demorando muito para realizar determinada tarefa ou que estão tendo problemas para concluir etapas. Podemos, então, reformular esse recurso e melhorar o produto para todos.
-
-### resultados de pesquisa personalizados
-
-Por exemplo, quando você está conectado à sua Conta do Google e está com a Atividade na Web e de apps ativada, pode receber resultados de pesquisa mais relevantes com base nas pesquisas e atividades anteriores em outros serviços do Google. Saiba mais aqui. Você também pode receber resultados de pesquisa personalizados quando estiver desconectado. Caso você não queira esse nível de personalização de pesquisa, pode pesquisar e navegar de modo particular ou desativar a personalização de pesquisa de usuário desconectado.
-
-### anúncios personalizados
-
-Também é possível ver anúncios personalizados com base em informações do anunciante. Se você tiver feito compras no site de um anunciante, por exemplo, ele pode usar as informações dessa visita para exibir anúncios para você. Saiba mais
-
-### categorias sensíveis
-
-Ao mostrar anúncios personalizados, usamos tópicos que achamos que podem ser interessantes para você com base na sua atividade. Por exemplo, podem ser exibidos anúncios de itens como "culinária e receitas" ou "viagem aérea". Não usamos tópicos nem exibimos anúncios personalizados com base em categorias sensíveis, como raça, religião, orientação sexual ou saúde. E exigimos o mesmo dos anunciantes que usam nossos serviços.
-
-### podem vincular informações
-
-O Google Analytics faz uso de cookies primários, o que significa que os cookies são configurados pelo cliente do Analytics. Usando nossos sistemas, os dados gerados pelo Google Analytics podem ser vinculados pelo cliente do Analytics e pelo Google a cookies de terceiros relacionados a visitas a outros sites. Por exemplo, pode acontecer de um anunciante usar os dados do Google Analytics para criar anúncios mais relevantes ou analisar melhor o tráfego. Saiba mais
-
-### segurança e confiabilidade
-
-Alguns exemplos de como usamos suas informações para ajudar a manter nossos serviços seguros e confiáveis são descritos a seguir.
-
-- Coleta e análise de endereços IP e dados de cookies para impedir abuso automatizado. Esse abuso assume muitas formas, como envio de spam para usuários do Gmail, roubo de dinheiro de anunciantes por meio de cliques fraudulentos em anúncios ou censura de conteúdo ao iniciar um ataque distribuído de negação de serviço (DDoS, na sigla em inglês).
-- O recurso “última atividade da conta” do Gmail pode ajudar você a descobrir se e quando alguém acessou seu e-mail sem seu conhecimento. Esse recurso mostra informações sobre a atividade recente no seu e-mail, como os endereços IP que acessaram o e-mail, o local associado, a hora e a data de acesso. Saiba mais
-
-### detectar abuso
-
-Quando detectamos spam, malware, conteúdo ilegal e outras formas de abuso que violam nossas políticas em nossos sistemas, podemos desativar sua conta ou tomar outras medidas adequadas. Em certas circunstâncias, podemos também denunciar a violação às autoridades competentes.
-
-### combinar as informações que coletamos
-
-Alguns exemplos de como combinamos as informações que coletamos são descritos a seguir.
-
-- Quando você está conectado à sua Conta do Google e faz uma pesquisa no Google, pode ver os resultados de pesquisa da Web pública, junto com informações relevantes e relacionadas ao seu conteúdo em outros produtos do Google, como Gmail ou Google Agenda. Isso pode incluir itens como o status dos próximos voos, reservas de restaurantes e hotéis ou fotos. Saiba mais
-- Se você se comunicou com alguém pelo Gmail e quer adicionar essa pessoa a um Documento Google ou a um evento no Google Agenda, o Google facilita isso ao completar automaticamente o endereço de e-mail quando você começa a digitar o nome dela. Esse recurso facilita o compartilhamento de itens com pessoas que você conhece. Saiba mais
-- O Google app pode usar dados que você armazenou em outros produtos do Google para exibir conteúdo personalizado, dependendo das suas configurações. Por exemplo, se você tiver pesquisas armazenadas na Atividade na Web e de apps, o Google app pode mostrar artigos de notícias e outras informações sobre seus interesses, como resultados de jogos, com base nas atividades realizadas. Saiba mais
-- Se você vincular a Conta do Google ao Google Home, poderá gerenciar informações e realizar tarefas com o Google Assistente. Por exemplo, é possível adicionar eventos ao Google Agenda ou receber a programação do dia, solicitar atualizações de status sobre o próximo voo ou enviar informações como rotas de carro para o smartphone. Saiba mais
-
-### atividade em outros sites e apps
-
-Essa atividade pode ser proveniente do seu uso de serviços do Google, como a sincronização da conta com o Chrome ou das visitas a sites e apps que têm parceria com o Google. Muitos sites e apps têm parceria com o Google para melhorar o conteúdo e serviços deles. Por exemplo, um site pode usar nossos serviços de publicidade (como o AdSense) ou ferramentas de análise (como o Google Analytics) ou pode incorporar outros conteúdos (como vídeos do YouTube). Esses serviços podem compartilhar com o Google informações sobre sua atividade. Dependendo das configurações da conta e dos produtos em uso (por exemplo, quando um parceiro usa o Google Analytics juntamente com nossos serviços de publicidade), esses dados podem ser associados às suas informações pessoais.
-
-Saiba mais sobre como a Google usa dados quando o usuário utiliza sites ou apps dos nossos parceiros.
-
-### têm parceria com o Google
-
-Há mais de 2 milhões de sites e apps que não são do Google, mas têm parceria com o Google para exibir anúncios. Saiba mais
-
-### serviços específicos do Google
-
-Por exemplo, é possível excluir seu blog do Blogger ou um site Google que você tenha no Google Sites. Também é possível excluir resenhas que você deixou sobre apps, jogos e outros conteúdos da Play Store.
-
-### dependem de cookies para funcionar corretamente
-
-Por exemplo, usamos um cookie chamado "lbcs", o que possibilita que você abra muitos Documentos Google em um navegador. Bloquear esse cookie impede que os Documentos Google funcionem como o esperado. Saiba mais
-
-### ordem judicial ou solicitação governamental aplicável
-
-Como outras empresas de tecnologia e comunicação, o Google recebe regularmente solicitações de governos e tribunais do mundo todo para divulgar dados de usuários. O respeito pela privacidade e segurança dos dados armazenados no Google sustenta nossa abordagem ao obedecer a essas solicitações oficiais. Nossa equipe jurídica analisa cada solicitação, independentemente do tipo, e frequentemente recuamos quando o pedido parece ser excessivamente abrangente ou não segue o processo correto. Saiba mais no nosso Transparency Report.
-
-### mostrar tendências
-
-Quando muitas pessoas começam a pesquisar algo, isso pode fornecer informações úteis sobre as tendências específicas naquele momento. O Google Trends analisa as pesquisas do Google na Web para fazer uma estimativa da popularidade das pesquisas durante determinado período e compartilha esses resultados publicamente em termos agregados. Saiba mais
-
-### parceiros específicos
-
-Por exemplo, permitimos que criadores de conteúdo e anunciantes do YouTube trabalhem com empresas de medição para conhecer o público dos vídeos ou anúncios do YouTube, usando cookies ou tecnologias semelhantes. Outro exemplo são os comerciantes das nossas páginas de compras que usam cookies para saber quantas pessoas veem as listagens de produtos deles. Saiba mais sobre esses parceiros e como eles usam suas informações.
-
-### servidores em todo o mundo
-
-Por exemplo, operamos data centers no mundo todo para ajudar a manter nossos produtos disponíveis continuamente para os usuários.
-
-### terceiros
-
-Por exemplo, processamos suas informações para informar estatísticas de uso aos detentores de direitos sobre como o conteúdo deles foi usado em nossos serviços. Também podemos processar suas informações se pessoas pesquisarem seu nome, bem como exibir resultados da pesquisa com os sites que contenham informações disponíveis publicamente sobre você.
-
-### salvaguardas apropriadas
-
-Por exemplo, podemos tornar dados anônimos ou criptografar dados para garantir que eles não possam ser vinculados a outras informações sobre você. Saiba mais
-
-### garantir e melhorar
-
-Por exemplo, analisamos como as pessoas interagem com a publicidade para melhorar o desempenho de nossos anúncios.
-
-### Personalizar nossos serviços
-
-Por exemplo, podemos exibir um Doodle do Google na página inicial da Pesquisa para celebrar um evento específico do seu país.
+## Termos-chave
 
 ### Afiliados
 
@@ -579,25 +415,25 @@ Uma afiliada é uma entidade que pertence ao grupo de empresas do Google, inclui
 
 Processo ou conjunto de regras seguido por um computador durante operações de resolução de problemas.
 
-### Cache de dados de aplicativos
-
-Um cache de dados de aplicativo é um repositório de dados em um dispositivo. Ele pode, por exemplo, permitir que um aplicativo da Web seja executado sem conexão à Internet e aprimorar o desempenho do aplicativo ao ativar um carregamento mais rápido do conteúdo.
-
 ### Armazenamento de navegador da Web
 
 O armazenamento de navegador da Web permite que sites armazenem dados no navegador de um dispositivo. Quando usado no modo "Armazenamento local", permite que os dados sejam armazenados em sessões. Isso permite que os dados sejam recuperados mesmo depois de o navegador ter sido fechado e aberto novamente. Uma tecnologia que facilita o armazenamento na Web é o HTML 5.
 
-### Cookies e tecnologias semelhantes
+### Cache de dados de aplicativos
+
+Um cache de dados de aplicativo é um repositório de dados em um dispositivo. Ele pode, por exemplo, permitir que um aplicativo da Web seja executado sem conexão à Internet e aprimorar o desempenho do aplicativo ao ativar um carregamento mais rápido do conteúdo.
+
+### Conta do Google
+
+É possível acessar alguns dos nossos serviços criando uma Conta do Google e fornecendo algumas informações pessoais (como nome, endereço de e-mail e uma senha). As informações dessa conta são usadas durante a autenticação quando você acessa os serviços do Google, além de protegerem sua conta contra acesso não autorizado de outras pessoas. Você pode editar ou excluir sua conta a qualquer momento nas configurações da Conta do Google.
+
+### Cookies
 
 Um cookie é um arquivo pequeno que contém uma sequência de caracteres. Ele é enviado para seu computador quando você visita um site. Quando você acessa o site novamente, o cookie permite que o site reconheça seu navegador. Os cookies podem armazenar as preferências do usuário e outras informações. É possível configurar seu navegador para recusar todos os cookies ou avisar quando um cookie estiver sendo enviado. No entanto, alguns recursos ou serviços do site podem não funcionar adequadamente sem cookies. Saiba mais sobre como o Google usa os cookies e como o Google usa dados, inclusive cookies, quando você usa os sites e aplicativos dos nossos parceiros.
 
 ### Dispositivo
 
 Um dispositivo é um computador que pode ser usado para acessar os serviços do Google. Por exemplo, computadores desktop, tablets, alto-falantes inteligentes e smartphones são considerados dispositivos.
-
-### Informações de identificação não pessoais
-
-São as informações gravadas sobre os usuários para que não mais reflitam ou façam referência a um usuário individualmente identificável.
 
 ### Endereço IP
 
@@ -606,6 +442,18 @@ Para todo dispositivo conectado à Internet é atribuído um número conhecido c
 ### Etiqueta de pixel
 
 Tag de pixel é um tipo de tecnologia utilizada em um site ou no corpo de um e-mail com a finalidade de rastrear determinadas atividades, como visualizações de um site ou quando um e-mail é aberto. Tags de pixel costumam ser usadas juntamente com cookies.
+
+### Identificadores exclusivos
+
+Um identificador exclusivo é uma string de caracteres que pode ser usada para identificar, de forma única, um navegador, aplicativo ou dispositivo. Diferentes identificadores variam no sentido de serem ou não permanentes, de poderem ou não ser redefinidos pelo usuário e no modo como podem ser acessados.
+
+Identificadores exclusivos podem ser usados para diversas finalidades, inclusive segurança e detecção de fraudes, sincronização de serviços, como a caixa de entrada de e-mails, memorização das suas preferências e exibição de anúncios personalizados. Por exemplo, os identificadores exclusivos armazenados em cookies ajudam os sites a exibir conteúdo no seu idioma preferido no navegador. É possível configurar seu navegador para recusar todos os cookies ou avisar quando um cookie estiver sendo enviado. Saiba mais sobre como o Google usa os cookies.
+
+Em outras plataformas que não sejam navegadores, os identificadores exclusivos são usados para reconhecer um dispositivo ou aplicativo específico no dispositivo em questão. Por exemplo, um identificador exclusivo, como o código de publicidade, é usado para mostrar anúncios relevantes em dispositivos Android e pode ser gerenciado nas configurações do seu dispositivo. Identificadores exclusivos também podem ser incorporados a um dispositivo pelo fabricante dele (chamado também de código exclusivo universal ou UUID, na sigla em inglês), como o número IMEI de um celular. Por exemplo, o identificador exclusivo de um dispositivo pode ser usado para personalizar nosso serviço para seu dispositivo ou para analisar problemas no dispositivo relacionados aos nossos serviços.
+
+### Informações de identificação não pessoais
+
+São as informações gravadas sobre os usuários para que não mais reflitam ou façam referência a um usuário individualmente identificável.
 
 ### Informações pessoais
 
@@ -629,10 +477,166 @@ Uma entrada de registro padrão para uma pesquisa de “carros” é assim:
 - `Firefox 1.0.7; Windows NT 5.1` é o navegador e sistema operacional em uso.
 - `740674ce2123a969` é o ID do cookie único atribuído a esse computador específico na primeira vez que ele visitou o Google. Os cookies podem ser excluídos pelos usuários. Se o usuário excluir o cookie do computador depois da última vez que acessou o site do Google, esse será o ID do cookie exclusivo atribuído ao dispositivo dele na próxima vez que ele acessar o site do Google em um dispositivo particular.
 
-### Identificadores exclusivos
+### URL referenciador
 
-Um identificador exclusivo é uma string de caracteres que pode ser usada para identificar, de forma única, um navegador, aplicativo ou dispositivo. Diferentes identificadores variam no sentido de serem ou não permanentes, de poderem ou não ser redefinidos pelo usuário e no modo como podem ser acessados.
+URL (Localizador uniforme de recursos) referenciador é a informação transmitida a uma página da Web de destino por um navegador da Web, geralmente quando você clica em um link para essa página. O URL referenciador contém o URL da última página da Web acessada pelo navegador.
 
-Identificadores exclusivos podem ser usados para diversas finalidades, inclusive segurança e detecção de fraudes, sincronização de serviços, como a caixa de entrada de e-mails, memorização das suas preferências e exibição de anúncios personalizados. Por exemplo, os identificadores exclusivos armazenados em cookies ajudam os sites a exibir conteúdo no seu idioma preferido no navegador. É possível configurar seu navegador para recusar todos os cookies ou avisar quando um cookie estiver sendo enviado. Saiba mais sobre como o Google usa os cookies.
+## Contexto adicional
 
-Em outras plataformas que não sejam navegadores, os identificadores exclusivos são usados para reconhecer um dispositivo ou aplicativo específico no dispositivo em questão. Por exemplo, um identificador exclusivo, como o código de publicidade, é usado para mostrar anúncios relevantes em dispositivos Android e pode ser gerenciado nas configurações do seu dispositivo. Identificadores exclusivos também podem ser incorporados a um dispositivo pelo fabricante dele (chamado também de código exclusivo universal ou UUID, na sigla em inglês), como o número IMEI de um celular. Por exemplo, o identificador exclusivo de um dispositivo pode ser usado para personalizar nosso serviço para seu dispositivo ou para analisar problemas no dispositivo relacionados aos nossos serviços.
+### anúncios personalizados
+
+Também é possível ver anúncios personalizados com base em informações do anunciante. Se você tiver feito compras no site de um anunciante, por exemplo, ele pode usar as informações dessa visita para exibir anúncios para você. Saiba mais
+
+### anúncios que você pode considerar mais úteis
+
+Por exemplo, se você assistir a vídeos sobre culinária no YouTube, poderá ver mais anúncios relacionados à culinária ao navegar na Web. Também podemos usar seu endereço IP para determinar sua localização aproximada, para que possamos exibir anúncios de um serviço de entrega de pizza nas proximidades se você pesquisar "pizza". Saiba mais sobre os anúncios do Google e por que você pode ver anúncios específicos.
+
+### aprimorar
+
+Por exemplo, usamos cookies para analisar como as pessoas interagem com nossos serviços. E essa análise pode nos ajudar a criar produtos melhores. Por exemplo, pode nos ajudar a descobrir que as pessoas estão demorando muito para realizar determinada tarefa ou que estão tendo problemas para concluir etapas. Podemos, então, reformular esse recurso e melhorar o produto para todos.
+
+### as pessoas on-line que são mais importantes para você
+
+Por exemplo, quando você digita um endereço no campo Para, Cc ou Cco de um e-mail que está escrevendo, o Gmail sugere endereços com base nas pessoas com quem você entra em contato com mais frequência.
+
+### atividade em outros sites e apps
+
+Essa atividade pode ser proveniente do seu uso de serviços do Google, como a sincronização da conta com o Chrome ou das visitas a sites e apps que têm parceria com o Google. Muitos sites e apps têm parceria com o Google para melhorar o conteúdo e serviços deles. Por exemplo, um site pode usar nossos serviços de publicidade (como o AdSense) ou ferramentas de análise (como o Google Analytics) ou pode incorporar outros conteúdos (como vídeos do YouTube). Esses serviços podem compartilhar com o Google informações sobre sua atividade. Dependendo das configurações da conta e dos produtos em uso (por exemplo, quando um parceiro usa o Google Analytics juntamente com nossos serviços de publicidade), esses dados podem ser associados às suas informações pessoais.
+
+Saiba mais sobre como a Google usa dados quando o usuário utiliza sites ou apps dos nossos parceiros.
+
+### categorias sensíveis
+
+Ao mostrar anúncios personalizados, usamos tópicos que achamos que podem ser interessantes para você com base na sua atividade. Por exemplo, podem ser exibidos anúncios de itens como "culinária e receitas" ou "viagem aérea". Não usamos tópicos nem exibimos anúncios personalizados com base em categorias sensíveis, como raça, religião, orientação sexual ou saúde. E exigimos o mesmo dos anunciantes que usam nossos serviços.
+
+### combinar as informações que coletamos
+
+Alguns exemplos de como combinamos as informações que coletamos são descritos a seguir.
+
+- Quando você está conectado à sua Conta do Google e faz uma pesquisa no Google, pode ver os resultados de pesquisa da Web pública, junto com informações relevantes e relacionadas ao seu conteúdo em outros produtos do Google, como Gmail ou Google Agenda. Isso pode incluir itens como o status dos próximos voos, reservas de restaurantes e hotéis ou fotos. Saiba mais
+- Se você se comunicou com alguém pelo Gmail e quer adicionar essa pessoa a um Documento Google ou a um evento no Google Agenda, o Google facilita isso ao completar automaticamente o endereço de e-mail quando você começa a digitar o nome dela. Esse recurso facilita o compartilhamento de itens com pessoas que você conhece. Saiba mais
+- O Google app pode usar dados que você armazenou em outros produtos do Google para exibir conteúdo personalizado, dependendo das suas configurações. Por exemplo, se você tiver pesquisas armazenadas na Atividade na Web e de apps, o Google app pode mostrar artigos de notícias e outras informações sobre seus interesses, como resultados de jogos, com base nas atividades realizadas. Saiba mais
+- Se você vincular a Conta do Google ao Google Home, poderá gerenciar informações e realizar tarefas com o Google Assistente. Por exemplo, é possível adicionar eventos ao Google Agenda ou receber a programação do dia, solicitar atualizações de status sobre o próximo voo ou enviar informações como rotas de carro para o smartphone. Saiba mais
+
+### dados do sensor do seu dispositivo
+
+Seu dispositivo pode ter sensores que podem ser usados para entender melhor sua localização e movimentação. Por exemplo, um acelerômetro pode ser usado para determinar sua velocidade e um giroscópio pode ser usado para descobrir em que direção você está indo.
+
+### dependem de cookies para funcionar corretamente
+
+Por exemplo, usamos um cookie chamado "lbcs", o que possibilita que você abra muitos Documentos Google em um navegador. Bloquear esse cookie impede que os Documentos Google funcionem como o esperado. Saiba mais
+
+### detectar abuso
+
+Quando detectamos spam, malware, conteúdo ilegal e outras formas de abuso que violam nossas políticas em nossos sistemas, podemos desativar sua conta ou tomar outras medidas adequadas. Em certas circunstâncias, podemos também denunciar a violação às autoridades competentes.
+
+### dispositivo Android com apps do Google
+
+Os dispositivos Android com Google apps incluem dispositivos vendidos pelo Google ou por um de nossos parceiros e incluem smartphones, câmeras, veículos, wearables e televisões. Esses dispositivos usam o Google Play Services e outros apps pré-instalados que incluem serviços como o Gmail, o Google Maps, a câmera e o discador do smartphone, conversão de texto em voz, entrada do teclado e recursos de segurança.
+
+### dispositivos
+
+Podemos, por exemplo, usar informações dos seus dispositivos para ajudar você a decidir qual dispositivo gostaria de usar para instalar um app ou ver um filme que comprou no Google Play. Também usamos essas informações para ajudar a proteger sua conta.
+
+### fontes de acesso público
+
+Podemos, por exemplo, coletar informações disponíveis publicamente on-line ou de outras fontes públicas para ajudar a treinar os modelos de idiomas do Google e criar recursos como o Google Tradutor.
+
+### fornecer nossos serviços
+
+Exemplos de como usamos suas informações para fornecer nossos serviços incluem:
+
+- a utilização do endereço IP atribuído ao seu dispositivo para enviar os dados solicitados por você, como o carregamento de um vídeo do YouTube;
+- a utilização dos identificadores exclusivos armazenados em cookies no seu dispositivo, que nos ajudam a autenticar você como a pessoa que deve ter acesso à sua Conta do Google;
+- a utilização de fotos e vídeos enviados para o Google Fotos para ajudar você a criar álbuns, animações e outras criações que podem ser compartilhadas; Saiba mais
+- a utilização de um e-mail de confirmação de voo recebido por você para criar um botão de "check-in" no Gmail.
+- Quando você compra serviços ou produtos físicos conosco, você pode nos fornecer informações como endereço de entrega ou instruções para a entrega. Usamos essas informações para, dentre outros, processar, atender e entregar o seu pedido, além de oferecer o suporte relacionado ao produto ou serviço comprado.
+
+### garantir e melhorar
+
+Por exemplo, analisamos como as pessoas interagem com a publicidade para melhorar o desempenho de nossos anúncios.
+
+### garantir que nossos serviços funcionem como o esperado
+
+Por exemplo, monitoramos continuamente nossos sistemas em busca de problemas. E se encontramos algo errado com um recurso específico, a avaliação das informações de atividades coletadas antes do início do problema nos permite corrigir os erros mais rapidamente.
+
+### informações de pagamento
+
+Por exemplo, se você adicionar um cartão de crédito ou outra forma de pagamento à Conta do Google, poderá usá-lo para comprar itens em nossos serviços, como apps na Play Store. Também podemos solicitar outras informações, como o CNPJ de empresas, para ajudar a processar o pagamento. Em alguns casos, também pode ser necessário confirmar sua identidade e solicitar informações para isso.
+
+Também podemos usar as informações de pagamento para verificar se você atende aos requisitos de idade se, por exemplo, você inserir uma data de nascimento incorreta indicando que não tem idade suficiente para ter uma Conta do Google. Saiba mais
+
+### informações sobre itens próximos do dispositivo
+
+Se você usa os serviços de localização do Google no Android, podemos melhorar o desempenho dos apps que dependem da localização, como o Google Maps. Se você usa os serviços de localização do Google, o dispositivo envia ao Google informações sobre localização, sensores (por exemplo, acelerômetro), torres de celular e pontos de acesso Wi-Fi próximos (por exemplo, endereço MAC e intensidade do sinal). Todos esses itens ajudam a determinar sua localização. Você pode usar as configurações do dispositivo para ativar os serviços de localização do Google. Saiba mais
+
+### mostrar tendências
+
+Quando muitas pessoas começam a pesquisar algo, isso pode fornecer informações úteis sobre as tendências específicas naquele momento. O Google Trends analisa as pesquisas do Google na Web para fazer uma estimativa da popularidade das pesquisas durante determinado período e compartilha esses resultados publicamente em termos agregados. Saiba mais
+
+### número de telefone
+
+Se você adicionar seu número de telefone à conta, ele poderá ser usado para diferentes fins nos serviços do Google, dependendo das suas configurações. Por exemplo, o número de telefone pode ser usado para ajudar você a acessar sua conta caso esqueça a senha, ajudar as pessoas a encontrarem e entrarem em contato com você e tornar os anúncios exibidos mais relevantes. Saiba mais
+
+### ordem judicial ou solicitação governamental aplicável
+
+Como outras empresas de tecnologia e comunicação, o Google recebe regularmente solicitações de governos e tribunais do mundo todo para divulgar dados de usuários. O respeito pela privacidade e segurança dos dados armazenados no Google sustenta nossa abordagem ao obedecer a essas solicitações oficiais. Nossa equipe jurídica analisa cada solicitação, independentemente do tipo, e frequentemente recuamos quando o pedido parece ser excessivamente abrangente ou não segue o processo correto. Saiba mais no nosso Transparency Report.
+
+### parceiros específicos
+
+Por exemplo, permitimos que criadores de conteúdo e anunciantes do YouTube trabalhem com empresas de medição para conhecer o público dos vídeos ou anúncios do YouTube, usando cookies ou tecnologias semelhantes. Outro exemplo são os comerciantes das nossas páginas de compras que usam cookies para saber quantas pessoas veem as listagens de produtos deles. Saiba mais sobre esses parceiros e como eles usam suas informações.
+
+### podem vincular informações
+
+O Google Analytics faz uso de cookies primários, o que significa que os cookies são configurados pelo cliente do Analytics. Usando nossos sistemas, os dados gerados pelo Google Analytics podem ser vinculados pelo cliente do Analytics e pelo Google a cookies de terceiros relacionados a visitas a outros sites. Por exemplo, pode acontecer de um anunciante usar os dados do Google Analytics para criar anúncios mais relevantes ou analisar melhor o tráfego. Saiba mais
+
+### proteção contra abuso
+
+Por exemplo, informações sobre ameaças de segurança podem nos ajudar a notificar você se acreditarmos que sua conta foi comprometida, e, então, podemos ajudar com as medidas para proteger sua conta.
+
+### resultados de pesquisa personalizados
+
+Por exemplo, quando você está conectado à sua Conta do Google e está com a Atividade na Web e de apps ativada, pode receber resultados de pesquisa mais relevantes com base nas pesquisas e atividades anteriores em outros serviços do Google. Saiba mais aqui. Você também pode receber resultados de pesquisa personalizados quando estiver desconectado. Caso você não queira esse nível de personalização de pesquisa, pode pesquisar e navegar de modo particular ou desativar a personalização de pesquisa de usuário desconectado.
+
+### segurança e confiabilidade
+
+Alguns exemplos de como usamos suas informações para ajudar a manter nossos serviços seguros e confiáveis são descritos a seguir.
+
+- Coleta e análise de endereços IP e dados de cookies para impedir abuso automatizado. Esse abuso assume muitas formas, como envio de spam para usuários do Gmail, roubo de dinheiro de anunciantes por meio de cliques fraudulentos em anúncios ou censura de conteúdo ao iniciar um ataque distribuído de negação de serviço (DDoS, na sigla em inglês).
+- O recurso “última atividade da conta” do Gmail pode ajudar você a descobrir se e quando alguém acessou seu e-mail sem seu conhecimento. Esse recurso mostra informações sobre a atividade recente no seu e-mail, como os endereços IP que acessaram o e-mail, o local associado, a hora e a data de acesso. Saiba mais
+
+### serviços de publicidade e pesquisa em nome deles
+
+Por exemplo, os anunciantes podem fazer upload de dados dos programas de cartão de fidelidade para que possam entender melhor o desempenho das campanhas publicitárias deles. Apenas fornecemos relatórios agregados aos anunciantes, esses relatórios não revelam informações sobre pessoas específicas.
+
+### serviços específicos do Google
+
+Por exemplo, é possível excluir seu blog do Blogger ou um site Google que você tenha no Google Sites. Também é possível excluir resenhas que você deixou sobre apps, jogos e outros conteúdos da Play Store.
+
+### serviços para fazer e receber chamadas ou enviar e receber mensagens
+
+São exemplos desses serviços:
+
+- Google Hangouts, para fazer chamadas domésticas e internacionais
+- Google Voice, para fazer chamadas, enviar mensagens de texto e gerenciar o correio de voz
+- Google Fi, para um plano de telefone
+
+### servidores em todo o mundo
+
+Por exemplo, operamos data centers no mundo todo para ajudar a manter nossos produtos disponíveis continuamente para os usuários.
+
+### sincronizou com a Conta do Google
+
+O histórico de navegação do Google Chrome só é salvo na sua conta se você tiver ativado a sincronização do Chrome com a Conta do Google. Saiba mais
+
+### têm parceria com o Google
+
+Há mais de 2 milhões de sites e apps que não são do Google, mas têm parceria com o Google para exibir anúncios. Saiba mais
+
+### terceiros
+
+Por exemplo, processamos suas informações para informar estatísticas de uso aos detentores de direitos sobre como o conteúdo deles foi usado em nossos serviços. Também podemos processar suas informações se pessoas pesquisarem seu nome, bem como exibir resultados da pesquisa com os sites que contenham informações disponíveis publicamente sobre você.
+
+### visualizações e interações com conteúdo e anúncios
+
+Por exemplo, coletamos informações sobre visualizações e interações com anúncios para que possamos fornecer relatórios agregados aos anunciantes, como informar se veiculamos o anúncio deles em uma página e se o anúncio provavelmente foi visto por um espectador. Podemos também mensurar outras interações, como o modo que você move o mouse sobre um anúncio ou se você interage com a página em que o anúncio é exibido.
