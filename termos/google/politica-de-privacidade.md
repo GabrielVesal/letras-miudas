@@ -8,7 +8,7 @@ Quando você usa nossos serviços, está confiando a nós suas informações. En
 
 Esta Política de Privacidade destina-se a ajudar você a entender quais informações coletamos, por que as coletamos e como você pode atualizar, gerenciar, exportar e excluir essas informações.
 
-Em vigor a partir de 19 de dezembro de 2019 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 31 de março de 2020 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -350,7 +350,7 @@ Revisamos regularmente esta Política de Privacidade e nos certificamos de que p
 
 ## Transferências de dados
 
-Temos servidores em todo o mundo e suas informações podem ser processadas em servidores localizados fora do país em que você vive. As leis de proteção de dados variam de acordo com o país, sendo que algumas oferecem mais proteção que outras. Independentemente do local onde suas informações são processadas, aplicamos as mesmas proteções descritas nesta política. Também atuamos em conformidade com determinadas estruturas legais relacionadas à transferência de dados, como as estruturas Privacy Shields entre União Europeia e Estados Unidos e Suíça e Estados Unidos.
+Temos servidores em todo o mundo e suas informações podem ser processadas em servidores localizados fora do país em que você vive. As leis de proteção de dados variam de acordo com o país, sendo que algumas oferecem mais proteção que outras. Independentemente do local onde suas informações são processadas, aplicamos as mesmas proteções descritas nesta política. Também atuamos em conformidade com determinadas estruturas legais relacionadas à transferência de dados, como as estruturas do EU-U.S. e Swiss-U.S. Privacy Shield (Escudo de Proteção da Privacidade entre os Estados Unidos e a União Europeia e entre os Estados Unidos e a Suíça).
 
 Quando recebemos reclamações formais por escrito, respondemos entrando em contato com o requerente. Trabalhamos com as autoridades reguladoras apropriadas, inclusive autoridades locais de proteção de dados, para resolver quaisquer reclamações referentes à transferência de dados que não possamos resolver diretamente com você.
 
@@ -496,6 +496,8 @@ Firefox 1.0.7; Windows NT 5.1 -
 ### URL referenciador
 
 URL (Localizador uniforme de recursos) referenciador é a informação transmitida a uma página da Web de destino por um navegador da Web, geralmente quando você clica em um link para essa página. O URL referenciador contém o URL da última página da Web acessada pelo navegador.
+
+## Contexto adicional
 
 ### anúncios personalizados
 
