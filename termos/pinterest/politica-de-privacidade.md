@@ -3,8 +3,8 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2020-03-30
-wayback: "https://web.archive.org/web/20200330093910/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2020-05-30
+wayback: "https://web.archive.org/web/20200530191334/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
 
@@ -219,6 +219,6 @@ Como fazemos alterações nesta política
 
 Fale conosco
 
-- A melhor maneira para você entrar em contato conosco ou para exercer suas opções descritas acima é através da Central de Ajuda. Se você reside nos Estados Unidos, o Pinterest, Inc. é responsável pelas suas informações. Você pode entrar em contato com o Pinterest, Inc. em 651 Brannan Street, São Francisco, CA 94103, EUA.
+- A melhor maneira de você entrar em contato conosco ou exercer suas opções descritas acima é através da Central de Ajuda. Se você reside nos Estados Unidos, o Pinterest, Inc. é responsável pelas suas informações. Você pode entrar em contato com o Pinterest Inc., localizado em 651 Brannan Street, São Francisco, CA 94103.
 
- Data de vigência: 23 de dezembro de 2019 Última atualização: 23 de dezembro de 2019
+ Em vigor a partir de 1º de janeiro de 2020 Última atualização em 1º de janeiro de 2020
