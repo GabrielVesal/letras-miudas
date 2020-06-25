@@ -128,7 +128,7 @@ Através da Plataforma, a Operadora poderá colocar à disposição dos Consumid
 
 A Operadora administra a Plataforma diretamente ou por meio de terceiras pessoas, todas as informações ali comunicadas estão certas e atualizadas. Em nenhum caso responderá por danos diretos ou indiretos sofridos pelo Consumidor pela utilização ou incapacidade de utilização da Plataforma.
 
-A plataforma encontra-se disponível durante as 24 horas do dia para acesso e consulta. Para a realização de transações, a disponibilidade da Plataforma é de 24 horas ao dia, dependendo da disponibilidade dos Mandatários. A Operadora realiza os melhores esforços para manter a Plataforma em operação, mas em nenhum caso garante a disponibilidade e continuidade permanente da Plataforma.
+A Plataforma encontra-se disponível durante as 24 horas do dia para acesso e consulta. Para a realização de transações, a disponibilidade da Plataforma é de 24 horas ao dia, dependendo da disponibilidade dos Mandatários. A Operadora realiza os melhores esforços para manter a Plataforma em operação, mas em nenhum caso garante a disponibilidade e continuidade permanente da Plataforma.
 
 A Operadora reserva para si o direito de cancelar as contas de usuários e/ou de proibir o acesso à Plataforma dos Consumidores que realizarem condutas que violem estes termos ou que descumprirem as obrigações contraídas.
 
@@ -148,7 +148,7 @@ As informações levantadas pela Operadora nas transações realizadas são forn
 
 Assim também, os dados levantados serão objeto de análise para fins de melhoramento da estratégia de negócios da página web, apoiada por ferramentas de inteligência de negócios e mineração de dados, que permitem adquirir conhecimentos prospectivos para fins de predição, classificação e segmentação.
 
-O Consumidor poderá exercer seu direito de conhecer, atualizar, modificar e suprimir os dados pessoais existentes nas bases de dados associadas à Plataforma. Para isto deverá realizar a solicitação de consulta, reclamação ou supressão ao endereço eletrônico servicioaocliente@rappi.com, com os detalhes das alterações a serem realizadas e entregando os documentos que a sustentam.
+O Consumidor poderá exercer seu direito de conhecer, atualizar, modificar e suprimir os dados pessoais existentes nas bases de dados associadas à Plataforma, pessoalmente no menu principal e/ou no Centro de ajuda da Plataforma.
 
 A Operadora é responsável do tratamento das informações pessoais levantadas através da página web, responsabilidade que poderá ser delegada a um terceiro, na qualidade de responsável ou encarregado das informações, garantindo por meio de contrato um adequado tratamentos das mesmas, tudo explicitado na Política de Privacidade.
 
