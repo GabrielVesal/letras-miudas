@@ -3,8 +3,8 @@ empresa: "Pinterest"
 documento: "Termos de Uso"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/terms-of-service"
-capturado_em: 2020-03-30
-wayback: "https://web.archive.org/web/20200330103236/https://policy.pinterest.com/pt-br/terms-of-service"
+capturado_em: 2020-06-28
+wayback: "https://web.archive.org/web/20200628084838/https://policy.pinterest.com/pt-br/terms-of-service"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/termos-de-uso.md"
 ---
 
@@ -30,7 +30,7 @@ Obrigado por usar o Pinterest!
 
 - ## a. Quem pode usar o Pinterest
 
- Você poderá usar o Pinterest somente se puder estabelecer legalmente um contrato vinculante com o Pinterest e apenas em conformidade com estes Termos e todas as leis aplicáveis. Ao criar sua conta do Pinterest, você deve nos fornecer informações completas e precisas. Você não pode usar o Pinterest se for proibido por sanções dos EUA. Qualquer uso ou acesso feito por alguém com menos de 13 anos de idade é proibido. Se você estiver baseado no EEE, só poderá usar o Pinterest se estiver acima da idade em que pode dar consentimento para o processamento de dados de acordo com as leis do seu país ou se o consentimento verificável dos pais para seu uso do Pinterest tiver sido fornecido a nós. O uso do Pinterest pode incluir o download de software em seu computador, telefone, tablet ou outro dispositivo. Você concorda que podemos atualizar automaticamente esse software, e estes Termos serão aplicados a todas as atualizações.
+ Você poderá usar o Pinterest somente se puder estabelecer legalmente um contrato vinculante com o Pinterest e apenas em conformidade com estes Termos e todas as leis aplicáveis. Ao criar sua conta do Pinterest, você deve nos fornecer informações completas e precisas. Você não poderá usar o Pinterest se for proibido por sanções dos EUA. Qualquer uso ou acesso feito por alguém com menos de 13 anos de idade é proibido. Se você se situar no EEE, só poderá usar o Pinterest se estiver acima da idade em que pode dar consentimento para o processamento de dados de acordo com as leis do seu país. O uso do Pinterest pode incluir o download de software no seu computador, telefone, tablet ou outro dispositivo. Você concorda que podemos atualizar automaticamente o software, e estes Termos serão aplicados a todas as atualizações.
 - ## b. Nossa licença para você
 
  Sujeito a estes Termos e nossas políticas (incluindo nossas Diretrizes da Comunidade), concedemos a você uma licença limitada, não exclusiva, intransferível e revogável para usar nosso Serviço.
