@@ -354,23 +354,6 @@ Temos servidores em todo o mundo e suas informações podem ser processadas em s
 
 Quando recebemos reclamações formais por escrito, respondemos entrando em contato com o requerente. Trabalhamos com as autoridades reguladoras apropriadas, inclusive autoridades locais de proteção de dados, para resolver quaisquer reclamações referentes à transferência de dados que não possamos resolver diretamente com você.
 
-## Requisitos da Califórnia
-
-Se a Lei de Privacidade do Consumidor da Califórnia (CCPA) se aplicar a suas informações, forneceremos essas divulgações e as ferramentas descritas nesta política para que você possa exercer seu direito de receber informações sobre nossas práticas com dados, bem como para solicitar acesso a suas informações ou excluí-las. Essas ferramentas permitem que você revise, atualize e exclua suas informações. Também é possível exportar ou fazer o download de uma cópia desses dados. Leia mais sobre os períodos de armazenamento dos dados do Google e o processo que seguimos para excluir suas informações.
-
-O Google não vende suas informações pessoais. Somente compartilhamos suas informações conforme descrito nesta política. O Google processa suas informações para os fins descritos nesta política, incluindo "fins comerciais" conforme a Lei de Privacidade do Consumidor da Califórnia (CCPA, na sigla em inglês). Esses fins incluem o seguinte:
-
-- **Proteção contra ameaças de segurança, abuso e atividades ilegais.** O Google usa e poderá divulgar informações para detectar, evitar e responder a incidentes de segurança, bem como para proteção contra outras atividades maliciosas, enganosas, fraudulentas ou ilegais. Por exemplo, para proteger nossos serviços, o Google poderá receber ou divulgar informações sobre endereços IP comprometidos por agentes maliciosos.
-- **Auditoria e avaliação.** O Google usa informações para analisar e mensurar como nossos serviços são usados, bem como para cumprir obrigações com nossos parceiros, como editores, anunciantes, desenvolvedores e detentores de direitos. Podemos divulgar informações que não sejam de identificação pessoal ao público e a esses parceiros, inclusive para fins de auditoria.
-- **Manutenção dos nossos serviços.** O Google usa informações para garantir que nossos serviços funcionem como o esperado, por exemplo, para rastrear interrupções de serviço, solucionar bugs e outros problemas informados.
-- **Pesquisa e desenvolvimento.** O Google usa informações para melhorar nossos serviços e desenvolver novos produtos, recursos e tecnologias que trazem benefícios aos usuários e ao público. Por exemplo, usamos informações disponíveis publicamente para ajudar a treinar nossos modelos de idiomas e criar recursos como o Google Tradutor.
-- **Uso de provedores de serviços.** O Google compartilha informações com provedores de serviços para que eles realizem serviços por nós, em conformidade com nossa Política de Privacidade e outras medidas de confidencialidade e segurança adequadas. Por exemplo, podemos deixar que os provedores de serviços cuidem do suporte ao cliente.
-- **Publicidade.** O Google processa informações, como identificadores on-line e dados sobre suas interações com anúncios, para oferecer serviços de publicidade. Isso mantém muitos dos nossos serviços gratuitos. Você pode controlar quais informações usamos para exibir anúncios nas configurações de anúncios.
-
-O Google também usa informações para cumprir as leis e regulamentações aplicáveis e divulga esses dados em resposta a ordens judiciais e solicitações governamentais, inclusive para órgãos de segurança pública. Compartilhamos informações sobre o número e o tipo de solicitações que recebemos dos governos em nosso Transparency Report.
-
-Se tiver mais perguntas ou solicitações em relação aos seus direitos de acordo com a CCPA, entre em contato com o Google.
-
 # Sobre esta política
 
 ## Quando esta política se aplica
