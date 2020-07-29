@@ -3,8 +3,8 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2020-05-30
-wayback: "https://web.archive.org/web/20200530191334/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2020-07-29
+wayback: "https://web.archive.org/web/20200729234109/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
 
@@ -18,6 +18,7 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pi
  - Resumo das alterações
  - Obrigado por usar o Pinterest!
  - Nós coletamos informações de algumas maneiras diferentes
+ - O que fazemos com as informações que coletamos
  - Como transferir suas informações
  - Escolhas que você tem sobre suas informações
  - Como e quando compartilhamos informações
@@ -65,9 +66,9 @@ Nós coletamos informações de algumas maneiras diferentes
  - Alguns sites ou aplicativos utilizam recursos do Pinterest como nosso botão "Salvar", ou você pode instalar nosso botão "Salvar" para o seu navegador. Nesse caso, coletamos informações de registro desses sites ou aplicativos. Você pode saber mais sobre esses recursos na Central de Ajuda.
  - Anunciantes online ou terceiros compartilham informações conosco para mensurar, gerar relatórios ou melhorar o desempenho dos anúncios no Pinterest, ou para descobrir quais tipos de anúncios exibir para você dentro ou fora do Pinterest. Isso inclui informações sobre suas visitas ao site de um anunciante ou sobre as compras que você fez dele, ou informações sobre seus interesses de um serviço de terceiros, que podemos usar para ajudar a exibir anúncios para você. Saiba mais sobre os tipos de informação que os anunciantes ou outros terceiros compartilham conosco.
 
- #### O que fazemos com as informações que coletamos
+O que fazemos com as informações que coletamos
 
- Nós nos comprometemos a mostrar conteúdo que seja relevante, interessante e pessoal para você. Para fazer isso, usamos suas informações para proporcionar e melhorar sua experiência, incluindo:
+- #### Nós nos comprometemos a mostrar conteúdo que seja relevante, interessante e pessoal para você. Para fazer isso, usamos suas informações para proporcionar e melhorar sua experiência, incluindo:
 
  - Identificar você quando usa o Pinterest.
  - Recomendar Pins, pastas, interesses ou categorias de que você pode gostar com base na sua atividade no Pinterest. Por exemplo, se vemos que você gosta de cozinhar, podemos lhe mostrar anúncios ou sugerir pastas, pessoas ou Pins relacionados com alimentos que achamos que podem lhe interessar.
@@ -171,23 +172,13 @@ Residentes no EEE
 
  Se acha que não cumprimos as leis de proteção de dados, você tem o direito de apresentar uma reclamação à Data Protection Commission (Comissão de Proteção de Dados) na Irlanda ou à sua autoridade local de supervisão.
 
- Também queremos compartilhar mais alguns detalhes sobre como podemos transferir dados pessoais de residentes do EEE:
-
- O Pinterest está em conformidade com a Estrutura do Escudo de Proteção da Privacidade UE–EUA (Privacy Shield), conforme estabelecido pelo Departamento de Comércio dos EUA com relação à coleta, uso e retenção de informações pessoais transferidas da União Europeia para os Estados Unidos. O Pinterest certificou ao Departamento de Comércio que segue os Princípios do Escudo de Proteção da Privacidade. Se houver algum conflito entre os termos desta Política de Privacidade e os Princípios do Escudo de Proteção da Privacidade, os Princípios do Escudo de Proteção da Privacidade prevalecerão. Para saber mais sobre o programa Escudo de Proteção da Privacidade e para visualizar nossa certificação, acesse o site do Privacy Shield.
-
- Para todas as transferências de suas informações de países da Europa para os EUA, o Pinterest é certificado sob o Escudo de Proteção da Privacidade (Privacy Shield) e segue seus princípios. Para ver uma lista de participantes do Escudo de Proteção da Privacidade, acesse o site do Privacy Shield.
-
- Onde compartilhamos informações que recebemos sob o Privacy Shield com terceiros, somos responsáveis por garantir que esses terceiros também estejam em conformidade com o Privacy Shield, a menos que possamos provar que não somos responsáveis pelo evento prejudicial.
-
- Em conformidade com os Princípios do Escudo de Proteção da Privacidade, o Pinterest se compromete a resolver reclamações sobre a coleta ou uso de suas informações pessoais. Indivíduos do EEE com dúvidas ou reclamações sobre a nossa política do Escudo de Proteção da Privacidade devem primeiro entrar em contato conosco. O Pinterest compromete-se ainda a encaminhar reclamações não resolvidas do Escudo de Proteção da Privacidade para o JAMS Arbitration and Mediation Services, um fornecedor alternativo de resolução de disputas localizado nos Estados Unidos. Se você não receber uma confirmação de sua reclamação em tempo hábil ou se não tivermos resolvido sua reclamação a contento, entre em contato ou acesse o site do JAMS para obter mais informações ou para registrar uma reclamação. Os serviços do JAMS são oferecidos sem nenhum custo para você. Em determinadas circunstâncias e se o processo de resolução de disputa ainda não resolver o problema, os indivíduos do EEE poderão buscar uma arbitragem legal por meio do processo no site do Escudo de Proteção de Privacidade. O Pinterest também está sujeito aos poderes de investigação e fiscalização da Federal Trade Commission.
-
- Nos casos em que transferirmos informações do EEE para um país que não ofereça um nível adequado de proteção, só o faremos em conformidade com as salvaguardas apropriadas para proteger suas informações, como cláusulas contratuais padrão ou a certificação Privacy Shield.
+ Como o Pinterest é um serviço mundial, podemos transferir os dados pessoais dos residentes do EEE para um país fora do EEE. Nos casos em que transferirmos informações do EEE para um país que não ofereça um nível adequado de proteção, só o faremos em conformidade com as salvaguardas apropriadas para proteger suas informações, como cláusulas contratuais padrão ou a certificação Privacy Shield.
 
 Residentes na Califórnia
 
 - A Lei de Privacidade do Consumidor da Califórnia (CCPA) exige que divulguemos as categorias de Informações Pessoais que coletamos e como as usamos, as categorias de fontes das quais coletamos Informações Pessoais e os terceiros com os quais as compartilhamos, o que foi explicado acima.
 
- Nos doze meses anteriores, coletamos Informações Pessoais de você, seus dispositivos, nossos parceiros, terceiros e de categorias de fontes descritas de outra forma nesta Política de Privacidade.
+ Nos doze meses anteriores, coletamos Informações Pessoais de você, seus dispositivos, nossos parceiros, terceiros e de categorias de fontes descritas de outra forma na seção “Nós coletamos informações de algumas maneiras diferentes” desta Política de Privacidade.
 
  Também somos obrigados a comunicar informações sobre os direitos que os residentes na Califórnia têm sob a legislação da Califórnia. Você pode exercer os seguintes direitos:
 
@@ -195,11 +186,15 @@ Residentes na Califórnia
  - Direito à Igualdade de Serviço. Não discriminaremos você se exercer seus direitos de privacidade.
  - Direito de Excluir. Você pode enviar uma solicitação verificável para fechar sua conta e excluiremos as Informações Pessoais que coletamos.
 
+ Para verificar sua identidade ao fazer uma solicitação, você deverá fazer login na sua conta protegida por senha ou responder a uma solicitação de verificação por e-mail.
+
  Não vendemos as Informações Pessoais de nossos usuários.
 
- Para obter mais informações sobre esses direitos, consulte as "Opções que você tem sobre suas informações" acima e coloque-as em prática, acesse nossa Central de Ajuda ou entre em contato conosco em privacy-support [at] pinterest.com. Para verificar qualquer solicitação, talvez seja necessário fazer login na sua conta ou responder a uma solicitação de verificação por e-mail.
+ Para obter mais informações sobre esses direitos, consulte “Escolhas que você tem sobre suas informações” acima. Para exercer esses direitos, acesse a nossa Central de Ajuda ou entre em contato conosco pelo e-mail privacy-support [at] pinterest.com.
 
- Coletamos as seguintes categorias de Informações Pessoais e, nos últimos 12 meses, divulgamos essas categorias de Informações Pessoais para fins comerciais a afiliados, prestadores de serviços e terceiros:
+ Além de exercer esses direitos, você também pode designar um agente autorizado para fazer essas solicitações em seu nome. Para fazer isso, solicitaremos que você verifique a solicitação diretamente por e-mail ou por meio da sua conta protegida por senha.
+
+ Coletamos as seguintes categorias de Informações Pessoais e, nos últimos 12 meses, divulgamos essas categorias de Informações Pessoais para fins comerciais a afiliados, prestadores de serviços e terceiros, conforme descrito na seção Como e quando compartilhamos informações desta Política de Privacidade:
 
  - Identificadores, como seu nome, nome de usuário, endereço de e-mail, número de telefone, identificadores exclusivos de dispositivo e endereço IP
  - Características pessoais protegidas por lei, como seu gênero e idade
@@ -211,7 +206,7 @@ Residentes na Califórnia
  - Inferências que obtemos ou derivamos sobre usuários, como seus interesses ou preferências
  - Outras informações que você fornece, como sua biografia, Pins e comentários
 
- Usamos e divulgamos essas informações para os fins comerciais descritos nesta política, incluindo: auditar nosso Serviço, detectar incidentes de segurança e evitar fraude, depurar e corrigir erros, manter sua conta, prestar atendimento ao cliente, processar ou atender pedidos, realizar pesquisa e desenvolvimento e outras atividades para melhorar nosso Serviço, fazer publicidade, divulgar nossos Serviços e entender como os usuários interagem com nossos Serviços.
+ Usamos e divulgamos essas informações para os fins comerciais descritos na seção O que fazemos com as informações que coletamos desta Política de Privacidade, incluindo: prestar nosso Serviço, comunicarmo-nos com você para fornecer atualizações ou responder aos seus comentários e dúvidas, auditar nosso Serviço, detectar incidentes de segurança e evitar fraude, depurar e corrigir erros, manter sua conta, prestar atendimento ao cliente, processar ou atender pedidos, realizar pesquisa e desenvolvimento e outras atividades para melhorar nosso Serviço, fazer publicidade, divulgar nossos Serviços e entender como os usuários interagem com nossos Serviços.
 
 Como fazemos alterações nesta política
 
