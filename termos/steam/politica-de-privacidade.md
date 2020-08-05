@@ -2,9 +2,9 @@
 empresa: "Steam"
 documento: "Política de Privacidade"
 categoria: "Jogos"
-fonte: "https://store.steampowered.com/privacy_agreement?l=brazilian"
-capturado_em: 2019-08-20
-wayback: "https://web.archive.org/web/20190820020447/https://store.steampowered.com/privacy_agreement?l=brazilian"
+fonte: "https://store.steampowered.com/privacy_agreement/?l=brazilian"
+capturado_em: 2020-08-05
+wayback: "https://web.archive.org/web/20200805180437/https://store.steampowered.com/privacy_agreement/?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/politica-de-privacidade.md"
 ---
 
@@ -129,7 +129,7 @@ Valve GmbH Aos cuidados de: Legal Rödingsmarkt 9 D-20354 Hamburg Germany
 
 **9. Informações adicionais para usuários do Espaço Econômico Europeu**
 
-A Valve e sua subsidiária integral nos EUA (coletivamente "Valve") agem em conformidade com o Conceito de proteção de privacidade da UE e EUA e com o Conceito de proteção de privacidade da Suíça e EUA, conforme estabelecido pelo Departamento de Comércio dos Estados Unidos em relação à coleta, uso e retenção de informações pessoais transferidas da União Europeia e Suíça para os Estados Unidos. A Valve garante ao Departamento de Comércio que adere aos Princípios de Proteção de Privacidade. Se houver algum conflito entre os termos desta política de privacidade e os Princípios de Proteção de Privacidade, os Princípios de Proteção de Privacidade deverão prevalecer. Para saber mais sobre o programa de Proteção de Privacidade e visualizar nossa certificação, acesse http://www.privacyshield.gov.
+A Valve e a TR Technical Services Inc., a sua subsidiária integral nos EUA, agem em conformidade com o Conceito de proteção de privacidade da UE e dos EUA e com o Conceito de proteção de privacidade da Suíça e dos EUA, conforme estabelecido pelo Departamento de Comércio dos Estados Unidos em relação à coleta, ao uso e à retenção de informações pessoais transferidas da União Europeia e Suíça para os Estados Unidos. A Valve garante ao Departamento de Comércio que adere aos Princípios de Proteção de Privacidade. Se houver algum conflito entre os termos desta política de privacidade e os Princípios de Proteção de Privacidade, os Princípios de Proteção de Privacidade deverão prevalecer. Para saber mais sobre o programa de Proteção de Privacidade e visualizar a nossa certificação, acesse http://www.privacyshield.gov.
 
 Em conformidade com os Princípios de Proteção de Privacidade, a Valve compromete-se a resolver as reclamações sobre nossa coleta ou uso de suas informações pessoais. Os indivíduos da UE e Suíça com consultas ou reclamações sobre nossa política de Proteção de Privacidade devem entrar em contato com a Valve aqui. Se você tiver problemas de privacidade ou uso de dados que não foram resolvidos de maneira satisfatória, entre em contato com nosso provedor terceirizado de resoluções de disputa em nossa sede nos Estados Unidos (gratuitamente) em https://feedback-form.truste.com/watchdog/request. Conforme explicado na documentação de Proteção de Privacidade (https://www.privacyshield.gov/article?id=ANNEX-I-introduction) certas reivindicações residuais, não resolvidas por outros meios, podem estar sujeitas à arbitragem. Nesse caso, uma opção de arbitragem será disponibilizada para você.
 
@@ -137,4 +137,4 @@ Os princípios de Proteção de Privacidade descrevem a responsabilidade da Valv
 
 A Federal Trade Commission tem jurisdição sobre a conformidade da Valve com relação à Proteção de Privacidade.
 
-*Data da revisão: 21 de fevereiro de 2019*
+*Data de revisão: 20 de fevereiro de 2020*
