@@ -3,8 +3,8 @@ empresa: "Apple"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://www.apple.com/br/legal/privacy/br/"
-capturado_em: 2020-04-08
-wayback: "https://web.archive.org/web/20200408073431/https://www.apple.com/br/legal/privacy/br/"
+capturado_em: 2020-08-05
+wayback: "https://web.archive.org/web/20200805233108/https://www.apple.com/br/legal/privacy/br/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/politica-de-privacidade.md"
 ---
 
@@ -131,7 +131,7 @@ Se você adquirir uma assinatura em um app de terceiros ou pelo News, criaremos 
 
 ## Transferências internacionais
 
-Todas as informações que você fornece podem ser transferidas ou acessadas por entidades em todo o mundo, conforme descrito nesta Política de Privacidade. As informações pessoais, relacionadas a serviços Apple, sobre indivíduos que residem em um estado membro do Espaço Econômico Europeu (EEE) e na Suíça são controladas pela Apple Distribution International na Irlanda e processadas em seu nome pela Apple Inc. A Apple usa modelos aprovados de cláusulas contratuais na transferência internacional de informações pessoais coletadas no Espaço Econômico Europeu e na Suíça. A Apple, na qualidade de empresa global, conta com diversas pessoas jurídicas em jurisdições diferentes, as quais são responsáveis pelas informações pessoais que coletam e que são processadas em nome delas pela Apple Inc. Por exemplo, as informações de pontos de venda em nossas entidades de varejo fora dos Estados Unidos são controladas por nossas entidades de varejo individuais em cada país. As informações pessoais relacionadas à Apple, à Online Store e ao iTunes também podem ser controladas por pessoas jurídicas fora dos Estados Unidos, conforme indicado nos termos de cada serviço. Imagens e dados associados coletados pela Apple no mundo todo para melhorar o app Mapas da Apple e fornecer o recurso Look Around são transferidos para a Apple Inc. na Califórnia.
+Todas as informações que você fornece podem ser transferidas ou acessadas por entidades em todo o mundo, conforme descrito nesta Política de Privacidade.Informações pessoais relacionadas a serviços da Apple de indivíduos que moram em um estado-membro do Espaço Econômico Europeu, no Reino Unido e na Suíça são controladas pela Apple Distribution International Limited na Irlanda e processadas em nome dela pela Apple Inc. A Apple usa modelos aprovados de cláusulas contratuais na transferência internacional de informações pessoais coletadas no Espaço Econômico Europeu e na Suíça. A Apple, na qualidade de empresa global, conta com diversas pessoas jurídicas em jurisdições diferentes, as quais são responsáveis pelas informações pessoais que coletam e que são processadas em nome delas pela Apple Inc. Por exemplo, as informações de pontos de venda em nossas entidades de varejo fora dos Estados Unidos são controladas por nossas entidades de varejo individuais em cada país. As informações pessoais relacionadas à Apple, à Online Store e ao iTunes também podem ser controladas por pessoas jurídicas fora dos Estados Unidos, conforme indicado nos termos de cada serviço. Imagens e dados associados coletados pela Apple no mundo todo para melhorar o app Mapas da Apple e fornecer o recurso Look Around são transferidos para a Apple Inc. na Califórnia.
 
 A Apple obedece ao Sistema de regras internacionais de privacidade (CBPR) da Cooperação Econômica Ásia-Pacífico (APEC). O sistema CBPR da APEC fornece uma estrutura às organizações com a finalidade de garantir a proteção de informações pessoais transferidas entre as economias participantes da APEC. Se você tiver alguma dúvida não esclarecida a respeito do uso de dados ou de privacidade das nossas certificações CBPR da APEC e/ou PRP, acesse o provedor de terceiros de resolução de controvérsias.
 
