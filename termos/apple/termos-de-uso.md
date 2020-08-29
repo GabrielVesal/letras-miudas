@@ -3,8 +3,8 @@ empresa: "Apple"
 documento: "Termos de Uso"
 categoria: "Tecnologia"
 fonte: "https://www.apple.com/br/legal/internet-services/itunes/br/terms.html"
-capturado_em: 2020-02-25
-wayback: "https://web.archive.org/web/20200225211257/https://www.apple.com/br/legal/internet-services/itunes/br/terms.html"
+capturado_em: 2020-08-29
+wayback: "https://web.archive.org/web/20200829080750/https://www.apple.com/br/legal/internet-services/itunes/br/terms.html"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/termos-de-uso.md"
 ---
 
@@ -37,53 +37,39 @@ A sua utilização dos Serviços e Conteúdo deve seguir as regras estabelecidas
 Todos os Serviços:
 
 - Você poderá utilizar os Serviços e Conteúdo apenas para fins pessoais, não-comerciais (exceto conforme definido na cláusula de Conteúdo App Store abaixo).
-
 - A entrega de Conteúdo pela Apple não transfere quaisquer direitos de utilização comercial ou promocional a você, e não constitui uma concessão ou renúncia de quaisquer direitos dos titulares do direito de autoral.
-
 - Você poderá utilizar o Conteúdo de até cinco Apple IDs diferentes em cada dispositivo.
-
 - É da sua responsabilidade não perder, destruir, ou danificar o Conteúdo depois do download. Nós encorajamos que você faça um backup do seu Conteúdo com regularidade.
-
 - Você não poderá adulterar ou contornar qualquer tecnologia de segurança incluída com os Serviços.
-
 - Você poderá acessar nossos Serviços apenas utilizando o software da Apple, e não poderá modificar ou utilizar versões modificadas de tal software.
-
 - O Conteúdo de Vídeo requer uma conexão HDCP.
 
 Venda e Aluguel de Conteúdo de Áudio e Vídeo:
 
 - Você poderá utilizar Conteúdo sem Gestão de Direitos Digitais (Digital Rights Management - DRM) em um número razoável de dispositivos compatíveis que você detenha ou controle. Conteúdo protegido por DRM poderá ser utilizado em até cinco computadores e em qualquer número de dispositivos que você sincronize a partir de tais computadores.
-
 - Conteúdo alugado poderá ser visualizado em um único dispositivo de cada vez, e deve ser reproduzido no prazo de 30 dias, e completado no prazo de 48 horas a contar do início da reprodução (parar, pausar ou recomeçar não prolonga este período).
-
 - Você poderá gravar, em um disco. uma lista de reprodução de áudio com músicas compradas para fins de ouvi-la, até sete vezes; Esta limitação não é aplicável a Conteúdo sem DRM. Outros Conteúdos não podem ser gravados em disco.
 
 Conteúdo da App Store:
 
 - O termo “App” inclui apps para qualquer plataforma e/ou sistema operacional da Apple, compras dentro do app, extensões (tais como teclados), figurinhas (stickers), e assinaturas disponibilizadas em um app.
-
 - Você poderá utilizar Apps em qualquer dispositivo que você detenha ou controle.
-
 - Os indivíduos atuando em nome de uma empresa comercial, organização governamental ou instituição de ensino (“Empresa”) poderão fazer o download e sincronizar os Apps que não sejam do Arcade para utilização por (i) um único indivíduo em um ou mais dispositivos detidos ou controlados por uma Empresa; ou (ii) múltiplos indivíduos em um único dispositivo compartilhado detido ou controlado por uma Empresa. Para fins de esclarecimento, cada dispositivo utilizado em série ou coletivamente por múltiplos usuários requer uma licença separada.
 
 Apple Music:
 
 - Você poderá utilizar uma assinatura Apple Music Individual em até 10 dispositivos (apenas cinco dos quais poderão ser computadores).
-
 - Uma assinatura Apple Music Individual permite que você faça o streaming em um único dispositivo de cada vez; uma assinatura de Família permite que você ou os membros da sua Família façam o streaming em até seis dispositivos de cada vez.
 
 Apple Arcade:
 
 - Os Apps da Apple Arcade podem ser baixados ou baixados novamente somente durante um teste ou com uma assinatura válida do Apple Arcade.
-
 - Quando sua assinatura expirar, os Apps baixados através do Apple Arcade não serão mais acessíveis a você.
 
 Conteúdo da Apple TV
 
 - Você pode fazer o streaming de Conteúdo da maioria dos canais em até três dispositivos simultaneamente.
-
 - Pode haver uma limitação na quantidade de Conteúdo que você pode baixar, e alguns Conteúdos baixados podem perder a validade um certo tempo após o download ou a primeira reprodução. Determinados Conteúdos podem não estar disponíveis pra download.
-
 - Saiba mais sobre as Regras de Uso do Conteúdo da Apple TV acessando https://support.apple.com/en-us/HT210074
 
 NOVOS DOWNLOADS
@@ -113,17 +99,11 @@ Os nossos Serviços poderão permitir que você envie materiais tais como coment
 Orientações de Envio: Você não poderá utilizar os Serviços para:
 
 - postar quaisquer materiais para os quais não tenha permissão, direito ou licença para utilizar;
-
 - postar conteúdo censurável, ofensivo, ilegal, enganoso ou nocivo;
-
 - postar informações pessoais, particulares ou confidenciais pertencentes a outros;
-
 - solicitar informações pessoais de um menor;
-
 - fingir ou adulterar a sua afiliação com outra pessoa ou entidade;
-
 - postar ou transmitir spam, incluindo, mas sem limitação, publicidade não solicitada ou não autorizada, materiais promocionais, ou anúncios informativos;
-
 - planejar ou exercer qualquer atividade ilegal, fraudulenta ou manipuladora.
 
 D. COMPARTILHAMENTO FAMILIAR
@@ -220,17 +200,19 @@ K. DISPOSIÇÕES GERAIS APLICÁVEIS A TODOS OS SERVIÇOS
 
 DEFINIÇÃO DA APPLE
 
-Dependendo do seu País de Residência, “Apple” significa:
+Dependendo do seu País de Origem, “Apple” significa:
 
-Apple Inc., localizada em One Apple Park Way, Cupertino, Califórnia, para usuários na América do Norte, América Central, e América do Sul (exceto o Canadá), bem como territórios e possessões dos Estados Unidos; e possessões Francesas e Britânicas na América do Norte, América do Sul, e no Caribe;
+Apple Inc., localizada em One Apple Park Way, Cupertino, Califórnia, para usuários nos Estados Unidos, incluindo Porto Rico;
 
-Apple Canada Inc., localizada em 120 Bremner Blvd., Suite 1600, Toronto ON M5J 0A8, Canadá, para os usuários no Canadá ou seus territórios ou possessões;
+Apple Canada Inc., localizada em 120 Bremner Blvd., Suite 1600, Toronto ON M5J 0A8, Canadá, para usuários no Canadá;
+
+Apple Services LATAM LLC, localizada em 1 Alhambra Plaza, Ste 700 Coral Gables, Flórida, para usuários do México, América Central ou do Sul ou país ou território do Caribe (exceto Porto Rico).
 
 iTunes K.K., localizada em Roppongi Hills, 6-10-1 Roppongi, Minato-ku, Tóquio 106-6140, Tóquio, para usuários no Japão;
 
-Apple Pty Limited, localizada em Level 3, 20 Martin Place, Sydney NSW 2000, Austrália, para usuários na Austrália, Nova Zelândia, incluindo possessões insulares, e jurisdições afiliadas; e
+Apple Pty Limited, localizada em Level 3, 20 Martin Place, Sydney NSW 2000, Austrália, para usuários na Austrália ou na Nova Zelândia, inclusive em qualquer uma de suas possessões, territórios ou jurisdições afiliadas; e
 
-Apple Distribution International Ltd., localizada em Hollyhill Industrial Estate, Hollyhill, Cork, República da Irlanda, para todos os outros usuários.
+Apple Distribution International Ltd., localizada em Hollyhill Industrial Estate, Hollyhill, Cork, República da Irlanda, para todos os demais usuários.
 
 ALTERAÇÕES AO CONTRATO
 
@@ -251,9 +233,7 @@ AVISO DE DIREITO AUTORAL
 Caso você acredite que qualquer Conteúdo disponível através dos Serviços infringe um direito autoral reivindicado por você, por favor, contate a Apple nos seguintes locais:
 
 - iTunes Store, Apple Music, Apple Podcasts: https://www.apple.com/legal/internet-services/itunes/itunesstorenotices/
-
 - App Store: https://www.apple.com/legal/internet-services/itunes/appstorenotices/
-
 - Apple Books: https://www.apple.com/legal/internet-services/itunes/applebooksnotices/
 
 TÉRMINO E SUSPENSÃO DOS SERVIÇOS
