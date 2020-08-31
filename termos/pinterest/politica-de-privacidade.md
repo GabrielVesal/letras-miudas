@@ -3,8 +3,8 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2020-07-29
-wayback: "https://web.archive.org/web/20200729234109/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2020-08-31
+wayback: "https://web.archive.org/web/20200831144429/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
 
@@ -30,19 +30,19 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pi
  - Como fazemos alterações nesta política
  - Fale conosco
 
-Resumo das alterações
+## Resumo das alterações
 
 - Adicionamos mais detalhes sobre os dados que coletamos e como são usados, além de uma nova maneira de controlar se eles são usados para relatar sobre o desempenho de anúncios.
 
  Adicionamos novas informações para residentes na Califórnia.
 
-Obrigado por usar o Pinterest!
+## Obrigado por usar o Pinterest!
 
 - Nossa missão é trazer inspiração para as pessoas criarem a vida que amam. Para isso, mostramos conteúdo personalizado e anúncios que achamos que serão de seu interesse, com base nas informações que coletamos de você e de terceiros. Usamos essas informações somente onde temos uma base legal adequada para fazê-lo.
 
  Esta política foi elaborada para ajudar você a entender quais informações coletamos, como as usamos e quais escolhas você tem sobre elas. Como somos uma empresa da Internet, alguns conceitos abaixo são um pouco técnicos, mas tentamos ao máximo explicar tudo da maneira mais simples e clara possível. Estamos à disposição para responder a suas dúvidas e comentários sobre esta política.
 
-Nós coletamos informações de algumas maneiras diferentes
+## Nós coletamos informações de algumas maneiras diferentes
 
 - #### 1. Quando você nos fornece ou nos dá permissão para obtê-la.
 
@@ -66,7 +66,7 @@ Nós coletamos informações de algumas maneiras diferentes
  - Alguns sites ou aplicativos utilizam recursos do Pinterest como nosso botão "Salvar", ou você pode instalar nosso botão "Salvar" para o seu navegador. Nesse caso, coletamos informações de registro desses sites ou aplicativos. Você pode saber mais sobre esses recursos na Central de Ajuda.
  - Anunciantes online ou terceiros compartilham informações conosco para mensurar, gerar relatórios ou melhorar o desempenho dos anúncios no Pinterest, ou para descobrir quais tipos de anúncios exibir para você dentro ou fora do Pinterest. Isso inclui informações sobre suas visitas ao site de um anunciante ou sobre as compras que você fez dele, ou informações sobre seus interesses de um serviço de terceiros, que podemos usar para ajudar a exibir anúncios para você. Saiba mais sobre os tipos de informação que os anunciantes ou outros terceiros compartilham conosco.
 
-O que fazemos com as informações que coletamos
+## O que fazemos com as informações que coletamos
 
 - #### Nós nos comprometemos a mostrar conteúdo que seja relevante, interessante e pessoal para você. Para fazer isso, usamos suas informações para proporcionar e melhorar sua experiência, incluindo:
 
@@ -108,13 +108,13 @@ O que fazemos com as informações que coletamos
 
  Para saber mais sobre como usamos os cookies, bem como suas opções sobre como os usamos, consulte nossa Política de Cookies.
 
-Como transferir suas informações
+## Como transferir suas informações
 
 - O Pinterest é um serviço mundial. Ao usar nossos produtos e serviços, você nos autoriza a transferir e armazenar suas informações fora do seu país de origem, inclusive nos Estados Unidos, para os fins descritos nesta política. As proteções à privacidade e os direitos das autoridades de acessar suas informações pessoais nesses países poderão não ser equivalentes àqueles aplicados em seu país de origem.
 
  Consulte a seção para residentes do EEE para saber mais sobre transferências de dados de e para essa região.
 
-Escolhas que você tem sobre suas informações
+## Escolhas que você tem sobre suas informações
 
 - Nosso objetivo é oferecer a você escolhas simples e significativas sobre suas informações. Se você tem uma conta do Pinterest, muitos desses controles estão incorporados diretamente no Pinterest ou nas suas configurações. Você pode, por exemplo:
 
@@ -135,7 +135,7 @@ Escolhas que você tem sobre suas informações
 
  Para saber mais sobre essas opções, veja as informações fornecidas por seu dispositivo ou pelo provedor do software.
 
-Como e quando compartilhamos informações
+## Como e quando compartilhamos informações
 
 - Qualquer pessoa pode ver as pastas públicas e Pins que você criou, bem como as informações do perfil que você nos fornece. Também tornamos essas informações públicas disponíveis por meio do que chamamos de APIs (basicamente, uma maneira técnica de compartilhar informações rapidamente). Por exemplo, um parceiro pode estudar quais são seus Pins mais populares ou como seus Pins estão sendo compartilhados no Pinterest usando uma API do Pinterest. Nós também compartilhamos suas informações com:
 
@@ -146,15 +146,15 @@ Como e quando compartilhamos informações
  - Agências de aplicação da lei ou órgãos do governo. Nós compartilhamos informações apenas se acreditamos que a divulgação dos dados é razoavelmente necessária para cumprir uma lei, regulamento ou solicitação legal; para proteger a segurança, os direitos ou a propriedade do público, de qualquer pessoa ou do Pinterest; ou para detectar, impedir ou lidar com fraude, problemas de segurança ou técnicos.
  - Nossas subsidiárias integrais e afiliadas. Se nos envolvermos em uma fusão, aquisição, falência, dissolução, reorganização ou processo ou transação semelhante que envolva a transferência das informações descritas nesta Política, compartilharemos suas informações com uma parte envolvida em tal processo (por exemplo, um comprador em potencial).
 
-Por quanto tempo mantemos suas informações
+## Por quanto tempo mantemos suas informações
 
 - Nós mantemos suas informações apenas enquanto precisamos delas para fornecer o Pinterest para você e cumprir as finalidades descritas nesta política. Esse também é o caso de qualquer pessoa com quem compartilhamos suas informações e que realiza serviços em nosso nome. Quando não precisarmos mais usar suas informações e não houver necessidade de as mantermos para cumprir nossas obrigações legais ou regulamentares, nós as removeremos de nossos sistemas ou as despersonalizaremos para que não possamos identificar você.
 
-Nossa política sobre informações de crianças
+## Nossa política sobre informações de crianças
 
-- Menores de 13 anos não têm permissão para usar o Pinterest. Se você estiver baseado no EEE, só poderá usar o Pinterest se estiver acima da idade em que pode dar consentimento para o processamento de dados de acordo com as leis do seu país. Se você for um pai, mãe ou responsável, descobrir que seu filho está usando o Pinterest e não quiser que ele use, entre em contato conosco.
+- Menores de 13 anos não têm permissão para usar o Pinterest. Se você estiver baseado no EEE, só poderá usar o Pinterest se estiver acima da idade em que pode dar consentimento para o processamento de dados de acordo com as leis do seu país.
 
-Suas opções
+## Suas opções
 
 - Você tem opções quanto às informações que temos sobre você. Para exercer essas opções, acesse as configurações da conta e, se ainda precisar de ajuda, nossa Central de Ajuda.
 
@@ -166,7 +166,7 @@ Suas opções
 
  Não vamos discriminar você se optar por exercer suas opções relacionadas às suas informações pessoais. Buscamos ser claros com você sobre suas opções e as consequências de exercer determinadas opções. Em caso de dúvida, fale conosco.
 
-Residentes no EEE
+## Residentes no EEE
 
 - Se você tem alguma dúvida sobre nossas atividades de processamento de dados, o controlador dos dados que você deve contatar é o Pinterest Europe Ltd., uma empresa irlandesa com escritório registrado em Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Irlanda. Você também pode entrar em contato com o responsável pela proteção dos dados.
 
@@ -174,7 +174,7 @@ Residentes no EEE
 
  Como o Pinterest é um serviço mundial, podemos transferir os dados pessoais dos residentes do EEE para um país fora do EEE. Nos casos em que transferirmos informações do EEE para um país que não ofereça um nível adequado de proteção, só o faremos em conformidade com as salvaguardas apropriadas para proteger suas informações, como cláusulas contratuais padrão ou a certificação Privacy Shield.
 
-Residentes na Califórnia
+## Residentes na Califórnia
 
 - A Lei de Privacidade do Consumidor da Califórnia (CCPA) exige que divulguemos as categorias de Informações Pessoais que coletamos e como as usamos, as categorias de fontes das quais coletamos Informações Pessoais e os terceiros com os quais as compartilhamos, o que foi explicado acima.
 
@@ -208,11 +208,11 @@ Residentes na Califórnia
 
  Usamos e divulgamos essas informações para os fins comerciais descritos na seção O que fazemos com as informações que coletamos desta Política de Privacidade, incluindo: prestar nosso Serviço, comunicarmo-nos com você para fornecer atualizações ou responder aos seus comentários e dúvidas, auditar nosso Serviço, detectar incidentes de segurança e evitar fraude, depurar e corrigir erros, manter sua conta, prestar atendimento ao cliente, processar ou atender pedidos, realizar pesquisa e desenvolvimento e outras atividades para melhorar nosso Serviço, fazer publicidade, divulgar nossos Serviços e entender como os usuários interagem com nossos Serviços.
 
-Como fazemos alterações nesta política
+## Como fazemos alterações nesta política
 
 - Podemos alterar esta política de tempos em tempos e, se o fizermos, publicaremos as alterações nesta página. Se continuar a usar o Pinterest depois que essas alterações entrarem em vigor, você estará concordando com a nova política. Caso as mudanças sejam significativas, poderemos fornecer um aviso mais destacado ou obter sua permissão, conforme exigido por lei.
 
-Fale conosco
+## Fale conosco
 
 - A melhor maneira de você entrar em contato conosco ou exercer suas opções descritas acima é através da Central de Ajuda. Se você reside nos Estados Unidos, o Pinterest, Inc. é responsável pelas suas informações. Você pode entrar em contato com o Pinterest Inc., localizado em 651 Brannan Street, São Francisco, CA 94103.
 
