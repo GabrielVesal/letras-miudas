@@ -3,8 +3,8 @@ empresa: "Caixa"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
-capturado_em: 2019-01-28
-wayback: "https://web.archive.org/web/20190128000837/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
+capturado_em: 2020-09-22
+wayback: "https://web.archive.org/web/20200922042232/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md"
 ---
 
@@ -124,26 +124,26 @@ Cross Selling
 
 ## Outros produtos Caixa
 
-### Crédito Caixa
+### Crédito CAIXA
 
-Se você acredita que pode mais, a Caixa acredita com você.
+Se você acredita que pode mais, a CAIXA acredita com você.
 
 Veja as opções ›
 
 ### Casa própria
 
-Venha para a Caixa e a realize o sonho da casa própria.
+Venha para a CAIXA e a realize o sonho da casa própria.
 
 Compre sua casa própria ›
 
-### Cartões Caixa
+### Cartões CAIXA
 
-A Caixa tem sempre um cartão perfeito para você.
+A CAIXA tem sempre um cartão perfeito para você.
 
 Escolha agora o seu ›
 
-### Contas Caixa
+### Contas CAIXA
 
-As contas Caixa têm as melhores tarifas do mercado.
+As contas CAIXA têm as melhores tarifas do mercado.
 
 Abra sua conta ›
