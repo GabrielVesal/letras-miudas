@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2020-04-24
-wayback: "https://web.archive.org/web/20200424065055/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2020-09-24
+wayback: "https://web.archive.org/web/20200924021129/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -14,7 +14,13 @@ Quando você usa nossos serviços, está confiando a nós suas informações. En
 
 Esta Política de Privacidade destina-se a ajudar você a entender quais informações coletamos, por que as coletamos e como você pode atualizar, gerenciar, exportar e excluir essas informações.
 
-Em vigor a partir de 31 de março de 2020 | Versões arquivadas | Fazer o download do PDF
+Check-up de privacidade
+
+Quer mudar suas configurações de privacidade?
+
+Faça o Check-up de privacidade
+
+Em vigor a partir de 28 de agosto de 2020 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -360,6 +366,21 @@ Temos servidores em todo o mundo e suas informações podem ser processadas em s
 
 Quando recebemos reclamações formais por escrito, respondemos entrando em contato com o requerente. Trabalhamos com as autoridades reguladoras apropriadas, inclusive autoridades locais de proteção de dados, para resolver quaisquer reclamações referentes à transferência de dados que não possamos resolver diretamente com você.
 
+## Requisitos do Brasil
+
+Se a legislação de proteção de dados do Brasil se aplicar ao tratamento das suas informações, forneceremos os controles descritos nesta política para que você possa exercer seu direito de:
+
+- receber confirmação sobre o tratamento de suas informações;
+- atualizar, corrigir, anonimizar, remover e solicitar acesso às suas informações;
+- restringir ou se opor ao tratamento das suas informações;
+- exportar suas informações para outro serviço.
+
+Para usuários localizados no Brasil, o controlador de dados responsável por suas informações é a Google LLC, a menos que indicado de outra forma em um aviso de privacidade específico do serviço. Em outras palavras, a Google LLC é responsável pelo processamento das suas informações e pelo compromisso de obedecer às leis de privacidade aplicáveis.
+
+### Dados de contato
+
+Se tiver alguma dúvida, entre em contato com o Google e com nosso escritório de proteção de dados. Você também poderá entrar em contato com a autoridade local de proteção de dados se tiver dúvidas sobre seus direitos de acordo com a legislação brasileira.
+
 # Sobre esta política
 
 ## Quando esta política se aplica
@@ -382,11 +403,11 @@ Alteramos esta Política de Privacidade periodicamente. Nós não reduziremos se
 Os seguintes avisos de privacidade fornecem informações adicionais sobre alguns serviços do Google:
 
 - Chrome e o sistema operacional do Chrome
-- Play Livros
 - Payments
 - Fiber
 - Google Fi
 - G Suite for Education
+- Read Along
 - YouTube Kids
 - Contas do Google gerenciadas no Family Link para crianças menores de 13 anos (ou a idade aplicável no seu país).
 - Coleta de voz e áudio dos recursos para crianças no Google Assistente
