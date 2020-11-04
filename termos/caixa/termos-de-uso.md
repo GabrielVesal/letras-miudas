@@ -87,37 +87,37 @@ Não
 
 Obrigado! Nossa equipe vai avaliar suas considerações.
 
-- Gostaria de outras informações
+- Justificativa
 
  Campo de Justificativa
 
  Enviar Comentário
-- Não encontrei o que procurava
+- Justificativa
 
  Campo de Justificativa
 
  Enviar Comentário
-- Encontrei informações incorretas
+- Justificativa
 
  Campo de Justificativa
 
  Enviar Comentário
-- Tive problemas com o acesso
+- Justificativa
 
  Campo de Justificativa
 
  Enviar Comentário
-- Muita coisa para ler
+- Justificativa
 
  Campo de Justificativa
 
  Enviar Comentário
-- Achei as informações confusas
+- Justificativa
 
  Campo de Justificativa
 
  Enviar Comentário
-- Outros
+- Justificativa
 
  Campo de Justificativa
 
