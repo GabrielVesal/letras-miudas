@@ -3,8 +3,8 @@ empresa: "Caixa"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
-capturado_em: 2020-09-22
-wayback: "https://web.archive.org/web/20200922042232/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
+capturado_em: 2020-11-04
+wayback: "https://web.archive.org/web/20201104135216/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md"
 ---
 
@@ -82,37 +82,37 @@ Queremos melhorar o nosso site para você. Ficou satisfeito com o conteúdo dest
 
 Obrigado! Nossa equipe vai avaliar suas considerações.
 
-- Gostaria de outras informações
+- Justificativa
 
  Campo de Justificativa
 
  Enviar Comentário
-- Não encontrei o que procurava
+- Justificativa
 
  Campo de Justificativa
 
  Enviar Comentário
-- Encontrei informações incorretas
+- Justificativa
 
  Campo de Justificativa
 
  Enviar Comentário
-- Tive problemas com o acesso
+- Justificativa
 
  Campo de Justificativa
 
  Enviar Comentário
-- Muita coisa para ler
+- Justificativa
 
  Campo de Justificativa
 
  Enviar Comentário
-- Achei as informações confusas
+- Justificativa
 
  Campo de Justificativa
 
  Enviar Comentário
-- Outros
+- Justificativa
 
  Campo de Justificativa
 
