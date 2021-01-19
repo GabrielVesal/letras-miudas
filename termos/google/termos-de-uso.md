@@ -6,6 +6,8 @@
 
 Em vigor a partir de 31 de março de 2020 | Versões arquivadas | Fazer o download do PDF
 
+Versão específica: Brasil
+
 ## O que estes termos cobrem
 
 ### Sabemos que é tentador pular estes Termos de Serviço, mas é importante estabelecer o que você pode esperar de nós ao usar os serviços do Google e o que esperamos de você.
@@ -384,3 +386,12 @@ Aquilo que você escreve, faz upload, armazena, envia, recebe ou compartilha com
 ### usuário comercial
 
 Um indivíduo ou entidade que não é consumidor (consulte "consumidor").
+
+### versão específica
+
+Se você tem uma Conta do Google, ela é associada a um país (ou território) para que possamos determinar:
+
+- o afiliado do Google que fornece os serviços a você e processa suas informações enquanto você os utiliza;
+- a versão dos termos que regem nossa relação.
+
+Quando a conta não está conectada, a versão específica é determinada pelo local em que você está usando os Serviços do Google. Se você tem uma conta, faça login e abra estes termos para ver o país associado a ela.
