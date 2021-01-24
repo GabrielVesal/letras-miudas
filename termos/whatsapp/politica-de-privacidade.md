@@ -3,8 +3,8 @@ empresa: "WhatsApp"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
-capturado_em: 2020-12-21
-wayback: "https://web.archive.org/web/20201221190553/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
+capturado_em: 2021-01-24
+wayback: "https://web.archive.org/web/20210124081322/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/politica-de-privacidade.md"
 ---
 
@@ -16,7 +16,7 @@ O respeito que temos por sua privacidade é como um código em nosso DNA. Desde 
 
 O WhatsApp presta serviços de mensagens, ligações via internet e outros para usuários em todo o mundo. Nossa Política de Privacidade é o que usamos para explicar nossas práticas durante o tratamento de dados (inclusive mensagens). Por exemplo, mostramos quais dados são coletados sobre você e como isso lhe afeta. Também explicamos as etapas seguidas para proteger sua privacidade, por exemplo, como o WhatsApp foi compilado de forma a não armazenar as mensagens entregues e o controle dado a você para decidir com quem se comunica em nossos Serviços.
 
-Os termos “WhatsApp”, “nosso(a)”, “nós”, “nos” ou “conosco” referem-se ao WhatsApp Inc. Esta Política de Privacidade (“Política de Privacidade”) se aplicará a todos os nossos aplicativos, serviços, recursos, software e site (em conjunto, “Serviços”) se não houver disposição em contrário.
+Os termos “WhatsApp”, “nosso(a)”, “nós”, “nos” ou “conosco” referem-se ao WhatsApp LLC. Esta Política de Privacidade (“Política de Privacidade”) se aplicará a todos os nossos aplicativos, serviços, recursos, software e site (em conjunto, “Serviços”) se não houver disposição em contrário.
 
 Leia também os Termos de Serviço do WhatsApp (“Termos”), que descrevem os termos que regulam o uso de nossos Serviços por você.
 
@@ -39,7 +39,7 @@ O WhatsApp recebe ou coleta dados sempre que operamos e prestamos nossos Serviç
 
 - **Dados de sua conta.** Recebemos seu número de celular quando uma conta do WhatsApp é criada por você. Recebemos os números de telefone de sua agenda de contatos regularmente, tanto de usuários de nossos Serviços quanto de outros contatos. Você confirma ter autorização para fornecer tais números. Outros dados podem ser fornecidos para sua conta, como nome do perfil, foto do perfil e mensagem de status.
 - **Suas mensagens.** Não guardamos suas mensagens durante a prestação dos Serviços. Depois que suas mensagens (incluindo conversas, fotos, vídeos, mensagens de voz, arquivos e compartilhamento de informações de localização) são entregues, elas são excluídas de nossos servidores. Suas mensagens ficam armazenadas em seu próprio dispositivo. Se uma mensagem não puder ser entregue imediatamente (por exemplo, se você estiver offline), podemos mantê-la em nossos servidores por até 30 (trinta) dias enquanto tentamos entregá-la. Se a mensagem não puder ser entregue nesses 30 (trinta) dias, nós a excluiremos. Para melhorar o desempenho e entregar mensagens com mídia de maneira mais eficaz, por exemplo, quando há o compartilhamento de fotos ou vídeos populares, podemos guardar esse conteúdo em nossos servidores por mais tempo. Também oferecemos a criptografia de ponta a ponta em nossos Serviços, esta por sua vez ativada por padrão quando você e as pessoas com quem troca mensagens estiverem usando uma versão de nosso aplicativo que tenha sido lançada após o dia 2 de abril de 2016. Criptografia de ponta a ponta significa que suas mensagens são criptografadas para que nós ou terceiros não as possamos ler.
-- **Seus contatos.** Para ajudar-lhe a organizar suas comunicações, podemos criar uma lista de favoritos de seus contatos.
+- **Seus contatos.** Para ajudar-lhe a organizar suas comunicações, podemos criar uma lista de favoritos de seus contatos. Você pode criar, entrar ou ser adicionado a grupos e listas de transmissão, que serão associados aos dados da sua conta.
 - **Suporte ao cliente.** Você poderá nos providenciar dados relacionados ao uso que faz de nossos Serviços, incluindo cópias de suas mensagens, e informações sobre como podemos contatá-lo em caso de suporte ao cliente. Por exemplo, podemos receber um e-mail seu com informações referentes ao desempenho de nosso aplicativo ou com outras questões.
 
 ##### Dados coletados automaticamente
@@ -117,4 +117,4 @@ Fale conosco
 
 Em caso de dúvidas sobre esta Política de Privacidade, entre em contato conosco.
 
-WhatsApp Inc. Privacy Policy 1601 Willow Road Menlo Park, California 94025 United States of America
+WhatsApp LLC Privacy Policy 1601 Willow Road Menlo Park, California 94025 United States of America
