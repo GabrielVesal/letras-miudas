@@ -3,16 +3,16 @@ empresa: "WhatsApp"
 documento: "Termos de Uso"
 categoria: "Redes sociais"
 fonte: "https://www.whatsapp.com/legal/terms-of-service?lang=pt_BR"
-capturado_em: 2020-12-21
-wayback: "https://web.archive.org/web/20201221064000/https://www.whatsapp.com/legal/terms-of-service?lang=pt_BR"
+capturado_em: 2021-02-26
+wayback: "https://web.archive.org/web/20210226172844/https://www.whatsapp.com/legal/terms-of-service?lang=pt_BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/termos-de-uso.md"
 ---
 
 # Termos de serviço do WhatsApp
 
-*Se você reside na região Europeia, o WhatsApp Ireland Limited fornece o WhatsApp para você sob esses Termos de Serviço e Políticas de Privacidade.*
+*Se você reside na região Europeia, o WhatsApp Ireland Limited fornece o WhatsApp para você sob estes Termos de Serviço e esta Política de Privacidade.*
 
-A WhatsApp Inc. ("WhatsApp", "nosso(a)", "nós" ou "conosco") presta serviços de mensagens, ligações via Internet e outros serviços para usuários em todo o mundo. Leia os nossos Termos de Serviço para entender o que está passando com o seu uso do WhatsApp. Você concorda com nossos Termos de Serviço ("Termos") a partir do momento em que instala, acessa ou usa nossos aplicativos, serviços, recursos, software ou site (em conjunto, "Serviços").
+O WhatsApp LLC ("WhatsApp", "nosso(a)", "nós" ou "conosco") presta serviços de mensagens, ligações via internet e outros serviços para usuários em todo o mundo. Leia os nossos Termos de Serviço para entender o que está passando com o seu uso do WhatsApp. Você concorda com nossos Termos de Serviço ("Termos") a partir do momento em que instala, acessa ou usa nossos aplicativos, serviços, recursos, software ou site (em conjunto, "Serviços").
 
 **SEM ACESSO A SERVIÇOS DE EMERGÊNCIA: há diferenças importantes entre o WhatsApp e seu telefone fixo, celular e serviços de SMS. Nossos Serviços não permitem acesso a serviços ou a prestadores de serviço de emergência, incluindo a polícia, o corpo de bombeiros, hospitais ou qualquer forma de contato com pontos de atendimento de segurança pública. Você deverá se certificar de que consegue contatar prestadores de serviços de emergência pertinentes usando seu telefone fixo, seu celular ou outro serviço disponível.**
 
@@ -116,9 +116,9 @@ Cláusula especial de arbitragem para usuários nos Estados Unidos e no Canadá
 
 A arbitragem será presidida pela Associação Americana de Arbitragem (American Arbitration Association, AAA) consoante as Regras de Arbitragem Comercial em vigor no momento em que a arbitragem for iniciada, incluindo as Regras Opcionais para Medidas Cautelares de Emergência e os Procedimentos Complementares para Controvérsias envolvendo Relações de Consumo (em conjunto, as “Regras da AAA”). A arbitragem será presidida por um único árbitro escolhido de acordo com as Regras da AAA. As Regras da AAA, as informações para iniciar uma Controvérsia e uma descrição do processo de arbitragem estão disponíveis em www.adr.org. O árbitro decidirá se a Controvérsia está sujeita à solução por arbitragem. O local da arbitragem e a divisão das despesas e dos honorários dela serão determinados de acordo com as Regras da AAA. Não obstante as Regras da AAA, reembolsaremos todas as taxas administrativas da AAA em Controvérsias sujeitas aos Procedimentos Complementares para Controvérsias envolvendo Relações de Consumo, a menos que o árbitro decida que a Controvérsia foi apresentada como assédio processual ou seja manifestamente frívolo.
 
-**Procedimento de recusa.** Você pode recusar esse acordo de arbitragem. Se fizer isso, nenhum de nós poderá exigir que o outro participe de um processo de arbitragem. Para fazer a recusa, você deve nos avisar por escrito com indicação de data e hora no prazo de 30 (trinta) dias a contar: (i) da data da primeira aceitação de nossos Termos; e (ii) da data em que você se sujeitou a esta cláusula de arbitragem, o que vier primeiro. Você deve usar o seguinte endereço para a recusa:
+**Procedimento de recusa.** Você pode recusar esse acordo de arbitragem. Se fizer isso, nenhum de nós poderá exigir que o outro participe de um processo de arbitragem. Para fazer a recusa, você deve nos avisar por escrito com indicação de data e hora no prazo de 30 (trinta) dias a contar: (i) da data da primeira aceitação de nossos Termos; e (ii) da data em que você se sujeitou a esta cláusula de arbitragem, o que vier primeiro. Você deve usar o seguinte endereço para nos notificar sobre sua recusa:
 
-WhatsApp Inc. Arbitration Opt-Out 1601 Willow Road Menlo Park, California 94025 United States of America
+WhatsApp LLC Arbitration Opt-Out 1601 Willow Road Menlo Park, California 94025 United States of America
 
 Lembre-se de incluir: (1) seu nome e endereço residencial; (2) o número de celular associado à sua conta; (3) uma declaração expressa de que deseja recusar o acordo de arbitragem contido em nossos Termos.
 
