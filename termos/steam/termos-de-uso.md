@@ -3,8 +3,8 @@ empresa: "Steam"
 documento: "Termos de Uso"
 categoria: "Jogos"
 fonte: "https://store.steampowered.com/subscriber_agreement/?l=brazilian"
-capturado_em: 2019-04-30
-wayback: "https://web.archive.org/web/20190430164258/https://store.steampowered.com/subscriber_agreement/?l=brazilian"
+capturado_em: 2021-04-14
+wayback: "https://web.archive.org/web/20210414183758/https://store.steampowered.com/subscriber_agreement/?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/termos-de-uso.md"
 ---
 
@@ -85,7 +85,7 @@ Caso você incorpore qualquer conteúdo de terceiro em qualquer Arte feita pelos
 
 O uso comercial de alguns conteúdos de jogos da Valve é permitido por meio de recursos como Workshop Steam ou Mercado de Assinaturas Steam. Os termos aplicáveis a esse uso estão definidos nas Seções 3.D. e 6.B. abaixo e em qualquer Termo de Assinatura fornecido para esses recursos.
 
-Para visualizar a política de vídeo da Valve contendo termos adicionais que abrangem o uso de trabalhos audiovisuais incorporando propriedade intelectual da Valve ou conteúdo criado com o Software Source® Filmmaker, clique aqui: http://www.valvesoftware.com/videopolicy.html
+Para visualizar a política de vídeo da Valve contendo termos adicionais que abrangem o uso de trabalhos audiovisuais incorporando propriedade intelectual da Valve ou conteúdo criado com o Software Source® Filmmaker, clique aqui: Http://www.valvesoftware.com/videopolicy.html
 
 E. Licença de Uso para Software de Servidor Dedicado Valve
 
@@ -163,13 +163,19 @@ Para consumidores da União Europeia:
 
 As leis da UE oferecem um direito legal para revogar determinados contratos para mercadorias físicas e para a aquisição de conteúdo digital. Você pode encontrar mais informações sobre a magnitude de seus direitos estatutários para revogação e sobre as maneiras como você pode exercê-los nesta página: https://support.steampowered.com/kb\_article.php?ref=8620-QYAL-4516.
 
-4. CONDUTA, TRAPAÇA E COMPORTAMENTO ILEGAL ONLINE ⏶
+4. CONDUTA, TRAPAÇA E ADULTERAÇÃO DE PROCESSO ⏶
 
 A sua conduta e interação online com outros Assinantes deverá se orientar pelo bom senso e pelas regras básicas de etiqueta. Eles devem cumprir, em especial, as Regras de Conduta do Steam Online, que podem ser encontradas em http://steampowered.com/index.php?area=online\_conduct. Dependendo dos termos de uso impostos por terceiros que hospedam jogos particulares ou outros serviços, requisitos adicionais também podem ser fornecidos nos Termos da Assinatura aplicáveis a uma assinatura específica.
 
-O Steam e o Conteúdo e os Serviços poderão incluir funcionalidades criadas para identificar processos ou funcionalidades de software ou hardware que poderão fornecer a determinado jogador uma vantagem competitiva injusta ao jogar versões multijogadores de qualquer Conteúdo e Serviços ou modificações deles (“Métodos de Trapaça”). Você concorda em não criar Métodos de Trapaça nem auxiliar terceiros, de qualquer forma, na criação ou no uso de Métodos de Trapaça. Você concorda em não desativar, contornar ou interferir de qualquer outra forma, direta ou indiretamente, no funcionamento do software concebido para impedir ou comunicar o uso de métodos de Trapaça. Você reconhece e concorda que a Valve, ou qualquer outro anfitrião de multijogadores online, poderá recusar sua participação em determinados jogos de multijogadores online se você usar métodos de Trapaça em conexão com o Steam ou o Conteúdo e os Serviços. Além disso, você reconhece e concorda que um anfitrião de multijogadores online poderá comunicar seu uso de Métodos de Trapaça à Valve, e a Valve poderá comunicar seu histórico de uso de Métodos de Trapaça a outros anfitriões de multijogadores online. A Valve poderá terminar a sua Conta ou uma Assinatura específica por qualquer conduta ou atividade que ela considere ilegal, que constitua um Método de Trapaça, ou que de outra forma afete negativamente a satisfação com o Steam dos outros Assinantes. Você reconhece que a Valve não é obrigada a avisá-lo previamente do término das sua(s) Assinatura(s) e/ou Conta.
+O Steam e o Conteúdo e os Serviços poderão incluir funcionalidades criadas para identificar processos ou funcionalidades de software ou hardware que poderão fornecer a determinado jogador uma vantagem competitiva injusta ao jogar versões multijogadores de qualquer Conteúdo e Serviços ou modificações deles (“Métodos de Trapaça”). Você concorda em não criar Métodos de Trapaça nem auxiliar terceiros, de qualquer forma, na criação ou no uso de Métodos de Trapaça. Você concorda em não desativar, contornar ou interferir de qualquer outra forma, direta ou indiretamente, no funcionamento do software concebido para impedir ou comunicar o uso de métodos de Trapaça.
 
-Você não poderá usar métodos de Trapaça, software de automação (bots), mods, hacks, ou qualquer software não autorizado de terceiros, para modificar ou automatizar qualquer processo do Mercado de Assinaturas.
+Você concorda em não adulterar a execução do Steam ou do Conteúdo e dos Serviços, a menos que autorizado de outra forma pela Valve. Você reconhece e concorda que a Valve, ou qualquer outro anfitrião de um jogo de multijogadores on-line distribuído através do Steam ("Anfitrião Externo"), poderá recusar sua participação em determinados jogos de multijogadores on-line se você usar métodos de Trapaça ou adulteração com a execução do Steam ou do Conteúdo e Serviços.
+
+Além disso, você reconhece e concorda que Anfitriões Externos podem relatar seu uso de Trapaças ou adulteração de processos não autorizados na Valve, e a Valve pode comunicar seu histórico de tais usos a Anfitriões Externos dentro dos limites da Política de Privacidade do Steam.
+
+A Valve poderá terminar a sua Conta ou uma Assinatura específica por qualquer conduta ou atividade que ela considere ilegal, que constitua um Método de Trapaça, ou que de outra forma afete negativamente a satisfação com o Steam dos outros Assinantes. Você reconhece que a Valve não é obrigada a avisá-lo previamente do término das sua(s) Assinatura(s) e/ou Conta.
+
+Você não poderá usar métodos de Trapaça, software de automação (bots), mods, hacks, ou qualquer software não autorizado de terceiros, para modificar ou automatizar qualquer processo do Mercado de Assinaturas ou processo de criação de conta do Steam.
 
 5. CONTEÚDO DE TERCEIROS ⏶
 
@@ -181,7 +187,7 @@ A. Provisões gerais
 
 O Steam oferece interface e ferramentas para que você possa gerar conteúdo e disponibilizá-lo para outros usuários e/ou para a Valve a seu critério exclusivo. "Conteúdo Gerado pelo Usuário" significa quaisquer informações disponibilizadas para outros usuários por meio do uso de funcionalidades para vários usuários do Steam, ou à Valve ou às suas afiliadas pelo uso do Conteúdo e dos Serviços ou de outro modo.
 
-Ao fazer upload do conteúdo para o Steam para que ele fique disponível para outros usuários e/ou para a Valve, você concede à Valve e às suas afiliadas o direito mundial e não exclusivo de uso, reprodução, modificação, criação de trabalhos derivados, distribuição, transmissão, transcodificação, conversão, difusão e de comunicação, apresentação e execução pública, de qualquer outra forma, do Conteúdo Gerado pelo Usuário e trabalhos derivados dele, para a finalidade de operação, distribuição, incorporação como parte e promoção do serviço, jogos ou outras ofertas do Steam, incluindo assinaturas. Esta licença é concedida à Valve uma vez que o conteúdo é carregado no Steam pela duração dos direitos de propriedade intelectual. Ela poderá ser rescindida se a Valve violar a licença e não sanar tal violação em 14 (quatorze) dias contados a partir do recebimento da notificação enviada por você aos cuidados do Departamento Jurídico da Valve, no endereço aplicável da Valve, informado nesta página daPolítica de Privacidade . A rescisão da referida licença não afeta os direitos de quaisquer sublicenciados de acordo com qualquer sublicença concedida pela Valve antes do término da licença. A Valve é a única proprietária dos trabalhos derivados criados pela Valve a partir do seu Conteúdo Gerado pelo Usuário e, portanto, está qualificada a fornecer licenças sobre estes trabalhos derivados. Caso você use o armazenamento em nuvem da Valve, você nos concede uma licença para armazenamento de suas informações como parte desse serviço. A Valve pode limitar a quantidade de armazenamento que você pode utilizar.
+Ao fazer upload do conteúdo para o Steam para que ele fique disponível para outros usuários e/ou para a Valve, você concede à Valve e às suas afiliadas o direito mundial e não exclusivo de uso, reprodução, modificação, criação de trabalhos derivados, distribuição, transmissão, transcodificação, conversão, difusão e de comunicação, apresentação e execução pública, de qualquer outra forma, do Conteúdo Gerado pelo Usuário e trabalhos derivados dele, para a finalidade de operação, distribuição, incorporação como parte e promoção do serviço, jogos ou outras ofertas do Steam, incluindo assinaturas. Esta licença é concedida à Valve uma vez que o conteúdo é carregado no Steam pela duração dos direitos de propriedade intelectual. Ela poderá ser rescindida se a Valve violar a licença e não sanar tal violação em 14 (quatorze) dias contados a partir do recebimento da notificação enviada por você aos cuidados do Departamento Jurídico da Valve, no endereço aplicável da Valve, informado nesta página da Política de Privacidade. A rescisão da referida licença não afeta os direitos de quaisquer sublicenciados de acordo com qualquer sublicença concedida pela Valve antes do término da licença. A Valve é a única proprietária dos trabalhos derivados criados pela Valve a partir do seu Conteúdo Gerado pelo Usuário e, portanto, está qualificada a fornecer licenças sobre estes trabalhos derivados. Caso você use o armazenamento em nuvem da Valve, você nos concede uma licença para armazenamento de suas informações como parte desse serviço. A Valve pode limitar a quantidade de armazenamento que você pode utilizar.
 
 Caso você forneça à Valve quaisquer comentários e sugestões sobre o Steam, o Conteúdo e Serviços ou quaisquer produtos, hardware ou serviços da Valve, a Valve poderá usar os comentários ou as sugestões da maneira que preferir, sem obrigação de responder a você.
 
@@ -326,4 +332,4 @@ As obrigações da Valve estão sujeitas às leis e processos legais existentes,
 
 Você concorda agir de acordo com todas as leis e regulamentos de importação/exportação. Você concorda em não exportar o Conteúdo, os Serviços ou o Hardware nem autorizar o uso de sua Conta por indivíduos de quaisquer países que apoiem atividades terroristas, para os quais as exportações de criptografia são restritas no momento pelo Bureau of Export Administration dos EUA. Você declara e garante que não se encontra em um país proibido, não está sob controle de indivíduos desses países e não é cidadão nem residente em nenhum desses países.
 
-Este Acordo foi atualizado pela última vez em 30 de abril de 2019 (“Data de Revisão”). Se você assinou este Acordo antes da Data de Revisão, ele substitui o acordo existente com a Valve ou a Valve SARL no dia que entrar em vigor de acordo com a Seção 8 acima.
+Este Acordo foi atualizado pela última vez em 28 de agosto de 2020 ("Data de Revisão"). Se você assinou este Acordo antes da Data de Revisão, ele substitui o acordo existente com a Valve ou a Valve SARL no dia que entrar em vigor de acordo com a Seção 8 acima.
