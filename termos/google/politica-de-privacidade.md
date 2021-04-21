@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2020-10-30
-wayback: "https://web.archive.org/web/20201030192838/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2021-04-21
+wayback: "https://web.archive.org/web/20210421152141/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -20,7 +20,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 30 de setembro de 2020 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 4 de fevereiro de 2021 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -95,7 +95,7 @@ Coletamos informações sobre sua atividade em nossos serviços e usamos tal inf
 - atividades em sites e apps de terceiros que usam nossos serviços
 - histórico de navegação do Chrome que você sincronizou com a Conta do Google
 
-Se você usa nossos serviços para fazer e receber chamadas ou enviar e receber mensagens, podemos coletar informações de registro de telefonia, como o número do seu telefone, número de quem chama, número de quem recebe, números encaminhados, horário e data de chamadas e mensagens, duração das chamadas, informações de roteamento e tipos de chamadas.
+Se você usa nossos serviços para fazer e receber chamadas ou enviar e receber mensagens, podemos coletar informações de registro de chamadas e mensagens, como o número do seu telefone, número de quem chama, número de quem recebe, números de encaminhamento, endereço de e-mail do remetente e destinatário, horário e data de chamadas e mensagens, duração das chamadas, informações de roteamento e tipos e volumes de chamadas e mensagens.
 
 Visite sua Conta do Google para encontrar e gerenciar informações de atividades salvas na conta.
 
@@ -151,7 +151,7 @@ Ir para as configurações de anúncios
 
 ### Avaliar o desempenho
 
-Usamos dados para análise e avaliação a fim de entender como nossos serviços são usados. Por exemplo, analisamos dados sobre suas visitas aos nossos sites para otimizar o design do produto. Também usamos dados sobre os anúncios com os quais você interage para ajudar os anunciantes a entender o desempenho das campanhas publicitárias. Usamos diversas ferramentas para fazer isso, incluindo o Google Analytics. Quando você visita sites que usam o Google Analytics, o Google e um cliente do Google Analytics podem vincular informações sobre sua atividade nesse site com atividades em outros sites que usam nossos serviços de anúncios.
+Usamos dados para análise e avaliação a fim de entender como nossos serviços são usados. Por exemplo, analisamos dados sobre suas visitas aos nossos sites para otimizar o design do produto. Também usamos dados sobre os anúncios com os quais você interage para ajudar os anunciantes a entender o desempenho das campanhas publicitárias. Usamos diversas ferramentas para fazer isso, incluindo o Google Analytics. Quando você visita sites que usam o Google Analytics, um cliente do Google Analytics pode ativar o Google para vincular informações sobre sua atividade nesse site com atividades em outros sites que usam nossos serviços de anúncios.
 
 ### Entrar em contato com você
 
@@ -406,6 +406,8 @@ Os seguintes avisos de privacidade fornecem informações adicionais sobre algun
 - Contas do Google gerenciadas no Family Link para crianças menores de 13 anos (ou a idade aplicável no seu país).
 - Coleta de voz e áudio dos recursos para crianças no Google Assistente
 
+Se você faz parte de uma organização que usa o Google Workspace ou Google Cloud Platform, saiba como esses serviços coletam e usam suas informações pessoais no Aviso de privacidade do Google Cloud.
+
 ## Outros recursos úteis
 
 Os links a seguir destacam recursos úteis para você saber mais sobre nossas práticas e configurações de privacidade.
@@ -632,8 +634,11 @@ Por exemplo, é possível excluir seu blog do Blogger ou um site Google que voc�
 
 São exemplos desses serviços:
 
-- Google Hangouts, para fazer chamadas domésticas e internacionais
-- Google Voice, para fazer chamadas, enviar mensagens de texto e gerenciar o correio de voz
+- Google Voice, para fazer e receber chamadas, enviar mensagens de texto e gerenciar o correio de voz
+- Google Meet, para fazer e receber videochamadas
+- Gmail, para enviar e receber e-mails
+- Google Chat, para enviar e receber mensagens
+- Google Duo, para fazer e receber videochamadas e enviar e receber mensagens
 - Google Fi, para um plano de telefone
 
 ### servidores em todo o mundo
