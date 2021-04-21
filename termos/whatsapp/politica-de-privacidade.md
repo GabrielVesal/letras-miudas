@@ -3,8 +3,8 @@ empresa: "WhatsApp"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
-capturado_em: 2021-01-24
-wayback: "https://web.archive.org/web/20210124081322/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
+capturado_em: 2021-04-21
+wayback: "https://web.archive.org/web/20210421121838/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/politica-de-privacidade.md"
 ---
 
@@ -19,17 +19,6 @@ O WhatsApp presta serviços de mensagens, ligações via internet e outros para 
 Os termos “WhatsApp”, “nosso(a)”, “nós”, “nos” ou “conosco” referem-se ao WhatsApp LLC. Esta Política de Privacidade (“Política de Privacidade”) se aplicará a todos os nossos aplicativos, serviços, recursos, software e site (em conjunto, “Serviços”) se não houver disposição em contrário.
 
 Leia também os Termos de Serviço do WhatsApp (“Termos”), que descrevem os termos que regulam o uso de nossos Serviços por você.
-
-Atualizações importantes
-
-O respeito que temos por sua privacidade é como um código em nosso DNA. Desde que começamos o WhatsApp, construímos nossos Serviços nos baseando em sólidos princípios de segurança. Em nossos Termos e Política de Privacidade atualizados você encontrará:
-
-- **Informações fáceis de serem compreendidas.** Nossos Termos e Política de Privacidade atualizados estão mais fáceis de compreender e também tratam de novos recursos, tais como a Chamada do WhatsApp e WhatsApp web e para computador.
-- **Nós nos juntamos ao Facebook em 2014.** O WhatsApp faz parte da família de empresas do Facebook. Nossa Política de Privacidade explica como trabalhamos juntos para melhorar nossos serviços e ofertas para, por exemplo, combater mensagens indesejadas (spam) entre os aplicativos, sugerir produtos e exibir anúncios relevantes no Facebook. Nada que você compartilha no WhatsApp (incluindo suas mensagens, fotos e dados da conta) será compartilhado no Facebook ou em qualquer outro aplicativo de nossa família para que outros vejam. Do mesmo modo, nada do que você publica nesses aplicativos será compartilhado no WhatsApp para que outros vejam.
-- **Suas mensagens são suas e nós não podemos lê-las.** Desenvolvemos recursos de privacidade, criptografia de ponta a ponta e outros recursos de segurança no WhatsApp. Nós não armazenamos suas mensagens depois que elas são entregues. Quando suas mensagens são protegidas pela criptografadas de ponta a ponta, o WhatsApp e terceiros não podem lê-las.
-- **Nenhum banner com anúncios de terceiros.** Seguimos não permitindo banners com anúncios de terceiros no WhatsApp.
-- **Novas maneiras de utilizar o WhatsApp.** Nós iremos explorar maneiras para que usuários e empresas se comuniquem entre si por meio do WhatsApp para fazer e receber pedidos, transações, informações sobre consultas, alertas para envio e entrega de pedidos, atualizações sobre produtos, serviços e marketing. Por exemplo, você poderá receber uma mensagem sobre o status de um voo, um recibo de uma compra ou uma notificação quando uma entrega foi realizada. As mensagens de marketing que você venha a receber poderão conter ofertas de algo de seu interesse. Não queremos que você tenha uma experiência com mensagens indesejadas (spam); como em todas as suas mensagens, você poderá administrar esses tipos de comunicação, e respeitaremos sua escolha.
-- **As opções que você tem.** Se você já usa o WhatsApp poderá escolher não compartilhar os dados da sua conta do WhatsApp com o Facebook para melhorar suas experiências com anúncios e produtos no Facebook. Os usuários atuais que aceitarem os nossos Termos e Política de Privacidade atualizados terão 30 dias adicionais para definirem sua escolha em Configurações/Ajustes > Conta.
 
 Informações que coletamos
 
