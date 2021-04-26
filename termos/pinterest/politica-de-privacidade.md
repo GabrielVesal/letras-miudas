@@ -3,8 +3,8 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2021-02-23
-wayback: "https://web.archive.org/web/20210223142318/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2021-04-26
+wayback: "https://web.archive.org/web/20210426025855/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
 
@@ -79,7 +79,7 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pi
  Também temos um interesse legítimo em tornar o Pinterest seguro e em melhorar os recursos do nosso produto para que você continue encontrando a inspiração que deseja. Todos nós nos beneficiamos quando usamos suas informações para:
 
  - Sugerir outras pessoas que tenham interesses semelhantes. Por exemplo, se você segue pastas de design de interiores, podemos sugerir designers de interiores que talvez lhe interessem.
- - Ajudar seus amigos e contatos a encontrar você no Pinterest, caso você concorde com isso em suas configurações. Por exemplo, se você se inscreveu usando uma conta do Facebook, podemos ajudar seus amigos do Facebook a encontrar você quando se inscreverem no Pinterest. Ou as pessoas podem pesquisar sua conta no Pinterest usando seu e-mail.
+ - Ajudar seus amigos e contatos a encontrar você no Pinterest. Por exemplo, se você se inscreveu usando uma conta do Facebook, podemos ajudar seus amigos do Facebook a encontrar você quando se inscreverem no Pinterest. Ou as pessoas podem pesquisar sua conta no Pinterest usando seu e-mail.
  - Trabalhar com as autoridades e manter o Pinterest seguro. Podemos receber solicitações de informações de contas por parte de autoridades, como a polícia ou o poder judiciário, por exemplo. Para saber mais sobre como respondemos a solicitações de autoridades, consulte nossas Diretrizes de Aplicação da Lei.
  - Analisar as suas mensagens no Pinterest para detectar atividades que representem um risco para a sua segurança, da nossa comunidade e/ou de membros do público.
  - Conduzir análises e pesquisas sobre quem está usando o Pinterest e o que essas pessoas estão fazendo. Por exemplo, ao registrar com que frequência as pessoas usam duas versões diferentes de um recurso no Pinterest, podemos entender qual versão é melhor.
@@ -90,7 +90,7 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pi
  Temos um interesse legítimo em veicular anúncios que sejam relevantes, interessantes e pessoais para você, a fim de gerar receita. Para promover esses interesses, usamos as informações que coletamos para:
 
  - Decidir quais anúncios exibir para você. Por exemplo, se você mostrar interesse em barracas de camping no Pinterest, poderemos lhe exibir anúncios de outros produtos para atividades ao ar livre. Personalizamos o conteúdo do anúncio que exibimos, identificando seus interesses com base em suas atividades no site e fora dele, e usando as informações que recebemos de parceiros de publicidade ou de terceiros. Quando usarmos cookies para identificar seus interesses externos, obteremos seu consentimento sempre que necessário. Quando os parceiros de publicidade ou outros terceiros compartilharem informações conosco sobre você, confiaremos no consentimento que eles obtiveram.
- - Dizer aos nossos parceiros de publicidade como estão seus anúncios no Pinterest e como melhorá-los. Algumas dessas informações são agregadas. Por exemplo, informamos a um anunciante que uma determinada porcentagem de pessoas que visualizaram um anúncio visitaram o site desse anunciante. Em outros casos, essas informações não são agregadas. Por exemplo, avisamos um anunciante que um anúncio específico foi salvo por determinadas pessoas. Para saber mais sobre relatórios de anúncios, acesse a Central de Ajuda.
+ - Dizer aos nossos parceiros de publicidade como estão seus anúncios do Pinterest e como melhorá-los. Algumas dessas informações são agregadas. Por exemplo, informamos a um anunciante que uma determinada porcentagem de pessoas que visualizaram um anúncio visitaram o site desse anunciante. Em outros casos, essas informações não são agregadas. Por exemplo, avisamos um anunciante que um anúncio específico foi salvo por determinadas pessoas. Para saber mais sobre relatórios de anúncios, acesse a Central de Ajuda.
 
  Temos um interesse legítimo em usar as informações que coletamos para personalizar sua experiência no Pinterest com base no seu comportamento externo. Por exemplo, se você visitar sites que vendem guitarras, poderemos sugerir Pins de guitarra para você. Quando identificarmos seus interesses com base em seu comportamento externo com cookies, obteremos todos os consentimentos necessários. Para saber mais sobre como usamos os cookies, consulte nossa Política de Cookies.
 
@@ -216,4 +216,4 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pi
 
 - A melhor maneira de você entrar em contato conosco ou exercer suas opções descritas acima é através da Central de Ajuda. Se você reside nos Estados Unidos, o Pinterest, Inc. é responsável pelas suas informações. Você pode entrar em contato com o Pinterest Inc., localizado em 651 Brannan Street, São Francisco, CA 94103.
 
- Data de vigência: 2 de setembro de 2020 Última atualização: 2 de setembro de 2020
+ Data de vigência: 2 de setembro de 2020 Última atualização: 16 de abril de 2021
