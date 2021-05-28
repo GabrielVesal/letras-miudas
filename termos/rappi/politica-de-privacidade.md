@@ -3,14 +3,20 @@ empresa: "Rappi"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://legal.rappi.com/brazil/aviso-de-privacidade-e-politicas-de-uso-das-informacao-utilizadas-pela-rappi/"
-capturado_em: 2020-10-05
-wayback: "https://web.archive.org/web/20201005064351/https://legal.rappi.com/brazil/aviso-de-privacidade-e-politicas-de-uso-das-informacao-utilizadas-pela-rappi/"
+capturado_em: 2021-05-28
+wayback: "https://web.archive.org/web/20210528230416/https://legal.rappi.com/brazil/aviso-de-privacidade-e-politicas-de-uso-das-informacao-utilizadas-pela-rappi/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/rappi/politica-de-privacidade.md"
 ---
 
+Rappi BR.
+
+**Aviso de Privacidade e Políticas de uso das Informação utilizadas pela Rappi**
+
 Este documento, denominado Política de Privacidade, possui finalidade de estabelecer as regras sobre o uso, armazenamento e tratamento dos dados e informações coletadas dos USUÁRIOS na PLATAFORMA RAPPI.
 
-**Responsáveis pelas Informações dos USUÁRIOS:** **RAPPI BRASIL INTERMEDIAÇÃO DE NEGÓCIOS LTDA.**, registrada sob o CNPJ 26.900.161/0001-25 e suas filiadas (“RAPPI”).
+Responsáveis pelas Informações dos USUÁRIOS: **RAPPI BRASIL INTERMEDIAÇÃO DE NEGÓCIOS LTDA.**, registrada sob o CNPJ 26.900.161/0001-25, com sede na Av. dos Autonomistas, 896, torre 1, cj 1211, Vila Yara, Osasco/SP, Brasil, CEP. 06020-010 e suas filiadas (“RAPPI”).
+
+Quando Você acessar, utilizar ou interagir com a Plataforma, podemos coletar Dados Pessoais sobre Você. Este documento (que também chamaremos de “Política de Privacidade” ou simplesmente de “Política”) tem o propósito de esclarecer como Dados Pessoais podem ser coletados, usados, compartilhados, armazenados na e de qualquer forma tratados na nossa operação da Plataforma.
 
 **1.Definições importantes:**
 
@@ -20,19 +26,19 @@ Este documento, denominado Política de Privacidade, possui finalidade de estabe
 
 **CARTÃO:** é um cartão físico e/ou virtual que, a critério da RAPPI, pode ser oferecido aos Consumidores para usufruírem de serviços financeiros.
 
-**CONSENTIMENTO:** É a manifestação livre, informada e inequívoca pela qual o USUÁRIO concorda com a utilização dos seus dados pessoais ou anônimizados.
+**CONSENTIMENTO:** É a manifestação livre, informada e inequívoca pela qual o USUÁRIO concorda com o tratamento dos seus Dados Pessoais para finalidades específicas.
 
-**CONSUMIDORES**: São uma categoria específica de Usuários, em que são as pessoas naturais que se cadastraram na Plataforma e a utilizam para solicitar a realização de Encargos, através da PLATAFORMA.
+**CONSUMIDORES**: São as pessoas naturais que se cadastraram na Plataforma e a utilizam para solicitar a realização de Encargos.
 
 **CONTA**: Uma vez realizado e aprovado o cadastro do Consumidor, será criada uma conta de pagamento na estrutura da RAPPI para viabilizar a execução de transações de pagamento mediante gestão dos valores aportados pelo Consumidor.
 
 **CONTEÚDO**: Qualquer informação, dados, comunicações, software, fotos, vídeos, gráficos, música, sons e outros materiais e serviços que podem ser visualizados pelos USUÁRIOS na PLATAFORMA. Isso inclui mensagens, conversas, bate-papo e outros conteúdos originais.
 
-**COOKIES:** Arquivos enviados pelo servidor da PLATAFORMA para o computador do USUÁRIO, com a finalidade de identificar o seu dispositivo e obter dados de acesso, como páginas navegadas ou links clicados, permitindo, desta forma, personalizar a utilização da PLATAFORMA, de acordo com o seu perfil. Também podem ser utilizados para garantir uma maior segurança dos USUÁRIOS da PLATAFORMA. *Para mais informações sobre como Cookies e tecnologias similares são utilizadas pela Rappi, por favor consulte a nossa* *Política de Cookies**.*
+**COOKIES:** Arquivos enviados pelo servidor da PLATAFORMA para o dispositivo do USUÁRIO, com a finalidade de identificar o seu dispositivo e obter dados de acesso, como páginas navegadas ou links clicados, permitindo, desta forma, personalizar a utilização da PLATAFORMA, de acordo com o seu perfil. Também podem ser utilizados para garantir uma maior segurança dos USUÁRIOS da PLATAFORMA. *Para mais informações sobre como Cookies e tecnologias similares são utilizadas pela Rappi, por favor consulte a nossa* *Política de Cookies**.*
 
-**DADOS PESSOAIS**: todos os dados relacionados à pessoa natural (identificada ou identificável), não-públicos, relativos à identidade e à vida privada de seu USUÁRIO.
+**DADOS PESSOAIS**: informações relacionadas a uma pessoa natural (identificada ou identificável), incluindo números identificativos, dados de localização, identificadores eletrônicos, ou qualquer informação que, quando combinada com outras informações, seja capaz de identificar alguém, torná-la identificável ou, ainda, individualizá-la.
 
-**DADOS PESSOAIS ANÔNIMIZADOS ou ANÔNIMIZADOS**: dados relativos a um USUÁRIO que não possa ser identificado.
+**DADOS PESSOAIS ANONIMIZADOS ou ANONIMIZADOS**: dados relativos a um USUÁRIO que não possa ser identificado.
 
 **ENCARGOS:** são todos os tipos de solicitação que podem ser feitas por Consumidores e realizadas por Mandatários por meio da Plataforma, incluindo a aquisição de produtos e a entrega de encomendas. Para mais detalhes sobre como funcionam os Encargos, por favor consulte os Termos de Uso da Plataforma.
 
@@ -64,15 +70,19 @@ Este documento, denominado Política de Privacidade, possui finalidade de estabe
 
 **USUÁRIO**: é a pessoa natural usuária da Plataforma RAPPI, identificada neste Instrumento como USUÁRIO.
 
-**USUÁRIO DA PLATAFORMA RAPPI**: são as pessoas físicas cadastradas na Plataforma de Internet denominada **RAPPI**também denominados **“USUÁRIO”**,**“USUÁRIOS”, “TITULAR DO DADO”ou “VOCÊ”.**
+**USUÁRIO DA PLATAFORMA RAPPI**: são as pessoas físicas cadastradas na Plataforma de Internet denominada **RAPPI**também denominados **“USUÁRIO”**,**“USUÁRIOS”, “TITULAR DO DADO” ou “VOCÊ”.**
 
 A **RAPPI** e o **USUÁRIO** poderão ser mencionados individualmente neste Instrumento como “Parte” ou em conjunto como “Partes”.
 
-**2.Obtenção dos dados e informações:**
+**2.Obtenção e Uso dos Dados e Informações dos Usuários:**
 
-Os dados e informações (sejam eles PESSOAIS ou ANÔNIMIZADOS) serão obtidos quando o USUÁRIO: (a) Passar a utilizar os SERVIÇOS da PLATAFORMA; (b) Interagir com as diversas ferramentas existentes na PLATAFORMA, fornecendo as informações voluntariamente ou involuntariamente (no caso de obtenção de informações sobre a frequência de utilização da PLATAFORMA ou os tipos de informações envolvidas; ou (c) Entrar em contato por meio dos canais de comunicação disponíveis na PLATAFORMA.
+Os dados e informações (sejam eles PESSOAIS ou ANONIMIZADOS) serão obtidos quando o USUÁRIO: (a) Passar a utilizar os SERVIÇOS da PLATAFORMA; (b) Interagir com as diversas ferramentas existentes na PLATAFORMA, fornecendo as informações voluntariamente ou involuntariamente (no caso de obtenção de informações sobre a frequência de utilização da PLATAFORMA ou os tipos de informações envolvidas; ou (c) Entrar em contato por meio dos canais de comunicação disponíveis na PLATAFORMA.
 
-**3.Armazenamento dos Dados e Informações**:
+Com exceção do disposto no item 4 desta Política abaixo, a RAPPI e a PARCEIRA DO ARRANJO DO ARRANJO não alugam, não vendem e não compartilham as informações pessoais com outras pessoas ou com empresas não afiliadas, exceto com o objetivo de fornecer ao USUÁRIO os produtos e serviços solicitados na PLATAFORMA, tendo obtido para tanto a sua permissão, ou em circunstâncias específicas, como ordem judicial ou advindas de lei.
+
+Poderão ser solicitados dos USUÁRIOS do **ARRANJO DE PAGAMENTO VISA**, dentre outros, os seguintes dados: CPF/CNPJ, nome completo, data de nascimento, endereço residencial, endereço de e-mail, nome completo da mãe e número de telefone, cópia de documento de identidade ou de Carteira Nacional de Habilitação, “selfie”, autodeclaração de Pessoa Exposta Politicamente (se aplicável), IP, hora e data de acesso, geolocalização, dados sobre o dispositivo de acesso e cookies, perfil e comportamento de compra, volume e número de transações e por meio da Plataforma, dados gerais de navegabilidade, utilização da Plataforma e funis de eventos.
+
+**3.Prazos de Armazenamento dos Dados e Informações**:
 
 Todas as MENSAGENS DE DADOS e informações coletadas dos USUÁRIOS serão incorporados ao BANCO DE DADOS da PLATAFORMA, sendo seus responsáveis e proprietários a RAPPI e a PARCEIRA DO ARRANJO. Os dados e informações coletados estarão armazenados em ambiente seguro, observado o estado da técnica disponível e criptografados, e somente poderão ser acessados por pessoas qualificadas e autorizadas pela RAPPI e/ou pela PARCEIRA DO ARRANJO. Considerando que nenhum sistema de segurança é absolutamente seguro, a RAPPI e a PARCEIRA DO ARRANJO DO ARRANJO se eximem de quaisquer responsabilidades por eventuais danos e/ou prejuízos decorrentes de falhas, vírus ou invasões do BANCO DE DADOS na PLATAFORMA.
 
@@ -82,50 +92,57 @@ Para determinar o período de retenção adequado para cada tipo de Dado Pessoal
 
 **4.Uso dos Dados e Informações:**
 
-Com exceção do disposto abaixo, a RAPPI e a PARCEIRA DO ARRANJO DO ARRANJO não alugam, não vendem e não compartilham as informações pessoais com outras pessoas ou com empresas não afiliadas, exceto com o objetivo de fornecer ao USUÁRIO os produtos e serviços solicitados na PLATAFORMA, tendo obtido para tanto a sua permissão, ou em circunstâncias específicas, como ordem judicial ou advindas de lei.
-
-Poderão ser solicitados dos USUÁRIOS do **ARRANJO DE PAGAMENTO VISA**, dentre outros, os seguintes dados: CPF/CNPJ, nome completo, data de nascimento, endereço residencial, endereço de e-mail, nome completo da mãe e número de telefone, cópia de documento de identidade ou de Carteira Nacional de Habilitação, “selfie”, autodeclaração de Pessoa Exposta Politicamente (se aplicável), IP, hora e data de acesso, geolocalização, dados sobre o dispositivo de acesso e cookies, perfil e comportamento de compra, volume e número de transações e por meio da Plataforma, dados gerais de navegabilidade, utilização da Plataforma e funis de eventos.
-
-Ademais, o USUÁRIO aceita de maneira expressa, consciente e voluntária que as suas informações consignadas nas bases de dados da RAPPI (pessoais ou anônimizados), sejam recompiladas, armazenadas para sua utilização nos seguintes termos: (i) Juntar ou coletar os dados pessoais e incorporá-los e armazená-los em nossa base de dados, (ii) Organizar, catalogar, classificar, dividir ou separar a informação entregue, (iii) Utilizar os dados fornecidos em campanhas de comunicação, divulgação e promoção ou oferta de produtos, atividades ou serviços desenvolvidos como parte de estratégias internas da RAPPI, (iv) Utilizá-los para fins administrativos internos ou comerciais tais como: estudos de crédito, elaboração e apresentação de orçamentos, referencias comerciais de experiência, estudos de mercado, análises estatísticas, realização de pesquisas sobre satisfação, oferecimento ou reconhecimento de benefícios próprios do programa de fidelidade da RAPPI, bem como em serviços pós venda, (v) Conservar registros históricos dentro da RAPPI e manter contato com os USUÁRIOS, (vi) Verificar, comprovar ou validar os dados entregues, (vii) Estudar e analisar a informação fornecida para o acompanhamento e melhoramento dos produtos e do serviço, (viii) Entregar e transmitir a informação recolhida a terceiros com os que a RAPPI mantenha contratos comerciais ou de armazenamento e administração dos dados pessoais, sob os padrões de segurança e confidencialidade aos quais RAPPI está obrigada de acordo com o conteúdo das leis pertinentes, (ix) Transmitir dados em nível nacional ou internacional para fornecedores com os quais a Rappi desenvolve atividades em conformidade com seu objeto social. Da mesma forma, uma transmissão pode ser feita para os aliados/parceiros estratégicos da empresa para realizar atividades de marketing, publicidade e promoções associadas ao objeto social; Tudo isso de acordo com as disposições da legislação brasileira. (x)Comunicar e permitir o acesso aos dados pessoais fornecidos a terceiros fornecedores de serviços de apoio geral e às pessoas físicas ou jurídicas pertencentes ao quadro societário da RAPPI, (xi) Juntar, possuir, manusear e utilizar a informação recebida pelo USUÁRIO para realizar a vinculação como contratante ou fornecedor, (xiii) Juntar, possuir, manusear e utilizar a informação para realizar controle e prevenção de fraude, controle e prevenção de lavagem de ativos e financiamento do terrorismo, (xiv) Celebração, execução e gestão das propostas de negócios e contratos objeto dos serviços prestados, (xv) realizar, em conformidade com a lei, os relatórios a centrais de risco por não cumprimento das obrigações financeiras derivadas da relação comercial, (xvi) Fornecer informações dos USUÁRIOS em cumprimento a ordem legal ou judicial, (xvii) compartilhar com terceiros dos dados dos USUÁRIOS para o fim de recebimento de promoções ou outras informações. No caso de e-mails encaminhandos pela RAPPI o cliente sempre terá a opção de não mais recebê-los e (xviii) . compartilhar os dados dos USUÁRIOS do ARRANJO DE PAGAMENTO VISA com a Visa, a PARCEIRA DO ARRANJO DO ARRANJO e demais terceiros previstos nesta Política de Privacidade, para que haja integração do USUÁRIO (e de seus adicionais, quando indicados) às plataformas promocionais da Visa, a fim de que o USUÁRIO tenha acesso (e seus adicionais, quando indicados) a descontos, ofertas e promoções disponibilizados pela Visa e seus parceiros. Os e-mails enviados pela RAPPI não contêm anexos para serem baixados e tampouco solicitam dados dos USUÁRIOS. Assim, os dados dos cartões de crédito somente serão solicitados no momento de realizar o pagamento virtual, e não serão armazenados pela RAPPI.
-
-**5.Do Registro de Atividades:**
-
 A quantidade e o tipo de Dados Pessoais coletados pela Rappi variam conforme o seu uso da Plataforma. Coletaremos diferentes Dados caso você seja um Consumidor utilizando a Plataforma, um Mandatário ou um representante de um dos nossos Estabelecimentos Parceiros.
 
 Para esclarecer essas questões, listamos abaixo algumas finalidades para as quais seus Dados podem ser utilizados, dependendo da sua forma de utilização da Plataforma, para que você possa entender o que se aplica especificamente a você:
 
 - **Consumidores**: Caso você use a Plataforma como um Consumidor, isto é, um Usuário que envia Encargos para que a Rappi possa conectá-lo a um Mandatário para que este possa, por sua vez, atender ao seu pedido e realizar o seu Encargo, poderemos coletar Dados a partir da sua utilização da Plataforma e do seu cadastro, conforme detalhado a seguir:
 
-| | | | |
-| --- | --- | --- | --- |
-| ***Origem*** | **Tipo de Dados Coletados** | **Finalidade** | **Bases Legais** |
-| ***Cadastro na Plataforma*** | **Dados de cadastro**: nome, e‑mail, telefone, endereço de entrega, CPF, número do cartão para pagamento (quando este é o método de pagamento) e, quando for solicitado um Cartão, CNH, data de nascimento, endereço residencial, nome da mãe, foto e autodeclaração de Pessoa Exposta Politicamente. | Cadastro na Plataforma, solicitação e entrega de pedidos, realização de operações de pagamento, envio de comprovantes de pedidos, envio de brindes, contatos telefônicos (ligação, SMS, push e WhatsApp)e emissão do Cartão. Análise do perfil de consumo, perfilhamento para fins de inteligência de mercado e envio de publicidade própria e de terceiros. | Consentimento, Execução de Contrato e Legítimo Interesse |
-| ***Interação com a Plataforma*** | **Dados de navegação**: endereço do IP, IMEI do dispositivo do Usuário, dados locacionais e comportamento de consumo na Plataforma para análise de preferências. **Dados sobre o dispositivo de acesso**: endereço do IP, IMEI do dispositivo do usuário e dados locacionais. | Análise do perfil de consumo, perfilhamento para fins de inteligência de mercado e envio de publicidade própria e de terceiros. | |
+| | | |
+| --- | --- | --- |
+| Origem | Tipo de Dados Coletados | Finalidade |
+| **Cadastro na Plataforma** | **Dados de cadastro**: nome, e-mail, telefone, endereço de entrega, CPF, número do cartão para pagamento (quando este é o método de pagamento) e, quando for solicitado um Cartão, CNH, data de nascimento, endereço residencial, nome da mãe, foto e autodeclaração de Pessoa Exposta Politicamente. | Cadastro na Plataforma, solicitação e entrega de pedidos, realização de operações de pagamento, envio de comprovantes de pedidos, envio de brindes, contatos telefônico (ligação, SMS, push e WhatsApp) e emissão do Cartão. |
+| **Interação com a Plataforma** | **Dados de navegação**: endereço do IP, IMEI do dispositivo do Usuário, dados locacionais e comportamento de consumo na Plataforma para análise de preferências. **Dados sobre o dispositivo de acesso**: endereço do IP, IMEI do dispositivo do usuário e dados locacionais. | Análise do perfil de consumo, perfilhamento para fins de inteligência de mercado e envio de publicidade própria e de terceiros. |
 
 - **Mandatários**: Caso você use a Plataforma como um Mandatário, isto é, um Usuário que realiza Encargos para atender às solicitações de Consumidores, poderemos coletar Dados a partir da sua utilização da Plataforma e do seu cadastro, conforme detalhado a seguir:
 
-| | | | |
-| --- | --- | --- | --- |
-| ***Origem*** | **Tipo de Dados Coletados** | **Finalidade** | **Bases Legais** |
-| ***Cadastro na Plataforma*** | **Dados de cadastro**: nome, e‑mail, RG, CPF, CNH, placa da moto (quando aplicável) e endereço residencial | Cadastro na Plataforma, solicitação e entrega de pedidos, realização de operações de pagamento, contatos telefônicos (ligação, SMS, push e WhatsApp), envio de comprovantes de pedidos e envio de brindes. Análise do perfil do Mandatário, verificação do cumprimento dos Encargos e envio de publicidade. | Consentimento, Execução de Contrato e Legítimo Interesse |
-| ***Interação com a Plataforma*** | **Dados sobre o dispositivo de acesso**: endereço do IP, IMEI do dispositivo e geolocalização no momento da entrega | Cadastro na Plataforma, solicitação e entrega de pedidos, realização de operações de pagamento, contatos telefônicos (ligação, SMS, push e WhatsApp), envio de comprovantes de pedidos e envio de brindes. Análise do perfil do Mandatário, verificação do cumprimento dos Encargos e envio de publicidade. | Consentimento, Execução de Contrato e Legítimo Interesse |
+| | | |
+| --- | --- | --- |
+| Origem | Tipo de Dados Coletados | Finalidade |
+| **Cadastro na Plataforma** | **Dados de cadastro**: nome, e-mail, RG, CPF, CNH, placa da moto (quando aplicável) e endereço residencial, dados bancários (banco agência e conta corrente) | Cadastro na Plataforma, solicitação e entrega de pedidos, realização de operações de pagamento, contatos telefônico (ligação, SMS, push e WhatsApp), envio de comprovantes de pedidos e envio de brindes. Análise do perfil do Mandatário, verificação do cumprimento dos Encargos e envio de publicidade. |
+| **Interação com a Plataforma** | **Dados sobre o dispositivo de acesso**: endereço do IP, IMEI do dispositivo e geolocalização no momento da entrega O aplicativo ‘Soy Rappi’ coleta e armazena o número de telefone do usuário que é armazenado em nosso banco de dados usando métodos de criptografia para garantir a proteção das informações pessoais do usuário. Os dados coletados são usados para identificar possíveis comportamentos atípicos dentro do aplicativo e não são compartilhados ou transferidos a terceiros. |
 
 - **Representantes de Estabelecimentos Parceiros**: Caso você use a Plataforma como um representante de um dos nossos Estabelecimentos Parceiros, isto é, um Usuário que recebe pedidos realizados por Consumidores para preparo e posterior entrega a um Mandatário designado pela Rappi, poderemos coletar Dados a partir da sua utilização da Plataforma e do seu cadastro, conforme detalhado a seguir:
 
-| | | | |
-| --- | --- | --- | --- |
-| ***Origem*** | **Tipo de Dados Coletados** | **Finalidade** | **Bases Legais** |
-| ***Cadastro na Plataforma e Formalização de Contrato*** | **Dados de cadastro**: nome do representante legal e CPF, número de telefone do representante, dados bancários (banco, agência e conta corrente), endereço do IP e IMEI do dispositivo do responsável pela assinatura do contrato. | Cadastro na Plataforma, cumprimento da parceria comercial e criação da loja virtual do Estabelecimento Parceiro na Plataforma. | Consentimento e Execução de Contrato |
+| | | |
+| --- | --- | --- |
+| Origem | Tipo de Dados Coletados | Finalidade |
+| **Cadastro na Plataforma e Formalização de Contrato** | **Dados de cadastro**: nome do representante legal e CPF, número de telefone do representante, dados bancários (banco, agência e conta corrente), endereço do IP e IMEI do dispositivo do responsável pela assinatura do contrato. | Cadastro na Plataforma, cumprimento da parceria comercial e criação da loja virtual do Estabelecimento Parceiro na Plataforma. |
 
-Além dos Dados Pessoais acima, a Plataforma poderá utilizar Cookies e tecnologias similares para customizar a experiência dos Usuários na Plataforma e para gerar informações relevantes sobre a forma de uso da Plataforma pelos Usuários para a Rappi. Para entender como Cookies e tecnologias similares são utilizadas pela Rappi e para exercer seus direitos de escolha quanto ao uso de referidas tecnologias na Plataforma, por favor verifique a nossa Política de Cookies.
+Os registros mencionados poderão ser utilizados pela RAPPI em casos de investigação de fraudes ou de alterações indevidas em seus sistemas e cadastros, assim como no compartilhamento com terceiros de forma anonimizada.
 
-Os registros mencionados poderão ser utilizados pela RAPPI em casos de investigação de fraudes ou de alterações indevidas em seus sistemas e cadastros, assim como no compartilhamento com terceiros de forma ANÔNIMIZADA.
+**5.COM QUEM A RAPPI COMPARTILHA DADOS PESSOAIS?**
 
-**6.Cookies**:
+Para viabilizar a operação da Plataforma, a Rappi depende de relações específicas com diferentes pessoas, incluindo parceiros de negócio. Nessas relações, é possível que Dados Pessoais sejam compartilhados para suportar o regular funcionamento da Plataforma, como no contexto da prestação de serviços de hospedagem de dados, por exemplo. Desta forma, nos reservamos o direito de compartilhar seus Dados Pessoais com os grupos de recipientes abaixo indicados, sempre respeitando a legislação brasileira, e adotaremos as medidas jurídicas, técnicas e organizacionais adequadas visando à preservação da sua privacidade e da integridade de seus Dados Pessoais.
 
-A PLATAFORMA poderá fazer o uso de COOKIES, cabendo ao USUÁRIO configurar o seu navegador de Internet, caso deseje bloqueá-los. Nesta hipótese, algumas funcionalidades da PLATAFORMA poderão ser limitadas. O USUÁRIO autoriza expressamente, no momento da aceitação desta Política de Privacidade, o uso de COOKIES pela RAPPI em toda atividade de uso que for realizada na PLATAFORMA.
+Listamos abaixo os contextos nos quais compartilhamos Dados Pessoais, as finalidades de cada compartilhamento e os respectivos recipientes dos Dados em cada caso:
 
-**7.Direitos do USUÁRIO:**
+| | | |
+| --- | --- | --- |
+| Recipiente dos Dados | Tipos de Dados Compartilhados | Finalidade do Compartilhamento |
+| **Mandatários** | Nome, endereço e detalhes sobre Encargos solicitados na Plataforma pelos Consumidores | Mandatários têm acesso a tais Dados Pessoais de Consumidores durante a realização dos Encargos para que possam realizá-los corretamente, na forma solicitada pelos Consumidores. *Nota**: Os detalhes de Encargos referentes a produtos específicos adquiridos por Consumidores só são compartilhados com Mandatários quando os Mandatários devem selecionar, adquirir e retirar os produtos desejados pelos Consumidores nos Estabelecimentos Parceiros.* |
+| **Consumidores** | Nome, dados de localização e placa da moto dos Mandatários | Consumidores têm acesso a tais Dados Pessoais de Mandatários para que possam acompanhar a realização dos Encargos solicitados e interagir com os Mandatários com segurança, podendo facilmente identificá-los e, havendo necessidade, interagir com estes. |
+| **Estabelecimentos Parceiros** | Detalhes sobre pedidos realizados na Plataforma, CPF (caso queira este dado na fatura ou trate-se de dado obrigatório para faturamento – ex. NF-e), primeiro nome do Consumidor e primeiro nome do Mandatário | Estabelecimentos Parceiros recebem estes Dados para garantir o correto atendimento dos pedidos dos Consumidores e a correta identificação dos Mandatários para viabilizar a entrega dos produtos adquiridos e emissão de Nota Fiscal. *Nota**: O nome, o e-mail, o telefone e demais Dados dos Consumidores só são compartilhados com os Estabelecimentos Parceiros mediante o consentimento específico e destacado do Consumidor, para finalidades específicas, por exemplo, para fins de marketing ou participação em programas de fidelidade.* |
+| Nome completo, endereço e telefone do Consumidor | Quando o Consumidor utiliza a Plataforma para adquirir produtos cuja entrega seja operacionalizada pelos Estabelecimentos Parceiros (e não por Mandatários), tais Dados Pessoais também são compartilhados com o Estabelecimento Parceiro envolvido para possibilitar a entrega dos produtos selecionados. |
+| **Fornecedores de Tecnologia e de Serviços Financeiros** | Todos os Dados Pessoais coletados na Plataforma | Temos uma série de fornecedores que precisamos contratar para operar a Plataforma, e alguns deles podem tratar em nosso nome os Dados Pessoais que coletamos. Por exemplo, temos serviços de hospedagem de dados contratados na Amazon Web Services, arranjos de pagamento que possibilitam a realização de transações financeiras na Plataforma (incluindo a Visa e o Emissor) e serviços de análise de dados que nos permitem entender melhor como a Plataforma é utilizada para que possamos sempre aprimorá-la. *Nota**: A Visa e o Emissor poderão ter acesso aos Dados Pessoais dos Consumidores portadores do Cartão também para fins de disponibilização de ofertas, descontos e promoções e para permitir a interação do Consumidor com as plataformas promocionais da Visa.* |
+
+Alguns Dados Pessoais tratados na Plataforma também podem ser tratados de forma conjunta pela Rappi com outras empresas do seu grupo econômico Rappi para fins de reporte e inteligência de mercado. Nesses casos, os Dados Pessoais envolvidos podem ser transferidos para fora do Brasil, mais especificamente para Estados Unidos, Colômbia, México, Argentina, Peru, Equador, Chile e Costa Rica.
+
+**5.Cookies**:
+
+A PLATAFORMA poderá fazer o uso de COOKIES e tecnologias similares para customizar a experiência dos Usuários na Plataforma e para gerar informações relevantes sobre a forma de uso da Plataforma pelos Usuários para a Rappi. Para entender como Cookies e tecnologias similares são utilizadas pela Rappi e para exercer seus direitos de escolha quanto ao uso de referidas tecnologias na Plataforma, por favor verifique a nossa Política de Cookies.
+
+**6.Direitos do USUÁRIO:**
 
 Seus Dados Pessoais são seus e a legislação brasileira lhe garante, na sua condição de Titular de Dados Pessoais, uma série de direitos relacionados aos seus Dados. Nós estamos comprometidos com o cumprimento desses direitos e, nessa seção, explicaremos quais são esses direitos e como você pode exercê-los junto à Rappi.
 
@@ -135,7 +152,7 @@ Seus Dados Pessoais são seus e a legislação brasileira lhe garante, na sua co
 
 - **Retificação dos seus Dados Pessoais:** Você pode solicitar a correção e/ou retificação dos seus Dados Pessoais, caso você identifique que alguns deles estão incorretos. Contudo, para ser efetivada essa correção, possivelmente precisaremos checar a validade dos Dados que você nos fornecerá.
 
-- **Eliminação dos seus Dados Pessoais:** Você pode solicitar a exclusão dos seus Dados Pessoais das bases de dados que utilizamos para tratá-los. Todos os Dados coletados serão excluídos de nossos servidores quando você assim requisitar ou quando estes não forem mais necessários ou relevantes para lhe oferecermos os nossos serviços, salvo se houver qualquer outra razão para a sua manutenção, como eventual obrigação legal de retenção de Dados ou necessidade de preservação destes para resguardar direitos da Rappi.
+- **Eliminação dos seus Dados Pessoais:** Você pode solicitar a exclusão dos seus Dados Pessoais das bases de dados que utilizamos para tratá -los. Todos os Dados coletados serão excluídos de nossos servidores quando você assim requisitar ou quando estes não forem mais necessários ou relevantes para lhe oferecermos os nossos serviços, salvo se houver qualquer outra razão para a sua manutenção, como eventual obrigação legal de retenção de Dados ou necessidade de preservação destes para resguardar direitos da Rappi.
 
 - **Objeção ao tratamento de Dados Pessoais**:Você pode contestar a nossa forma de tratamento dos seus Dados Pessoais para determinadas finalidades. Em certas situações, podemos demonstrar que temos motivos legítimos para tratar seus Dados, os quais podem eventualmente se sobrepor aos seus direitos, caso, por exemplo, sejam estritamente essenciais para a funcionalidade de determinado aspecto da Plataforma.
 
@@ -147,60 +164,38 @@ Seus Dados Pessoais são seus e a legislação brasileira lhe garante, na sua co
 
 Em alguns casos, você terá a opção de não fornecer certos Dados Pessoais e/ou de não permitir certas formas de tratamento (ao não fornecer o seu consentimento para uma finalidade específica, por exemplo). Nesses casos, é importante ter em mente que alguns Dados e/ou algumas autorizações específicas que dependem do seu consentimento podem ser condição para que você possa usufruir de alguns de nossos produtos, serviços, benefícios e facilidades. Sempre que esse for o caso e o tratamento dos seus Dados for condição para determinada finalidade, você será informado antes que possa tomar uma decisão sobre isso.
 
-Para apresentar uma requisição de exercício de qualquer dos direitos acima, você pode optar pelo uso dos meios descritos abaixo:
+Para apresentar uma requisição de exercício de qualquer dos direitos acima, você pode optar pelo uso dos meios descritos abaixo para entrar em contato com o encarregado pelo tratamento de dados pessoais da Rappi:
 
-**Atendimento Eletrônico:** um requerimento deve ser apresentado por meio do envio do requerimento atraves do Formulário de Exclusão de Conta
+**Atendimento Eletrônico:** um requerimento deve ser apresentado por meio do envio do requerimento atraves do Formulário de Exclusão de Conta.
 
 **Atendimento Escrito:** um requerimento deve ser apresentado por meio do envio de uma solicitação escrita endereçada à Rappi, no endereço: Av dos Autonomistas, 896, torre 1, cj 1211, Vila Yara, Osasco/SP, Brasil, CEP. 06020-010, sendo necessária a indicação do endereço escolhido para o posterior recebimento de notificações e respostas da Rappi.
 
 Em qualquer dos casos, para a sua segurança e, para que possamos validar a sua identidade e confirmar que você está solicitando Dados Pessoais sobre os quais você efetivamente detém direitos, precisaremos submeter a sua requisição a um processo de validação interna de identidade. Durante esse processo, solicitaremos o cumprimento dos seguintes requisitos:
 
-1. Você deverá ser o Titular dos Dados sobre os quais você faça algum requerimento, provando sua identidade mediante a apresentação de evidências que provem a sua identidade de forma suficiente, de acordo com o critério exclusivo da Rappi;Caso você seja um sucessor legítimo de um Usuário na forma da lei, os requisitos do item ‘**1**’ acima deverão ser aplicáveis não somente ao Usuário, mas também a você e à sua condição de sucessor legítimo do Usuário; e
+1. Você deverá ser o Titular dos Dados sobre os quais você faça algum requerimento, provando sua identidade mediante a apresentação de evidências que provem a sua identidade de forma suficiente, de acordo com o critério exclusivo da Rappi;
 2. Caso você seja um sucessor legítimo de um Usuário na forma da lei, os requisitos do item ‘**1**’ acima deverão ser aplicáveis não somente ao Usuário, mas também a você e à sua condição de sucessor legítimo do Usuário; e
 3. Caso você seja um representante ou procurador de um Usuário, os requisitos do item ‘**1**’ acima deverão ser aplicáveis não somente ao Usuário, mas também a você e à sua condição de representante ou procurador do Usuário. Estes requisitos também se aplicam a representantes legais de crianças, adolescentes e incapazes.
 
-**8.Forma de conhecer a informação do USUÁRIO e como exercer os direitos:**
+**LIMITAÇÕES AOS DIREITOS DOS USUÁRIOS**: EM ALGUNS CASOS, A RAPPI PODE TER MOTIVOS LEGÍTIMOS PARA DEIXAR DE ATENDER A UMA SOLICITAÇÃO DE EXERCÍCIO DE DIREITOS. ESSAS SITUAÇÕES INCLUEM, POR EXEMPLO, CASOS EM QUE UMA REVELAÇÃO DE INFORMAÇÕES ESPECÍFICAS PODERIA VIOLAR DIREITOS DE PROPRIEDADE INTELECTUAL OU SEGREDOS DE NEGÓCIO DA RAPPI OU DE TERCEIROS, BEM COMO CASOS EM QUE PEDIDOS DE ANONIMIZAÇÃO, BLOQUEIO OU ELIMINAÇÃO DE DADOS NÃO POSSAM SER ATENDIDOS EM RAZÃO DA EXISTÊNCIA DE OBRIGAÇÃO DA RAPPI DE RETER DADOS, SEJA PARA CUMPRIR OBRIGAÇÕES LEGAIS, REGULATÓRIAS OU PARA POSSIBILITAR A DEFESA DE DIREITOS DA RAPPI OU DE TERCEIROS, INCLUSIVE EM DISPUTAS DE QUALQUER NATUREZA.
 
-A Rappi apresenta á escolha do Usuário as seguintes formas de exercer seus direitos de “Dados Pessoais”:
-
-**Atendimento eletrônico:** O Usuário do dado deverá realizar seu requerimento formal enviado via Formulário de Exclusão de Conta com prévio esgotamento dos requisitos de legitimação para o exercício do Usuário, a saber:
-
-I. Ser titular da informação, provar sua identidade em forma suficiente mediante qualquer meio que Rappi destine para tanto.
-
-II. Pelos legítimos sucessores, os quais deverão provar tal qualidade.
-
-III. Pelo representante/empoderado do titular da informação, quem também deverá provar tal qualidade.
-
-IV. Por acordo em favor de outro ou por outro exercerão por conjunto das pessoas que estejam possibilitadas para representá-los, e igualmente se deverá provar tal qualidade.
-
-V. Os direitos dos menores de idade se exercerão pelas pessoas encarregadas de sua representação, e igualmente se deverá provar tal qualidade.
-
-**Atendimento escrito:** O Usuário do dado deverá realizar seu requerimento formal ao endereço: Av dos Autonomistas, 896, torre 1, cj 1211, Vila Yara, Osasco/SP, CEP. 06020-010, prévio esgotamento dos requisitos de legitimação para o exercício do Usuário, segundo o descrito de forma literal no a do presente parágrafo anterior, mediante escrito onde se especifique o endereço onde receberá notificações e respostas.
-
-**9.Violação da base de dados ou sistema**
-
-Não é permitida a utilização de nenhum dispositivo, software, ou outro recurso que venha a interferir nas atividades e operações do RAPPI e/ou da PARCEIRA DO ARRANJO, bem como nas publicações de Oferta, descrições, contas ou seus bancos de dados. Qualquer intromissão, tentativa de, ou atividade que viole ou contrarie as leis de direito de propriedade intelectual e/ou as proibições estipuladas neste instrumento, tornarão o responsável passível das ações legais pertinentes, bem como das sanções aqui previstas, sendo ainda responsável pelas indenizações por eventuais danos causados.
-
-A entrada ou uso não autorizado de contas, falhas de hardware ou software e outros fatores alheios à vontade e ao controle razoável da Rappi podem comprometer a segurança dos seus Dados Pessoais a qualquer momento. Por isso, pedimos que você nos ajude a manter um ambiente seguro para todos. Além de manter as suas informações de acesso à Plataforma secretas e adotar práticas visando à segurança da sua conta e aos seus Dados, pedimos que caso você identifique ou tome conhecimento de algo que comprometa a segurança dos seus Dados, por favor entre em contato conosco enviando uma mensagem de e-mail para legal.br@rappi.com e detalhando a situação para que possamos ajudá-lo da melhor forma.
-
-**10. Política de Proteção de Dados Pessoais**
+**7. Política de Proteção de Dados Pessoais**
 
 A Rappi sempre planeja e toma medidas técnicas, administrativas e organizacionais para proteger todos os Dados Pessoais que trata contra perdas, usos não autorizados ou outras situações ilícitas ou acidentais de tratamento indevido. Todos os Dados Pessoais tratados pela Rappi são armazenados e processados em ambientes operacionais seguros não acessíveis ao público.
 
-Com a finalidade de garantir a segurança de seus Dados Pessoais na nossa operação da Plataforma, adotamos as melhores práticas de segurança da informação disponíveis, incluindo o uso de soluções de criptografia ponto a ponto para transmitir os Dados Pessoais e outras informações;
+Com a finalidade de garantir a segurança de seus Dados Pessoais na nossa operação da Plataforma, adotamos as melhores práticas de segurança da informação disponíveis, incluindo o uso de soluções de criptografia ponto a ponto para transmitir os Dados Pessoais e outras informações. Não é permitida a utilização de nenhum dispositivo, software, ou outro recurso que venha a interferir nas atividades e operações do RAPPI e/ou da PARCEIRA DO ARRANJO, bem como nas publicações de oferta, descrições, contas ou seus bancos de dados. Qualquer intromissão, tentativa de, ou atividade que viole ou contrarie as leis de direito de propriedade intelectual e/ou as proibições estipuladas neste instrumento, tornarão o responsável passível das ações legais pertinentes, bem como das sanções aqui previstas, sendo ainda responsável pelas indenizações por eventuais danos causados.
 
-A entrada ou uso não autorizado de contas, falhas de hardware ou software e outros fatores alheios à vontade e ao controle razoável da Rappi podem comprometer a segurança dos seus Dados Pessoais a qualquer momento. Por isso, pedimos que você nos ajude a manter um ambiente seguro para todos. Além de manter as suas informações de acesso à Plataforma secretas e adotar práticas visando à segurança da sua conta e aos seus Dados, pedimos que caso você identifique ou tome conhecimento de algo que comprometa a segurança dos seus Dados, por favor entre em contato conosco enviando uma mensagem de e-mail para legal.br@rappi.com e detalhando a situação para que possamos ajudá-lo da melhor forma.
+A entrada ou uso não autorizado de contas, falhas de hardware ou software e outros fatores alheios à vontade e ao controle razoável da Rappi podem comprometer a segurança dos seus Dados Pessoais a qualquer momento. Por isso, pedimos que você nos ajude a manter um ambiente seguro para todos. Além de manter as suas informações de acesso à Plataforma secretas e adotar práticas visando à segurança da sua conta e aos seus Dados, pedimos que caso você identifique ou tome conhecimento de algo que comprometa a segurança dos seus Dados, por favor entre em contato conosco enviando uma mensagem de e-mail para legal.br@rappi.com e detalhando a situação para que possamos ajudá -lo da melhor forma.
 
-**11. Das Disposições Gerais:**
+**8. Das Disposições Gerais:**
 
-Como estamos sempre buscando melhorar a Plataforma e os nossos serviços, essa Política de Privacidade pode passar por atualizações. Desta forma, recomendamos que você visite periodicamente esta página para que tenha conhecimento sobre todas as modificações que faremos. Caso sejam feitas alterações relevantes, como aquelas que se refiram à necessidade de se obter um novo consentimento seu, publicaremos essa atualização e solicitaremos novo consentimento a você.
+Como estamos sempre buscando melhorar a Plataforma e os nossos serviços, essa Política de Privacidade pode passar por atualizações. Desta forma, recomendamos que você visite periodicamente esta página para que tenha conhecimento sobre todas as modificações que faremos. Caso sejam feitas alterações relevantes, como aquelas que se refiram à necessidade de se obter um consentimento seu, publicaremos essa atualização e solicitaremos o seu consentimento, conforme a necessidade de cada caso.
 
 As disposições constantes desta Política de Privacidade poderão ser atualizadas ou modificadas a qualquer momento, cabendo ao USUÁRIO verificá-las sempre que efetuar o acesso à PLATAFORMA.
 
-**12.Lei Aplicável e Jurisdição:**
+**9.Lei Aplicável e Jurisdição:**
 
 A presente Política de Privacidade será interpretada segundo a legislação brasileira, no idioma português, sendo eleito o Foro da Comarca de São Paulo para dirimir qualquer litígio, questão ou dúvida superveniente, com expressa renúncia de qualquer outro, por mais privilegiado que seja.
 
-**13. ACEITAÇÃO TOTAL DOS TERMOS**
+**10. Aceitação Total deste Termo**
 
 O USUÁRIO declara ter a capacidade legal, dando o seu CONSENTIMENTO expresso dos termos constantes desta Política de Privacidade, sendo que aceita a totalidade das situações reguladas neste documento
