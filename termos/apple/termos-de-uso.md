@@ -3,8 +3,8 @@ empresa: "Apple"
 documento: "Termos de Uso"
 categoria: "Tecnologia"
 fonte: "https://www.apple.com/br/legal/internet-services/itunes/br/terms.html"
-capturado_em: 2020-09-19
-wayback: "https://web.archive.org/web/20200919044358/https://www.apple.com/br/legal/internet-services/itunes/br/terms.html"
+capturado_em: 2021-07-08
+wayback: "https://web.archive.org/web/20210708033451/https://www.apple.com/br/legal/internet-services/itunes/br/terms.html"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/termos-de-uso.md"
 ---
 
@@ -64,7 +64,7 @@ Venda e Aluguel de Conteúdo de Áudio e Vídeo:
 
 Conteúdo da App Store:
 
-- O termo “Apps” inclui apps e app clips para qualquer plataforma e/ou sistema operacional da Apple, inclusive quaisquer compras dentro do app, extensões (tais como teclados), figurinhas (stickers) e assinaturas disponibilizadas em apps ou app clips.
+- O termo “Apps” inclui apps e Clipes de App para qualquer plataforma e/ou sistema operacional da Apple, inclusive quaisquer compras dentro do app, extensões (tais como teclados), figurinhas (stickers) e assinaturas disponibilizadas em apps ou Clipes de App.
 
 - Os indivíduos atuando em nome de uma empresa comercial, organização governamental ou instituição de ensino (“Empresa”) poderão fazer o download e sincronizar os Apps que não sejam do Arcade para utilização por (i) um único indivíduo em um ou mais dispositivos detidos ou controlados por uma Empresa; ou (ii) múltiplos indivíduos em um único dispositivo compartilhado detido ou controlado por uma Empresa. Para fins de esclarecimento, cada dispositivo utilizado em série ou coletivamente por múltiplos usuários requer uma licença separada.
 
@@ -140,7 +140,7 @@ Pedir para Comprar: Pedir para Comprar é um recurso conveniente que permite a u
 
 Alterações dos Membros da Família: Quando um membro da Família deixa ou é removido da Família, os membros remanescentes da Família poderão não ser mais capazes de acessar o Conteúdo do antigo membro, incluindo Conteúdo adquirido com o método de pagamento do Organizador.
 
-Regras do Compartilhamento Familiar: Você somente pode pertencer a uma Família de cada vez, e poderá juntar-se a qualquer Família não mais de duas vezes por ano. Você poderá alterar a Apple ID que associa com uma Família não mais do que uma vez a cada 90 dias. Todos os membros da Família devem compartilhar o mesmo País de Residência. Nem todo o Conteúdo, incluindo as Compras dentro do App, assinaturas, e alguns Apps previamente adquiridos, são elegíveis para o Compartilhamento de Compra. maçã TV+, As assinaturas dos canais Apple TV, Apple One Family, Apple One Premier, Apple Music Family, Apple Arcade e Apple News + são ativadas automaticamente para Compartilhamento Familiar. Assinaturas compartilhadas por uma Família podem estar sujeitas a limitações de uso do Conteúdo em um sistema de uso por assinatura.
+Regras do Compartilhamento Familiar: Você somente pode pertencer a uma Família de cada vez, e poderá juntar-se a qualquer Família não mais de duas vezes por ano. Você poderá alterar a Apple ID que associa com uma Família não mais do que uma vez a cada 90 dias. Todos os membros da Família devem compartilhar o mesmo País de Residência. Nem todo o Conteúdo, incluindo as Compras dentro do App, assinaturas, e alguns Apps previamente adquiridos, são elegíveis para o Compartilhamento de Compra. As assinaturas do Apple TV+, dos canais Apple TV, Apple One Family, Apple One Premier, Apple Music Family, Apple Arcade, Apple News+ e Apple Fitness+ são ativadas automaticamente para o Compartilhamento Familiar. Assinaturas compartilhadas por uma Família podem estar sujeitas a limitações de uso do Conteúdo em um sistema de uso por assinatura.
 
 E. RECURSOS DE RECOMENDAÇÃO PERSONALIZADA
 
@@ -246,7 +246,7 @@ PROPRIEDADE INTELECTUAL
 
 Você concorda que os Serviços, incluindo, mas sem limitação, Conteúdo, gráficos, interface de usuário, clips de áudio, vídeo clips, conteúdo editorial e scripts e software utilizados para implementar os Serviços, contém informações proprietárias e material que são propriedade da Apple e/ou dos seus licenciantes e são protegidos por leis de propriedade intelectual aplicável e outras leis, incluindo, mas sem limitação, a lei de direitos autorais. Você concorda que não utilizará tal informação proprietária ou materiais por qualquer forma, exceto para utilização dos Serviços para usos pessoais, não-comerciais, em conformidade com este Contrato. Nenhuma parte dos Serviços poderá ser reproduzida em qualquer formato ou por quaisquer meios, exceto conforme expressamente permitido por este Contrato. Você concorda em não modificar, alugar, locar, emprestar, vender, ou distribuir os Serviços ou Conteúdo de qualquer forma, e não explorará os Serviços de qualquer forma não expressamente autorizada.
 
-O nome Apple, o logo Apple, iTunes, iTunes Store, App Store, Apple Books, Apple Music, Apple TV, Apple TV+, Apple Arcade, Apple News, Apple News+, Apple One, Apple Podcasts e outras marcas Apple, marcas de serviço, gráficos e logos utilizados em conexão com os Serviços são marcas ou marcas registradas da Apple nos EUA e outros países ao redor do mundo. Não é concedido a você qualquer direito ou licença referente a quaisquer das marcas acima mencionadas.
+O nome Apple, o logo Apple, iTunes, iTunes Store, App Store, Apple Books, Apple Music, Apple TV, Apple TV+, Apple Arcade, Apple News, Apple News+, Apple One, Apple Podcasts, Apple Fitness+ e outras marcas Apple, marcas de serviço, gráficos e logos utilizados em conexão com os Serviços são marcas ou marcas registradas da Apple nos EUA e outros países ao redor do mundo. Não é concedido a você qualquer direito ou licença referente a quaisquer das marcas acima mencionadas.
 
 DIREITO AUTORAL
 
@@ -258,7 +258,7 @@ Caso você acredite que qualquer Conteúdo disponível através dos Serviços in
 
 - Apple Books: https://www.apple.com/legal/internet-services/itunes/applebooksnotices/
 
-- Apple TV+: https://www.apple.com/legal/internet-services/itunes/appletvplusnotices/
+- Apple TV+ e Apple Fitness+: https://www.apple.com/legal/internet-services/itunes/appletvplusnotices/
 
 - Apple News: https://www.apple.com/legal/internet-services/itunes/applenewsnotices/
 
