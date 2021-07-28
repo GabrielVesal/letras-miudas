@@ -14,7 +14,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 4 de fevereiro de 2021 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 1 de julho de 2021 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -110,7 +110,7 @@ Os tipos de dados de localização que coletamos dependem, em parte, do disposit
 
 ---
 
-Em algumas circunstâncias, o Google também coleta informações sobre você de fontes de acesso público. Por exemplo, se seu nome aparecer em um jornal local, o mecanismo de pesquisa do Google poderá indexar esse artigo e exibi-lo para outras pessoas, se elas pesquisarem pelo seu nome. Também podemos coletar informações sobre você de parceiros confiáveis, incluindo parceiros de marketing que nos fornecem informações sobre clientes em potencial para nossos serviços comerciais e parceiros de segurança que nos fornecem informações para proteção contra abuso. Também recebemos informações de anunciantes para fornecer serviços de publicidade e pesquisa em nome deles.
+Em algumas circunstâncias, o Google também coleta informações sobre você de fontes de acesso público. Por exemplo, se seu nome aparecer em um jornal local, o mecanismo de pesquisa do Google poderá indexar esse artigo e exibi-lo para outras pessoas se elas pesquisarem pelo seu nome. Também podemos coletar informações sobre você de parceiros confiáveis, como serviços de diretório que nos fornecem informações comerciais que serão exibidas nos serviços do Google, parceiros de marketing que nos fornecem informações sobre clientes em potencial para nossos serviços comerciais e parceiros de segurança que nos fornecem informações para proteção contra abuso. Também recebemos informações de anunciantes para fornecer serviços de publicidade e pesquisa em nome deles.
 
 Usamos várias tecnologias para coletar e armazenar informações, incluindo cookies, tags de pixel, armazenamento local como armazenamento do navegador da Web ou caches de dados de aplicativos, bancos de dados e registros do servidor.
 
@@ -139,6 +139,7 @@ Usamos as informações que coletamos para personalizar nossos serviços, inclus
 Dependendo das configurações, também podemos mostrar anúncios personalizados com base nos seus interesses. Por exemplo, se você pesquisar "mountain bikes", poderá encontrar um anúncio de equipamentos esportivos ao navegar em um site que exibe anúncios veiculados pelo Google. É possível controlar quais informações usamos para exibir anúncios, basta acessar as configurações de anúncios.
 
 - Não mostramos anúncios personalizados com base em categorias sensíveis, como raça, religião, orientação sexual ou saúde.
+- Não mostramos anúncios personalizados com base no seu conteúdo do Drive, Gmail ou Fotos.
 - Não compartilhamos informações que identifiquem você pessoalmente para anunciantes, como nome ou e-mail, a menos que você nos peça. Por exemplo, se você vir um anúncio de uma floricultura nas proximidades e selecionar o botão "Toque para ligar", faremos a chamada e poderemos compartilhar seu número de telefone com a floricultura.
 
 Ir para as configurações de anúncios
@@ -366,7 +367,7 @@ Esta Política de Privacidade é feita para ajudar você a entender como o Googl
 
 A CCPA também dá o direito de pedir informações sobre como o Google coleta, usa e divulga seus dados pessoais. E também permite a você acessar seus dados e solicitar ao Google que sejam excluídos. Por fim, a CCPA garante o direito de que não haja discriminação por você exercer seus direitos de privacidade.
 
-Em Seus controles de privacidade, descrevemos as opções disponíveis para gerenciar seus dados e sua privacidade nos serviços do Google. Você pode exercer esse direito usando esses controles, que permitem acessar, revisar, atualizar e excluir seus dados, bem como exportar e fazer o download de uma cópia delas. Quando você exercer esse direito, validaremos seu pedido verificando se você fez login na sua Conta do Google. Se tiver dúvidas ou pedidos relacionados aos seus direitos de acordo com a CCPA, você (ou seu agente autorizado) também poderá entrar em contato com o Google.
+Em Seus controles de privacidade, descrevemos as opções disponíveis para gerenciar seus dados e sua privacidade nos serviços do Google. Você pode exercer esse direito usando esses controles, que permitem acessar, revisar, atualizar e excluir seus dados, bem como exportar e fazer o download de uma cópia deles. Quando você exercer esse direito, validaremos seu pedido verificando se você fez login na sua Conta do Google. Se tiver dúvidas ou pedidos relacionados aos seus direitos de acordo com a CCPA, você (ou seu agente autorizado) também poderá entrar em contato com o Google. Veja mais informações sobre como o Google processa solicitações relacionadas à CCPA.
 
 A CCPA exige que uma descrição de práticas relacionadas a dados seja feita usando categorias específicas. Esta tabela usa essas categorias para organizar as informações nesta Política de Privacidade.
 
@@ -445,7 +446,7 @@ Os seguintes avisos de privacidade fornecem informações adicionais sobre algun
 - Payments
 - Fiber
 - Google Fi
-- G Suite for Education
+- Google Workspace for Education
 - Read Along
 - YouTube Kids
 - Contas do Google gerenciadas no Family Link para crianças menores de 13 anos (ou a idade aplicável no seu país).
@@ -607,7 +608,7 @@ Podemos, por exemplo, usar informações dos seus dispositivos para ajudar você
 
 ### fontes de acesso público
 
-Podemos, por exemplo, coletar informações disponíveis publicamente on-line ou de outras fontes públicas para ajudar a treinar os modelos de idiomas do Google e criar recursos como o Google Tradutor.
+Podemos, por exemplo, coletar informações disponíveis publicamente on-line ou de outras fontes públicas para ajudar a treinar os modelos de idiomas do Google e criar recursos como o Google Tradutor. Ou, caso as informações sobre sua empresa apareçam em um site, podemos indexá-las e exibi-las nos Serviços do Google.
 
 ### fornecer nossos serviços
 
