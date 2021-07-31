@@ -3,8 +3,8 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2021-04-26
-wayback: "https://web.archive.org/web/20210426025855/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2021-07-31
+wayback: "https://web.archive.org/web/20210731144125/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
 
@@ -92,7 +92,7 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pi
  - Decidir quais anúncios exibir para você. Por exemplo, se você mostrar interesse em barracas de camping no Pinterest, poderemos lhe exibir anúncios de outros produtos para atividades ao ar livre. Personalizamos o conteúdo do anúncio que exibimos, identificando seus interesses com base em suas atividades no site e fora dele, e usando as informações que recebemos de parceiros de publicidade ou de terceiros. Quando usarmos cookies para identificar seus interesses externos, obteremos seu consentimento sempre que necessário. Quando os parceiros de publicidade ou outros terceiros compartilharem informações conosco sobre você, confiaremos no consentimento que eles obtiveram.
  - Dizer aos nossos parceiros de publicidade como estão seus anúncios do Pinterest e como melhorá-los. Algumas dessas informações são agregadas. Por exemplo, informamos a um anunciante que uma determinada porcentagem de pessoas que visualizaram um anúncio visitaram o site desse anunciante. Em outros casos, essas informações não são agregadas. Por exemplo, avisamos um anunciante que um anúncio específico foi salvo por determinadas pessoas. Para saber mais sobre relatórios de anúncios, acesse a Central de Ajuda.
 
- Temos um interesse legítimo em usar as informações que coletamos para personalizar sua experiência no Pinterest com base no seu comportamento externo. Por exemplo, se você visitar sites que vendem guitarras, poderemos sugerir Pins de guitarra para você. Quando identificarmos seus interesses com base em seu comportamento externo com cookies, obteremos todos os consentimentos necessários. Para saber mais sobre como usamos os cookies, consulte nossa Política de Cookies.
+ Temos um interesse legítimo em usar as informações que coletamos para personalizar sua experiência no Pinterest com base no seu comportamento fora do nosso site. Por exemplo, se você acessar sites que vendem guitarras, poderemos sugerir Pins de guitarra para você. Quando identificarmos por meio de cookies os seus interesses com base no seu comportamento fora do nosso site, nós ou nossos parceiros obteremos todos os consentimentos necessários. Para saber mais sobre como usamos os cookies, consulte a nossa Política de Cookies.
 
  Além das circunstâncias específicas acima, usaremos suas informações somente com o seu consentimento para:
 
@@ -101,10 +101,7 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pi
  - Identificar sua localização exata e personalizar o conteúdo que mostramos a você. Por exemplo, se soubermos que você está perto de um varejista, poderemos mostrar a você Pins desse varejista que podem ser de seu interesse. Você pode optar por isso nas configurações do sistema operacional do seu dispositivo.
  - Dizer aos nossos parceiros de publicidade como está o desempenho de seus anúncios usando a Tag do Pinterest. A Tag do Pinterest (um trecho de código que o anunciante coloca em seu site) fornece a nós e aos nossos parceiros de publicidade informações sobre as ações que uma pessoa realiza em seu site depois de visualizar um anúncio no Pinterest. Para saber mais sobre a Tag do Pinterest, acesse a Central de Ajuda.
 
- Também confiaremos no seu consentimento quando usarmos cookies para:
-
- - Identificar você em diferentes sessões do navegador. Isso significa que, se você fizer login no Pinterest no celular (ou qualquer dispositivo), lembraremos quem você é e não será necessário inserir seus dados de login toda vez que você acessar o Pinterest.
- - Exibir anúncios que podem ser de seu interesse. Usamos cookies para identificar seus interesses com base na sua atividade externa. Fazemos isso para pessoas que já estão usando o Pinterest e para novos usuários, e isso nos ajuda a personalizar a forma como você começa no Pinterest.
+ Também dependemos do seu consentimento onde usamos cookies para mostrar anúncios nos quais você possa ter interesse. Usamos cookies para identificar seus interesses com base na sua atividade fora do nosso site. Fazemos isso para quem já está usando o Pinterest e para novos usuários, e isso nos ajuda a personalizar a forma como você começa no Pinterest.
 
  Para saber mais sobre como usamos os cookies, bem como suas opções sobre como os usamos, consulte nossa Política de Cookies.
 
@@ -208,6 +205,8 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pi
 
  Usamos e divulgamos essas informações para os fins comerciais descritos na seção O que fazemos com as informações que coletamos desta Política de Privacidade, incluindo: prestar nosso Serviço, comunicarmo-nos com você para fornecer atualizações ou responder aos seus comentários e dúvidas, auditar nosso Serviço, detectar incidentes de segurança e evitar fraude, depurar e corrigir erros, manter sua conta, prestar atendimento ao cliente, processar ou atender pedidos, realizar pesquisa e desenvolvimento e outras atividades para melhorar nosso Serviço, fazer publicidade, divulgar nossos Serviços e entender como os usuários interagem com nossos Serviços.
 
+ A CCPA exige que divulguemos determinadas métricas sobre as várias solicitações que recebemos, como quantas solicitações específicas recebemos de residentes da Califórnia no último ano civil. Veja a nossa Divulgação de métricas da CCPA.
+
 ## Como fazemos alterações nesta política
 
 - Podemos alterar esta política de tempos em tempos e, se o fizermos, publicaremos as alterações nesta página. Se continuar a usar o Pinterest depois que essas alterações entrarem em vigor, você estará concordando com a nova política. Caso as mudanças sejam significativas, poderemos fornecer um aviso mais destacado ou obter sua permissão, conforme exigido por lei.
@@ -216,4 +215,4 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pi
 
 - A melhor maneira de você entrar em contato conosco ou exercer suas opções descritas acima é através da Central de Ajuda. Se você reside nos Estados Unidos, o Pinterest, Inc. é responsável pelas suas informações. Você pode entrar em contato com o Pinterest Inc., localizado em 651 Brannan Street, São Francisco, CA 94103.
 
- Data de vigência: 2 de setembro de 2020 Última atualização: 16 de abril de 2021
+ Data de vigência: 2 de setembro de 2020 Última atualização: 1º de julho de 2021
