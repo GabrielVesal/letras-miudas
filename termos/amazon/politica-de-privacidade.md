@@ -3,8 +3,8 @@ empresa: "Amazon"
 documento: "Política de Privacidade"
 categoria: "Compras"
 fonte: "https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
-capturado_em: 2020-10-10
-wayback: "https://web.archive.org/web/20201010064736/https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+capturado_em: 2021-08-27
+wayback: "https://web.archive.org/web/20210827085928/https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/amazon/politica-de-privacidade.md"
 ---
 
@@ -81,7 +81,7 @@ Desenvolvemos nossos sistemas sempre pensando em sua segurança e privacidade.
 - Trabalhamos para proteger a segurança de suas informações pessoais durante a transmissão usando protocolos e software de criptografia.
 - Seguimos o Padrão de Segurança de Dados da Indústria de Pagamento com Cartão (PCI DSS) quando lidamos com dados de cartão de crédito.
 - Mantemos proteções físicas, eletrônicas e procedimentais relativas à coleta, armazenamento e fornecimento de informações pessoais de clientes. Nossos procedimentos de segurança implicam que podemos ocasionalmente solicitar comprovação da identidade antes de divulgarmos informações pessoais a você.
-- Nossos dispositivos contam com recursos de segurança de proteção contra acesso não autorizado e perda de dados. Você pode controlar esses recursos e configurá-los de acordo com suas necessidades. Clique aqui
+- Nossos dispositivos contam com recursos de segurança de proteção contra acesso não autorizado e perda de dados. Você pode controlar esses recursos e configurá-los de acordo com suas necessidades. Clique aqui .
 - É importante que você se proteja contra acessos não autorizados à sua senha e aos seus computadores, dispositivos e aplicativos. Certifique-se de encerrar a sessão sempre que terminar de usar um computador compartilhado. Clique aqui .
 
 ## E a publicidade?
@@ -98,7 +98,7 @@ Você pode acessar suas informações, incluindo seu nome, endereço, opções d
 Caso você tenha alguma dúvida ou objeção sobre a coleta e o tratamento de suas informações pessoais, entre em contato com o nosso Serviço de Atendimento ao Cliente . Muitos dos nossos Serviços da Amazon também incluem configurações que oferecem a você opções sobre como suas informações estão sendo usadas.
 
 - Conforme descrito acima, você pode optar por não fornecer certas informações, mas, neste caso, não conseguirá se beneficiar de muitos dos Serviços da Amazon.
-- Você poderá inserir ou atualizar informações em páginas como aquelas contidas na seção Quais informações posso acessar?. Quando você atualiza informações, geralmente guardamos uma cópia da versão anterior em nossos registros, conforme permitido pela legislação aplicável.
+- Você poderá inserir ou atualizar informações em páginas como aquelas contidas na seção Quais informações posso acessar? Quando você atualiza informações, geralmente guardamos uma cópia da versão anterior em nossos registros, conforme permitido pela legislação aplicável.
 - Caso você não queira receber nossos e-mails ou outras comunicações, ajuste suas Preferências de Comunicação do Cliente. Caso você não queira receber notificações em seu aplicativo, ajuste as configurações de notificação em seu aplicativo ou dispositivo.
 - Caso você não queira ver anúncios baseados em interesse, ajuste suas Preferências de Anúncios .
 - O recurso Ajuda da maioria dos navegadores e dispositivos mostrará como você pode impedir o seu navegador ou dispositivo de aceitar novos cookies ou outros identificadores, como fazer com que o navegador envie notificações quando você recebe novos cookies ou como bloquear os cookies. Os cookies e outros identificadores permitem que você se beneficie de alguns Serviços da Amazon essenciais, então recomendamos que você os deixe ativos. Por exemplo, se você bloquear ou recusar nossos cookies, você não conseguirá adicionar itens ao seu Carrinho de compras, finalizar a compra/fechar pedidos ou usar Serviços da Amazon que exijam que você faça login. Para mais informações sobre cookies e outros identificadores, consulte a nossa Notificação sobre Cookies.
@@ -107,7 +107,7 @@ Caso você tenha alguma dúvida ou objeção sobre a coleta e o tratamento de su
 - Você também poderá optar pelo não tratamento de alguns tipos de dados atualizando suas configurações no web site (por exemplo, na página "Dispositivos e Conteúdo"), dispositivo ou aplicativo da Amazon. Para mais informações, clique aqui. A maioria de dispositivos que não são da Amazon oferece aos usuários a possibilidade de alterar as permissões do dispositivo (por exemplo, desabilitar/acessar serviços de localização, contatos). Na maioria dos dispositivos, esses controles estão no menu de configurações do dispositivo. Caso você tenha dúvidas sobre como alterar a permissão do seu dispositivo fabricado por terceiros, recomendamos que você entre em contato com sua operadora ou com o fabricante de seu dispositivo, uma vez que dispositivos diferentes podem ter diferentes configurações de permissão.
 - Se você é um vendedor, você pode inserir ou atualizar certas informações na Seller Central, atualizar as informações de sua conta acessando suas Informações da Conta do Vendedor e ajustar os e-mails ou outras comunicações que você recebe de nós ao atualizar suas Preferências de Notificação.
 
-Além disso, observando-se a lei aplicável, você tem o direito de pedir acesso, corrigir e excluir seus dados pessoais e pedir a portabilidade de dados. Você também pode contestar nosso tratamento de seus dados pessoais ou pedir que restrinjamos o tratamento de seus dados pessoais em alguns casos. Caso você queira fazer uma dessas coisas, por favor clique aquiem ou entre em contato com o Serviço de Atendimento ao Cliente. Dependendo das suas escolhas sobre os seus dados, alguns serviços podem ficar limitados ou indisponíveis.
+Além disso, observando-se a lei aplicável, você tem o direito de pedir acesso, corrigir e excluir seus dados pessoais e pedir a portabilidade de dados. Você também pode contestar nosso tratamento de seus dados pessoais ou pedir que restrinjamos o tratamento de seus dados pessoais em alguns casos. Caso você queira fazer uma dessas coisas, por favor clique aqui ou entre em contato com o Serviço de Atendimento ao Cliente. Dependendo das suas escolhas sobre os seus dados, alguns serviços podem ficar limitados ou indisponíveis.
 
 ## Crianças podem usar os Serviços da Amazon?
 
@@ -192,7 +192,7 @@ Exemplos de informações que você pode acessar por meio de Serviços da Amazon
 - status de pedidos recentes (incluindo assinaturas);
 - seu histórico completo de pedidos;
 - informações pessoais identificáveis (incluindo nome, e-mail, senha, , lista de endereços);
-- configurações de pagamento (incluindo informações de cartão para pagamento, códigos promocionais e saldo de vale-presente e Configurações de 1 Clique));
+- configurações de pagamento (incluindo informações de cartão para pagamento, códigos promocionais e saldo de vale-presente e Configurações de 1 Clique);
 - configurações de notificação por e-mail (incluindo Alertas de Disponibilidade de Produto, Entregas, Lembretes de Ocasiões Especiais e newsletters);
 - recomendações e produtos visualizados recentemente que são a base de recomendações (incluindo Recomendados para Você e Melhore Suas Recomendações);
 - listas de compras e listas de presentes (incluindo Listas de Desejos e Listas de Bebê e Casamento);
@@ -201,5 +201,5 @@ Exemplos de informações que você pode acessar por meio de Serviços da Amazon
 - gravações de voz associadas à sua conta;
 - seu Perfil (incluindo suas Avaliações de produto, Recomendações, Lembretes e perfil pessoal);
 - se você é um vendedor, você pode acessar sua conta e outras informações, e ajustar suas preferências de comunicação atualizando sua conta na Seller Central;
-- Se você é um autor, você pode acessar sua conta e outras informações, e atualizar suas contas no web site do KDP: Kindle Direct Publishing (KDP) );
+- Se você é um autor, você pode acessar sua conta e outras informações, e atualizar suas contas no web site do KDP: Kindle Direct Publishing (KDP) ;
 - Se você é um desenvolvedor que participa do nosso Programa de Serviços de Desenvolvedor, você pode acessar sua conta e outras informações, e ajustar suas preferências de comunicação atualizando sua conta no Portal de Serviços do Desenvolvedor.
