@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2021-04-21
-wayback: "https://web.archive.org/web/20210421152141/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2021-09-24
+wayback: "https://web.archive.org/web/20210924010746/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -20,7 +20,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 4 de fevereiro de 2021 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 1 de julho de 2021 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -116,7 +116,7 @@ Os tipos de dados de localização que coletamos dependem, em parte, do disposit
 
 ---
 
-Em algumas circunstâncias, o Google também coleta informações sobre você de fontes de acesso público. Por exemplo, se seu nome aparecer em um jornal local, o mecanismo de pesquisa do Google poderá indexar esse artigo e exibi-lo para outras pessoas, se elas pesquisarem pelo seu nome. Também podemos coletar informações sobre você de parceiros confiáveis, incluindo parceiros de marketing que nos fornecem informações sobre clientes em potencial para nossos serviços comerciais e parceiros de segurança que nos fornecem informações para proteção contra abuso. Também recebemos informações de anunciantes para fornecer serviços de publicidade e pesquisa em nome deles.
+Em algumas circunstâncias, o Google também coleta informações sobre você de fontes de acesso público. Por exemplo, se seu nome aparecer em um jornal local, o mecanismo de pesquisa do Google poderá indexar esse artigo e exibi-lo para outras pessoas se elas pesquisarem pelo seu nome. Também podemos coletar informações sobre você de parceiros confiáveis, como serviços de diretório que nos fornecem informações comerciais que serão exibidas nos serviços do Google, parceiros de marketing que nos fornecem informações sobre clientes em potencial para nossos serviços comerciais e parceiros de segurança que nos fornecem informações para proteção contra abuso. Também recebemos informações de anunciantes para fornecer serviços de publicidade e pesquisa em nome deles.
 
 Usamos várias tecnologias para coletar e armazenar informações, incluindo cookies, tags de pixel, armazenamento local como armazenamento do navegador da Web ou caches de dados de aplicativos, bancos de dados e registros do servidor.
 
@@ -145,6 +145,7 @@ Usamos as informações que coletamos para personalizar nossos serviços, inclus
 Dependendo das configurações, também podemos mostrar anúncios personalizados com base nos seus interesses. Por exemplo, se você pesquisar "mountain bikes", poderá encontrar um anúncio de equipamentos esportivos ao navegar em um site que exibe anúncios veiculados pelo Google. É possível controlar quais informações usamos para exibir anúncios, basta acessar as configurações de anúncios.
 
 - Não mostramos anúncios personalizados com base em categorias sensíveis, como raça, religião, orientação sexual ou saúde.
+- Não mostramos anúncios personalizados com base no seu conteúdo do Drive, Gmail ou Fotos.
 - Não compartilhamos informações que identifiquem você pessoalmente para anunciantes, como nome ou e-mail, a menos que você nos peça. Por exemplo, se você vir um anúncio de uma floricultura nas proximidades e selecionar o botão "Toque para ligar", faremos a chamada e poderemos compartilhar seu número de telefone com a floricultura.
 
 Ir para as configurações de anúncios
@@ -400,7 +401,7 @@ Os seguintes avisos de privacidade fornecem informações adicionais sobre algun
 - Payments
 - Fiber
 - Google Fi
-- G Suite for Education
+- Google Workspace for Education
 - Read Along
 - YouTube Kids
 - Contas do Google gerenciadas no Family Link para crianças menores de 13 anos (ou a idade aplicável no seu país).
@@ -557,7 +558,7 @@ Podemos, por exemplo, usar informações dos seus dispositivos para ajudar você
 
 ### fontes de acesso público
 
-Podemos, por exemplo, coletar informações disponíveis publicamente on-line ou de outras fontes públicas para ajudar a treinar os modelos de idiomas do Google e criar recursos como o Google Tradutor.
+Podemos, por exemplo, coletar informações disponíveis publicamente on-line ou de outras fontes públicas para ajudar a treinar os modelos de idiomas do Google e criar recursos como o Google Tradutor. Ou, caso as informações sobre sua empresa apareçam em um site, podemos indexá-las e exibi-las nos Serviços do Google.
 
 ### fornecer nossos serviços
 
