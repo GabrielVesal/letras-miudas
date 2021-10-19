@@ -3,8 +3,8 @@ empresa: "Caixa"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/privacidade/aviso-de-privacidade/Paginas/default.aspx"
-capturado_em: 2021-07-17
-wayback: "https://web.archive.org/web/20210717124558/https://www.caixa.gov.br/privacidade/aviso-de-privacidade/Paginas/default.aspx"
+capturado_em: 2021-10-19
+wayback: "https://web.archive.org/web/20211019023305/https://www.caixa.gov.br/privacidade/aviso-de-privacidade/Paginas/default.aspx"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/politica-de-privacidade.md"
 ---
 
@@ -30,10 +30,12 @@ A CAIXA coleta informações a seu respeito de diversas formas, descritas a segu
 
 **Quando você fornece seus dados para a CAIXA:**
 - Informações pessoais que você fornece para fazermos seu cadastro na CAIXA;
+
 - Informações pessoais que você fornece voluntariamente, por exemplo, ao simular um crédito habitacional no nosso site, preencher formulários, participar de promoções ou utilizar nossos canais de atendimento;
 
 **Quando a CAIXA coleta informações de terceiros:**
 - Informações pessoais tornadas públicas por você nas redes sociais;
+
 - Informações obtidas de *Bureaus* de Crédito, inclusive com o objetivo de enriquecer ou validar outros dados já existentes;
 - Informações recebidas para a execução de Políticas Públicas.
 
@@ -61,12 +63,17 @@ A CAIXA utiliza as informações que são coletadas com um objetivo muito simple
 - Realizar as atividades necessárias à execução dos contratos de produtos ou serviços que temos com você, inclusive em procedimentos preliminares às contratações;
 - Operar políticas públicas;
 - Responder a suas dúvidas, solicitações, reclamações ou elogios;
+
 - Verificar sua identidade, visando evitar fraudes, atividades ilegais ou não autorizadas;
 - Comunicar, administrar e oferecer conteúdo e benefícios direcionados e específicos ao seu perfil e que podem ser de seu interesse;
 - Enviar informações administrativas a você, como termos, condições, políticas e contratos;
+
 - Desenvolver novos canais, serviços ou produtos e realizar melhorias naqueles que você já utiliza;
+
 - Proteger a CAIXA, nossos empregados, parceiros, clientes e mercado, incluindo as atividades relacionadas ao crédito;
+
 - Monitorar, analisar as tendências, medir audiências, corrigir problemas e evoluir o uso do nosso site e aplicativos;
+
 - Atender a determinações legais ou regulatórias.
 
 #### Como garantimos a segurança de seus dados pessoais
@@ -89,7 +96,9 @@ Em algumas situações, a CAIXA precisará compartilhar os seus dados pessoais c
 
 Em outras situações, a CAIXA precisará compartilhar seus dados pessoais a fim de exercer as atividades necessárias para prestar serviços com qualidade para você, dentre os quais destacamos:
 - Prestadores de serviço e parceiros de negócio, como emissoras de cartão, correspondentes bancários e empresários lotéricos;
+
 - Fornecedores de infraestrutura, logística, tecnologia e segurança, bem como advogados e engenheiros terceirizados;
+
 - Órgãos e entidades da Administração Pública para a execução de políticas públicas previstas em leis ou regulamentos, respaldadas em contratos, convênios ou instrumentos congêneres;
 - Empresas subsidiárias, visando a melhoria de serviços ou produtos que beneficiem você;
 - Empresas que prestam serviços e funcionalidades para o banco, como agências de marketing e publicidade, empresas de mídia social, com o intuito de oferecer a melhor oferta para você e as informações e conteúdos mais adequados aos seus interesses e necessidades.
@@ -138,15 +147,14 @@ A CAIXA poderá de tempos em tempos publicar versões mais atualizadas deste Avi
 
 Obrigado!
 
-encarregado.lgpd@caixa.gov.br
+Yves Dumaresq Sobral
+
+Encarregado pelo Tratamento de Dados Pessoais
+
+ encarregado.lgpd@caixa.gov.br
 
 #### Legislação e links relacionados:
 
-- Lei Geral de Proteção de Dados
-- Marco civil da internet
-- Lei sobre o sigilo das operações e informações em mãos de instituições financeiras
-- Código de Ética da CAIXA
-- Código de Defesa do Consumidor
-- Lei de Acesso à Informação
+• Lei Geral de Proteção de Dados • Marco civil da internet • Lei sobre o sigilo das operações e informações em mãos de instituições financeiras • Código de Ética da CAIXA • Código de Defesa do Consumidor • Lei de Acesso à Informação
 
 **Data de Publicação do Aviso de Privacidade: 14/01/2021**
