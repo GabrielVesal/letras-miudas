@@ -3,8 +3,8 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2021-07-31
-wayback: "https://web.archive.org/web/20210731144125/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2021-10-28
+wayback: "https://web.archive.org/web/20211028202715/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
 
@@ -92,7 +92,7 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pi
  - Decidir quais anúncios exibir para você. Por exemplo, se você mostrar interesse em barracas de camping no Pinterest, poderemos lhe exibir anúncios de outros produtos para atividades ao ar livre. Personalizamos o conteúdo do anúncio que exibimos, identificando seus interesses com base em suas atividades no site e fora dele, e usando as informações que recebemos de parceiros de publicidade ou de terceiros. Quando usarmos cookies para identificar seus interesses externos, obteremos seu consentimento sempre que necessário. Quando os parceiros de publicidade ou outros terceiros compartilharem informações conosco sobre você, confiaremos no consentimento que eles obtiveram.
  - Dizer aos nossos parceiros de publicidade como estão seus anúncios do Pinterest e como melhorá-los. Algumas dessas informações são agregadas. Por exemplo, informamos a um anunciante que uma determinada porcentagem de pessoas que visualizaram um anúncio visitaram o site desse anunciante. Em outros casos, essas informações não são agregadas. Por exemplo, avisamos um anunciante que um anúncio específico foi salvo por determinadas pessoas. Para saber mais sobre relatórios de anúncios, acesse a Central de Ajuda.
 
- Temos um interesse legítimo em usar as informações que coletamos para personalizar sua experiência no Pinterest com base no seu comportamento fora do nosso site. Por exemplo, se você acessar sites que vendem guitarras, poderemos sugerir Pins de guitarra para você. Quando identificarmos por meio de cookies os seus interesses com base no seu comportamento fora do nosso site, nós ou nossos parceiros obteremos todos os consentimentos necessários. Para saber mais sobre como usamos os cookies, consulte a nossa Política de Cookies.
+ Temos um interesse legítimo em usar as informações que coletamos para personalizar sua experiência no Pinterest com base no seu comportamento fora do nosso site. Por exemplo, se você visitar sites que vendem guitarras, poderemos sugerir Pins de guitarra para você. Quando identificarmos por meio de cookies os seus interesses com base no seu comportamento fora do nosso site, nós ou nossos parceiros obteremos todos os consentimentos necessários. Para saber mais sobre como usamos os cookies, consulte a nossa Política de Cookies.
 
  Além das circunstâncias específicas acima, usaremos suas informações somente com o seu consentimento para:
 
