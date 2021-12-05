@@ -8,6 +8,10 @@ Em vigor a partir de 31 de março de 2020 | Versões arquivadas | Fazer o downlo
 
 Versão específica: Brasil
 
+Nossos Termos de Serviço serão atualizados no dia 5 de janeiro de 2022 para que você possa entender melhor o que esperar do Google e o que esperamos de você ao usar nossos serviços. Até a atualização, os Termos descritos abaixo continuarão em vigor.
+
+Veja uma prévia dos novos Termos
+
 ## O que estes termos cobrem
 
 ### Sabemos que é tentador pular estes Termos de Serviço, mas é importante estabelecer o que você pode esperar de nós ao usar os serviços do Google e o que esperamos de você.
@@ -38,7 +42,7 @@ EUA
 
 Se você está abaixo da idade exigida para gerenciar sua própria Conta do Google, é necessário ter a permissão do seu pai/mãe ou responsável legal para usar uma conta. Peça para seu pai/mãe ou responsável legal ler estes termos com você.
 
-Se você é um responsável legal ou pai/mãe e permite que uma criança use os serviços, estes termos se aplicam a você, e você é responsável pelas atividades dessa criança nos serviços.
+Se você é um responsável legal ou pai/mãe e permite que uma criança use os serviços, estes termos se aplicam a você e você é responsável pelas atividades dessa criança nos serviços.
 
 Alguns serviços do Google têm restrições de idade complementares, de acordo com o descrito nos termos adicionais específicos do serviço e nas políticas deles.
 
@@ -288,7 +292,7 @@ Obviamente, você pode parar de usar nossos serviços a qualquer momento. Se voc
 
 ## Gerenciamento de solicitações pelos seus dados
 
-O respeito pela privacidade e segurança dos seus dados é fundamental na nossa abordagem para responder às solicitações de divulgação de dados. Quando recebemos solicitações de divulgação de dados, nossa equipe as analisa para garantir que satisfaçam os requisitos legais e as políticas de divulgação de dados do Google. A Google LLC acessa e divulga dados, incluindo comunicações, de acordo com as leis do Brasil ou dos Estados Unidos da América. Para ver mais informações sobre as solicitações de divulgação de dados que o Google recebe no mundo todo e como respondemos a essas solicitações, consulte nosso Transparency Report e nossa Política de Privacidade.
+O respeito pela privacidade e segurança dos seus dados é fundamental na nossa abordagem para responder às solicitações de divulgação de dados. Quando recebemos solicitações de divulgação de dados, nossa equipe as analisa para garantir que satisfaçam os requisitos legais e as políticas de divulgação de dados do Google. A Google LLC acessa e divulga dados, incluindo comunicações, de acordo com as leis do Brasil ou dos Estados Unidos da América. Para ver mais informações sobre as solicitações de divulgação de dados que o Google recebe no mundo todo e como respondemos a essas solicitações, consulte nosso Relatório de Transparência e nossa Política de Privacidade.
 
 ## Soluções de disputas, legislação aplicável e tribunais
 
@@ -320,7 +324,7 @@ Se fizermos mudanças significativas nestes termos ou nos termos adicionais espe
 
 ### afiliada
 
-Uma entidade que pertence ao grupo de empresas Google, ou seja, a Google LLC e as subsidiárias dela, incluindo as empresas a seguir, que fornecem serviços ao consumidor na UE: Google Ireland Limited, Google Commerce Ltd e Google Dialer Inc.
+Uma entidade que pertence ao grupo de empresas Google, ou seja, a Google LLC e as subsidiárias dela, incluindo as empresas a seguir, que fornecem serviços ao consumidor na UE: Google Ireland Limited, Google Commerce Limited e Google Dialer Inc.
 
 ### consumidor
 
@@ -328,7 +332,7 @@ Um indivíduo que utiliza os serviços do Google para fins pessoais e não comer
 
 ### direitos autorais
 
-Um direito que permite que o criador de uma obra original, como uma postagem em um blog, uma foto ou um vídeo, decida se e como essa obra será usada pelas outras pessoas.
+Um direito que permite que o criador de uma obra original, como uma postagem em um blog, uma foto ou um vídeo, decida se e como essa obra será usada por outras pessoas, sujeito a determinadas limitações e exceções.
 
 ### direitos de propriedade intelectual (direitos de PI)
 
@@ -354,26 +358,24 @@ Símbolos, nomes e imagens usados no comércio e que podem distinguir os produto
 
 Uma pessoa jurídica (como uma corporação, organização sem fins lucrativos ou escola), e não uma física.
 
-### Regulamento de plataformas para negócios da UE
-
-O Regulamento (UE) 2019/1150 relativo à promoção da equidade e da transparência para usuários comerciais que utilizam serviços de intermediação on-line.
-
 ### responsabilidade
 
 Perdas por qualquer tipo de ação judicial, seja ela baseada em um contrato, reparação por ato ilícito extracontratual (incluindo negligência) ou outro motivo, e se essas perdas poderiam ou não ser antecipadas ou previstas de maneira razoável.
 
 ### serviços
 
-Os serviços do Google sujeitos a estes termos são aqueles produtos e serviços listados em https://policies.google.com/terms/service-specific, incluindo:
+Os Serviços do Google sujeitos a estes termos são os produtos e serviços listados em https://policies.google.com/terms/service-specific, incluindo:
 
-- Apps e sites do Google, como a Pesquisa e o Google Maps
-- plataformas (como o Google Play)
+- Apps e sites, como a Pesquisa e o Google Maps
+- Plataformas, como o Google Shopping
 - serviços integrados, como o Maps incorporado em apps ou sites de outras empresas;
-- Dispositivos (como o Google Home)
+- Dispositivos e outros produtos, como o Google Nest
+
+Muitos desses serviços também incluem conteúdo que pode ser visto por streaming ou com o qual você pode interagir.
 
 ### seu conteúdo
 
-Aquilo que você escreve, faz upload, armazena, envia, recebe ou compartilha com o Google usando nossos serviços, como:
+Aquilo que você cria, faz upload, armazena, envia, recebe ou compartilha usando nossos serviços, como:
 
 - Documentos, Planilhas e Apresentações que você cria
 - Postagens de blog que você cria pelo Blogger
