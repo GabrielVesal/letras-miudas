@@ -2,9 +2,9 @@
 empresa: "Steam"
 documento: "Política de Privacidade"
 categoria: "Jogos"
-fonte: "https://store.steampowered.com/privacy_agreement/?l=brazilian"
-capturado_em: 2021-06-20
-wayback: "https://web.archive.org/web/20210620081650/https://store.steampowered.com/privacy_agreement/?l=brazilian"
+fonte: "https://store.steampowered.com/privacy_agreement?l=brazilian"
+capturado_em: 2022-01-26
+wayback: "https://web.archive.org/web/20220126195156/https://store.steampowered.com/privacy_agreement?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/politica-de-privacidade.md"
 ---
 
@@ -119,9 +119,13 @@ Nós analisamos qualquer solicitação enviada por e-mail, mas, a fim de evitar 
 
 Valve Corporation Atenciosamente, Atenciosamente, Departamento de Proteção de Dados P.O. Box 1688 Bellevue, WA 98009
 
-Representante europeu para questões de proteção de dados:
+Representante da UE para questões de proteção de dados:
 
-Valve GmbH Atenciosamente, Jurídico Rödingsmarkt 9 D-20459 Hamburg Germany
+Valve GmbH Att. Legal Rödingsmarkt 9 D-20459 Hamburg Germany
+
+Representante do Reino Unido para questões de proteção de dados:
+
+RIVACY Ltd. 71, Warriner Gardens, Unit G1/G2 London, SW11 4DX United Kingdom
 
 **9. Informações adicionais para usuários do Espaço Econômico Europeu, Reino Unido e Suíça**
 
@@ -145,4 +149,4 @@ Você pode designar, por escrito ou por meio de um procurador, um agente autoriz
 
 **Categorias, fontes, finalidades e destinatários dos dados que coletamos.** Nos últimos 12 meses, coletamos as categorias de Dados Pessoais descritas na seção 3 desta Política de Privacidade. As fontes das quais coletamos Dados Pessoais e as finalidades para as quais coletamos e processamos esses dados estão descritas nas seções 2 e 3. Nos últimos 12 meses, divulgamos para fins comerciais cada uma das categorias de Dados Pessoais com as categorias de terceiros conforme descritas na seção 5.
 
-*Data da revisão: 8 de janeiro de 2021*
+*Data da revisão: 23 de dezembro de 2021*
