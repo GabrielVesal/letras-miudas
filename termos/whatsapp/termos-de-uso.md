@@ -3,10 +3,12 @@ empresa: "WhatsApp"
 documento: "Termos de Uso"
 categoria: "Redes sociais"
 fonte: "https://www.whatsapp.com/legal/terms-of-service?lang=pt_BR"
-capturado_em: 2021-07-12
-wayback: "https://web.archive.org/web/20210712084454/https://www.whatsapp.com/legal/terms-of-service?lang=pt_BR"
+capturado_em: 2022-01-29
+wayback: "https://web.archive.org/web/20220129084030/https://www.whatsapp.com/legal/terms-of-service?lang=pt_BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/termos-de-uso.md"
 ---
+
+Última modificação: 4 de janeiro de 2021 (versões arquivadas)
 
 # Termos de Serviço do WhatsApp
 
