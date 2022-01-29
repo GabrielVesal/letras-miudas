@@ -2,6 +2,8 @@
      Fonte: https://www.whatsapp.com/legal/terms-of-service?lang=pt_BR
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
+Última modificação: 4 de janeiro de 2021 (versões arquivadas)
+
 # Termos de Serviço do WhatsApp
 
 Índice
