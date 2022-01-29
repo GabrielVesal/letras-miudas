@@ -2,9 +2,11 @@
      Fonte: https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
+Última modificação: 4 de janeiro de 2021 (versões arquivadas)
+
 # Política de Privacidade do WhatsApp
 
-*Se você reside na Região Europeia, o WhatsApp Ireland Limited fornece os Serviços para você de acordo com esses Termos de Serviço e Política de Privacidade.*
+*Se você reside na* Região Europeia*, o WhatsApp Ireland Limited fornece os Serviços para você de acordo com esses* *Termos de Serviço* *e* *Política de Privacidade**.*
 
 ### Informações Legais do WhatsApp
 
@@ -40,7 +42,6 @@ Nossos Serviços têm recursos opcionais e precisamos coletar dados adicionais p
 
 - **Dados de sua conta**. Você deve enviar seu número de telefone celular e seus dados básicos (como um nome de perfil escolhido por você) para criar uma conta do WhatsApp. Caso você não forneça esses dados, você não conseguirá criar uma conta para utilizar nossos Serviços. Outras informações podem ser adicionadas à sua conta, como uma foto de perfil e um recado.
 - **Suas mensagens**. Não guardamos suas mensagens durante a prestação dos Serviços. Em vez disso, suas mensagens são armazenadas no seu dispositivo e normalmente não ficam armazenadas nos nossos servidores. Ao entregarmos suas mensagens, elas são apagadas dos nossos servidores. Os cenários a seguir descrevem os casos em que podemos armazenar suas mensagens durante o processo de entrega:
-
  - **Mensagens não entregues**. Se uma mensagem não puder ser entregue imediatamente (por exemplo, se o destinatário estiver offline), mantemos a mensagem criptografada em nossos servidores por até 30 (trinta) dias enquanto tentamos entregá-la. Se a mensagem não puder ser entregue após 30 (trinta) dias, nós a apagaremos.
  - **Encaminhamento de mídia**. Quando um usuário envia uma mensagem com mídia, armazenamos essa mídia criptografada temporariamente em nossos servidores, para uma entrega mais eficiente caso seja encaminhada novamente.
 
@@ -60,14 +61,11 @@ Nossos Serviços têm recursos opcionais e precisamos coletar dados adicionais p
 ### Dados de terceiros
 
 - **Dados fornecidos por terceiros sobre você**. Recebemos dados de outros usuários sobre você. Por exemplo, quando outros usuários que você conhece utilizam nossos Serviços, eles podem fornecer seu número de telefone, nome e outros dados (como os que estão na agenda de contatos do celular deles), assim como os números desses usuários podem vir de seus contatos. Eles também podem enviar mensagens para você, para os grupos dos quais você participa ou ligar para você. Exigimos que cada um desses usuários tenha autorização legal para coletar, usar e compartilhar seus dados antes de fornecê-los para nós.
-
  Lembre-se de que, em geral, qualquer usuário pode fazer capturas de tela das suas conversas ou mensagens, ou gravar suas ligações com ele e enviá-las para o WhatsApp, para outras pessoas, ou postá-las em outra plataforma.
 - **Denúncias de usuários**. Assim como você pode denunciar outros usuários, outros usuários ou terceiros também podem denunciar suas interações e mensagens enviadas para eles ou para outras pessoas nos nossos Serviços, por exemplo, a fim de denunciar possíveis violações dos nossos Termos ou políticas. Quando uma denúncia é feita, coletamos dados tanto do usuário que denunciou, quanto do que foi denunciado. Para saber mais sobre o que acontece quando um usuário faz uma denúncia, consulte Recursos avançados de segurança.
 - **Empresas no WhatsApp**. As empresas com as quais você interage usando nossos Serviços podem fornecer dados sobre as interações delas com você. Solicitamos que cada uma dessas empresas aja de acordo com as leis aplicáveis ao fornecer dados para nós.
-
  Lembre-se de que quando você troca mensagens com uma empresa no WhatsApp, o conteúdo que você compartilha pode ser visualizado por diversas pessoas naquela empresa. Além disso, algumas empresas podem trabalhar com provedores de serviços terceirizados (o que pode incluir o Facebook) para ajudar a gerenciar suas comunicações com seus clientes. Por exemplo, uma empresa pode fornecer acesso às suas comunicações para esses provedores de serviços terceirizados para enviar, armazenar, ler, gerenciar ou processar essas comunicações para a empresa. Para entender como uma empresa trata seus dados, inclusive como ela pode compartilhá-los com terceiros ou com o Facebook, consulte a política de privacidade da empresa em questão ou entre em contato com ela.
 - **Provedores de serviço de terceiros**. Trabalhamos com prestadores de serviço terceirizados e com outras Empresas do Facebook para nos ajudar a operar, fornecer, aprimorar, entender, personalizar, dar suporte e anunciar nossos Serviços. Por exemplo, trabalhamos com esses prestadores de serviço terceirizados e com outras Empresas do Facebook para distribuir nossos aplicativos, fornecer nossa infraestrutura técnica e física, veiculação e outros sistemas, fornecer suporte de segurança cibernética, suporte operacional e de engenharia; fornecer dados de locais, de mapas e de localização; processar pagamentos; entender como as pessoas usam nossos Serviços; comercializar nossos Serviços, ajudar você a se conectar com empresas usando nossos Serviços; realizar pesquisas; garantir proteção, segurança e integridade; e oferecer ajuda com o atendimento ao cliente. Essas empresas podem nos fornecer informações suas sob determinadas circunstâncias, por exemplo, as lojas de aplicativos podem nos enviar relatórios para nos ajudar a diagnosticar e corrigir problemas no serviço.
-
  A seção “Como trabalhamos com outras Empresas do Facebook” abaixo fornece informações adicionais sobre como o WhatsApp coleta e compartilha dados com outras Empresas do Facebook.
 - **Serviços de terceiros**. Permitimos o uso de nossos Serviços em conjunto com serviços de terceiros e com os Produtos das Empresas do Facebook. Se nossos Serviços forem usados com serviços de terceiros ou Produtos das Empresas do Facebook, poderemos receber dados seus fornecidos por eles (por exemplo, ao usar o botão compartilhar no WhatsApp em um serviço de notícias para compartilhar uma reportagem com seus contatos e grupos do WhatsApp ou listas de transmissão de nossos Serviços, ou se você optar por acessar nossos Serviços por meio da promoção feita pela operadora de celular ou pela fornecedora do dispositivo). Quando você usar serviços de terceiros ou Produtos das Empresas do Facebook, os termos e as políticas de privacidade aplicáveis serão os elaborados para tais serviços e produtos.
 
@@ -77,7 +75,7 @@ Usamos os dados em nosso poder (de acordo com as escolhas feitas por você e com
 
 - **Nossos Serviços**. Usamos os dados que temos para operar e fornecer nossos Serviços, como para oferecer suporte, concluir compras ou transações, aprimorar, corrigir e personalizar nossos Serviços e conectá-los aos Produtos das Empresas do Facebook que você pode usar. Também usamos os dados que temos para compreender como as pessoas usam nossos Serviços, avaliar e aprimorar nossos Serviços, pesquisar, desenvolver e testar serviços e recursos novos e também para solucionar problemas. Também usamos seus dados para responder quando você entra em contato conosco.
 - **Proteção, segurança e integridade**. Proteção, segurança e integridade são essenciais para nossos Serviços. Usamos as informações que temos para verificar contas e atividades; combater condutas nocivas, proteger usuários de experiências ruins e mensagens indesejadas (spam); promover a proteção, a segurança e a integridade dentro e fora de nossos Serviços, investigando atividades suspeitas ou violações de nossos Termos e Políticas. Também usamos essas informações para garantir que nossos Serviços estão sendo utilizados de forma legal. Saiba mais na seção Lei, nossos direitos e proteção abaixo.
-- **Comunicações sobre nossos Serviços e sobre as Empresas do Facebook**. Usamos os dados que temos para entrar em contato com você sobre nossos Serviços e para informar sobre nossos termos, políticas e outras atualizações importantes. Podemos enviar a você anúncios sobre nossos Serviços e sobre os serviços das Empresas do Facebook.
+- **Comunicações sobre nossos Serviços e sobre** **as Empresas do Facebook**. Usamos os dados que temos para entrar em contato com você sobre nossos Serviços e para informar sobre nossos termos, políticas e outras atualizações importantes. Podemos enviar a você anúncios sobre nossos Serviços e sobre os serviços das Empresas do Facebook.
 - **Sem banner com anúncios de terceiros**. Seguimos não permitindo banners com anúncios de terceiros em nossos Serviços. Nós não temos a intenção de usar anúncios de terceiros, mas caso venhamos a usá-los, atualizaremos esta Política de Privacidade.
 - **Interações comerciais**. Possibilitamos que você e empresas terceirizadas se comuniquem e interajam utilizando nossos serviços, como o Catálogo para empresas no WhatsApp, no qual é possível visualizar produtos e serviços, bem como realizar pedidos. As empresas podem enviar notificações de transação, consulta e envio, atualizações de serviços e produtos, e marketing. Por exemplo, você poderá receber uma mensagem sobre o status de um voo, um recibo de uma compra ou uma notificação quando uma entrega foi realizada. As mensagens de marketing que você venha a receber poderão conter ofertas de algo de seu interesse. Não queremos que você tenha uma experiência com mensagens indesejadas (spam); como em todas as suas mensagens, você poderá administrar esses tipos de comunicação, e respeitaremos sua escolha.
 
@@ -147,7 +145,11 @@ Para saber mais sobre seus direitos e como exercê-los sob a Lei Geral de Prote�
 Em caso de dúvidas ou problemas sobre esta Política de Privacidade, entre em contato conosco.
 
 WhatsApp LLC
- Privacy Policy
- 1601 Willow Road
- Menlo Park, California 94025
- United States of America
+
+Privacy Policy
+
+1601 Willow Road
+
+Menlo Park, California 94025
+
+United States of America
