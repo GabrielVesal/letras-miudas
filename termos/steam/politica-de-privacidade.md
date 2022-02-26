@@ -2,13 +2,13 @@
 empresa: "Steam"
 documento: "Política de Privacidade"
 categoria: "Jogos"
-fonte: "https://store.steampowered.com/privacy_agreement?l=brazilian"
-capturado_em: 2022-01-26
-wayback: "https://web.archive.org/web/20220126195156/https://store.steampowered.com/privacy_agreement?l=brazilian"
+fonte: "https://store.steampowered.com/privacy_agreement/?l=brazilian"
+capturado_em: 2022-02-26
+wayback: "https://web.archive.org/web/20220226215751/https://store.steampowered.com/privacy_agreement/?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/politica-de-privacidade.md"
 ---
 
-A Valve respeita a privacidade dos seus visitantes on-line e dos clientes dos seus produtos e serviços e está em conformidade com as leis aplicáveis de proteção de privacidade, incluindo, sem limitação, a Lei de Privacidade do Consumidor da Califórnia ("CCPA"), o Regulamento Geral sobre a Proteção de Dados da União Europeia ("GDPR") e as Estruturas dos Princípios de Privacidade da Suíça e dos Estados Unidos.
+A Valve respeita a privacidade dos seus visitantes on-line e dos clientes dos seus produtos e serviços e está em conformidade com as leis aplicáveis de proteção de privacidade, incluindo, sem limitação, a Lei de Privacidade do Consumidor da Califórnia ("CCPA"), o Regulamento Geral sobre a Proteção de Dados da União Europeia ("GDPR"), o Regulamento Geral sobre a Proteção de Dados do Reino Unido e as Estruturas dos Princípios de Privacidade da Suíça e dos Estados Unidos.
 
 **1. Definições**
 
@@ -43,7 +43,7 @@ Essas razões para a coleta e processamento de Dados Pessoais determinam e limit
 
 3.6 Dados de rastreamento e cookies Utilizamos "Cookies", que são arquivos de texto adicionados ao seu computador, e tecnologias semelhantes (por exemplo, "web beacons", pixels, tags de anúncios e identificadores de dispositivo) para nos ajudar a analisar como os usuários usam nossos serviços e também para melhorar os serviços que oferecemos e o recurso de marketing, de análise ou do site. O uso de cookies é padrão na internet. Embora a maioria dos navegadores da Web aceite cookies automaticamente, a decisão de autorizar ou negar é sua. Você pode ajustar as configurações do seu navegador para impedir o recebimento de cookies ou para enviar uma notificação sempre que um cookie for recebido no seu computador. Você pode recusar o uso de cookies selecionando as configurações adequadas no seu navegador. Detalhamos o gerenciamento do uso de cookies para cada navegador na seguinte página de ajuda: https://support.steampowered.com/kb\_article.php?ref=9076-QYOJ-0930. No entanto, se você fizer isso, talvez não consiga acessar todos os recursos dos nossos sites. Quando você acessa qualquer um dos nossos serviços, nossos servidores registram seu endereço IP, que é um número atribuído automaticamente à rede a qual seu computador faz parte.
 
-3.7 Content Recommendations Podemos processar informações coletadas nos termos desta seção 3, de modo que o conteúdo, os produtos e os serviços mostrados nas páginas da loja da Steam e nas mensagens de atualização exibidas ao iniciar o cliente da Steam podem ser adaptados para atender às suas necessidades e preenchidos com recomendações e ofertas relevantes. Isto é feito para melhorar a experiência do seu cliente. Você pode impedir o processamento dos seus dados dessa forma ao desligar o carregamento automático da página da loja da Steam e das notificações da Steam na seção "Interface" das configurações do cliente da Steam. Sujeito ao seu consentimento em separado ou quando explicitamente permitido pelas leis aplicáveis sobre e-mail marketing, a Valve pode enviar mensagens de marketing ao seu endereço de e-mail sobre produtos e serviços oferecidos pela Valve. Nesse caso, poderemos utilizar também suas informações coletadas para personalizar essas mensagens de marketing, além de coletar informações das suas ações, como se você abriu essas mensagens e em que links do texto delas você clicou. Você pode cancelar ou revogar seu consentimento de receber e-mails de marketing a qualquer momento, ao revogar seu consentimento na mesma página onde você tinha previamente concedido ou ao clicar no link "cancelar inscrição" incluído em cada e-mail de marketing.
+3.7 Content Recommendations Podemos processar informações coletadas nos termos desta seção 3, de modo que o conteúdo, os produtos e os serviços mostrados nas páginas da loja da Steam e nas mensagens de atualização exibidas ao iniciar o cliente da Steam podem ser adaptados para atender às suas necessidades e preenchidos com recomendações e ofertas relevantes. Isto é feito para melhorar a experiência do seu cliente. Você pode impedir o processamento dos seus dados dessa forma ao desligar o carregamento automático da página da loja da Steam e das notificações da Steam na seção "Interface" das configurações do cliente da Steam. Sujeito ao seu consentimento em separado ou quando explicitamente permitido pelas leis aplicáveis sobre e-mail marketing, a Valve pode enviar mensagens de marketing ao seu endereço de e-mail sobre produtos e serviços oferecidos pela Valve. Nesse caso, poderemos utilizar também suas informações coletadas para personalizar essas mensagens de marketing, além de coletar informações das suas ações, como se você abriu essas mensagens e em que links do texto delas você clicou. Você pode cancelar ou revogar seu consentimento de receber e-mails de marketing a qualquer momento, ao revogar seu consentimento na mesma página onde você tinha previamente concedido ou ao clicar no link "cancelar inscrição" incluído em cada e-mail de marketing. Como alternativa, é possível selecionar os tipos de e-mail que você deseja receber na página de configuração de e-mails.
 
 3.8 Informações necessárias para detecção de violações Nós coletamos alguns dados que são necessários para a detecção, investigação e prevenção de fraude e outras violações do SSA e da legislação aplicável ("Violações"). Esses dados são usados apenas para fins de detecção, investigação, prevenção e, quando aplicável, tomada de medidas contra tais violações. Eles são armazenados somente para o tempo mínimo necessário para essa finalidade. Se os dados indicarem que uma Violação ocorreu, continuaremos a armazená-los para a definição, o exercício ou a defesa de reivindicações legais aplicáveis durante o estatuto de limitações ou até que um caso judicial relacionado a ela tenha sido resolvido. Observe que os dados armazenados específicos para essa finalidade não podem ser divulgados a você se a divulgação comprometer o mecanismo por meio do qual podemos detectar, investigar e evitar tais Violações.
 
@@ -81,11 +81,11 @@ a Valve não vende Dados Pessoais. No entanto, podemos compartilhar ou fornecer 
 
 **6. Seus direitos e mecanismos de controle**
 
-As leis de proteção de dados do Espaço Econômico Europeu, da Califórnia e de outros territórios concedem aos seus residentes determinados direitos em relação aos Dados Pessoais. Embora outras jurisdições forneçam menos direitos, criamos ferramentas para que os clientes de todo o mundo possam exercê-los.
+As leis de proteção de dados do Espaço Econômico Europeu, do Reino Unido, da Califórnia e de outros territórios concedem aos seus residentes determinados direitos em relação aos Dados Pessoais. Embora outras jurisdições forneçam menos direitos, criamos ferramentas para que os clientes de todo o mundo possam exercê-los. (Quando falamos sobre o GDPR nesta seção, queremos dizer a versão do GDPR que se aplica a você na UE ou no Reino Unido).
 
 Para que você possa exercer seu direito à proteção de dados de forma simples, disponibilizamos uma seção dedicada na página de suporte do Steam (o "Painel de privacidade"). Ela oferece acesso aos seus Dados Pessoais, permite corrigi-los e excluí-los e se opor ao uso deles, quando necessário. Para acessá-la, faça o login na página de suporte do Steam em http://help.steampowered.com e escolha os itens do menu *-> Minha conta -> Dados Relacionados à Sua Conta do Steam.* Na maioria dos casos, você pode acessar, gerenciar ou excluir Dados Pessoais no Painel de Privacidade, mas também pode entrar em contato com a Valve com perguntas ou solicitações por meio dos processos de contato descritos nas seções 8 e 10 abaixo.
 
-Como residente do Espaço Econômico Europeu, você tem os seguintes direitos quanto aos seus Dados Pessoais:
+Como residente do Espaço Econômico Europeu ou do Reino Unido, você tem os seguintes direitos quanto aos seus Dados Pessoais:
 
 6.1 Direito de acesso. Você tem o direito de acessar os Dados Pessoais que mantemos sobre você, ou seja, o direito de solicitar gratuitamente (i) informações se os seus Dados Pessoais estão armazenados, (ii) o acesso aos Dados Pessoais armazenados e/ou (iii) cópias dos Dados Pessoais armazenados. Você pode exercer o direito de acesso aos seus Dados Pessoais por meio do Painel de Privacidade. Se a solicitação afetar os direitos e as liberdades de terceiros ou for infundada ou excessiva, reservamo-nos o direito de cobrar uma taxa razoável (levando em conta os custos administrativos de fornecer as informações ou a comunicação ou efetuar a ação solicitada) ou de recusar a solicitação.
 
@@ -121,13 +121,15 @@ Valve Corporation Atenciosamente, Atenciosamente, Departamento de Proteção de 
 
 Representante da UE para questões de proteção de dados:
 
-Valve GmbH Att. Legal Rödingsmarkt 9 D-20459 Hamburg Germany
+Valve GmbH Atenciosamente, Jurídico Rödingsmarkt 9 D-20459 Hamburg Germany
 
 Representante do Reino Unido para questões de proteção de dados:
 
 RIVACY Ltd. 71, Warriner Gardens, Unit G1/G2 London, SW11 4DX United Kingdom
 
 **9. Informações adicionais para usuários do Espaço Econômico Europeu, Reino Unido e Suíça**
+
+Podemos transferir e armazenar suas informações pessoais fora do Espaço Econômico Europeu ou do Reino Unido, em países que podem não ter leis de proteção de dados equivalentes. Se o fizermos, tomaremos medidas para garantir que suas informações pessoais sejam protegidas por salvaguardas legais apropriadas, como cláusulas-tipo contratuais da UE ou do Reino Unido, e que sejam tratadas com segurança e de acordo com esta política de privacidade.
 
 Embora as Estruturas de Proteção de Privacidade entre a UE e os EUA e entre a Suíça e os EUA tenham sido consideradas inválidas como base legal para transferências de dados para os Estados Unidos, a Valve e a TR Technical Services Inc., sua subsidiária integral nos Estados Unidos (coletivamente "Valve"), continuam agindo em conformidade com os Princípios de Proteção de Privacidade em relação a quaisquer informações pessoais transferidas da União Europeia, do Reino Unido e da Suíça para os Estados Unidos sob a Proteção de Privacidade. Se houver algum conflito entre os termos desta política de privacidade e os Princípios de Proteção de Privacidade, os Princípios de Proteção de Privacidade deverão prevalecer. Para saber mais sobre o programa de Proteção de Privacidade e visualizar nossa certificação, acesse http://www.privacyshield.gov.
 
@@ -149,4 +151,4 @@ Você pode designar, por escrito ou por meio de um procurador, um agente autoriz
 
 **Categorias, fontes, finalidades e destinatários dos dados que coletamos.** Nos últimos 12 meses, coletamos as categorias de Dados Pessoais descritas na seção 3 desta Política de Privacidade. As fontes das quais coletamos Dados Pessoais e as finalidades para as quais coletamos e processamos esses dados estão descritas nas seções 2 e 3. Nos últimos 12 meses, divulgamos para fins comerciais cada uma das categorias de Dados Pessoais com as categorias de terceiros conforme descritas na seção 5.
 
-*Data da revisão: 23 de dezembro de 2021*
+*Data da revisão: 16 de fevereiro de 2022*
