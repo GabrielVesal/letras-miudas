@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2021-09-24
-wayback: "https://web.archive.org/web/20210924010746/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2022-03-18
+wayback: "https://web.archive.org/web/20220318081015/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -20,7 +20,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 1 de julho de 2021 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 10 de fevereiro de 2022 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -50,7 +50,7 @@ Criamos uma gama de serviços que ajudam diariamente milhões de pessoas a desco
 
 - sites, dispositivos e apps do Google, como a Pesquisa, o YouTube e o Google Home;
 - plataformas, como o navegador Chrome e o sistema operacional Android;
-- produtos integrados a apps e sites de terceiros, como anúncios e Google Maps incorporados.
+- produtos integrados a apps e sites de terceiros, como anúncios, análises e Google Maps incorporados.
 
 É possível usar nossos serviços de diversas maneiras para gerenciar a sua privacidade. Por exemplo, você pode se inscrever em uma Conta do Google se quiser criar e gerenciar conteúdo, como e-mails e fotos, ou ver resultados de pesquisa mais relevantes. É possível também usar muitos serviços do Google sem fazer login ou sem criar uma conta, como pesquisar no Google ou assistir vídeos do YouTube. Além disso, existe a opção de navegar na Web de forma privada usando o Chrome no modo de navegação anônima. E em todos os nossos serviços, é possível ajustar as configurações de privacidade para controlar o que coletamos e como as informações são usadas.
 
@@ -62,7 +62,7 @@ Queremos que você entenda os tipos de informações que coletamos quando usa no
 
 Coletamos informações para fornecer serviços melhores a todos os nossos usuários, o que inclui descobrir coisas básicas, como o idioma que você fala, até coisas mais complexas, como anúncios que você pode considerar mais úteis, as pessoas on-line que são mais importantes para você ou os vídeos do YouTube de que você poderá gostar. As informações coletadas pelo Google e como essas informações são usadas dependem de como você usa nossos serviços e de como gerencia os controles de privacidade.
 
-Quando você não está conectado a uma Conta do Google, armazenamos as informações que coletamos com identificadores exclusivos vinculados ao navegador, aplicativo ou dispositivo que você está usando. Isso nos ajuda a manter as preferências de idioma em todas as sessões de navegação, por exemplo.
+Quando você não está conectado a uma Conta do Google, armazenamos as informações que coletamos com identificadores exclusivos vinculados ao navegador, aplicativo ou dispositivo que você está usando. Isso nos permite manter suas preferências em todas as sessões de navegação; por exemplo, o idioma ou a exibição ou não de resultados relevantes da pesquisa ou anúncios baseados na sua atividade.
 
 Quando você está conectado, também coletamos informações que armazenamos com sua Conta do Google e que tratamos como informações pessoais.
 
@@ -80,7 +80,7 @@ Coletamos informações sobre os apps, navegadores e dispositivos que você usa 
 
 As informações que coletamos incluem identificadores exclusivos, tipo e configurações de navegador, tipo e configurações de dispositivo, sistema operacional, informações de rede móvel, incluindo nome e número de telefone da operadora e número da versão do aplicativo. Também coletamos informações sobre a interação de apps, navegadores e dispositivos com nossos serviços, incluindo endereço IP, relatórios de erros, atividade do sistema, além de data, hora e URL referenciador da sua solicitação.
 
-Coletamos essas informações quando um serviço do Google no seu dispositivo entra em contato com nossos servidores, por exemplo, quando você instala um app da Play Store ou quando um serviço verifica se há atualizações automáticas. Se você estiver usando um dispositivo Android com apps do Google, o dispositivo entrará em contato periodicamente com os servidores do Google para fornecer informações sobre o dispositivo e a conexão com nossos serviços. Essas informações incluem tipo de dispositivo, nome da operadora, relatórios de erros e apps instalados.
+Coletamos essas informações quando um serviço do Google no seu dispositivo entra em contato com nossos servidores, por exemplo, quando você instala um app da Play Store ou quando um serviço verifica se há atualizações automáticas. Se você estiver usando um dispositivo Android com apps do Google, o dispositivo entrará em contato periodicamente com os servidores do Google para fornecer informações sobre o dispositivo e a conexão com nossos serviços. Essas informações incluem tipo de dispositivo e nome da operadora, relatórios de erros, apps instalados e, dependendo das configurações, outras informações sobre como você está usando o dispositivo Android.
 
 ### Sua atividade
 
@@ -89,7 +89,7 @@ Coletamos informações sobre sua atividade em nossos serviços e usamos tal inf
 - termos que você pesquisa
 - vídeos que você assiste
 - visualizações e interações com conteúdo e anúncios
-- informações de voz e áudio quando você usa recursos de áudio
+- Informações de voz e áudio
 - atividade de compra
 - pessoas com quem você se comunica ou compartilha conteúdo
 - atividades em sites e apps de terceiros que usam nossos serviços
@@ -103,20 +103,20 @@ Ir para a Conta do Google
 
 ### Suas informações de localização
 
-Quando você usa nossos serviços, coletamos informações sobre sua localização, o que nos ajuda a oferecer recursos, como rotas de carro para a viagem de fim de semana ou horários de filmes que estão perto de você.
+Quando você usa nossos serviços, coletamos informações sobre sua localização, o que nos ajuda a oferecer recursos, como rotas de carro, resultados da pesquisa para o que está perto de você e anúncios baseados na sua localização geral.
 
 Sua localização pode ser determinada com vários graus de precisão por:
 
-- GPS
+- GPS e outros dados do sensor do seu dispositivo
 - Endereço IP
-- dados do sensor do seu dispositivo
+- atividade nos Serviços do Google, como pesquisa e lugares identificados como casa ou trabalho
 - informações de itens próximos do dispositivo, como pontos de acesso Wi-Fi, torres de celular e dispositivos com Bluetooth ativado
 
-Os tipos de dados de localização que coletamos dependem, em parte, do dispositivo e das configurações da conta. Por exemplo, é possível ativar ou desativar a localização do dispositivo Android usando o app de configurações do dispositivo. Também é possível ativar o Histórico de localização caso você queira criar um mapa particular dos lugares que visita com seus dispositivos conectados.
+Os tipos de dados de localização que coletamos e por quanto tempo os armazenamos dependem, em parte, do dispositivo e das configurações da conta. Por exemplo, é possível ativar ou desativar a localização do dispositivo Android usando o app de configurações do dispositivo. Também é possível ativar o Histórico de localização caso você queira criar um mapa particular dos lugares que visita com seus dispositivos conectados. E, se a configuração "Atividade na Web e de apps" estiver ativada, suas pesquisas e outras atividades dos Serviços do Google, que podem também incluir informações de localização, serão salvas na sua Conta do Google. Saiba mais sobre como usamos as informações de localização.
 
 ---
 
-Em algumas circunstâncias, o Google também coleta informações sobre você de fontes de acesso público. Por exemplo, se seu nome aparecer em um jornal local, o mecanismo de pesquisa do Google poderá indexar esse artigo e exibi-lo para outras pessoas se elas pesquisarem pelo seu nome. Também podemos coletar informações sobre você de parceiros confiáveis, como serviços de diretório que nos fornecem informações comerciais que serão exibidas nos serviços do Google, parceiros de marketing que nos fornecem informações sobre clientes em potencial para nossos serviços comerciais e parceiros de segurança que nos fornecem informações para proteção contra abuso. Também recebemos informações de anunciantes para fornecer serviços de publicidade e pesquisa em nome deles.
+Em algumas circunstâncias, o Google também coleta informações sobre você de fontes de acesso público. Por exemplo, se seu nome aparecer em um jornal local, o mecanismo de pesquisa do Google poderá indexar esse artigo e exibi-lo para outras pessoas se elas pesquisarem pelo seu nome. Também podemos coletar informações sobre você de parceiros confiáveis, como serviços de diretório que nos fornecem informações comerciais que serão exibidas nos serviços do Google, parceiros de marketing que nos fornecem informações sobre clientes em potencial para nossos serviços comerciais e parceiros de segurança que nos fornecem informações para proteção contra abuso. Também recebemos informações de parceiros anunciantes para oferecer serviços de publicidade e pesquisa em nome deles.
 
 Usamos várias tecnologias para coletar e armazenar informações, incluindo cookies, tags de pixel, armazenamento local como armazenamento do navegador da Web ou caches de dados de aplicativos, bancos de dados e registros do servidor.
 
@@ -152,7 +152,7 @@ Ir para as configurações de anúncios
 
 ### Avaliar o desempenho
 
-Usamos dados para análise e avaliação a fim de entender como nossos serviços são usados. Por exemplo, analisamos dados sobre suas visitas aos nossos sites para otimizar o design do produto. Também usamos dados sobre os anúncios com os quais você interage para ajudar os anunciantes a entender o desempenho das campanhas publicitárias. Usamos diversas ferramentas para fazer isso, incluindo o Google Analytics. Quando você visita sites que usam o Google Analytics, um cliente do Google Analytics pode ativar o Google para vincular informações sobre sua atividade nesse site com atividades em outros sites que usam nossos serviços de anúncios.
+Usamos dados para análise e avaliação a fim de entender como nossos serviços são usados. Por exemplo, analisamos dados sobre suas visitas aos nossos sites para otimizar o design do produto. Também usamos dados sobre os anúncios com os quais você interage para ajudar os anunciantes a entender o desempenho das campanhas publicitárias. Usamos diversas ferramentas para fazer isso, incluindo o Google Analytics. Quando você visita sites ou usa apps que usam o Google Analytics, um cliente do Google Analytics desse site pode ativar o Google para vincular informações sobre sua atividade naquele site ou app com atividades de outros sites e apps que usam nossos serviços de anúncios.
 
 ### Entrar em contato com você
 
@@ -190,7 +190,7 @@ Também criamos um local para você analisar e controlar as informações salvas
 
 ### Controles de atividade
 
-Você pode decidir que tipos de atividade quer salvar na sua conta. Por exemplo, é possível ativar o Histórico de localização se quiser previsões de tráfego para o deslocamento diário ou salvar o histórico de exibição do YouTube para receber melhores sugestões de vídeos.
+Você pode decidir que tipos de atividade quer salvar na sua conta. Por exemplo, se o "Histórico do YouTube" estiver ativado, os vídeos que você assistir e as pesquisa que fizer serão salvos na sua conta para que você se lembre de onde parou e receba recomendações melhores. E se a opção "Atividade na Web e de apps" estiver ativada, suas pesquisas e atividade em outros Serviços do Google serão salvas na sua conta para que você possa ter experiências personalizadas, como pesquisas mais rápidas e apps mais úteis, além de recomendações de conteúdo. O recurso "Atividade na Web e de apps" tem também uma configuração que permite controlar se informações sobre sua atividade em outros sites, apps e dispositivos que usam os Serviços do Google, como apps instalados e usados no Android, são salvos na sua Conta do Google e usados para melhorar os Serviços do Google.
 
 Acessar os Controles de atividade
 
@@ -202,7 +202,7 @@ Ir para as configurações de anúncios
 
 ### Sobre você
 
-Controlar o que pode ser visto sobre você nos serviços do Google
+Gerencie informações pessoais na sua Conta do Google e controle quem pode vê-las nos Serviços do Google.
 
 Ir para Sobre você
 
@@ -212,11 +212,17 @@ Escolha se seu nome e sua foto devem aparecer ao lado de atividades, como avalia
 
 Ir para Recomendações compartilhadas
 
+### Sites e apps que usam Serviços do Google
+
+Gerencie informações que sites e apps que usam Serviços do Google, por exemplo, Google Analytics, podem compartilhar com o Google quando você visita ou interage com os serviços deles.
+
+Acesse Como o Google usa informações de sites ou apps que utilizam nossos serviços
+
 ### Modos de avaliar e atualizar suas informações
 
 ### Minha atividade
 
-Minha atividade permite que você avalie e controle os dados criados quando usa os serviços do Google, como pesquisas realizadas ou visitas ao Google Play. Você pode procurar por data e tópico e excluir todas as atividades ou parte delas.
+Minha atividade permite que você avalie e controle os dados salvos na sua Conta do Google quando você está conectado e usando os Serviços do Google, como pesquisas realizadas ou visitas ao Google Play. Você pode procurar por data e tópico e excluir todas as atividades ou parte delas.
 
 Ir para Minha atividade
 
@@ -293,7 +299,7 @@ Se você estuda ou trabalha em uma organização que usa os Serviços do Google,
 
 ### Para processamento externo
 
-Fornecemos informações pessoais às nossas afiliadas ou outras empresas ou pessoas confiáveis para processar tais informações por nós, de acordo com nossas instruções e em conformidade com nossa Política de Privacidade e quaisquer outras medidas de segurança e de confidencialidade adequadas. Por exemplo, usamos provedores de serviços para nos ajudar no suporte ao cliente.
+Fornecemos informações pessoais às nossas afiliadas ou outras empresas ou pessoas confiáveis para tratar tais informações por nós, de acordo com nossas instruções e em conformidade com nossa Política de Privacidade e quaisquer outras medidas de segurança e confidencialidade adequadas. Por exemplo, usamos provedores de serviços para nos ajudar a operar nossos data centers, enviar produtos e serviços, melhorar nossos processos comerciais internos e oferecer suporte adicional a clientes e usuários. Também usamos provedores de serviços para analisar conteúdo de vídeos do YouTube para segurança pública, além de analisar e ouvir trechos de áudios salvos pelos usuários para melhorar as tecnologias de reconhecimento de áudio do Google.
 
 ### Por motivos legais
 
@@ -385,7 +391,7 @@ Esta Política de Privacidade se aplica a todos os serviços oferecidos pela Goo
 Esta Política de Privacidade não se aplica a:
 
 - práticas de coleta de informações de outras empresas e organizações que anunciam nossos serviços;
-- serviços oferecidos por outras empresas ou indivíduos, inclusive produtos ou sites que podem incluir serviços do Google, que são exibidos para você nos resultados da pesquisa ou tenham links em nossos serviços.
+- serviços oferecidos por outras empresas ou indivíduos, inclusive produtos ou sites que podem incluir serviços do Google aos quais a política se aplica, ou produtos ou sites que são exibidos para você nos resultados da pesquisa ou tenham links em nossos serviços.
 
 ## Alterações nesta política
 
@@ -405,6 +411,7 @@ Os seguintes avisos de privacidade fornecem informações adicionais sobre algun
 - Read Along
 - YouTube Kids
 - Contas do Google gerenciadas no Family Link para crianças menores de 13 anos (ou a idade aplicável no seu país).
+- Guia de privacidade do Family Link para crianças e adolescentes
 - Coleta de voz e áudio dos recursos para crianças no Google Assistente
 
 Se você faz parte de uma organização que usa o Google Workspace ou Google Cloud Platform, saiba como esses serviços coletam e usam suas informações pessoais no Aviso de privacidade do Google Cloud.
@@ -416,6 +423,7 @@ Os links a seguir destacam recursos úteis para você saber mais sobre nossas pr
 - Sua Conta do Google é o local onde ficam muitas das configurações que você pode usar para gerenciar a conta.
 - O Check-up de privacidade contém orientações sobre as principais configurações de privacidade da Conta do Google.
 - Na Central de segurança do Google, é possível saber mais sobre nossa segurança integrada, os controles de privacidade e as ferramentas que ajudam a definir regras digitais básicas para sua família on-line.
+- O Guia de privacidade para adolescentes do Google apresenta respostas a algumas das principais dúvidas sobre privacidade
 - Privacidade e Termos contêm mais contexto a respeito desta Política de Privacidade e dos nossos Termos de Serviço.
 - Tecnologias inclui mais informações sobre:
  - Como a Google usa os cookies
@@ -550,7 +558,7 @@ Quando detectamos spam, malware, conteúdo ilegal e outras formas de abuso que v
 
 ### dispositivo Android com apps do Google
 
-Os dispositivos Android com Google apps incluem dispositivos vendidos pelo Google ou por um de nossos parceiros e incluem smartphones, câmeras, veículos, wearables e televisões. Esses dispositivos usam o Google Play Services e outros apps pré-instalados que incluem serviços como o Gmail, o Google Maps, a câmera e o discador do smartphone, conversão de texto em voz, entrada do teclado e recursos de segurança.
+Os dispositivos Android com Google apps incluem dispositivos vendidos pelo Google ou por um de nossos parceiros e incluem smartphones, câmeras, veículos, wearables e televisões. Esses dispositivos usam o Google Play Services e outros apps pré-instalados que incluem serviços como o Gmail, o Google Maps, a câmera e o discador do smartphone, conversão de texto em voz, entrada do teclado e recursos de segurança. Saiba mais sobre o Google Play Services.
 
 ### dispositivos
 
@@ -583,6 +591,10 @@ Por exemplo, monitoramos continuamente nossos sistemas em busca de problemas. E 
 Por exemplo, se você adicionar um cartão de crédito ou outra forma de pagamento à Conta do Google, poderá usá-lo para comprar itens em nossos serviços, como apps na Play Store. Também podemos solicitar outras informações, como o CNPJ de empresas, para ajudar a processar o pagamento. Em alguns casos, também pode ser necessário confirmar sua identidade e solicitar informações para isso.
 
 Também podemos usar as informações de pagamento para verificar se você atende aos requisitos de idade se, por exemplo, você inserir uma data de nascimento incorreta indicando que não tem idade suficiente para ter uma Conta do Google. Saiba mais
+
+### Informações de voz e áudio
+
+Você pode escolher, por exemplo, se quer que o Google salve uma gravação de áudio na sua Conta do Google durante suas interações com a Pesquisa, o Assistente e o Maps. Quando o dispositivo detecta um comando de ativação de áudio, por exemplo, "Ok Google", o Google grava sua voz e o áudio alguns segundos antes da ativação. Saiba mais
 
 ### informações sobre itens próximos do dispositivo
 
