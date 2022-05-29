@@ -9,13 +9,12 @@ Caso Você não concorde com os Termos de Uso e Política de Privacidade da Sera
 
 Caso Você não concorde com os Termos de Uso e Política de Privacidade da Serasa e queira acessar exclusivamente seus direitos relacionados ao tratamento de dados pessoais, clique aqui.
 
-Atualizado em 12 de Fevereiro de 2021
+Atualizado em 25 de Outubro de 2021
 
 ## Dicionário de Definições:
 
 - Biometria Facial: tecnologia de reconhecimento do rosto a partir da análise de foto capaz de identificar uma pessoa.
 - Consentimento: manifestação livre, informada e inequívoca de uma pessoa (titular) com o tratamento dos seus dados pessoais para as finalidades apresentadas neste documento, ou seja, sua autorização.
-- Dados Anônimos: dado relativo a uma pessoa que não pode ser identificada, considerando a utilização de meios técnicos razoáveis e disponíveis na ocasião de seu tratamento.
 - Dados Pessoais: quaisquer dados que possam identificar uma pessoa.
 - Dados Pessoais Cadastrais: dados pessoais de interesse público que identificam e qualificam a pessoa e que não são sigilosos, como por exemplo, nome, RG, CPF, endereço, estado civil, profissão, data de nascimento, nome da mãe etc.
 - Dispositivos: são computadores, notebooks, tablets, smartphones e quaisquer outros aparelhos utilizados por você para acessar a internet.
@@ -31,11 +30,15 @@ Somos parte do grupo Experian, cuja empresa controladora é a Experian plc, list
 
 Você pode descobrir mais sobre o grupo Experian clicando aqui.
 
-## 2. Dados coletados na Serasa
+## 2. Quais dados podem ser tratados pela Serasa?
 
-**Dados Pessoais Cadastrais:** nome completo, número do CPF, data de nascimento e e-mail. Alguns desses dados são fornecidos por Você para autenticação ao se cadastrar no site da Serasa e podem ser colhidos pela Serasa Experian por diversas fontes.
+A Serasa Experian realiza o tratamento de dados conforme
+a legislação aplicável. Inicialmente, pode tratar os dados
+que são coletados pela Serasa, tais como:
 
-**Foto do seu rosto e foto do seu documento de identidade que contenha a sua foto**: obtidas durante o processo de validação, são mantidas em nossa base de dados segura, podendo ser utilizadas exclusivamente para validar a sua identidade, inclusive nas soluções de autenticação e prevenção a fraudes que a Serasa Experian comercializa aos seus clientes.
+**Dados Pessoais Cadastrais:** nome, RG, CPF, endereço, estado civil, profissão, data de nascimento, nome da mãe e e-mail. Alguns desses dados são fornecidos por Você para autenticação ao se cadastrar no site da Serasa e podem ser colhidos pela Serasa Experian por diversas fontes.
+
+**Foto do seu rosto e foto do seu documento de identidade que contenha a sua foto**: são mantidas em nossa base de dados segura, podendo ser utilizadas exclusivamente para validar a sua identidade, inclusive nas soluções de autenticação e prevenção a fraudes que a Serasa Experian comercializa aos seus clientes.
 
 **Dados Pessoais captados pelas soluções oferecidas no site da Serasa,** que são todos aqueles que sejam solicitados a Você durante o acesso a uma das referidas soluções, como Serasa Limpa Nome, Serasa eCred e Serasa Antifraude.
 
@@ -45,7 +48,10 @@ Você pode descobrir mais sobre o grupo Experian clicando aqui.
 
 A qualquer momento é possível configurar o seu navegador de internet para rejeitar a coleta automática desses dados. Neste caso, a sua experiência no Site ou no nosso aplicativo não será customizada de acordo com os seus interesses, ou seja, com as páginas ou assuntos que você mais procura.
 
-## 3. Finalidades do tratamento dos Dados Pessoais coletados na Serasa
+Os bancos de dados da Serasa Experian são compostos por dados provenientes de diferentes fontes além daqueles coletados durante a autenticação e por meio das soluções da Serasa/do nosso
+aplicativo, como (i) fornecedores privados; (ii) dados disponíveis publicamente mantidos por órgãos da Administração Pública Direta ou Indireta; (iii) convênios com órgãos públicos; (iv) dados disponíveis na internet por meio de processos automatizados; e (v) recebimento de informações de clientes e parceiros.
+
+## 3. Quais as finalidades do tratamento dos Dados Pessoais tratados pela Serasa?
 
 **Os Dados Pessoais** coletados durante a autenticação, por meio das soluções da Serasa e do nosso aplicativo, se utilizados para atualização da nossa base de dados e como insumos para nossas soluções, terão as seguintes finalidades:
 
@@ -55,29 +61,39 @@ A qualquer momento é possível configurar o seu navegador de internet para reje
 
 **O cálculo periódico** e automático do seu Serasa Score poderá ser armazenado para a formação do seu histórico de scores e alertas de monitoramento poderão ser enviados para a sua visualização, com a finalidade exclusiva de permitir que Você acompanhe a evolução do seu risco de crédito.
 
+**Prevenção a fraudes** tanto pela Serasa quanto por seus clientes e fornecedores, para identificação e autenticação da sua identidade;
+
+**No caso da sua Biometria Facial (foto),** esse dado também pode ser recebido pela Serasa de seus parceiros e clientes e é utilizado apenas para prestar serviços de confirmação
+de sua identidade e prevenção a fraudes.
+
 **Identificação e autenticação da sua identidade para prevenção a fraudes,** tanto pela Serasa Experian quanto por seus clientes;
 
 **Aprimoramento da qualidade de dados** da Serasa e por seus clientes;
 
 **Ao acessar os Sites e/ou nossos aplicativos Serasa, Você tem ciência e concorda que iremos coletar, utilizar, armazenar e tratar, pelo prazo de 15 (quinze) anos, os Dados Pessoais para as finalidades de Proteção do Crédito, Identificação e autenticação da sua identidade para prevenção a fraudes e Aprimoramento da qualidade de dados.**
 
-Análise de potencial de mercado para o direcionamento de ofertas, tanto para nós quanto para clientes e parceiros.
+**Análise e composição de modelos estatísticos** para finalidade de análise de risco de crédito, prevenção a fraudes e para subsidiar a elaboração de propostas de seguros, pela Serasa e por seus clientes e parceiros.
 
-Ao acessar os Sites e/ou nossos aplicativos Serasa, Você tem ciência e expressamente autoriza a Serasa Experian a coletar, utilizar, armazenar e tratar, pelo prazo de 15 (quinze) anos, os Dados Pessoais para a finalidade de Análise de potencial de mercado para o direcionamento de ofertas.
+Ao acessar os Sites e/ou nossos aplicativos Serasa, Você tem ciência que iremos coletar, utilizar, armazenar e tratar os Dados Pessoais para as finalidades de Proteção
+do Crédito, Identificação e autenticação da sua identidade para prevenção a fraudes, Aprimoramento da qualidade de dados, Análise de potencial de mercado para o
+direcionamento de ofertas e Análise e composição de modelos estatísticos.
+
+A Serasa esclarece que armazena os dados em ambientes seguros e possuem prazo de retenção e descarte determinados de acordo com a legislação aplicável, condições contratuais e Políticas
+Internas do grupo Experian.
 
 Não interferimos em nenhum processo que envolva a análise e aprovação de negócios e crédito dos nossos clientes ou parceiros ocorridos ou não nos nossos Sites ou aplicativos, bem como nas ofertas e campanhas de marketing realizadas por eles. A decisão final de realização de um negócio, concessão de crédito ou oferta é sempre dos nossos clientes, considerando os seus próprios critérios e políticas de crédito e risco e de negócios.
 
-## 4. Hipóteses de tratamento aplicáveis para o tratamento de Dados Pessoais
+## 4. Quais as hipóteses de tratamento aplicáveis para o tratamento de Dados Pessoais?
 
 A fim de garantir a conformidade com a Lei de Proteção de Dados Pessoais (LGPD), toda operação realizada com seus Dados Pessoais está amparada em uma hipótese de tratamento, como a proteção do crédito; o legítimo interesse da Serasa Experian e, conforme o caso, de seus clientes ou parceiros; a execução de contrato; o cumprimento de obrigação regulatória/legal ou o consentimento.
 
-## 5. A quem disponibilizamos os Dados Pessoais coletados na Serasa
+## 5. A quem a Serasa pode disponibilizar os Dados Pessoais?
 
 Tratamos apenas os Dados Pessoais que entendemos serem os mínimos necessários para cada finalidade e, em razão disso, disponibilizamos seus Dados Pessoais apenas para as pessoas e empresas que consultam nossos serviços para as finalidades descritas no item 3, acima.
 
-No caso da sua Biometria Facial (foto), esse dado é usado apenas para prestar serviços de confirmação de sua identidade e prevenção a fraudes.
-
 Também podemos disponibilizar os Dados Pessoais, quando estritamente necessário, a (i) empresas do grupo Experian que gerenciam algumas partes dos nossos serviços, (ii) fornecedores e (iii) revendedores, distribuidores e agentes envolvidos na prestação dos nossos serviços.
+
+IMPORTANTE: os Dados Pessoais disponibilizados pela Serasa Experian não abrangem as informações da plataforma Serasa Limpa Nome, as quais não são fornecidas ao mercado, podendo ser acessadas apenas pelo próprio consumidor.
 
 **Você nos autoriza a fornecer seus Dados Pessoais para clientes da Serasa para a finalidade de Análise de potencial de mercado para o direcionamento de ofertas.**
 
@@ -102,13 +118,9 @@ Todas as informações provenientes do eCred poderão ser usadas para análises 
 
 Você autoriza que os contratantes do eCred, bem como suas empresas, coligadas, controladoras ou controladas, consultem suas informações no Sistema de Informações de Créditos (SCR) do Banco Central do Brasil quando Você buscar ou solicitar crédito no eCred, com a finalidade única e exclusiva de que eles possam definir as ofertas de crédito que serão disponibilizadas a você.
 
-**– Serasa Antifraude**
-
-Ao acessar a Serasa Você será automaticamente cadastrado no Serasa Antifraude, solução que consiste no envio de um relatório mensal para o e-mail cadastrado por Você, contendo o monitoramento de seus principais dados cadastrais e negativos, número de empresas que consultaram o seu CPF, número de potenciais dados seus identificados na DarkWeb e empresas em seu nome.
-
 É possível optar por assinar o produto na versão premium, nesse caso Você deverá escolher entre uma das modalidades: Assinatura anual com duração de 12 meses no valor de R$169,90 ou a assinatura mensal com duração de um único mês por R$19,90. A renovação é feita automaticamente num período de 24 horas anterior ao último dia do serviço. A renovação automática pode ser cancelada a qualquer momento, é só ir até a página de configurações na loja iTunes depois da compra, no entanto o valor correspondente ao final do período de cobertura não será estornado.
 
-**Serasa Limpa Nome**
+**– Serasa Limpa Nome**
 
 O Serasa Limpa Nome é um Plataforma de Renegociação de dívidas pela Internet, de acesso voluntário e restrito ao consumidor, que permite a visualização de ofertas de acordos para renegociação de dívidas com os credores que são nossos parceiros. Nesta plataforma, os consumidores podem negociar dívidas negativadas ou não (contas atrasadas).
 
@@ -126,23 +138,29 @@ As empresas credoras poderão incluir ofertas para negociar as suas dívidas, cl
 
 **ii.** Contas Atrasadas: são as dívidas vencidas e não pagas, mas que não estão negativadas no Cadastro de Inadimplentes da Serasa e, por isso, não podem ser visualizadas pelas empresas que consultarem seu CPF na Serasa.
 
-A inclusão de dívidas no Cadastro de Inadimplentes somente é realizada após envio de comunicação prévia específica para esta finalidade. Dívidas vencidas há mais de 5 anos não são incluídas no Cadastro de Inadimplentes.
+O Serasa Limpa Nome não se confunde com o Cadastro de Inadimplentes. A inclusão de dívidas no Cadastro de Inadimplentes somente é realizada após envio de comunicação prévia específica para esta finalidade. Dívidas vencidas há mais de 5 anos não são incluídas no Cadastro de Inadimplentes.
 
 Cabe ao credor a solicitação de exclusão de dívida negativada do Cadastro de Inadimplentes da Serasa Experian, no prazo de até 5 (cinco) dias úteis após o pagamento. Caso este prazo já tenha passado e a dívida ainda não tenha sido excluída, entre em contato diretamente com a empresa com quem você negociou. As dívidas negativadas somente serão excluídas do cadastro de inadimplentes após o pagamento do acordo, conforme as condições estipuladas pelas empresas credoras e aceitas por você no momento da negociação. Nós não garantimos a exclusão de todas as dívidas negativadas, a não ser que você pague todas elas, seja por meio do Serasa Limpa Nome ou não.
 
 As simples ofertas de acordo para pagamento de “contas atrasadas” lançadas pelos seus credores na plataforma Serasa Limpa Nome não são utilizadas no cálculo do seu Serasa Score. Entretanto, se você optar por aceitar algum dos acordos, o seu pagamento poderá gerar bonificações em sua pontuação (indicadas no site como “Turbo”). Mas atenção: para manutenção das bonificações geradas pelo Turbo, é importante não atrasar nenhum pagamento, pois a quebra do acordo ou o lançamento de novas propostas pelos seus credores podem acarretar a perda da bonificação do Turbo.
 
-Assim, você concorda que a Serasa Experian pode utilizar a informação de pagamento de acordos negociados por meio da plataforma do Serasa Limpa Nome, nos termos da legislação vigente, no cálculo do seu Serasa Score com a finalidade de proteção ao crédito a fim de apoiar os clientes que contratam as soluções da Serasa Experian a realizar negócios e análises de risco de crédito, administrar a carteira de clientes e gerenciar cobranças.
-
-A pontuação decorrente das bonificações geradas pelo Turbo é concedida após a confirmação do pagamento do acordo pelo credor.
-
-A negociação e pagamento de acordos disponíveis com pontos Turbo não impedem variações do Serasa Score decorrentes de outros fatores que podem impactar o cálculo da pontuação de crédito.
+Assim, a Serasa poderá utilizar a informação de pagamento de acordos negociados por meio da plataforma do Serasa Limpa Nome, nos termos da legislação vigente, como uma bonificação específica no cálculo do seu Serasa Score com a finalidade de proteção ao crédito.
 
 Caso você tenha alguma dúvida sobre as propostas de negociação ou condições de pagamento, entre em contato com a empresa credora pelos canais de atendimento apresentados no momento da negociação.
 
 É possível que você não encontre uma dívida ou a empresa com quem gostaria de negociar. Isso pode acontecer se a empresa não for uma de nossas parceiras ou se ela não possuir uma oferta de negociação para a sua dívida. Mas não se preocupe, estamos trabalhando dia após dia para integrar cada vez mais parceiros em nosso site.
 
 Outras dívidas negativadas no Cadastro de Inadimplentes da Serasa, mas sem oferta de acordo na plataforma, podem ser consultadas no site https://www.serasa.com.br/area-cliente/meu-cpf e negociadas diretamente com o credor.
+
+**– Score Turbo**
+
+O Serasa Turbo é uma bonificação de pontuação no Serasa Score que pode ser alcançada por meio da negociação e pagamento de acordos disponíveis no Serasa Limpa Nome com pontos Turbo ou por outros meios e funcionalidades desenvolvidos pela Serasa e informados
+em termos e materiais específicos.
+
+Para manutenção dos pontos adquiridos é necessário negociar todos os acordos disponíveis
+com pontos Turbo no Serasa Limpa Nome e não atrasar qualquer pagamento, pois a quebra do acordo acarretará a perda da bonificação do Turbo. Além disso, os pontos Turbo também podem ser perdidos se houver a disponibilização de novas propostas de acordo pelos seus credores no Serasa Limpa Nome ou caso seja incluída uma nova dívida em seu CPF no cadastro de inadimplentes da Serasa Experian.
+
+A pontuação decorrente das bonificações geradas pelo Turbo a partir de negociações no Serasa Limpa Nome é concedida após a confirmação pelo credor do pagamento do acordo. As variações do Serasa Score decorrentes de outros fatores que podem impactar o cálculo da pontuação de crédito continuarão ocorrendo normalmente.
 
 **– Trilha Financeira**
 
