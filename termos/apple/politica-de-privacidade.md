@@ -3,8 +3,8 @@ empresa: "Apple"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://www.apple.com/br/legal/privacy/br/"
-capturado_em: 2022-05-16
-wayback: "https://web.archive.org/web/20220516150733/https://www.apple.com/br/legal/privacy/br/"
+capturado_em: 2022-06-20
+wayback: "https://web.archive.org/web/20220620113851/https://www.apple.com/br/legal/privacy/br/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/politica-de-privacidade.md"
 ---
 
@@ -133,5 +133,3 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/ap
  Se não ficar satisfeito com a resposta da Apple, você poderá encaminhar a sua reclamação ao regulador pertinente. Se você solicitar, nós nos esforçaremos para fornecer as informações sobre as opções de reclamação que podem ser aplicáveis a suas circunstâncias.
 
  Quando houver uma alteração importante nesta Política de Privacidade, publicaremos um aviso neste site com pelo menos uma semana de antecedência e, se tivermos seus dados arquivados, entraremos em contato diretamente com você para informar a alteração.
-
- Apple Inc. One Apple Park Way, Cupertino, California, USA, 95014
