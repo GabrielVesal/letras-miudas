@@ -3,12 +3,12 @@ empresa: "Amazon"
 documento: "Política de Privacidade"
 categoria: "Compras"
 fonte: "https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
-capturado_em: 2021-08-27
-wayback: "https://web.archive.org/web/20210827085928/https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+capturado_em: 2022-10-10
+wayback: "https://web.archive.org/web/20221010231944/https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/amazon/politica-de-privacidade.md"
 ---
 
-Última atualização: 14 de agosto de 2020.
+Última atualização: 29 de junho de 2022.
 
 Para ver um resumo da Notificação de Privacidade anterior, clique aqui.
 
@@ -87,7 +87,7 @@ Desenvolvemos nossos sistemas sempre pensando em sua segurança e privacidade.
 ## E a publicidade?
 
 - **Anúncios de terceiros e links para outros web sites:** Os Serviços da Amazon podem incluir anúncios de terceiros e links para outros web sites e aplicativos. Terceiros-parceiros anunciantes podem coletar informações sobre você quando você interage com o conteúdo, publicidade e serviços oferecidos por eles. Para mais informações sobre anúncios de terceiros na Amazon, incluindo anúncios baseados em interesse, leia nossa Notificação de Anúncios Baseados em Interesse . Para ajustar suas preferências de anúncios, acesse a página Preferências de Anúncios .
-- **Uso de serviços de publicidade de terceiros:** fornecemos às empresas de publicidade informações que lhes permitem veicular anúncios da Amazon mais úteis e relevantes e medir sua eficácia. Nunca compartilhamos seu nome ou outras informações que o identifiquem diretamente quando fazemos isso. Em vez disso, usamos um identificador de publicidade, como um cookie ou outro identificador de dispositivo. Por exemplo, se você já baixou um de nossos aplicativos, compartilharemos seu identificador de publicidade e dados sobre esse evento para que você não seja veiculado um anúncio para baixar o aplicativo novamente. Algumas empresas de publicidade também usam essas informações para veicular anúncios relevantes de outros anunciantes. Você pode saber mais sobre como cancelar a publicidade baseada em interesses acessando a página Preferências de Anúncios .
+- **Uso de serviços de publicidade de terceiros:** fornecemos às empresas de publicidade informações que lhes permitem veicular anúncios da Amazon mais úteis e relevantes e medir sua eficácia. Nunca compartilhamos seu nome ou outras informações que o identifiquem diretamente quando fazemos isso. Em vez disso, usamos um identificador de publicidade, como um cookie, um identificador de dispositivo ou um código derivado da aplicação de criptografia irreversível a outras informações, como um endereço de e-mail. Por exemplo, se você já baixou um de nossos aplicativos, compartilharemos seu identificador de publicidade e dados sobre esse evento para que você não seja veiculado um anúncio para baixar o aplicativo novamente. Algumas empresas de publicidade também usam essas informações para veicular anúncios relevantes de outros anunciantes. Você pode saber mais sobre como cancelar a publicidade baseada em interesses acessando a página Preferências de Anúncios .
 
 ## Quais informações posso acessar?
 
