@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2022-03-18
-wayback: "https://web.archive.org/web/20220318081015/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2022-10-22
+wayback: "https://web.archive.org/web/20221022235708/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -20,7 +20,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 10 de fevereiro de 2022 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 4 de outubro de 2022 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -68,7 +68,7 @@ Quando você está conectado, também coletamos informações que armazenamos co
 
 ## Itens que você cria ou nos fornece
 
-Ao criar uma Conta do Google, você nos fornece informações pessoais que incluem seu nome e uma senha. Você também pode optar por adicionar um número de telefone ou informações de pagamento à sua conta. Mesmo se não estiver conectado a uma Conta do Google, você poderá optar por nos fornecer informações, como um endereço de e-mail para receber atualizações sobre nossos serviços.
+Ao criar uma Conta do Google, você nos fornece informações pessoais que incluem seu nome e uma senha. Você também pode adicionar um número de telefone ou informações de pagamento à sua conta. Mesmo sem ter feito login em uma Conta do Google, você poderá informar, por exemplo, um endereço de e-mail, para se comunicar com o Google ou receber atualizações sobre nossos Serviços.
 
 Também coletamos o conteúdo que você cria, de que faz upload ou que recebe de outras pessoas ao usar nossos serviços. Isso inclui e-mails enviados e recebidos, fotos e vídeos salvos, documentos e planilhas criados e comentários feitos em vídeos do YouTube.
 
@@ -160,7 +160,7 @@ Usamos as informações que coletamos, como endereço de e-mail, para interagir 
 
 ### Proteger o Google, nossos usuários e o público
 
-Usamos informações para ajudar a melhorar a segurança e confiabilidade dos nossos serviços. Isso inclui detectar, prevenir e responder a fraudes, abuso, riscos de segurança e problemas técnicos que possam prejudicar o Google, nossos usuários ou o público.
+Usamos informações para ajudar a melhorar a segurança e a confiabilidade dos nossos serviços. Isso inclui detectar, prevenir e responder a fraudes, abuso, riscos de segurança e problemas técnicos que possam prejudicar o Google, nossos usuários ou o público.
 
 ---
 
@@ -250,8 +250,6 @@ Você pode exportar uma cópia do conteúdo da Conta do Google se quiser fazer b
 
 Exportar seus dados
 
-Você também pode solicitar a remoção de conteúdo de serviços específicos do Google com base na legislação aplicável.
-
 Para excluir suas informações, você pode:
 
 - excluir seu conteúdo de serviços específicos do Google;
@@ -261,7 +259,9 @@ Para excluir suas informações, você pode:
 
 Excluir suas informações
 
-E, por fim, o Gerenciador de contas inativas permite que você conceda a outra pessoa acesso a partes da sua Conta do Google caso não consiga usar a conta por um motivo inesperado.
+O Gerenciador de contas inativas permite que você conceda a outra pessoa acesso a partes da sua Conta do Google caso não consiga usar a conta por um motivo inesperado.
+
+Você também pode solicitar a remoção de conteúdo de serviços específicos do Google com base na legislação aplicável e nas nossas políticas.
 
 ---
 
@@ -284,7 +284,7 @@ Não compartilhamos informações pessoais com empresas, organizações ou indiv
 
 ### Com sua autorização
 
-Compartilharemos informações pessoais fora do Google quando tivermos seu consentimento. Por exemplo, se você usar o Google Home para fazer uma reserva por meio de um serviços de reservas, pediremos sua autorização antes de compartilhar seu nome ou número de telefone com o restaurante. Solicitaremos seu consentimento explícito para compartilhar quaisquer informações pessoais sensíveis.
+Compartilhamos informações pessoais fora do Google quando temos seu consentimento. Por exemplo, se você usar o Google Home para fazer uma reserva em um serviço de reservas, pediremos sua autorização antes de compartilhar seu nome ou número de telefone com o restaurante. Também oferecemos controles para revisar e gerenciar apps e sites de terceiros aos quais você concedeu acesso a dados na sua Conta do Google. Pediremos seu consentimento explícito antes de compartilhar quaisquer informações pessoais sensíveis.
 
 ### Com administradores de domínios
 
@@ -308,7 +308,7 @@ Compartilharemos informações pessoais fora do Google se acreditarmos, de boa-f
 - cumprir qualquer legislação, regulação, processo legal ou solicitação governamental aplicável. Compartilhamos informações sobre o número e o tipo de solicitações que recebemos dos governos em nosso Transparency Report;
 - cumprir Termos de Serviço aplicáveis, inclusive investigação de possíveis violações;
 - detectar, impedir ou lidar de alguma forma com fraudes, problemas técnicos ou de segurança;
-- proteger de prejuízos aos direitos, à propriedade ou à segurança do Google, dos nossos usuários ou do público, conforme solicitado ou permitido por lei.
+- Proteger contra dano aos direitos, à propriedade ou à segurança do Google, aos nossos usuários ou ao público, conforme solicitado ou permitido por lei.
 
 Podemos compartilhar informações de identificação não pessoal publicamente e com nossos parceiros – como editores, anunciantes, desenvolvedores ou detentores de direitos. Por exemplo, compartilhamos informações publicamente para mostrar tendências sobre o uso geral dos nossos serviços. Também permitimos que parceiros específicos coletem informações do seu navegador ou dispositivo para fins de publicidade e medição usando os próprios cookies ou tecnologias semelhantes.
 
@@ -348,7 +348,7 @@ Excluir suas informações
 
 Nós retemos os dados coletados por diferentes períodos, dependendo de quais dados são, de como os usamos e de como você definiu suas configurações:
 
-- Você pode excluir certos dados quando quiser, como o conteúdo que você cria ou faz upload. Você também pode excluir informações de atividades salvas na sua conta ou escolher que elas sejam excluídas automaticamente depois de um período.
+- Certos dados podem ser excluídos a qualquer momento, por exemplo, suas informações pessoais, ou o conteúdo que você cria ou faz upload, como fotos e documentos. Você também pode excluir informações de atividades salvas na sua conta ou escolher que elas sejam excluídas automaticamente depois de um período. Mantemos esses dados na sua Conta do Google até que você os remova ou decida que eles sejam removidos.
 - Outros dados são excluídos ou anonimizados automaticamente depois de um período, como dados de publicidade em registros de servidores.
 - Alguns dos dados são armazenados até que você exclua sua Conta do Google, como as informações sobre a frequência com que você usa nossos serviços.
 - Além disso, alguns dados são armazenados por maiores períodos para fins comerciais ou legais legítimos, como segurança, prevenção de fraude e abuso ou manutenção de registros financeiros.
@@ -604,9 +604,17 @@ Se você usa os serviços de localização do Google no Android, podemos melhora
 
 Quando muitas pessoas começam a pesquisar algo, isso pode fornecer informações úteis sobre as tendências específicas naquele momento. O Google Trends analisa as pesquisas do Google na Web para fazer uma estimativa da popularidade das pesquisas durante determinado período e compartilha esses resultados publicamente em termos agregados. Saiba mais
 
+### nossos usuários
+
+Por exemplo, para evitar abusos e aumentar a transparência e a responsabilização em relação às práticas de moderação de conteúdo on-line, o Google compartilha dados sobre as solicitações de remoção de conteúdo dos nossos serviços com o Lumen, que coleta e analisa essas solicitações para facilitar a pesquisa e ajudar os usuários da Internet a entender os próprios direitos. Saiba mais.
+
 ### número de telefone
 
 Se você adicionar seu número de telefone à conta, ele poderá ser usado para diferentes fins nos serviços do Google, dependendo das suas configurações. Por exemplo, o número de telefone pode ser usado para ajudar você a acessar sua conta caso esqueça a senha, ajudar as pessoas a encontrarem e entrarem em contato com você e tornar os anúncios exibidos mais relevantes. Saiba mais
+
+### o público
+
+Por exemplo, tratamos informações sobre solicitações de remoção de conteúdo dos nossos Serviços de acordo com as políticas de remoção de conteúdo do Google ou com a legislação aplicável. Assim, podemos avaliar o pedido, garantir a transparência, melhorar a responsabilização e evitar abusos e fraudes nessas práticas.
 
 ### ordem judicial ou solicitação governamental aplicável
 
