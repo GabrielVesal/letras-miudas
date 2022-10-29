@@ -14,7 +14,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 10 de fevereiro de 2022 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 4 de outubro de 2022 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -62,7 +62,7 @@ Quando você está conectado, também coletamos informações que armazenamos co
 
 ## Itens que você cria ou nos fornece
 
-Ao criar uma Conta do Google, você nos fornece informações pessoais que incluem seu nome e uma senha. Você também pode optar por adicionar um número de telefone ou informações de pagamento à sua conta. Mesmo se não estiver conectado a uma Conta do Google, você poderá optar por nos fornecer informações, como um endereço de e-mail para receber atualizações sobre nossos serviços.
+Ao criar uma Conta do Google, você nos fornece informações pessoais que incluem seu nome e uma senha. Você também pode adicionar um número de telefone ou informações de pagamento à sua conta. Mesmo sem ter feito login em uma Conta do Google, você poderá informar, por exemplo, um endereço de e-mail, para se comunicar com o Google ou receber atualizações sobre nossos Serviços.
 
 Também coletamos o conteúdo que você cria, de que faz upload ou que recebe de outras pessoas ao usar nossos serviços. Isso inclui e-mails enviados e recebidos, fotos e vídeos salvos, documentos e planilhas criados e comentários feitos em vídeos do YouTube.
 
@@ -154,7 +154,7 @@ Usamos as informações que coletamos, como endereço de e-mail, para interagir 
 
 ### Proteger o Google, nossos usuários e o público
 
-Usamos informações para ajudar a melhorar a segurança e confiabilidade dos nossos serviços. Isso inclui detectar, prevenir e responder a fraudes, abuso, riscos de segurança e problemas técnicos que possam prejudicar o Google, nossos usuários ou o público.
+Usamos informações para ajudar a melhorar a segurança e a confiabilidade dos nossos serviços. Isso inclui detectar, prevenir e responder a fraudes, abuso, riscos de segurança e problemas técnicos que possam prejudicar o Google, nossos usuários ou o público.
 
 ---
 
@@ -244,8 +244,6 @@ Você pode exportar uma cópia do conteúdo da Conta do Google se quiser fazer b
 
 Exportar seus dados
 
-Você também pode solicitar a remoção de conteúdo de serviços específicos do Google com base na legislação aplicável.
-
 Para excluir suas informações, você pode:
 
 - excluir seu conteúdo de serviços específicos do Google;
@@ -255,7 +253,9 @@ Para excluir suas informações, você pode:
 
 Excluir suas informações
 
-E, por fim, o Gerenciador de contas inativas permite que você conceda a outra pessoa acesso a partes da sua Conta do Google caso não consiga usar a conta por um motivo inesperado.
+O Gerenciador de contas inativas permite que você conceda a outra pessoa acesso a partes da sua Conta do Google caso não consiga usar a conta por um motivo inesperado.
+
+Você também pode solicitar a remoção de conteúdo de serviços específicos do Google com base na legislação aplicável e nas nossas políticas.
 
 ---
 
@@ -278,7 +278,7 @@ Não compartilhamos informações pessoais com empresas, organizações ou indiv
 
 ### Com sua autorização
 
-Compartilharemos informações pessoais fora do Google quando tivermos seu consentimento. Por exemplo, se você usar o Google Home para fazer uma reserva por meio de um serviços de reservas, pediremos sua autorização antes de compartilhar seu nome ou número de telefone com o restaurante. Solicitaremos seu consentimento explícito para compartilhar quaisquer informações pessoais sensíveis.
+Compartilhamos informações pessoais fora do Google quando temos seu consentimento. Por exemplo, se você usar o Google Home para fazer uma reserva em um serviço de reservas, pediremos sua autorização antes de compartilhar seu nome ou número de telefone com o restaurante. Também oferecemos controles para revisar e gerenciar apps e sites de terceiros aos quais você concedeu acesso a dados na sua Conta do Google. Pediremos seu consentimento explícito antes de compartilhar quaisquer informações pessoais sensíveis.
 
 ### Com administradores de domínios
 
@@ -302,7 +302,7 @@ Compartilharemos informações pessoais fora do Google se acreditarmos, de boa-f
 - cumprir qualquer legislação, regulação, processo legal ou solicitação governamental aplicável. Compartilhamos informações sobre o número e o tipo de solicitações que recebemos dos governos em nosso Transparency Report;
 - cumprir Termos de Serviço aplicáveis, inclusive investigação de possíveis violações;
 - detectar, impedir ou lidar de alguma forma com fraudes, problemas técnicos ou de segurança;
-- proteger de prejuízos aos direitos, à propriedade ou à segurança do Google, dos nossos usuários ou do público, conforme solicitado ou permitido por lei.
+- Proteger contra dano aos direitos, à propriedade ou à segurança do Google, aos nossos usuários ou ao público, conforme solicitado ou permitido por lei.
 
 Podemos compartilhar informações de identificação não pessoal publicamente e com nossos parceiros – como editores, anunciantes, desenvolvedores ou detentores de direitos. Por exemplo, compartilhamos informações publicamente para mostrar tendências sobre o uso geral dos nossos serviços. Também permitimos que parceiros específicos coletem informações do seu navegador ou dispositivo para fins de publicidade e medição usando os próprios cookies ou tecnologias semelhantes.
 
@@ -342,7 +342,7 @@ Excluir suas informações
 
 Nós retemos os dados coletados por diferentes períodos, dependendo de quais dados são, de como os usamos e de como você definiu suas configurações:
 
-- Você pode excluir certos dados quando quiser, como o conteúdo que você cria ou faz upload. Você também pode excluir informações de atividades salvas na sua conta ou escolher que elas sejam excluídas automaticamente depois de um período.
+- Certos dados podem ser excluídos a qualquer momento, por exemplo, suas informações pessoais, ou o conteúdo que você cria ou faz upload, como fotos e documentos. Você também pode excluir informações de atividades salvas na sua conta ou escolher que elas sejam excluídas automaticamente depois de um período. Mantemos esses dados na sua Conta do Google até que você os remova ou decida que eles sejam removidos.
 - Outros dados são excluídos ou anonimizados automaticamente depois de um período, como dados de publicidade em registros de servidores.
 - Alguns dos dados são armazenados até que você exclua sua Conta do Google, como as informações sobre a frequência com que você usa nossos serviços.
 - Além disso, alguns dados são armazenados por maiores períodos para fins comerciais ou legais legítimos, como segurança, prevenção de fraude e abuso ou manutenção de registros financeiros.
@@ -361,20 +361,71 @@ Temos servidores em todo o mundo, e suas informações podem ser processadas em 
 
 Quando recebemos reclamações formais por escrito, respondemos entrando em contato com o requerente. Trabalhamos com as autoridades reguladoras apropriadas, inclusive autoridades locais de proteção de dados, para resolver quaisquer reclamações referentes à transferência de dados que não possamos resolver diretamente com você.
 
-## Requisitos do Brasil
+## Requisitos da Califórnia
 
-Se a legislação de proteção de dados do Brasil se aplicar ao tratamento das suas informações, forneceremos os controles descritos nesta política para que você possa exercer seu direito de:
+A Lei de Privacidade do Consumidor da Califórnia (CCPA) requer divulgações específicas para residentes da Califórnia.
 
-- receber confirmação sobre o tratamento de suas informações;
-- atualizar, corrigir, anonimizar, remover e solicitar acesso às suas informações;
-- restringir ou se opor ao tratamento das suas informações;
-- exportar suas informações para outro serviço.
+Esta Política de Privacidade é feita para ajudar você a entender como o Google trata seus dados:
 
-Para usuários localizados no Brasil, o controlador de dados responsável por suas informações é a Google LLC, a menos que indicado de outra forma em um aviso de privacidade específico do serviço. Em outras palavras, a Google LLC é responsável pelo processamento das suas informações e pelo compromisso de obedecer às leis de privacidade aplicáveis.
+- Em Informações coletadas pelo Google, explicamos as categorias dos dados que o Google coleta e as fontes delas.
+- Em Por que o Google coleta dados, explicamos como o Google usa os dados.
+- Em Compartilhamento de informações, explicamos quando o Google pode compartilhar informações. O Google não vende seus dados pessoais.
 
-### Dados de contato
+A CCPA também dá o direito de pedir informações sobre como o Google coleta, usa e divulga seus dados pessoais. E também permite a você acessar seus dados e solicitar ao Google que sejam excluídos. Por fim, a CCPA garante o direito de que não haja discriminação por você exercer seus direitos de privacidade.
 
-Se tiver alguma dúvida, entre em contato com o Google e com nosso escritório de proteção de dados. Você também poderá entrar em contato com a autoridade local de proteção de dados se tiver dúvidas sobre seus direitos de acordo com a legislação brasileira.
+Em Seus controles de privacidade, descrevemos as opções disponíveis para gerenciar seus dados e sua privacidade nos serviços do Google. Você pode exercer esse direito usando esses controles, que permitem acessar, revisar, atualizar e excluir seus dados, bem como exportar e fazer o download de uma cópia deles. Quando você exercer esse direito, validaremos seu pedido verificando se você fez login na sua Conta do Google. Se tiver dúvidas ou pedidos relacionados aos seus direitos de acordo com a CCPA, você (ou seu agente autorizado) também poderá entrar em contato com o Google. Veja mais informações sobre como o Google processa solicitações relacionadas à CCPA.
+
+A CCPA exige que uma descrição de práticas relacionadas a dados seja feita usando categorias específicas. Esta tabela usa essas categorias para organizar as informações nesta Política de Privacidade.
+
+### Categorias de dados pessoais que coletamos
+
+**Identificadores** como seu nome, número de telefone e endereço, assim como identificadores únicos ligados ao navegador, aplicativo ou dispositivo que você está usando.
+
+**Informações demográficas**, como idade, gênero e idioma.
+
+**Informações comerciais**, como informações de pagamento e um histórico das compras que você realizou nos serviços do Google.
+
+**Dado biométrico** se você escolher fornecer essas informações, como digitais em estudos de desenvolvimento de produtos do Google.
+
+**Informações sobre atividade na internet, de rede e outras** como seus termos de pesquisa, visualizações e interações com conteúdo e anúncios, histórico de navegação do Chrome que você sincronizou com sua Conta do Google, informações sobre a interação dos seus aplicativos, navegadores e dispositivos com nossos serviços (como endereço de IP, relatórios de erros e atividade do sistema); e atividade em sites de terceiros e aplicativos que usam nossos serviços. É possível revisar e controlar dados de atividades armazenados na sua Conta do Google em Minha atividade.
+
+**Dados de geolocalização**, como os determinados por GPS, endereço IP e outros dados de sensores do seu dispositivo ou próximos dele, dependendo em parte do dispositivo e das configurações da conta. Saiba mais sobre Como o Google usa os dados de localização.
+
+**Informações de áudio, eletrônicas, visuais e semelhantes**, como informações de áudio e voz.
+
+**Informações profissionais e educacionais**, como aquelas que você fornece ou que são mantidas nos Serviços do Google por uma organização em que você estuda ou trabalha.
+
+**Outras informações que você cria ou fornece**, como conteúdo que você cria, recebe ou do qual faz upload (por exemplo, fotos e vídeos, e-mails, documentos e planilhas). O Painel do Google permite gerenciar informações associadas a produtos específicos.
+
+**Inferências** feitas a partir dos itens acima, como categorias de interesses em anúncios.
+
+### Objetivos comerciais para os quais as informações podem ser usadas ou divulgadas.
+
+**Proteção contra ameaças de segurança, abuso e atividades ilegais:** O Google usa ou talvez divulgue informações para detectar, prevenir e responder a incidentes de segurança, e para proteção contra atividades maliciosas, deceptivas, fraudulentas ou ilegais. Por exemplo, para proteger nossos serviços, o Google pode receber ou divulgar informações sobre endereços IP comprometidos por pessoas maliciosas.
+
+**Auditoria e avaliação:** o Google usa informações para analisar e mensurar como nossos serviços são usados e para cumprir obrigações com nossos parceiros, como editores, anunciantes, desenvolvedores e detentores de direitos. Podemos divulgar informações que não sejam de identificação pessoal ao público e a esses parceiros, inclusive para fins de auditoria.
+
+**Manutenção dos nossos serviços:** o Google usa informações para garantir que nossos serviços funcionem de acordo com o esperado, como para rastrear interrupções de serviço, corrigir bugs e solucionar outros problemas informados.
+
+**Pesquisa e desenvolvimento:** o Google usa informações para melhorar nossos serviços e desenvolver novos produtos, recursos e tecnologias que tragam benefícios aos usuários e ao público. Por exemplo, usamos informações disponíveis publicamente para ajudar a treinar nossos modelos de idiomas e criar recursos como o Google Tradutor.
+
+**Uso de provedores de serviço:** O Google compartilha informações com provedores de serviços para que eles prestem serviços pelo Google, em conformidade com nossa Política de Privacidade e outras medidas de confidencialidade e segurança adequadas. Por exemplo, podemos deixar que os provedores de serviços cuidem do atendimento ao cliente.
+
+**Publicidade**: o Google processa informações para fornecer anúncios, incluindo identificadores on-line, atividade de navegação e pesquisa e informações sobre sua localização e interações com anúncios. Isso permite que os serviços do Google e muitos dos sites e serviços continuem a ser oferecidos sem custos financeiros. Você pode controlar quais informações usamos para exibir anúncios nas configurações de anúncios.
+
+**Motivos legais:** o Google também usa informações para obedecer a leis e regulamentos aplicáveis e divulga esses dados em resposta a ordens judiciais e solicitações governamentais, inclusive para autoridades governamentais. Compartilhamos informações sobre o número e o tipo de solicitação que recebemos dos governos no nosso Transparency Report.
+
+### Grupos com os quais as informações podem ser compartilhadas
+
+**Outras pessoas com quem você escolhe compartilhar suas informações**, como documentos ou fotos e vídeos ou comentários no YouTube.
+
+**Terceiros com quem você concorda em compartilhar suas informações**, como serviços que integram os serviços do Google. É possível revisar e gerenciar os apps e sites de terceiros com acesso aos dados da sua Conta do Google.
+
+**Provedores de serviço**, empresas ou pessoas de confiança que processam informações em nome do Google, com base nas nossas instruções e em conformidade com nossa Política de Privacidade e qualquer outra medida de confidencialidade e segurança adequada.
+
+Administradores do domínio, se você estuda ou trabalha em uma organização que usa serviços do Google.
+
+**Autoridades policiais, judiciais e outros terceiros**, pelas razões legais descritas em Compartilhando suas informações (link em inglês).
 
 # Sobre esta política
 
@@ -603,9 +654,17 @@ Se você usa os serviços de localização do Google no Android, podemos melhora
 
 Quando muitas pessoas começam a pesquisar algo, isso pode fornecer informações úteis sobre as tendências específicas naquele momento. O Google Trends analisa as pesquisas do Google na Web para fazer uma estimativa da popularidade das pesquisas durante determinado período e compartilha esses resultados publicamente em termos agregados. Saiba mais
 
+### nossos usuários
+
+Por exemplo, para evitar abusos e aumentar a transparência e a responsabilização em relação às práticas de moderação de conteúdo on-line, o Google compartilha dados sobre as solicitações de remoção de conteúdo dos nossos serviços com o Lumen, que coleta e analisa essas solicitações para facilitar a pesquisa e ajudar os usuários da Internet a entender os próprios direitos. Saiba mais.
+
 ### número de telefone
 
 Se você adicionar seu número de telefone à conta, ele poderá ser usado para diferentes fins nos serviços do Google, dependendo das suas configurações. Por exemplo, o número de telefone pode ser usado para ajudar você a acessar sua conta caso esqueça a senha, ajudar as pessoas a encontrarem e entrarem em contato com você e tornar os anúncios exibidos mais relevantes. Saiba mais
+
+### o público
+
+Por exemplo, tratamos informações sobre solicitações de remoção de conteúdo dos nossos Serviços de acordo com as políticas de remoção de conteúdo do Google ou com a legislação aplicável. Assim, podemos avaliar o pedido, garantir a transparência, melhorar a responsabilização e evitar abusos e fraudes nessas práticas.
 
 ### ordem judicial ou solicitação governamental aplicável
 
