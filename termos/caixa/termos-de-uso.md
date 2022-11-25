@@ -69,7 +69,7 @@ Cross Selling
 
 ## Canais de atendimento
 
-Encontre uma agência próxima
+Encontre a CAIXA
 Será um prazer atendê-lo.
 
 Consulte os telefones da CAIXA
@@ -78,8 +78,8 @@ Saiba mais
 Aplicativos da CAIXA
 Conheça
 
-Acesse a CAIXA pelo Google Assistente
-Fale com a gente pelo assistente virtual
+WhatsApp CAIXA
+Tire suas dúvidas pelo número 0800 104 0 104
 
 Queremos melhorar o nosso site para você. Ficou satisfeito com o conteúdo desta página?
 Sim
