@@ -3,8 +3,8 @@ empresa: "Caixa"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
-capturado_em: 2021-04-18
-wayback: "https://web.archive.org/web/20210418134622/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
+capturado_em: 2022-11-25
+wayback: "https://web.archive.org/web/20221125185904/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md"
 ---
 
@@ -70,13 +70,13 @@ Cross Selling
 
 ## Canais de atendimento
 
-Encontre uma agência próxima Será um prazer atendê-lo.
+Encontre a CAIXA Será um prazer atendê-lo.
 
 Consulte os telefones da CAIXA Saiba mais
 
 Aplicativos da CAIXA Conheça
 
-Acesse a CAIXA pelo Google Assistente Fale com a gente pelo assistente virtual
+WhatsApp CAIXA Tire suas dúvidas pelo número 0800 104 0 104
 
 Queremos melhorar o nosso site para você. Ficou satisfeito com o conteúdo desta página? Sim Não
 
