@@ -2,184 +2,229 @@
      Fonte: https://www.caixa.gov.br/privacidade/aviso-de-privacidade/Paginas/default.aspx
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-A CAIXA é uma empresa 100% pública que exerce um papel fundamental no desenvolvimento do país, atuando tanto como instituição financeira autorizada pelo Banco Central como agente de políticas públicas, gerando valor aos nossos clientes e à sociedade. Agimos sempre pautados pela ética e trabalhamos pela satisfação dos nossos clientes.
+Sua privacidade é importante para nós. Os dados pessoais são seus e vamos explicar como eles são usados pela CAIXA.
 
-Por isso, a privacidade é fundamental nas relações da CAIXA com seus clientes, usuários e colaboradores. Torna-se um dos valores da Organização, presente em suas ações, inclusive naquelas relativas ao tratamento de dados pessoais.
+Lembrando que este Aviso se aplica somente à CAIXA. As demais empresas do Conglomerado CAIXA possuem políticas de privacidade próprias, adequadas aos seus produtos e serviços.
 
-As informações aqui disponibilizadas apresentam nosso Aviso de Privacidade e a forma como você deve se relacionar com ele para que, juntos, consigamos desenvolver o uso resguardado, íntegro e seguro de seus dados pessoais, preservando nossa relação de confiança.
+### 1. O que é este Aviso de Privacidade
 
-#### Por que o nosso Aviso de Privacidade de dados pessoais é importante para você?
+É onde explicamos para você, cliente, usuário, beneficiário de programas sociais ou pessoa que se relaciona com a CAIXA, como realizamos o tratamento dos seus dados pessoais.
 
-Quando você navega pelo site da CAIXA, utiliza nossos aplicativos, canais e serviços ou contrata um produto, você troca informações conosco.
+Abaixo apresentamos os principais conceitos para você entender melhor este Aviso:
 
-Mesmo a CAIXA coletando e armazenando suas informações, é você (Titular) quem tem o controle dos seus dados pessoais e nós (Controladores/Operadores) temos a obrigação de tratá-los com ética, transparência e responsabilidade, seguindo rigorosamente as leis e práticas de segurança mais atuais do mercado e, desta forma, garantindo a sua privacidade.
+#### Lei Geral de Proteção de Dados Pessoais (LGPD)
 
-É por isso que disponibilizamos a você nosso Aviso de Privacidade.
+É a lei que foi criada especialmente para dar proteção e controle a você sobre os seus dados pessoais.
 
-Dedique um tempinho para entender como tratamos os seus dados pessoais. Estamos aqui para guiá-lo!
+A LGPD diz quais são os seus direitos, enquanto titular de dados pessoais, e quais são os deveres da CAIXA quando está realizando o tratamento dos seus dados.
 
-#### Como coletamos seus dados pessoais?
+#### Tratamento de dados pessoais
 
-A CAIXA coleta informações a seu respeito de diversas formas, descritas a seguir:
+São as atividades que realizamos com o seus dados pessoais, como: coleta, acesso, uso, armazenamento ou compartilhamento.
 
-**Quando você fornece seus dados para a CAIXA:**
-- Informações pessoais que você fornece para fazermos seu cadastro na CAIXA;
+#### Dado pessoal
 
-- Informações pessoais que você fornece voluntariamente, por exemplo, ao simular um crédito habitacional no nosso site, preencher formulários, participar de promoções ou utilizar nossos canais de atendimento;
+São as informações relacionadas a você, como o seu nome, nº da Identidade, CPF ou endereço.
 
-**Quando a CAIXA coleta informações de terceiros:**
-- Informações pessoais tornadas públicas por você nas redes sociais;
+Além disso, dados pessoais também são informações que podem te identificar, tais como dados de localização do seu aparelho celular ou computador (geolocalização) e endereço de identificação na internet do seu computador ou aparelho celular (endereço IP).
 
-- Informações obtidas de
-*Bureaus* de Crédito, inclusive com o objetivo de enriquecer ou validar outros dados já existentes;
-- Informações recebidas para a execução de Políticas Públicas.
+#### Dado pessoal sensível
 
-**Quando a CAIXA coleta informações nos seus dispositivos eletrônicos:**
-- Dados coletados automaticamente quando você navega no nosso site ou utiliza nossos aplicativos, inclusive por meio do uso de
-*cookies*, para lhe proporcionar comodidade, segurança na navegação e aprimorar nossos canais.
+São os dados pessoais que exijem mais cuidado no tratamento, como sua origem racial, dado referente à sua saúde, dado sobre sua religião, dentre outros.
 
-**Fazemos uso de c*****ookies***
-**para coletar seus dados pessoais**
+#### Titular
 
-*Cookies* são pequenos arquivos que ficam armazenados no seu computador e que servem, entre outras coisas, para:
-- melhorar o desempenho do site e dos aplicativos;
-- medir a audiência;
-- possibilitar que você tenha uma experiência de visualização mais rápida, prática e individualizada;
-- elaborar relatórios estatísticos sobre o comportamento dos usuários nas plataformas da CAIXA;
-- reconhecê-lo como um visitante anterior do nosso site.
+É a pessoa a quem se referem os dados pessoais.
 
-A CAIXA preza pelas suas escolhas para o uso de
-*cookies* e, para isso, você poderá se orientar pelo nosso
-Aviso sobre c*ookies*.
+A LGPD se aplica ao tratamento de dados pessoais de pessoas físicas e também daquelas que exercem atividade profissional em nome próprio - MEI (Microempreendedor Individual) e EI (Empreendedor Individual).
 
-É importante observar que alguns navegadores aceitam
-*cookies* por padrão. Mas, se você preferir, pode remover ou rejeitar os
-*cookies* nas configurações do seu navegador ou dispositivo.
+### 2. Como a CAIXA obtém seus dados pessoais
 
-Saiba mais em nosso
-Aviso sobre c*ookies*.
+A CAIXA obtém os seus dados pessoais de algumas formas, como as descritas a seguir:
 
-#### Para que utilizamos seus dados pessoais na CAIXA?
+#### Diretamente de você:
 
-A CAIXA utiliza as informações que são coletadas com um objetivo muito simples: disponibilizar um conjunto de produtos e serviços para você e mantê-los em constante evolução. Apresentamos a seguir algumas finalidades para as quais tratamos seus dados pessoais:
-- Realizar as atividades necessárias à execução dos contratos de produtos ou serviços que temos com você, inclusive em procedimentos preliminares às contratações;
-- Operar políticas públicas;
-- Responder a suas dúvidas, solicitações, reclamações ou elogios;
+- quando você abre uma conta ou contrata um produto bancário;
+- quando você utiliza nossos canais de atendimento (exemplo: agências, caixas eletrônicos, lotéricas e correspondentes bancários);
+- quando você se cadastra em algum aplicativo da CAIXA;
+- quando você acessa algum aplicativo ou algum site da CAIXA que necessitam de login;
+- quando você simula um financiamento habitacional ou preenche um formulário, cadastro ou utiliza simuladores de outros produtos e serviços no site da CAIXA.
 
-- Verificar sua identidade, visando evitar fraudes, atividades ilegais ou não autorizadas;
-- Comunicar, administrar e oferecer conteúdo e benefícios direcionados e específicos ao seu perfil e que podem ser de seu interesse;
-- Enviar informações administrativas a você, como termos, condições, políticas e contratos;
+#### De outras fontes:
 
-- Desenvolver novos canais, serviços ou produtos e realizar melhorias naqueles que você já utiliza;
+- de Bureaus de Crédito (agências e escritórios ou serviços de crédito), Receita Federal e Banco Central do Brasil, com o objetivo de validar ou complementar dados já existentes em cadastros de clientes;
+- de Órgãos da Administração Pública para atender serviços e Políticas Públicas, como Auxílio Brasil e Seguro Desemprego.
 
-- Proteger a CAIXA, nossos empregados, parceiros, clientes e mercado, incluindo as atividades relacionadas ao crédito;
+#### Dos seus dispositivos digitais (celular ou computador):
 
-- Monitorar, analisar as tendências, medir audiências, corrigir problemas e evoluir o uso do nosso site e aplicativos;
+- quando você navega no nosso site;
+- quando você utiliza nossos aplicativos ou algum site da CAIXA que necessitam de login.
 
-- Atender a determinações legais ou regulatórias.
+###### Utilizamos tecnologias de marketing digital
 
-#### Como garantimos a segurança de seus dados pessoais
+Tecnologias de marketing digital servem para melhorar sua experiência com nossos serviços, sua navegação em nossos sites e aplicativos ou para enviar ofertas especiais para você. Para isso são usados cookies e outras tecnologias de rastreamento.
+
+###### O que são cookies?
+
+Cookies são pequenos arquivos que ficam guardados no seu computador ou celular. Eles servem, entre outras coisas, para melhorar sua navegação em sites e aplicativos, de acordo com suas preferências.Saiba mais no Aviso sobre cookies.
+
+### 3. Para quais finalidades a CAIXA utiliza os seus dados pessoais
+
+A CAIXA utiliza os seus dados pessoais com um objetivo muito simples: disponibilizar um conjunto de produtos e serviços para você e mantê-los em constante evolução.
+
+A CAIXA está comprometida em observar os princípios da LGPD e tratar os seus dados pessoais somente de acordo com as hipóteses previstas na lei.
+
+Apresentamos a seguir as finalidades mais comuns para as quais tratamos os seus dados pessoais:
+
+- cumprir os contratos que temos com você, bem como realizar análise prévia dos seus dados pessoais quando você desejar contratar algum outro produto ou serviço;
+- responder suas dúvidas, solicitações, reclamações ou elogios;
+- enviar mensagens sobre contratos ou termos e condições de algum produto, além de ofertas e outras informações que podem ser de seu interesse e adequadas a você;
+- realizar pesquisas mercadológicas para subsidiar, por exemplo, o lançamento de novos produtos e o aperfeiçoamento de serviços bancários para você;
+- atender serviços e Políticas Públicas como, por exemplo, Auxílio Brasil e Seguro Desemprego;
+- verificar sua identidade para prevenir e combater fraudes, atividades ilegais ou não autorizadas;
+- garantir a segurança dos nossos clientes, empregados, parceiros, do sistema financeiro e da CAIXA.
+- criar novos canais, serviços ou produtos e fazer melhorias naqueles que você já utiliza;
+- corrigir problemas, analisar comportamentos, medir os acessos e melhorar o uso do nosso site e aplicativos;
+- realizar análises jurídicas e cumprir decisões judiciais;
+- atender fiscalizações e auditorias;
+- cumprir obrigações legais e regulatórias.
+
+Para saber mais detalhes sobre as finalidades de tratamento dos seus dados pessoais, você pode solicitar uma declaração completa nos nossos canais de atendimento.
+
+### 4. Como a CAIXA protege os seus dados pessoais
+
+A CAIXA está comprometida em proteger os seus dados pessoais.
 
 Suas informações pessoais possuem acesso restrito e todos os contratos que mantemos obedecem rigorosas regras de confidencialidade.
 
-Utilizamos as mais avançadas ferramentas para evitar alteração, fraude, divulgação ou destruição das informações que detemos, como criptografia com a utilização de
-*SSL (Secure Socket Layers)* e
-*firewalls*. Também oferecemos a você uma verificação em duas etapas para acesso à sua conta ou aos aplicativos da CAIXA, bem como recursos de navegação segura.
+Monitoramos constantemente nossos sistemas para proteção contra acessos não autorizados, garantindo sigilo aos seus dados pessoais.
 
-Monitoramos constantemente nossos sistemas para proteção contra acessos não autorizados, garantindo sigilo aos seus dados.
+Utilizamos avançadas ferramentas e recursos de segurança, para evitar alteração, fraude, divulgação ou destruição das informações que estão sob a nossa responsabilidade.
 
-Qualquer tentativa de invasão e uso deliberadamente malicioso do site, aplicativos e marcas da CAIXA e parceiros serão tratados e tipificados conforme a Lei Penal determina.
+Seguimos as normas e as melhores práticas de segurança da informação.
 
-Não gostamos de
-*spam*, então, só enviamos
-*e-mails* e mensagens quando você se cadastra para ficar informado sobre produtos e serviços, para resposta de ouvidorias, para executar serviços contratados ou solicitados por você ou para demandas de seu interesse. E atenção, apague o
-*e-mail* ou mensagem caso você desconfie da sua procedência. Se persistirem dúvidas, entre em contato gratuitamente com nosso Serviço de Atendimento ao Consumidor, pelo telefone 0800 726 0101.
+Além disso, a CAIXA possui diretrizes específicas de governança de dados, segurança da informação, privacidade, resposta a incidentes de segurança com dados pessoais e planos de continuidade dos negócios.
 
-Ressaltamos que, em caso de incidente de segurança com seus dados pessoais que possa acarretar risco ou dano relevante, você será informado pela CAIXA.
+A nossa Política de Segurança e Informação é periodicamente revisada e pode ser consultada aqui.
 
-#### Com quem compartilhamos seus dados pessoais e por quê?
+###### Fique atento aos e-mails. A CAIXA só envia mensagens quando:
 
-Em algumas situações, a CAIXA precisará compartilhar os seus dados pessoais com terceiros (tais como Autoridades, entidades governamentais e órgãos reguladores) para cumprir com obrigação legal ou regulatória, como ocorre com o Banco Central do Brasil (BACEN), por exemplo.
+- você se cadastra para ficar informado sobre produtos e serviços;
+- o SAC e a Ouvidoria respondem suas solicitações;
+- nós executamos serviços solicitados por você ou demandas de seu interesse.
+- nós executamos serviços necessários para operar seus contratos com a CAIXA.
 
-Em outras situações, a CAIXA precisará compartilhar seus dados pessoais a fim de exercer as atividades necessárias para prestar serviços com qualidade para você, dentre os quais destacamos:
-- Prestadores de serviço e parceiros de negócio, como emissoras de cartão, correspondentes bancários e empresários lotéricos;
+Ah, não enviamos spam! Caso você desconfie de um e-mail ou mensagem de celular, entre em contato com a gente pelo 0800 726 0101 ou pelo
+ abuse@caixa.gov.br.
 
-- Fornecedores de infraestrutura, logística, tecnologia e segurança, bem como advogados e engenheiros terceirizados;
+**Faça sua parte:**
 
-- Órgãos e entidades da Administração Pública para a execução de políticas públicas previstas em leis ou regulamentos, respaldadas em contratos, convênios ou instrumentos congêneres;
-- Empresas subsidiárias, visando a melhoria de serviços ou produtos que beneficiem você;
-- Empresas que prestam serviços e funcionalidades para o banco, como agências de marketing e publicidade, empresas de mídia social, com o intuito de oferecer a melhor oferta para você e as informações e conteúdos mais adequados aos seus interesses e necessidades.
+É importante que você também tome alguns cuidados para proteger seus dados pessoais:
 
-Além disso, seus dados pessoais poderão ser compartilhados com
-*Bureaus* de Crédito para a proteção do crédito.
+- para entrar em contato com a CAIXA, utilize sempre os nossos canais oficiais;
+- fique atento à origem de mensagens enviadas (SMS e e-mail) em nome da CAIXA e desconsidere qualquer mensagem suspeita;
+- lembre-se de usar o antivírus e manter os navegadores de Internet atualizados;
+- consulte aqui outras dicas de segurança.
 
-#### Uso de tecnologias e ferramentas como o *Google Analytics*
+### 5. Por quanto tempo a CAIXA guarda os seus dados pessoais
 
-Dentre as possibilidades de compartilhamento com terceiros, podemos permitir que outras empresas, como o Facebook e o Google e suas ferramentas, usem
-*cookies* e tecnologias de rastreamento para que nos forneçam informações analisadas sobre como você usa nossos serviços. Esses dados servem para melhorar sua experiência no nosso site ou lhe oferecer ofertas mais adequadas ao seu perfil e suas necessidades.
+Cada produto ou serviço da CAIXA possui um prazo determinado para a guarda dos seus dados pessoais, obedecendo a legislações e regulamentações específicas.
 
-Fique tranquilo, não compartilhamos nenhum dado transacional ou protegido por sigilo bancário.
+Então, fique tranquilo! Seus dados pessoais serão excluídos com segurança após o término do prazo de guarda.
 
-Saiba mais em nosso
-Aviso sobre
-*cookies*.
+### 6. Quando e com quem a CAIXA compartilha seus dados pessoais
 
-#### Duração do tratamento dos dados
+A CAIXA compartilha seus dados pessoais somente com base nas hipóteses de tratamento previstas na LGPD, como por exemplo, quando é necessário para atingir as finalidades descritas neste Aviso.
 
-Enquanto estamos de posse de seus dados pessoais, eles são armazenados em ambientes eletrônicos que seguem as normas e melhores práticas de segurança da informação, conforme
-Política de Segurança da Informação da CAIXA.
+Destacamos, a seguir, os casos mais comuns de compartilhamento de dados pessoais:
 
-Além disto, cada produto ou serviço da CAIXA possui um tempo de vida e obedece a legislações específicas. Mas fique tranquilo! Não trataremos e nem armazenaremos seus dados por mais tempo que o necessário para a finalidade a que foram destinados, incluindo o período adicional indicado por lei ou regulação a que nos submetemos.
+- com empresas prestadoras de serviços de meios de pagamentos, cobrança, autenticação, impressão, emissão de cartão e postagem de documentos, para realizar atividades complementares aos nossos negócios;
 
-#### Quais são seus direitos e como você pode exercê-los?
+- com centrais de atendimento, lotéricos e correspondentes bancários, para melhor te atender;
 
-Você possui direitos sobre os seus dados pessoais garantidos pela Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018) e pode exercê-los na CAIXA entrando em contato pelo telefone
-**0800 726 0101**.
+- com fornecedores de infraestrutura de tecnologia, segurança e logística, além de empresas de engenharia para avaliação de imóveis ou projetos de construção, para que os produtos e serviços da CAIXA sejam fornecidos com qualidade e eficiência;
 
-#### Conheça seus direitos:
+- com autoridades, entidades governamentais, órgãos reguladores e fiscalizadores quando necessário para cumprir leis e regulamentos;
 
-- Confirmar se a CAIXA realiza tratamento dos seus dados pessoais;
-- Acessar seus dados pessoais e solicitar a correção sempre que eles estiverem incompletos, inexatos ou desatualizados e não seja necessária a permanência do histórico;
-- Solicitar a portabilidade dos seus dados pessoais para enviar a outras instituições;
-- Solicitar a anonimização, bloqueio ou eliminação dos seus dados pessoais (em alguns casos previstos na Legislação, não é possível realizar a exclusão de dados, como para o cumprimento de normas de órgãos reguladores ou para a execução dos serviços e produtos que você contratou com a CAIXA);
-- Obter informação das entidades públicas e privadas com as quais a CAIXA realizou uso compartilhado de dados;
-- Saber quais as consequências se você não fornecer seu consentimento para realizarmos o tratamento dos seus dados, bem como revogá-lo a qualquer momento;
-- Solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses.
+- com outros órgãos da Administração Pública para a atender serviços e Políticas Públicas, tais como Auxílio Brasil e Seguro Desemprego;
 
-#### Faça sua parte
+- com bureaus de crédito, conforme legislação aplicável;
 
-É importante que você também tome alguns cuidados para proteger seus dados pessoais.
-- Para entrar em contato com a CAIXA, utilize sempre os nossos canais oficiais;
-- Fique atento à origem de mensagens enviadas em nome da CAIXA. Desconsidere qualquer mensagem recebida caso você tenha dúvida sobre sua procedência e veracidade e procure sua agência ou entre em contato no 0800 726 0101;
-- Lembre-se de usar o antivírus e manter os navegadores de Internet atualizados;
-- Aproveite e
-consulte aqui nossas outras dicas de segurança.
+- com empresas do Conglomerado CAIXA, para disponibilizar produtos e serviços e atender suas solicitações;
 
-#### Revisões em nosso Aviso de Privacidade
+- com outras instituições financeiras participantes do Open Finance do Banco Central do Brasil, apenas mediante operação de consentimento efetuada por você por meio da interface da instituição financeira escolhida por você;
 
-A CAIXA poderá de tempos em tempos publicar versões mais atualizadas deste Aviso de Privacidade. Mas sempre o deixaremos informado. Você poderá saber quando foi a última versão conferindo a data no fim deste documento. Em caso de mudanças significativas, enviaremos um aviso adicional, como uma declaração em nosso site ou uma notificação em nosso aplicativo.
+- com nossos prestadores de serviços e parceiros de negócios.
 
-Obrigado!
+A CAIXA realiza transferência internacional apenas quando necessário e atendendo às orientações da legislação vigente, como, por exemplo, com outros bancos e instituições financeiras, para operações de câmbio e pagamentos no exterior.
 
-Yves Dumaresq Sobral
+Compartilhamos somente os dados pessoais estritamente necessários, sempre prezando pela segurança da informação e seguindo as normas de sigilo bancário e legislação de privacidade e proteção de dados.
 
-Encarregado pelo Tratamento de Dados Pessoais
+Para saber mais detalhes sobre compartilhamento dos seus dados pessoais, você pode solicitar uma declaração completa.
 
- encarregado.lgpd@caixa.gov.br
+### 7. Quais são os seus direitos como Titular de Dados Pessoais
 
-#### Legislação e links relacionados:
+A LGPD confere direitos aos Titulares dos Dados Pessoais, que listamos a seguir:
 
-•
-Lei Geral de Proteção de Dados
-•
-Marco civil da internet
-•
-Lei sobre o sigilo das operações e informações em mãos de instituições financeiras
-•
-Código de Ética da CAIXA
-•
-Código de Defesa do Consumidor
-•
-Lei de Acesso à Informação
+#### Confirmação do tratamento
 
-**Data de Publicação do Aviso de Privacidade: 14/01/2021**
+Você pode pedir que a CAIXA confirme se realiza o tratamento dos seus dados pessoais.
+
+#### Acesso
+
+Você pode ter acesso aos seus dados pessoais de 2 formas:
+
+- declaração simplificada: mostra quais dados pessoais temos sobre você. O envio dessa declaração é imediato.
+
+- declaração completa: além de mostrar quais dados pessoais temos sobre você, informamos para quais finalidades são realizados os tratamentos e com quem compartilhamos seus dados pessoais, dentre outras informações relevantes. Essa declaração é enviada no prazo de até 15 (quinze) dias.
+
+#### Correção
+
+Você pode pedir para a CAIXA corrigir seus dados pessoais caso eles estejam incompletos, incorretos ou desatualizados.
+
+Além dos canais de atendimento indicados neste Aviso, você pode utilizar o Internet Banking CAIXA para corrigir dados de cadastro, como seu e-mail, telefone, endereço e renda, acessando: Minha Conta -> Meus dados -> Atualizar Cadastro
+
+#### Eliminação dos dados tratados com o seu consentimento
+
+Você pode pedir a eliminação dos seus dados pessoais que autorizou a CAIXA a tratar.
+
+#### Informação sobre compartilhamento
+
+Você pode pedir a relação das empresas e órgãos públicos com quem a CAIXA compartilha seus dados pessoais.
+
+#### Portabilidade
+
+Você pode direcionar seus dados pessoais, armazenados pela CAIXA, para outras empresas e instituições.
+
+#### Consentimento
+
+Quando for solicitado seu consentimento (autorização) para o tratamento de seus dados pessoais você tem o direito de ser informado sobre as consequências, caso não dê consentimento. Se preferir, você pode negar o consentimento.
+
+Você pode também revogar o consentimento anteriormente conferido para o tratamento dos seus dados.
+
+#### Decisões automatizadas
+
+Você pode pedir a revisão de decisões tomadas exclusivamente por meios tecnológicos (sem envolvimento humano), como por exemplo, sua classificação, nota, aprovação ou rejeição.
+
+#### Revisão de tratamento de dados
+
+Você pode exercer esse direito caso entenda que a CAIXA está realizando o tratamento de dados desnecessários, excessivos ou tratados em desacordo com a LGPD. Seu pedido será analisado e respondido.
+
+#### Oposição
+
+Você pode pedir para a CAIXA não realizar mais o tratamento dos seus dados, se achar que estamos descumprindo a LGPD. Seu pedido será analisado e respondido.
+
+#### Você pode exercer todos esses direitos entrando em contato conosco:
+
+- pelo site: www.caixa.gov.br/privacidade (em "Faça sua Solicitação");
+- pelo Whatsapp: 0800 104 0104;
+- nas agências CAIXA;
+- pelo SAC: 0800 726 0101;
+- pela Ouvidoria: 0800 726 7474.
+
+### 8. Dúvidas sobre o Aviso de Privacidade
+
+Você pode entrar em contato com o nosso Encarregado de Proteção de Dados, Jardel Luis Carpes, pelo e-mail
+encarregado.lgpd@caixa.gov.br.
+
+Data de Atualização do Aviso de Privacidade: 06/07/2021
