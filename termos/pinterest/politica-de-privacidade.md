@@ -3,12 +3,14 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2021-10-28
-wayback: "https://web.archive.org/web/20211028202715/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2022-12-30
+wayback: "https://web.archive.org/web/20221230063356/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
 
 # Política de Privacidade
+
+- ### **California Residents: Please see our California Privacy Statement and Notice at Collection here.**
 
 - ### Índice
 
@@ -26,7 +28,6 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pi
  - Nossa política sobre informações de crianças
  - Suas opções
  - Residentes no EEE
- - Residentes na Califórnia
  - Como fazemos alterações nesta política
  - Fale conosco
 
@@ -171,41 +172,13 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pi
 
  Como o Pinterest é um serviço mundial, podemos transferir os dados pessoais dos residentes do EEE para um país fora do EEE. Nos casos em que transferirmos informações do EEE para um país que não ofereça um nível adequado de proteção, só o faremos em conformidade com as salvaguardas apropriadas para proteger suas informações, como cláusulas contratuais padrão.
 
-## Residentes na Califórnia
+## 대한민국 거주자
 
-- A Lei de Privacidade do Consumidor da Califórnia (CCPA) exige que divulguemos as categorias de Informações Pessoais que coletamos e como as usamos, as categorias de fontes das quais coletamos Informações Pessoais e os terceiros com os quais as compartilhamos, o que foi explicado acima.
+- Pinterest 데이터 처리 활동에 관해 궁금한 점이 있는 경우 회원님이 문의해야 하는 데이터 관리자는 아일랜드에 위치한 Pinterest Europe Ltd.이며, 주소지는 Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Ireland입니다. Pinterest 데이터 보호 책임자에게 문의할 수도 있습니다.
 
- Nos doze meses anteriores, coletamos Informações Pessoais de você, seus dispositivos, nossos parceiros, terceiros e de categorias de fontes descritas de outra forma na seção "Nós coletamos informações de algumas maneiras diferentes" desta Política de Privacidade.
+ Pinterest가 데이터 보호법을 준수하지 않았다고 생각되는 경우 회원님에게는 대한민국 감독 당국에 불만을 제기할 권리가 있습니다.
 
- Também somos obrigados a comunicar informações sobre os direitos que os residentes na Califórnia têm sob a legislação da Califórnia. Você pode exercer os seguintes direitos:
-
- - Direito de Conhecer e Acessar. Você pode enviar uma solicitação verificável de informações sobre as: (1) categorias de Informações Pessoais que coletamos, usamos ou compartilhamos; (2) fins para os quais as categorias de Informações Pessoais são coletadas ou usadas por nós; (3) categorias de fontes das quais coletamos Informações Pessoais; e (4) informações específicas que coletamos sobre você.
- - Direito à Igualdade de Serviço. Não discriminaremos você se exercer seus direitos de privacidade.
- - Direito de Excluir. Você pode enviar uma solicitação verificável para fechar sua conta e excluiremos as Informações Pessoais que coletamos.
-
- Para verificar sua identidade ao fazer uma solicitação, você deverá fazer login na sua conta protegida por senha ou responder a uma solicitação de verificação por e-mail.
-
- Não vendemos as Informações Pessoais de nossos usuários.
-
- Para obter mais informações sobre esses direitos, consulte “Escolhas que você tem sobre suas informações” acima. Para exercer esses direitos, acesse a nossa Central de Ajuda ou entre em contato conosco pelo e-mail privacy-support [at] pinterest.com.
-
- Além de exercer esses direitos, você também pode designar um agente autorizado para fazer essas solicitações em seu nome. Para fazer isso, solicitaremos que você verifique a solicitação diretamente por e-mail ou por meio da sua conta protegida por senha.
-
- Coletamos as seguintes categorias de Informações Pessoais e, nos últimos 12 meses, divulgamos essas categorias de Informações Pessoais para fins comerciais a afiliados, prestadores de serviços e terceiros, conforme descrito na seção Como e quando compartilhamos informações desta Política de Privacidade:
-
- - Identificadores, como seu nome, nome de usuário, endereço de e-mail, número de telefone, identificadores exclusivos de dispositivo e endereço IP
- - Características pessoais protegidas por lei, como seu gênero e idade
- - Informações comerciais, como compras feitas e informações de pagamento
- - Informações sobre a atividade da Internet ou da rede eletrônica, como informações sobre seu dispositivo e seu uso dos nossos Serviços
- - Dados de localização geográfica, quando compartilhados por meio de configurações ou fotos do dispositivo
- - Informações eletrônicas, visuais ou semelhantes, como sua imagem de perfil ou fotos
- - Informações profissionais ou de emprego, quando você vincula sua conta a outras contas
- - Inferências que obtemos ou derivamos sobre usuários, como seus interesses ou preferências
- - Outras informações que você fornece, como sua biografia, Pins e comentários
-
- Usamos e divulgamos essas informações para os fins comerciais descritos na seção O que fazemos com as informações que coletamos desta Política de Privacidade, incluindo: prestar nosso Serviço, comunicarmo-nos com você para fornecer atualizações ou responder aos seus comentários e dúvidas, auditar nosso Serviço, detectar incidentes de segurança e evitar fraude, depurar e corrigir erros, manter sua conta, prestar atendimento ao cliente, processar ou atender pedidos, realizar pesquisa e desenvolvimento e outras atividades para melhorar nosso Serviço, fazer publicidade, divulgar nossos Serviços e entender como os usuários interagem com nossos Serviços.
-
- A CCPA exige que divulguemos determinadas métricas sobre as várias solicitações que recebemos, como quantas solicitações específicas recebemos de residentes da Califórnia no último ano civil. Veja a nossa Divulgação de métricas da CCPA.
+ Pinterest는 전 세계적인 서비스이므로 한국 거주자의 개인 데이터를 한국 외부로 이전할 수 있습니다.
 
 ## Como fazemos alterações nesta política
 
