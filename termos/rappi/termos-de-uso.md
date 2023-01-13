@@ -192,10 +192,22 @@ Ao aceitar estes Termos de Uso, o Consumidor reconhece e concorda que todo o con
 
 Com o acesso ao conteúdo disponibilizado na Plataforma da Operadora, o Consumidor se compromete, direta ou indiretamente, a NÃO: (i) desativar, sobrecarregar, danificar, atacar, burlar ou prejudicar a Plataforma, os demais usuários ou a própria Rappi; (ii) usar qualquer tipo de robô, processo ou meio automático/manual de dispositivo, ou métodos/atos similares de coleta dados, raspagem ou *scraping*, remoção, extração, monitoramento, cópia de dados ou de qualquer material contido na Plataforma; (iii) use a Plataforma ou o serviço Rappi para fraudulentamente fazer declarações falsas, se passar por outra pessoa, se envolver em publicidade falsa, fraudar ou difamar qualquer pessoa/empresa, se envolver ou participar de qualquer esquema de pirâmide ou outro ilegal, ou coletar qualquer informação pessoal identificável de qualquer integrante da Plataforma sem o conhecimento e consentimento dele ou sem a autorização prévia, expressa e escrita da Rappi; (iv) criar trabalhos derivados de engenharia reversa ou ato similar, disponibilizar a qualquer pessoa ou usar, direta ou indiretamente, o Conteúdo no todo ou em parte, de qualquer forma ou por qualquer meio, físico, eletrônico ou de outro tipo; ou (v) usar a Plataforma ou de serviços da Rappi de qualquer maneira que promova e/ou permita atividades ilegais ou não permitidas por lei; na hipotese de realização de qualquer dessas condutas poderá ser configurada prática de uso indevido de dados, imagens, marca e/ou informações nos termos da Lei, bem como crime de concorrencia desleal, sendo devido danos materiais e morais decorrentes da prática indevida.
 
-24.ACEITAÇÃO TOTAL DOS TERMOS
+24.A CEITAÇÃO TOTAL DOS TERMOS
 
 O Consumidor manifesta expressamente ter a capacidade legal para usar a Plataforma e para celebrar as transações comerciais que possam ser geradas com os Mandatários.
 
 Assim, manifesta ter fornecido informação real, veraz e fidedigna. Portanto, de forma expressa e inequívoca declara ter lido, que entende e que aceita a totalidade das situações reguladas nestes Termos e Condições de Uso da Plataforma, dando o seu CONSENTIMENTO, pelo que se compromete ao cumprimento total dos deveres, obrigações, ações e omissões aqui expressadas. Em caso de USUÁRIOS de outros países utilizarem a Plataforma, ficam completamente sujeitos ao disposto nestes termos. Declara ainda que teve a possibilidade de sanar quaisquer dúvidas em relação a este TERMOS E CONDIÇÕES pelo canal de Suporte ao Usuário. Com esta aceitação entende-se que na solicitação do cada encargo se encontra a assinatura do Consumidor para outorgar o poder ao Mandatário e desta maneira poder gerir dito encargo.
+
+25. POLÍTICA CONTRA O TRABALHO INFANTIL
+
+A RAPPI reconhece e protege os direitos básicos da criança de acordo com os preceitos estabelecidos no artigo 5 do Pacto Global na Convenção sobre os Direitos da Criança, na Declaração Universal dos Direitos Humanos das Nações Unidas e nas normas estabelecidas pela Organização Internacional do Trabalho, OIT, sobre trabalho infantil.
+
+Neste sentido, a empresa promove a proteção dos direitos da criança e reger-se-á pelos seguintes princípios:
+
+- Cumprir com a idade mínima estabelecida no processo seletivo da empresa;
+- Implementar mecanismos adequados e confiáveis para verificar a idade no momento da contratação (carteira de identidade ou outro documento de identificação válido);
+- Manter registros precisos e atualizados dos trabalhadores;
+- Empregar os melhores esforços para cumprir os propósitos desta Política. Caso seja verificado o incumprimento desta política, afastar imediatamente do trabalho os menores que não tenham atingido a idade legal para o trabalho, bem como proceder com o acompanhamento das diligências que implique tal verificação.
+- Incluir cláusulas contratuais para subcontratados, fornecedores e outros parceiros de negócios de modo que assumam compromissos firmes para eliminar o trabalho infantil.
 
 Osasco/SP, Brasil
