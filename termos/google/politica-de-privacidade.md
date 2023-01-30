@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2022-10-22
-wayback: "https://web.archive.org/web/20221022235708/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2023-01-30
+wayback: "https://web.archive.org/web/20230130222908/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -20,7 +20,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 4 de outubro de 2022 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 15 de dezembro de 2022 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -142,13 +142,13 @@ Usamos as informações que coletamos nos serviços existentes no desenvolviment
 
 Usamos as informações que coletamos para personalizar nossos serviços, inclusive para fornecer recomendações, conteúdo e resultados de pesquisa personalizados. Por exemplo, a Verificação de segurança fornece dicas de segurança adaptadas à forma como você usa os produtos do Google. E o Google Play usa informações, como apps já instalados e vídeos assistidos no YouTube, para sugerir novos apps que você pode gostar.
 
-Dependendo das configurações, também podemos mostrar anúncios personalizados com base nos seus interesses. Por exemplo, se você pesquisar "mountain bikes", poderá encontrar um anúncio de equipamentos esportivos ao navegar em um site que exibe anúncios veiculados pelo Google. É possível controlar quais informações usamos para exibir anúncios, basta acessar as configurações de anúncios.
+Dependendo das suas configurações, também podemos mostrar anúncios personalizados com base nos seus interesses. Por exemplo, se você pesquisar "mountain bikes", poderá encontrar um anúncio de equipamentos esportivos ao navegar em um site que exibe anúncios veiculados pelo Google. É possível controlar quais informações usamos para exibir anúncios, basta acessar as configurações na Minha central de anúncios.
 
 - Não mostramos anúncios personalizados com base em categorias sensíveis, como raça, religião, orientação sexual ou saúde.
 - Não mostramos anúncios personalizados com base no seu conteúdo do Drive, Gmail ou Fotos.
 - Não compartilhamos informações que identifiquem você pessoalmente para anunciantes, como nome ou e-mail, a menos que você nos peça. Por exemplo, se você vir um anúncio de uma floricultura nas proximidades e selecionar o botão "Toque para ligar", faremos a chamada e poderemos compartilhar seu número de telefone com a floricultura.
 
-Ir para as configurações de anúncios
+Acessar a Minha central de anúncios
 
 ### Avaliar o desempenho
 
@@ -198,7 +198,7 @@ Acessar os Controles de atividade
 
 Você pode gerenciar as preferências sobre os anúncios mostrados a você no Google e nos sites e aplicativos que têm parceria com o Google para mostrar anúncios. É possível modificar os seus interesses, escolher se as suas informações pessoais são usadas para tornar os anúncios mais relevantes para você e ativar ou desativar certos serviços de publicidade.
 
-Ir para as configurações de anúncios
+Acessar a Minha central de anúncios
 
 ### Sobre você
 
@@ -428,7 +428,6 @@ Os links a seguir destacam recursos úteis para você saber mais sobre nossas pr
 - Tecnologias inclui mais informações sobre:
  - Como a Google usa os cookies
  - tecnologias usadas para publicidade;
- - como o Google usa o reconhecimento de padrões para reconhecer itens como rostos em fotos.
  - Como o Google usa informações de sites ou apps que utilizam nossos serviços
 
 ## Termos-chave
