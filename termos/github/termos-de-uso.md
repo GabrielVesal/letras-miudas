@@ -3,8 +3,8 @@ empresa: "GitHub"
 documento: "Termos de Uso"
 categoria: "Tecnologia"
 fonte: "https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
-capturado_em: 2022-09-30
-wayback: "https://web.archive.org/web/20220930201556/https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
+capturado_em: 2023-01-31
+wayback: "https://web.archive.org/web/20230131200109/https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/github/termos-de-uso.md"
 ---
 
@@ -48,7 +48,7 @@ Data de início de vigência: 16 de novembro de 2020
 5. “GitHub”, “Nós” e “Nos” referem-se ao GitHub, Inc., bem como a nossas afiliadas, diretores, subsidiárias, contratados, licenciadores, executivos, agentes e funcionários.
 6. O “Serviço” refere-se aos aplicativos, software, produtos e serviços fornecidos pelo GitHub, incluindo quaisquer Visualizações Beta.
 7. “O Usuário”, “Você” e “Seu” referem-se ao indivíduo, à empresa ou à organização que acessou ou está usando o Site ou o Serviço; que acessa ou usa qualquer parte da Conta ou que orienta o uso da Conta no desempenho de suas funções. Um Usuário deve ter pelo menos 13 anos de idade. Termos especiais podem ser aplicados para contas comerciais ou governamentais (consulte Seção B(5): Termos Adicionais).
-8. O “Site” refere-se ao site do GitHub localizado em github.com e todo o conteúdo, os serviços e os produtos fornecidos pelo GitHub no site ou por meio dele. Também refere-se aos subdomínios de propriedade do GitHub do site github.com, como education.github.com e pages.github.com. Estes Termos também regem os sites de conferência do GitHub, como githubuniverse.com e sites de produtos, como atom.io. Ocasionalmente, os sites de propriedade do GitHub podem fornecer termos de serviço diferentes ou adicionais. Se esses termos adicionais entrarem em conflito com este Contrato, os termos mais específicos serão aplicáveis à página ou ao serviço relevante.
+8. O “Site” refere-se ao site do GitHub localizado em github.com e todo o conteúdo, os serviços e os produtos fornecidos pelo GitHub no site ou por meio dele. Também refere-se aos subdomínios de propriedade do GitHub do site github.com, como education.github.com e pages.github.com. Estes Termos também regem os sites de conferência do GitHub, como githubuniverse.com e sites de produtos, como electronjs.org. Ocasionalmente, sites pertencentes ao GitHub podem fornecer termos de serviço diferentes ou adicionais. Se esses termos adicionais entrarem em conflito com este Contrato, os termos mais específicos serão aplicáveis à página ou ao serviço relevante.
 
 ## B. Termos da Conta
 
