@@ -3,8 +3,8 @@ empresa: "GitHub"
 documento: "Termos de Uso"
 categoria: "Tecnologia"
 fonte: "https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
-capturado_em: 2023-01-31
-wayback: "https://web.archive.org/web/20230131200109/https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
+capturado_em: 2023-02-28
+wayback: "https://web.archive.org/web/20230228082701/https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/github/termos-de-uso.md"
 ---
 
@@ -267,7 +267,7 @@ Você é responsável por todos os valores, incluindo impostos, associadas ao us
 
 ### 2. Após o Cancelamento
 
-Reteremos e usaremos suas informações conforme necessário para cumprir nossas obrigações legais, resolver controvérsias e fazer cumprir nossos contratos, mas, salvo requisitos legais, excluiremos seu perfil completo e o Conteúdo de seus repositórios em até 90 dias após o cancelamento ou a rescisão (embora algumas informações possam permanecer em backups criptografados). Essas informações não poderão ser recuperadas uma vez que sua Conta for cancelada.
+Reteremos e usaremos suas informações conforme necessário para cumprir nossas obrigações legais, resolver controvérsias e fazer cumprir nossos contratos, mas, salvo requisitos legais, excluiremos seu perfil completo e o Conteúdo de seus repositórios em até 90 dias após o cancelamento ou a rescisão (embora algumas informações possam permanecer em backups criptografados). Essas informações não poderão ser recuperadas após o cancelamento da sua Conta.
 
 Não excluiremos o Conteúdo com o qual você contribuiu para os repositórios de outros Usuários ou do qual outros Usuários criaram fork.
 
