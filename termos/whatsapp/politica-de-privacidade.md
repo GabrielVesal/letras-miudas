@@ -132,6 +132,10 @@ O WhatsApp compartilha informações pelo mundo inteiro, tanto internamente, com
 
 Podemos alterar ou atualizar nossa Política de Privacidade. Você receberá uma notificação sobre alterações feitas nesta Política de Privacidade, conforme a necessidade, e atualizaremos a data de “Última alteração” no início desta Política de Privacidade. Consulte nossa Política de Privacidade periodicamente.
 
+### Direitos de Privacidade para Residentes nos Estados Unidos
+
+Para saber mais sobre os direitos de privacidade do consumidor que podem estar disponíveis para você, leia o Aviso de Privacidade Regional dos Estados Unidos aqui.
+
 
 Fale conosco
 
