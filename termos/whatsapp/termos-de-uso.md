@@ -2,7 +2,7 @@
      Fonte: https://www.whatsapp.com/legal/terms-of-service?lang=pt_BR
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-Última modificação: 4 de janeiro de 2021 (versões arquivadas)
+Início da vigência: 4 de janeiro de 2021 (versões arquivadas)
 
 # Termos de Serviço do WhatsApp
 
@@ -22,9 +22,11 @@
 - Disposições gerais
 - Cláusula especial de arbitragem para usuários nos Estados Unidos e no Canadá
 
-*Se você reside na* *Região Europeia**, o WhatsApp Ireland Limited fornece os Serviços para você de acordo com estes* *Termos de Serviço* *e esta* *Política de Privacidade**.*
+*Se você reside na Região Europeia, o WhatsApp Ireland Limited fornece os Serviços para você de acordo com estes Termos de Serviço e a Política de Privacidade.*
 
-Para nós fornecermos nossos Serviços (conforme definido abaixo) por meio dos nossos aplicativos, serviços, recursos, software ou site, é necessário que você concorde com os nossos Termos de Serviço (“Termos”).
+*Se você reside no Reino Unido, o WhatsApp LLC fornecerá os Serviços para você de acordo com estes Termos de Serviço e esta Política de Privacidade.*
+
+Para fornecermos nossos Serviços (conforme definido abaixo) por meio dos nossos apps, nossos serviços, nossos recursos, nosso software ou nosso site, é necessário que você concorde com nossos Termos de Serviço (“Termos”).
 
 O WhatsApp LLC (“WhatsApp,” “nosso”, “nossa”, “nós” ou “conosco”) fornece os serviços descritos abaixo a você (“Serviços”), exceto se você reside em um país ou território do Espaço Econômico Europeu (que inclui a União Europeia) ou em qualquer outro país ou território incluído (coletivamente denominados "Região Europeia").
 
@@ -38,7 +40,7 @@ O WhatsApp LLC (“WhatsApp,” “nosso”, “nossa”, “nós” ou “conos
 - **Possibilitar acesso aos nossos Serviços**. Para operar nossos Serviços globais, precisamos armazenar e distribuir conteúdo e informações em data centers e sistemas em todo o mundo, inclusive fora de seu país de residência. O uso desta infraestrutura global é necessário e essencial para fornecermos nossos Serviços. Essa infraestrutura pode pertencer ou ser operada por nossos provedores de serviço, incluindo empresas afiliadas.
 - **Empresas afiliadas**. Fazemos parte das Empresas da Meta. Como parte das Empresas da Meta, o WhatsApp troca informações com elas, conforme descrito na Política de Privacidade do WhatsApp, inclusive para disponibilizar integrações que possibilitem que você conecte a experiência do WhatsApp a outros Produtos das Empresas da Meta; para garantir a segurança, a proteção e a integridade dos Produtos das Empresas da Meta; e para aprimorar sua experiência com anúncios e produtos nos Produtos das Empresas da Meta. Saiba mais sobre as Empresas da Meta e seus respectivos termos e políticas aqui.
 
-SEM ACESSO A SERVIÇOS DE EMERGÊNCIA: há diferenças importantes entre nossos Serviços e os serviços de telefonia fixa, de celular e de SMS. Nossos Serviços não permitem acesso a serviços de emergência ou a prestadores de serviço de emergência, incluindo a polícia, o corpo de bombeiros, hospitais, nem qualquer forma de contato com pontos de atendimento de segurança pública. Verifique se consegue entrar em contato com prestadores de serviços de emergência por telefone fixo, celular ou outro serviço.
+SEM ACESSO A SERVIÇOS DE EMERGÊNCIA: há diferenças importantes entre os nossos Serviços ou Serviços Comerciais e os serviços de telefonia fixa, de celular e de SMS. Nossos Serviços não permitem acesso a serviços de emergência ou a prestadores de serviço de emergência, incluindo a polícia, o corpo de bombeiros, hospitais, nem qualquer forma de contato com pontos de atendimento de segurança pública. Verifique se consegue entrar em contato com prestadores de serviços de emergência por telefone fixo, celular ou outro serviço.
 
 **CASO VOCÊ SEJA UM USUÁRIO DO WHATSAPP LOCALIZADO NOS ESTADOS UNIDOS OU NO CANADÁ, NOSSOS TERMOS CONTÊM UMA CLÁUSULA DE ARBITRAGEM VINCULANTE QUE DISPÕE QUE, EXCETO SE VOCÊ SE RECUSA A PARTICIPAR DE ARBITRAGENS E EXCETO PARA DETERMINADOS TIPOS DE CONTESTAÇÕES, VOCÊ E O WHATSAPP CONCORDAM EM RESOLVER TODAS AS CONTESTAÇÕES (DEFINIDAS ABAIXO) PELA ARBITRAGEM INDIVIDUAL VINCULANTE, O QUE SIGNIFICA QUE VOCÊ RENUNCIA AO DIREITO DE RESOLVÊ-LAS JUDICIALMENTE E AO DE PARTICIPAR DE AÇÕES COLETIVAS, ARBITRAGENS COLETIVAS OU AÇÕES POR SUBSTITUIÇÃO DERIVADA. LEIA A SEÇÃO “****CLÁUSULA ESPECIAL DE ARBITRAGEM PARA USUÁRIOS NOS ESTADOS UNIDOS OU NO CANADÁ****”, LOCALIZADA ABAIXO, PARA SABER MAIS.Cadastro**. Você deve se cadastrar nos nossos Serviços com informações precisas, fornecer seu número de telefone atual e, em caso de alteração, atualizá-lo com o recurso do WhatsApp de mudança de número. Você concorda em receber mensagens de texto e ligações telefônicas (nossas ou de nossos prestadores de serviço terceirizados) com códigos para se registrar para nossos Serviços.
 
@@ -66,7 +68,7 @@ O WhatsApp se importa com a sua privacidade. A Política de Privacidade do Whats
 
 ### Serviços de terceiros
 
-Nossos Serviços podem permitir que você acesse ou use sites, aplicativos, conteúdos, outros produtos e serviços de terceiros, além dos Produtos das Empresas da Meta, assim como interagir com eles. Por exemplo, você pode usar um serviço de backup de dados de terceiros integrado aos nossos Serviços (como o iCloud ou o Google Drive) ou interagir com o botão compartilhar em sites de terceiros que permite o envio de informações aos seus contatos do WhatsApp. Estes Termos e nossa Política de Privacidade se aplicam somente ao uso dos nossos Serviços. Quando você usa produtos ou serviços de terceiros ou os Produtos das Empresas da Meta, os termos e as políticas de privacidade aplicáveis regem o uso desses produtos e serviços.
+Nossos Serviços podem permitir que você acesse ou use sites, apps, conteúdos, outros produtos e serviços de terceiros, além dos Produtos das Empresas da Meta, assim como interagir com eles. Por exemplo, você pode usar um serviço de backup de dados de terceiros integrado aos nossos Serviços (como o iCloud ou o Google Drive) ou interagir com o botão compartilhar em sites de terceiros que permite o envio de informações aos seus contatos do WhatsApp. Estes Termos e nossa Política de Privacidade se aplicam somente ao uso dos nossos Serviços. Quando você usa produtos ou serviços de terceiros ou os Produtos das Empresas da Meta, os termos e as políticas de privacidade aplicáveis regem o uso desses produtos e serviços.
 
 ### Licenças
 
@@ -78,7 +80,7 @@ Nossos Serviços podem permitir que você acesse ou use sites, aplicativos, cont
 
 **A licença do WhatsApp para você**. Concedemos a você uma licença limitada, revogável, não exclusiva, que não pode ser sublicenciada ou transferida, para usar nossos Serviços, sujeita aos nossos Termos. Essa licença tem como intuito permitir que você use nossos Serviços da forma permitida em nossos Termos. As licenças e direitos expressamente concedidos a você são as únicas licenças e direitos concedidos. Não há concessão de licença ou direito implícita ou por inferência.
 
-### Comunicados sobre violação de direitos autorais, marca registrada e outros direitos de propriedade intelectual de terceiros
+### Denúncias sobre violação de direitos autorais, marca registrada e outros direitos de propriedade intelectual de terceiros
 
 Para denunciar terceiros por violações de direitos autorais, marca ou outros direitos de propriedade intelectual, acesse nossa Política de Propriedade Intelectual. Podemos tomar medidas em relação à sua conta, inclusive desativá-la ou suspendê-la, se você violar os direitos de propriedade intelectual de terceiros de forma clara, grave ou recorrente, ou quando formos obrigados a fazê-lo por motivos legais. A desativação ou suspensão da sua conta será feita de acordo com a seção “Rescisão” abaixo.
 
@@ -100,9 +102,9 @@ Se alguém apresentar uma reivindicação (“Reivindicação de terceiros”) c
 
 **Direito aplicável**. As leis do estado da Califórnia regem nossos Termos e as Contestações, judiciais ou em arbitragem, que possam surgir entre você e o WhatsApp, independentemente de conflitos entre as leis de diferentes Estados da federação.
 
-**Limite de tempo para fazer uma Reivindicação ou Contestação**. ESTES TERMOS TAMBÉM LIMITAM O TEMPO QUE VOCÊ TEM PARA FAZER UMA REIVINDICAÇÃO OU CONTESTAÇÃO, INCLUINDO O TEMPO PARA COMEÇAR UMA ARBITRAGEM OU, SE PERMITIDO, UMA AÇÃO JUDICIAL OU PROCESSO DE PEQUENAS CAUSAS DENTRO DO ALCANCE MÁXIMO PERMITIDO POR LEI. Nós e você concordamos que todas as Contestações (exceto as Contestações Excluídas definidas abaixo) devem ter suas arbitragens iniciadas no prazo de um ano a contar de seu surgimento; caso contrário, elas serão prescritas. Isso significa que se nós ou você não iniciarmos a arbitragem dentro de um ano do surgimento da Controvérsia, a arbitragem será rejeitada porque foi iniciada depois do prazo.
+**Limite de tempo para fazer uma Reivindicação ou Contestação**. ESTES TERMOS TAMBÉM LIMITAM O TEMPO QUE VOCÊ TEM PARA FAZER UMA REIVINDICAÇÃO OU CONTESTAÇÃO, INCLUINDO O TEMPO PARA COMEÇAR UMA ARBITRAGEM OU, SE PERMITIDO, UMA AÇÃO JUDICIAL OU PROCESSO DE PEQUENAS CAUSAS DENTRO DO ALCANCE MÁXIMO PERMITIDO POR LEI. Nós e você concordamos que todas as Contestações (exceto as Contestações Excluídas definidas abaixo) devem ter suas arbitragens iniciadas no prazo de um ano a contar de seu surgimento; caso contrário, elas serão prescritas. Isso significa que, se nós ou você não iniciarmos a arbitragem dentro de um ano do surgimento da Contestação, a arbitragem será rejeitada porque foi iniciada depois do prazo.
 
-**Veja abaixo:** **Cláusula especial de arbitragem para usuários nos Estados Unidos e no Canadá**
+**Leia abaixo:** **Cláusula especial de arbitragem para usuários nos Estados Unidos e no Canadá**
 
 ### Disponibilidade e rescisão dos nossos serviços
 
@@ -110,7 +112,7 @@ Se alguém apresentar uma reivindicação (“Reivindicação de terceiros”) c
 
 **Rescisão**. Embora esperamos que você continue usando o WhatsApp, você pode encerrar seu relacionamento conosco a qualquer momento, por qualquer motivo, ao apagar sua conta. Para instruções sobre como proceder, leia os artigos para Android, iPhone ou KaiOS na nossa Central de ajuda.
 
-Podemos modificar, suspender ou encerrar seu acesso ou uso dos nossos Serviços a qualquer momento e por qualquer motivo, por exemplo, se você violar as disposições ou intenções destes Termos ou prejudicar, colocar em risco ou expor juridicamente a nós, nossos usuários ou terceiros. Também podemos desativar ou apagar sua conta caso ela não fique ativa após o registro ou se sua conta permanecer inativa por um período de tempo prolongado. As seguintes disposições continuarão em vigor após o encerramento da sua relação com o WhatsApp: "Licenças", "Avisos legais e isenções", "Limitação de responsabilidade", "Indenização", "Resolução de Contestações", "Disponibilidade e rescisão dos nossos Serviços", "Disposições gerais" e "Cláusula especial de arbitragem para usuários nos Estados Unidos e no Canadá".
+Podemos modificar, suspender ou encerrar seu acesso ou uso dos nossos Serviços a qualquer momento e por qualquer motivo, por exemplo, se você violar as disposições ou intenções destes Termos ou prejudicar, colocar em risco ou expor juridicamente a nós, nossos usuários ou terceiros. Também podemos desativar ou apagar sua conta caso ela não fique ativa após o registro ou se sua conta permanecer inativa por um período de tempo prolongado. As cláusulas a seguir permanecerão válidas após a rescisão do seu relacionamento com o WhatsApp: “Licenças”, “Avisos legais”, “Limitação de responsabilidade”, “Indenização”, “Resolução de contestações”, “Disponibilidade”, “Rescisão de nossos Serviços”, “Outros”, e “Cláusula especial de arbitragem para usuários nos Estados Unidos e no Canadá”.
 
 ### Disposições gerais
 
@@ -120,7 +122,7 @@ Podemos modificar, suspender ou encerrar seu acesso ou uso dos nossos Serviços 
 - Você cumprirá com todas as leis dos Estados Unidos e de outros países e territórios referentes ao controle de exportação e sanções comerciais (“Leis de Exportação”). Você não exportará, reexportará, executará ou transferirá nossos Serviços, direta ou indiretamente: (a) a pessoas físicas, jurídicas, território ou países proibidos pelas Leis de Exportação; (b) a qualquer indivíduo em listas de restrição do governo dos Estados Unidos ou de outros governos; ou (c) para qualquer fim proibido pelas Leis de Exportação, inclusive armas nucleares, químicas ou biológicas e programas de tecnologia de mísseis, sem as autorizações governamentais necessárias. Você não usará ou baixará nossos Serviços se estiver localizado em um país ou território restrito, se estiver listado atualmente em lista de restrições do governo dos Estados Unidos ou de outros governos, ou para qualquer fim proibido pelas Leis de Exportação, e não disfarçará sua localização usando proxy de IP ou outros métodos.
 - Nossos Termos foram elaborados em inglês (Estados Unidos). As versões traduzidas são fornecidas apenas para a sua conveniência. Caso haja conflito entre a versão traduzida e nossos Termos em inglês, estes prevalecerão.
  Qualquer alteração ou renúncia que você proponha aos nossos Termos requer nossa autorização expressa.
-- Podemos alterar ou atualizar estes Termos. Você receberá notificações sobre alterações relevantes feitas em nossos Termos, conforme a necessidade, e atualizaremos a data de “Última alteração” no início destes Termos. A continuação do uso dos nossos Serviços confirma sua aceitação dos nossos Termos e alterações posteriores. Esperamos que você continue usando nossos Serviços, mas caso não concorde com nossos Termos, tal como alterado, deverá apagar sua conta para deixar de usar nossos Serviços.
+- Podemos alterar ou atualizar estes Termos. Notificaremos você sobre alterações materiais feitas em nossos Termos, conforme adequado, e atualizaremos o “Início da vigência” na parte superior de nossos Termos. A continuação do uso dos nossos Serviços confirma sua aceitação dos nossos Termos e alterações posteriores. Esperamos que você continue usando nossos Serviços, mas caso não concorde com nossos Termos, tal como alterado, deverá apagar sua conta para deixar de usar nossos Serviços.
 - Todos os nossos direitos e obrigações regidos por estes Termos podem ser cedidos por nós a qualquer uma de nossas afiliadas ou em decorrência de fusão, aquisição, reestruturação ou venda de ativos, de pleno direito ou outros, e podemos transferir suas informações a qualquer uma de nossas afiliadas, entidades sucessoras ou novos proprietários. Na ocorrência de qualquer dos eventos descritos, estes Termos continuarão governando seu relacionamento com referido terceiro. Esperamos que você continue usando nossos Serviços, mas caso não concorde com a cessão, após ser notificado sobre ela, você deverá apagar sua conta para parar de usar nossos Serviços.
 - Você não transferirá seus direitos ou obrigações decorrentes destes Termos para outra pessoa sem nosso consentimento prévio por escrito.
 - Nada nestes Termos nos impedirá de cumprir a lei.
@@ -139,7 +141,7 @@ POR FAVOR, LEIA ESTA SEÇÃO CUIDADOSAMENTE PORQUE ELA CONTÉM CLÁUSULAS ADICIO
 **Lei de Arbitragem Federal**. A Lei de Arbitragem Federal dos Estados Unidos rege a interpretação e a imposição desta seção “Cláusula especial de arbitragem para usuários nos Estados Unidos e no Canadá” incluindo a questão de definir se uma Contestação entre você e o WhatsApp é sujeita à solução por arbitragem.
 
 **Acordo de arbitragem para usuários do WhatsApp localizados nos Estados Unidos ou no Canadá**. No caso de usuários do WhatsApp localizados nos Estados Unidos ou no Canadá, você e o WhatsApp concordam em renunciar ao direito de resolver todas as Contestações pela via judicial, excetuando-se as Contestações Excluídas. Você e o WhatsApp concordam que todas as Contestações (menos as Contestações Excluídas), inclusive as decorrentes de direitos de privacidade e de publicidade ou a eles relacionados, serão resolvidas por arbitragem definitiva e vinculante. Você e o WhatsApp concordam em não combinar uma Contestação que esteja sujeita a arbitragem segundo os nossos Termos com outra que não possa ser resolvida por arbitragem de acordo com os nossos termos.
-Antes de você dar início a um processo arbitral de uma Contestação, é necessário nos enviar uma notificação que contenha (a) seu nome, (b) seu endereço residencial, (c) seu nome de usuário, (d) seu endereço de e-mail ou número de telefone usado na conta do WhatsApp, (e) uma descrição detalhada da Contestação e (f) o reparo almejado. Qualquer notificação de Contestação enviada para nós deve ser endereçada à Meta Platforms, Inc., ATTN: WhatsApp Arbitration Filing, 1601 Willow Rd. Menlo Park, CA 94025 United States of America Antes de darmos início a um processo de arbitragem, enviaremos uma notificação para você por meio do endereço de e-mail que você fornecer ou por outros meios válidos. Se não for possível resolver a contestação dentro de 60 (sessenta) dias após o recebimento da Notificação de Contestação, daremos início ao processo de arbitragem.
+Antes de você dar início a um processo arbitral de uma Contestação, é necessário nos enviar uma notificação que contenha (a) seu nome, (b) seu endereço residencial, (c) seu nome de usuário, (d) seu endereço de email ou número de telefone usado na conta do WhatsApp, (e) uma descrição detalhada da Contestação e (f) o reparo almejado. Qualquer Notificação de Contestação enviada por você para nós deve ser endereçada à Meta Platforms, Inc., ATTN: WhatsApp Arbitration Filing, 1601 Willow Rd. Menlo Park, CA 94025, United States of America Antes de darmos início a um processo de arbitragem, enviaremos uma notificação para você por meio do endereço de e-mail que você fornecer ou por outros meios válidos. Se não for possível resolver a contestação dentro de 60 (sessenta) dias após o recebimento da Notificação de Contestação, daremos início ao processo de arbitragem.
 
 A arbitragem será presidida pela Associação Americana de Arbitragem (American Arbitration Association, “AAA”) consoante às Regras de Arbitragem Comercial em vigor no momento em que a arbitragem for iniciada, incluindo as Regras Opcionais para Medidas Cautelares de Emergência e os Procedimentos Complementares para Contestações envolvendo Relações de Consumo (em conjunto, as "Regras da AAA"). Quem presidirá a arbitragem será um único árbitro escolhido de acordo com as Regras da AAA, as quais estão disponíveis no site www.adr.org, assim como informações sobre como iniciar uma Contestação e uma descrição do processo de arbitragem. Problemas relacionados ao escopo e à aplicabilidade da cláusula arbitral deverão ser solucionados pelo tribunal competente. O local da arbitragem e a divisão das despesas e dos honorários da arbitragem serão determinados de acordo com as Regras da AAA.
 
@@ -165,8 +167,8 @@ Você deve incluir (i) seu nome e endereço residencial; (ii) o número de celul
 
 #### Acesso aos termos do WhatsApp em outros idiomas
 
-Para acessar nossos Termos em outros idiomas, altere a configuração de idioma da sua sessão do WhatsApp. Se os Termos não estão disponíveis no idioma selecionado, a versão em inglês é exibida por padrão.
-Consulte os seguintes documentos que dão informações adicionais sobre o uso dos nossos Serviços:
+Para acessar nossos Termos em outros idiomas, altere a configuração de idioma da sua sessão do WhatsApp. Se os Termos não estiverem disponíveis no idioma selecionado, a versão em inglês será exibida por padrão.
+Consulte os seguintes documentos que fornecem informações adicionais sobre o uso dos nossos Serviços:
 
 Política de Privacidade do WhatsApp
 Política de Propriedade Intelectual do WhatsApp
