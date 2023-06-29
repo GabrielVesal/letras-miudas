@@ -361,80 +361,20 @@ Temos servidores em todo o mundo, e suas informações podem ser processadas em 
 
 Quando recebemos reclamações formais por escrito, respondemos entrando em contato com o requerente. Trabalhamos com as autoridades reguladoras apropriadas, inclusive autoridades locais de proteção de dados, para resolver quaisquer reclamações referentes à transferência de dados que não possamos resolver diretamente com você.
 
-## Requisitos da legislação estadual dos EUA
+## Requisitos do Brasil
 
-Algumas leis estaduais de privacidade dos EUA, como a Lei de Privacidade do Consumidor da Califórnia (CCPA) e a Lei de Proteção de Dados do Consumidor da Virgínia (VCDPA, na sigla em inglês), requerem divulgações específicas para residentes do estado.
+Se a legislação de proteção de dados do Brasil se aplicar ao tratamento das suas informações, forneceremos os controles descritos nesta política para que você possa exercer seu direito de:
 
-Esta Política de Privacidade é feita para ajudar você a entender como o Google trata seus dados:
+- receber confirmação sobre o tratamento de suas informações;
+- atualizar, corrigir, anonimizar, remover e solicitar acesso às suas informações;
+- restringir ou se opor ao tratamento das suas informações;
+- exportar suas informações para outro serviço.
 
-- Em Informações coletadas pelo Google, explicamos as categorias dos dados que o Google coleta e as fontes delas.
-- Em Por que o Google coleta dados, explicamos como o Google usa os dados.
-- Em Compartilhamento de informações, explicamos quando o Google pode divulgar informações. O Google não vende seus dados pessoais. Ele também não "compartilha" esses dados, conforme a definição do termo na CCPA.
-- Em Retenção das suas informações, explicamos como o Google retém seus dados. Saiba mais sobre como o Google anonimiza os dados. Conforme descrito nessa página, quando o Google faz a anonimização dos dados para proteger sua privacidade, mantemos políticas e medidas técnicas para evitar que essas informações sejam identificadas novamente.
+Para usuários localizados no Brasil, o controlador de dados responsável por suas informações é a Google LLC, a menos que indicado de outra forma em um aviso de privacidade específico do serviço. Em outras palavras, a Google LLC é responsável pelo processamento das suas informações e pelo compromisso de obedecer às leis de privacidade aplicáveis.
 
-Leis estaduais, como a CCPA e a VCDPA, também dão o direito de pedir informações sobre como o Google coleta, usa e divulga seus dados. E também permitem a você acessar e corrigir seus dados e solicitar ao Google que sejam excluídos. Além disso, a VCDPA dá o direito de recusar determinadas formas de criação de perfil e publicidade segmentada. Por fim, a CCPA e a VCDPA garantem o direito de que não haja discriminação por você exercer seus direitos de privacidade.
+### Dados de contato
 
-Em Seus controles de privacidade, descrevemos as opções disponíveis para gerenciar seus dados e sua privacidade nos serviços do Google. Essas ferramentas permitem que você acesse, revise, atualize e exclua seus dados, bem como exporte ou faça o download de uma cópia deles. Você também pode controlar quais informações usamos para mostrar publicidade ou desativar os anúncios personalizados na Minha central de anúncios.
-
-Quando você usar essas ferramentas, validaremos seu pedido verificando se você fez login na sua Conta do Google. Se tiver dúvidas ou pedidos relacionados aos seus direitos de acordo com a CCPA ou VCDPA, você (ou seu agente autorizado) também poderá entrar em contato com o Google. Se você não concordar com a decisão sobre seu pedido, responda ao e-mail da equipe solicitando que o Google reconsidere.
-
-Veja mais informações sobre como o Google processa solicitações relacionadas à CCPA.
-
-A CCPA também exige que uma descrição de práticas relacionadas a dados seja feita usando categorias específicas. Esta tabela usa essas categorias para organizar as informações nesta Política de Privacidade.
-
-### Categorias de dados que coletamos
-
-**Identificadores e informações semelhantes**, como seu nome, senha, número de telefone e endereço, assim como identificadores únicos ligados ao navegador, aplicativo ou dispositivo que você está usando. Alguns Serviços do Google, como o YouTube Studio, permitem o envio de um documento de identificação válido (como passaporte ou carteira de habilitação) para verificar sua identidade e liberar mais recursos.
-
-**Informações demográficas**, como idade, gênero e idioma. Se você escolher usar recursos opcionais, como as informações demográficas dos criadores de conteúdo do YouTube, também poderá fornecer outras informações, como identidade de gênero ou raça e etnia.
-
-**Informações comerciais**, como informações de pagamento e um histórico das compras que você realizou nos serviços do Google.
-
-**Dado biométrico** se você escolher fornecer essas informações, como digitais em estudos de desenvolvimento de produtos do Google.
-
-**Informações sobre atividade na internet, de rede e outras** como seus termos de pesquisa, visualizações e interações com conteúdo e anúncios, histórico de navegação do Chrome que você sincronizou com sua Conta do Google, informações sobre a interação dos seus aplicativos, navegadores e dispositivos com nossos serviços (como endereço de IP, relatórios de erros e atividade do sistema); e atividade em sites de terceiros e aplicativos que usam nossos serviços. É possível revisar e controlar dados de atividades armazenados na sua Conta do Google em Minha atividade.
-
-**Dados de geolocalização**, como os determinados por GPS, endereço IP e outros dados de sensores do seu dispositivo ou próximos dele, dependendo em parte do dispositivo e das configurações da conta. Dependendo dessas configurações, isso pode incluir **dados de local exato**. Por exemplo, dados de GPS para recursos do Android, como trajetos ou localização do smartphone. Saiba mais sobre Como o Google usa os dados de localização.
-
-**Informações de áudio, eletrônicas, visuais e semelhantes**, como informações de áudio e voz.
-
-**Dados de comunicação**, como e-mails, se você usa nossos serviços para enviar e receber mensagens.
-
-**Informações sobre saúde**, se você optar por fornecer esses dados, como histórico médico, sinais vitais e métricas de saúde (por exemplo, níveis de glicemia), além de outras informações semelhantes relacionadas à sua saúde física ou mental. Essas informações são coletadas enquanto você usa serviços do Google que oferecem recursos relacionados à saúde, como o app Google Health Studies.
-
-**Informações profissionais e educacionais**, como aquelas que você fornece ou que são mantidas nos Serviços do Google por uma organização em que você estuda ou trabalha.
-
-**Outras informações que você cria ou fornece**, como conteúdo que você cria, recebe ou do qual faz upload (por exemplo, fotos e vídeos, e-mails, documentos e planilhas). O Painel do Google permite gerenciar informações associadas a produtos específicos.
-
-**Inferências** feitas a partir dos itens acima, como categorias de interesses em anúncios.
-
-### Objetivos comerciais para os quais as informações podem ser usadas ou divulgadas.
-
-**Proteção contra ameaças de segurança, abuso e atividades ilegais:** O Google usa ou talvez divulgue informações para detectar, prevenir e responder a incidentes de segurança, e para proteção contra atividades maliciosas, deceptivas, fraudulentas ou ilegais. Por exemplo, para proteger nossos serviços, o Google pode receber ou divulgar informações sobre endereços IP comprometidos por pessoas maliciosas.
-
-**Auditoria e avaliação:** o Google usa informações para analisar e mensurar como nossos serviços são usados e para cumprir obrigações com nossos parceiros, como editores, anunciantes, desenvolvedores e detentores de direitos. Podemos divulgar informações que não sejam de identificação pessoal ao público e a esses parceiros, inclusive para fins de auditoria.
-
-**Manutenção dos nossos serviços:** o Google usa informações para garantir que nossos serviços funcionem de acordo com o esperado, como para rastrear interrupções de serviço, corrigir bugs e solucionar outros problemas informados.
-
-**Pesquisa e desenvolvimento:** o Google usa informações para melhorar nossos serviços e desenvolver novos produtos, recursos e tecnologias que tragam benefícios aos usuários e ao público. Por exemplo, usamos informações disponíveis publicamente para ajudar a treinar nossos modelos de idiomas e criar recursos como o Google Tradutor.
-
-**Uso de provedores de serviço:** O Google compartilha informações com provedores de serviços para que eles prestem serviços pelo Google, em conformidade com nossa Política de Privacidade e outras medidas de confidencialidade e segurança adequadas. Por exemplo, podemos deixar que os provedores de serviços cuidem do atendimento ao cliente.
-
-**Publicidade**: o Google trata informações para fornecer anúncios, incluindo identificadores on-line, atividade de navegação e pesquisa e informações sobre sua localização e interações com anúncios. Isso permite que os serviços do Google e muitos dos sites e serviços continuem a ser oferecidos sem custos financeiros. Você pode controlar quais informações usamos para exibir anúncios nas configurações da Minha central de anúncios.
-
-**Motivos legais:** o Google também usa informações para obedecer a leis e regulamentos aplicáveis e divulga esses dados em resposta a ordens judiciais e solicitações governamentais, inclusive para autoridades governamentais. Compartilhamos informações sobre o número e o tipo de solicitação que recebemos dos governos no nosso Transparency Report.
-
-### Grupos para os quais as informações podem ser divulgadas
-
-**Outras pessoas com quem você escolhe compartilhar suas informações**, como documentos ou fotos e vídeos ou comentários no YouTube.
-
-**Terceiros com seu consentimento**, como serviços que integram os serviços do Google. É possível revisar e gerenciar os apps e sites de terceiros com acesso aos dados da sua Conta do Google.
-
-**Provedores de serviço**, empresas ou pessoas de confiança que processam informações em nome do Google, com base nas nossas instruções e em conformidade com nossa Política de Privacidade e qualquer outra medida de confidencialidade e segurança adequada.
-
-Administradores do domínio, se você estuda ou trabalha em uma organização que usa serviços do Google.
-
-**Autoridades policiais, judiciais e outros terceiros**, pelas razões legais descritas em Compartilhando suas informações (link em inglês).
+Se tiver alguma dúvida, entre em contato com o Google e com nosso escritório de proteção de dados. Você também poderá entrar em contato com a autoridade local de proteção de dados se tiver dúvidas sobre seus direitos de acordo com a legislação brasileira.
 
 # Sobre esta política
 
