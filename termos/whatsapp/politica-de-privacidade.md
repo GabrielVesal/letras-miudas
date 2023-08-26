@@ -3,8 +3,8 @@ empresa: "WhatsApp"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
-capturado_em: 2023-05-26
-wayback: "https://web.archive.org/web/20230526011851/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
+capturado_em: 2023-08-26
+wayback: "https://web.archive.org/web/20230826100817/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/politica-de-privacidade.md"
 ---
 
@@ -113,7 +113,7 @@ Caso estejamos envolvidos em uma fusão, aquisição, reestruturação, falênci
 
 ### Gerenciamento e manutenção dos seus dados
 
-Você pode acessar ou portar seus dados usando nosso recurso “Solicitar dados da conta” (abra o WhatsApp e toque em Configurações/Ajustes > Conta). Os usuários de iPhone podem aprender a acessar, gerenciar e apagar os dados por meio dos nossos artigos da Central de ajuda para iPhone. Os usuários de Android podem aprender a acessar, gerenciar e apagar as informações por meio dos nossos artigos da Central de ajuda para Android.
+Você pode acessar ou portar seus dados usando nosso recurso “Solicitar dados da conta” (abra o WhatsApp e toque em Configurações/Ajustes > Conta). Os usuários de iPhone podem aprender a acessar, gerenciar e apagar os dados por meio dos nossos artigos da Central de ajuda para iPhone. Os usuários de Android podem aprender a acessar, gerenciar e excluir as informações por meio dos nossos artigos da Central de Ajuda para Android.
 
 Nós armazenamos informações pelo tempo necessário para as finalidades identificadas nesta Política de Privacidade, inclusive para fornecer nossos Serviços ou por algum outro motivo legítimo, como cumprir com obrigações jurídicas, evitar violações dos nossos Termos, proteger ou defender nossos direitos, nossa propriedade e nossos usuários. O período de armazenamento varia de acordo com cada caso e depende de fatores como a natureza dos dados, o motivo pelo qual são coletados e tratados, e necessidades de retenção operacional ou legal relevantes.
 
