@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2023-01-30
-wayback: "https://web.archive.org/web/20230130222908/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2023-09-11
+wayback: "https://web.archive.org/web/20230911183419/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -20,7 +20,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 15 de dezembro de 2022 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 1 de julho de 2023 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -142,7 +142,7 @@ Usamos as informações que coletamos nos serviços existentes no desenvolviment
 
 Usamos as informações que coletamos para personalizar nossos serviços, inclusive para fornecer recomendações, conteúdo e resultados de pesquisa personalizados. Por exemplo, a Verificação de segurança fornece dicas de segurança adaptadas à forma como você usa os produtos do Google. E o Google Play usa informações, como apps já instalados e vídeos assistidos no YouTube, para sugerir novos apps que você pode gostar.
 
-Dependendo das suas configurações, também podemos mostrar anúncios personalizados com base nos seus interesses. Por exemplo, se você pesquisar "mountain bikes", poderá encontrar um anúncio de equipamentos esportivos ao navegar em um site que exibe anúncios veiculados pelo Google. É possível controlar quais informações usamos para exibir anúncios, basta acessar as configurações na Minha central de anúncios.
+Dependendo das suas configurações, também podemos mostrar anúncios personalizados com base nos seus interesses. Por exemplo, se você pesquisar "mountain bikes", poderá encontrar um anúncio sobre equipamentos esportivos no YouTube. É possível controlar quais informações usamos para exibir anúncios nas configurações da Minha central de anúncios.
 
 - Não mostramos anúncios personalizados com base em categorias sensíveis, como raça, religião, orientação sexual ou saúde.
 - Não mostramos anúncios personalizados com base no seu conteúdo do Drive, Gmail ou Fotos.
@@ -403,7 +403,6 @@ Alteramos esta Política de Privacidade periodicamente. Nós não reduziremos se
 
 Os seguintes avisos de privacidade fornecem informações adicionais sobre alguns serviços do Google:
 
-- Chrome e o sistema operacional do Chrome
 - Payments
 - Fiber
 - Google Fi
@@ -565,7 +564,7 @@ Podemos, por exemplo, usar informações dos seus dispositivos para ajudar você
 
 ### fontes de acesso público
 
-Podemos, por exemplo, coletar informações disponíveis publicamente on-line ou de outras fontes públicas para ajudar a treinar os modelos de idiomas do Google e criar recursos como o Google Tradutor. Ou, caso as informações sobre sua empresa apareçam em um site, podemos indexá-las e exibi-las nos Serviços do Google.
+Podemos, por exemplo, coletar informações disponíveis publicamente on-line ou de outras fontes públicas para ajudar a treinar os modelos de IA do Google e criar recursos como o Google Tradutor, o Bard e recursos de IA na nuvem. Ou, caso as informações sobre sua empresa apareçam em um site, podemos indexá-las e exibi-las nos Serviços do Google.
 
 ### fornecer nossos serviços
 
