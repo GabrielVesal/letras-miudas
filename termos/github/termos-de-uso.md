@@ -3,8 +3,8 @@ empresa: "GitHub"
 documento: "Termos de Uso"
 categoria: "Tecnologia"
 fonte: "https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
-capturado_em: 2023-08-31
-wayback: "https://web.archive.org/web/20230831002723/https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
+capturado_em: 2023-09-30
+wayback: "https://web.archive.org/web/20230930140317/https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/github/termos-de-uso.md"
 ---
 
@@ -43,7 +43,7 @@ Data de início de vigência: 16 de novembro de 2020
 
 1. Uma "Conta" representa sua relação legal com o GitHub. Uma "Conta Pessoal" representa a autorização de um Usuário individual para fazer login e usar o Serviço e serve como identidade de um Usuário no GitHub. "Organizações" são espaços de trabalho compartilhados que podem ser associados a uma única entidade ou a um ou mais usuários, onde vários usuários podem colaborar em vários projetos ao mesmo tempo. Uma Conta Pessoal pode ser membro de qualquer número de Organizações.
 2. O “Contrato” refere-se, coletivamente, a todos os termos, condições, notificações contidos ou mencionados neste documento (os “Termos de Serviço” ou os “Termos”) e todas as outras regras operacionais, políticas (incluindo a Política de Privacidade do GitHub, disponível em github.com/site/privacy) e procedimentos que podemos publicar periodicamente no Site. A maioria de nossas políticas do site está disponível em docs.github.com/categories/site-policy.
-3. "Visualizações Beta" significa software, serviços ou recursos identificados como alfa, beta, visualização, acesso antecipado ou avaliação, ou palavras ou frases com significados semelhantes.
+3. “Visualizações Beta” significa software, serviços ou recursos identificados como alfa, beta, visualização, acesso antecipado ou avaliação, ou palavras ou frases com significados semelhantes.
 4. "Conteúdo" refere-se ao conteúdo apresentado ou exibido através do Site, incluindo, sem limitação, código, texto, dados, artigos, imagens, fotografias, gráficos, software, aplicativos, pacotes, designs, recursos e outros materiais disponíveis no Site ou de outra forma disponível através do Serviço. "Conteúdo" também inclui Serviços. "Conteúdo Gerado pelo Usuário" é o Conteúdo, escrito ou não, criado ou carregado por nossos Usuários. "Seu Conteúdo" é o Conteúdo que você cria ou possui.
 5. "GitHub", "Nós" e "Nós" referem-se ao GitHub, Inc., bem como a nossas afiliadas, diretores, subsidiárias, contratados, licenciadores, executivos, agentes e funcionários.
 6. O "Serviço" refere-se aos aplicativos, software, produtos e serviços fornecidos pelo GitHub, incluindo quaisquer Pré-visualizações Beta.
@@ -90,7 +90,7 @@ Se você for usuário do governo ou acessar ou usar qualquer Serviço do GitHub 
 
 Se você se inscreveu no GitHub Enterprise Cloud, o Adendo do Enterprise Cloud se aplica a você, e você concorda com suas disposições.
 
-## C. Uso Aceitável
+## C. Uso aceitável
 
 **Versão curta:** *O GitHub hospeda uma ampla variedade de projetos colaborativos do mundo todo, e essa colaboração só funciona quando nossos usuários são capazes de trabalhar juntos de boa-fé. Ao usar o serviço, você deve seguir os termos desta seção, que incluem algumas restrições sobre o conteúdo que você pode publicar, conduzir no serviço e outras limitações. Resumindo, sejam excelentes uns com os outros.*
 
