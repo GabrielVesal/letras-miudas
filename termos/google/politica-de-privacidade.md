@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2023-09-11
-wayback: "https://web.archive.org/web/20230911183419/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2023-10-09
+wayback: "https://web.archive.org/web/20231009232922/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -20,7 +20,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 1 de julho de 2023 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 4 de outubro de 2023 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
