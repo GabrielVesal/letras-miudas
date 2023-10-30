@@ -14,7 +14,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 1 de julho de 2023 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 4 de outubro de 2023 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -457,7 +457,6 @@ Alteramos esta Política de Privacidade periodicamente. Nós não reduziremos se
 
 Os seguintes avisos de privacidade fornecem informações adicionais sobre alguns serviços do Google:
 
-- Chrome e o sistema operacional do Chrome
 - Payments
 - Fiber
 - Google Fi
