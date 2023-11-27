@@ -3,8 +3,8 @@ empresa: "Hotmart"
 documento: "Política de Privacidade"
 categoria: "Serviços"
 fonte: "https://hotmart.com/pt-br/legal/privacidade-de-dados"
-capturado_em: 2023-10-30
-wayback: "https://web.archive.org/web/20231030175552/https://hotmart.com/pt-br/legal/privacidade-de-dados"
+capturado_em: 2023-11-27
+wayback: "https://web.archive.org/web/20231127214323/https://hotmart.com/pt-br/legal/privacidade-de-dados"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/hotmart/politica-de-privacidade.md"
 ---
 
@@ -219,6 +219,8 @@ Abaixo estão listados os dados pessoais que são coletados pelas empresas Hotma
 7.1. Você pode permitir que a nossa Plataforma interaja com serviços de terceiros (como Facebook, Google, Zoom). As informações que você permite que sejam acessadas por nós depende de cada serviço e pode ser afetada pelas configurações de privacidade que você e os outros com quem você está conectado estabeleçam ao utilizar os serviços. Serviços de terceiros são operados, controlados e mantidos por Terceiros, sem qualquer relacionamento conosco. Recomendamos que você leia os termos de uso e políticas de privacidade dos respectivos Terceiros para compreender como seus dados pessoais são coletados, utilizados e compartilhados por eles conosco ou com outros Terceiros.
 
 7.2. De modo específico, as empresas Hotmart Company, em determinados casos, podem vincular serviços de terceiros à Plataforma por meio de application programming interface (APIs), como, por exemplo, a API do YouTube. Estes serviços de terceiros não integram o escopo dos serviços das empresas Hotmart Company e não fazem parte da Plataforma, estando sujeitos a termos e condições diferentes, como os Termos de Serviço do YouTube e a Política de Privacidade do Google. As empresas Hotmart Company não são responsáveis por estes serviços e, quando você interage com eles, está fornecendo-lhes seus dados pessoais diretamente.
+
+7.2.1. O aplicativo da Hotmart usa e transfere as informações recebidas das APIs do Google para qualquer outro aplicativo dentro dos requisitos da Política de Dados do Usuário dos Serviços de API do Google, incluindo os requisitos de uso limitado.
 
 ### **8. TRANSFERÊNCIAS INTERNACIONAIS**
 
