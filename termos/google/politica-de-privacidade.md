@@ -14,7 +14,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 4 de outubro de 2023 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 15 de novembro de 2023 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -611,7 +611,7 @@ Por exemplo, usamos um cookie chamado "lbcs", o que possibilita que você abra m
 
 ### detectar abuso
 
-Quando detectamos spam, malware, conteúdo ilegal e outras formas de abuso que violam nossas políticas em nossos sistemas, podemos desativar sua conta ou tomar outras medidas adequadas. Em certas circunstâncias, podemos também denunciar a violação às autoridades competentes.
+Quando detectamos spam, malware, conteúdo ilegal (incluindo abuso sexual e exploração infantil) e outras formas de abuso que violam nossas políticas em nossos sistemas, podemos desativar sua conta ou perfil ou tomar outras medidas adequadas. Em algumas situações, denunciamos a violação às autoridades competentes.
 
 ### dispositivo Android com apps do Google
 
@@ -685,7 +685,7 @@ Por exemplo, tratamos informações sobre solicitações de remoção de conteú
 
 ### ordem judicial ou solicitação governamental aplicável
 
-Como outras empresas de tecnologia e comunicação, o Google recebe regularmente solicitações de governos e tribunais do mundo todo para divulgar dados de usuários. O respeito pela privacidade e segurança dos dados armazenados no Google sustenta nossa abordagem ao obedecer a essas solicitações oficiais. Nossa equipe jurídica analisa cada solicitação, independentemente do tipo, e frequentemente recuamos quando o pedido parece ser excessivamente abrangente ou não segue o processo correto. Saiba mais no nosso Transparency Report.
+Como outras empresas de tecnologia e comunicação, o Google recebe regularmente solicitações de governos e tribunais do mundo todo para divulgar dados de usuários. O respeito pela privacidade e segurança dos dados armazenados no Google está por trás da nossa abordagem ao obedecer a essas solicitações oficiais. Nossa equipe jurídica analisa cada solicitação, independentemente do tipo, e frequentemente declinamos quando o pedido parece ser excessivamente abrangente ou não segue o processo correto. Saiba mais no nosso Transparency Report.
 
 ### parceiros específicos
 
