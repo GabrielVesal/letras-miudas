@@ -2,9 +2,12 @@
      Fonte: https://www.spotify.com/br-pt/legal/privacy-policy/
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
+Sua privacidade é importante. Em 5 de dezembro, atualizamos nossa Política de privacidade para facilitar a leitura e incluir outros detalhes.
+
+
 # **Política de Privacidade do Spotify**
 
-Em vigor a partir de 22 de fevereiro de 2023
+Em vigor a partir de 5 de dezembro de 2023
 
 1. Sobre esta Política
 
@@ -199,7 +202,7 @@ Você ou outro usuário pode compartilhar certas informações em serviços de t
 
 - Seu perfil
 - Qualquer conteúdo que você postar no Spotify e detalhes sobre esse conteúdo
-- Suas playlists públicas
+- Suas playlists e quaisquer títulos, descrições e imagens associadas
 
 Quando este compartilhamento ocorrer, o serviço de terceiros pode armazenar uma cópia dele para oferecer suporte aos próprios recursos.
 
@@ -243,37 +246,21 @@ Guardamos seus dados pessoais apenas enquanto for necessário para fornecer o Se
 - Cumprir nossas obrigações legais
 - Resolver disputas
 
-Veja abaixo algumas categorias dos períodos de retenção:
+Confira abaixo algumas categorias dos períodos de retenção e os critérios que usamos para serem determinadas:
 
 - **Dados retidos até que você os remova**
-
-Você tem o direito de solicitar a exclusão de alguns dados pessoais. Consulte a seção sobre "Exclusão" na Seção 2 "Direitos e controles dos seus dados pessoais" para obter mais informações.
-
+ Você tem o direito de solicitar que excluamos alguns dos seus dados pessoais. Consulte a seção "Exclusão" na Seção 2 "Direitos e controles dos seus dados pessoais" para obter mais informações e as circunstâncias em que podemos atender à sua solicitação.
+ Você também pode excluir e editar certos dados pessoais diretamente do Serviço Spotify, como sua foto de perfil, por exemplo. Mantemos os dados pessoais que você pode ver e atualizar pelo tempo que escolher, a não ser que um dos fins limitados descritos abaixo se aplique.
 - **Dados que expiram após um período específico**
-
-Estabelecemos prazos de retenção para que alguns dados expirem após um período específico.
-
+ Estabelecemos prazos de retenção para que alguns dados expirem após um período específico. Por exemplo, os dados pessoais que você insere para fazer consultas geralmente são excluídos após 90 dias.
 - **Dados retidos até que a sua conta do Spotify seja excluída**
-
-Guardamos alguns dados até que sua conta do Spotify seja excluída. Quando a conta do Spotify é excluída, seus dados são excluídos ou anonimizados.
-
+ Guardamos alguns dados até que sua conta do Spotify seja excluída. Alguns exemplos são seu nome de usuário e as informações do seu perfil no Spotify. Normalmente, também mantemos o histórico de streaming por toda a duração da conta para, por exemplo, oferecer playlists retrospectivas que os usuários gostam de ouvir e recomendações personalizadas que consideram os hábitos desses ouvintes (como Sua Máquina do Tempo ou Pra lembrar das férias). Quando a conta do Spotify é excluída, essa categoria de dados é excluída ou desidentificada.
 - **Dados retidos por períodos longos para fins limitados**
+ Após a exclusão da conta, guardamos alguns dados por um prazo maior, mas para fins muito limitados. Por exemplo, podemos estar sujeitos a obrigações legais ou contratuais que necessitam dessas informações. Alguns exemplos são leis de retenção obrigatória de dados, decisões governamentais de preservação de dados relacionados a uma investigação ou dados mantidos por litígio. Também poderemos guardar os dados que foram removidos do Serviço Spotify por tempo indeterminado. Isso é feito para:
+ - ajudar a garantir a segurança do usuário;
+ - proteger contra conteúdos nocivos na nossa plataforma.
 
-Após a exclusão da conta, guardamos alguns dados por um prazo maior, mas para fins muito limitados.
-
-Estes são alguns dos critérios usados para determinar os períodos de retenção:
-
-- **Qual é o período de retenção adequado para cumprir a nossa finalidade?** Nossos sistemas são projetados para excluir automaticamente os dados com base em um período de retenção definido. Nós escolhemos o período de retenção com base na finalidade comercial legítima.
-- **Precisamos manter dados para garantir o serviço que nossos clientes esperam?** Mantemos dados pessoais por um período apropriado para oferecer um serviço personalizado a nossos usuários ao longo do tempo. Geralmente, mantemos o histórico de streaming por toda a duração da conta para, por exemplo, oferecer playlists retrospectivas que usuários gostam de ouvir e recomendações personalizadas com base nos hábitos atuais deles. Por exemplo, Pra lembrar das férias e a Retrospectiva de fim de ano.
-- **Os usuários podem atualizar ou excluir dados?** As informações pessoais que os usuários podem visualizar e atualizar são armazenadas pelo período determinado pelo próprio usuário.
-- **Precisamos guardar os dados para cumprir nossas regras e manter nosso serviço seguro?** Poderemos guardar os dados que foram removidos do Serviço Spotify por tempo indeterminado. Isto ocorre para:
- - Ajudar a garantir a segurança do usuário;
- - Proteção contra conteúdos nocivos em nossa plataforma; e
- - Tomar ação acerca de denúncias de infração de propriedade intelectual.
-
-Isso também nos ajuda a investigar possíveis violações das nossas Diretrizes do Usuário e Regras da Plataforma.
-
-- **O Spotify está sujeito a uma obrigação legal ou contratual de manter ou excluir os dados?** Exemplos incluem leis de retenção obrigatória de dados, ordens governamentais para preservar dados relevantes para uma investigação ou dados mantidos para fins de litígio. Por outro lado, removeremos conteúdo ilegal se a lei exigir.
+Isso nos ajuda a investigar possíveis violações das nossas Diretrizes do Usuário e Regras da Plataforma. Por outro lado, removeremos conteúdo ilegal se a lei exigir que o façamos.
 
 ## **7. Transferência para outros países**
 
