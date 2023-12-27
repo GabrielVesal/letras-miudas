@@ -38,9 +38,9 @@ O WhatsApp precisa receber ou coletar algumas informações para operar, fornece
 
 Os tipos de dados que recebemos e coletamos dependem de como você usa nossos Serviços. Para fornecermos nossos Serviços, solicitamos certas informações e, sem elas, não poderemos oferecer esses Serviços a você. Por exemplo, precisamos que você forneça seu número de telefone celular para criar uma conta e usar nossos Serviços.
 
-Nossos Serviços têm recursos opcionais e precisamos coletar dados adicionais para fornecê-los a você. Conforme o caso, você receberá uma notificação sobre essa coleta. Caso você decida não fornecer os dados necessários à utilização de um recurso, não será possível usá-lo. Você não pode compartilhar sua localização com seus contatos, por exemplo, se não permitir a coleta dos seus dados de localização a partir do seu dispositivo. As permissões podem ser gerenciadas pelo menu de Configurações/Ajustes de dispositivos Android e iOS.
+Nossos Serviços têm recursos opcionais e precisamos coletar dados adicionais para fornecê-los a você. Conforme o caso, você receberá uma notificação sobre essa coleta. Caso você decida não fornecer os dados necessários à utilização de um recurso, não será possível usá-lo. Você não pode compartilhar sua localização com seus contatos, por exemplo, se não permitir a coleta dos seus dados de localização a partir do seu dispositivo. As permissões podem ser gerenciadas tocando na sua foto de perfil para ir ao menu de configurações em dispositivos Android e iOS.
 
-#### Dados fornecidos por você
+#### Informações fornecidas por você
 
 - **Dados de sua conta**. Você deve enviar seu número de telefone celular e seus dados básicos (como um nome de perfil escolhido por você) para criar uma conta do WhatsApp. Caso você não forneça esses dados, você não conseguirá criar uma conta para utilizar nossos Serviços. Outras informações podem ser adicionadas à sua conta, como uma foto de perfil e um recado.
 - **Suas mensagens**. Não guardamos suas mensagens durante a prestação dos Serviços. Em vez disso, suas mensagens são armazenadas no seu dispositivo e normalmente não ficam armazenadas nos nossos servidores. Ao entregarmos suas mensagens, elas são apagadas dos nossos servidores. Os cenários a seguir descrevem os casos em que podemos armazenar suas mensagens durante o processo de entrega:
@@ -108,9 +108,9 @@ Para saber mais sobre as outras Empresas da Meta e suas práticas de privacidade
 
 Caso estejamos envolvidos em uma fusão, aquisição, reestruturação, falência ou venda de todos ou alguns de nossos ativos, compartilharemos com as entidades sucessoras ou com os novos proprietários seus dados relacionados à transação e de acordo com as leis aplicáveis de proteção de dados.
 
-### Gerenciamento e manutenção dos seus dados
+### Gerenciamento e manutenção das suas informações
 
-Você pode acessar ou portar seus dados usando nosso recurso “Solicitar dados da conta” (abra o WhatsApp e toque em Configurações/Ajustes > Conta). Os usuários de iPhone podem aprender a acessar, gerenciar e apagar os dados por meio dos nossos artigos da Central de ajuda para iPhone. Os usuários de Android podem aprender a acessar, gerenciar e excluir as informações por meio dos nossos artigos da Central de Ajuda para Android.
+Você pode acessar seus dados ou fazer a portabilidade deles usando nosso recurso “Solicitar dados da conta” no app (toque na sua foto de perfil para ir até configurações > Conta). Os usuários de iPhone podem aprender a acessar, gerenciar e apagar as informações por meio dos nossos artigos da Central de ajuda para iPhone. Os usuários de Android podem aprender a acessar, gerenciar e excluir as informações por meio dos nossos artigos da Central de Ajuda para Android.
 
 Nós armazenamos informações pelo tempo necessário para as finalidades identificadas nesta Política de Privacidade, inclusive para fornecer nossos Serviços ou por algum outro motivo legítimo, como cumprir com obrigações jurídicas, evitar violações dos nossos Termos, proteger ou defender nossos direitos, nossa propriedade e nossos usuários. O período de armazenamento varia de acordo com cada caso e depende de fatores como a natureza dos dados, o motivo pelo qual são coletados e tratados, e necessidades de retenção operacional ou legal relevantes.
 
