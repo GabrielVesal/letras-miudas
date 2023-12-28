@@ -3,8 +3,8 @@ empresa: "GitHub"
 documento: "Termos de Uso"
 categoria: "Tecnologia"
 fonte: "https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
-capturado_em: 2023-10-31
-wayback: "https://web.archive.org/web/20231031235336/https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
+capturado_em: 2023-12-28
+wayback: "https://web.archive.org/web/20231228022315/https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/github/termos-de-uso.md"
 ---
 
@@ -114,7 +114,7 @@ Temos o direito de recusar ou remover qualquer Conteúdo Gerado pelo Usuário qu
 
 Você mantém a propriedade e a responsabilidade pelo Seu Conteúdo. Se você estiver publicando algo que você não criou ou não possui os direitos, você concorda que é responsável por qualquer Conteúdo que publicar; que você enviará apenas o Conteúdo que você tem o direito de postar; e que você cumprirá integralmente todas as licenças de terceiros relacionadas ao Conteúdo que você publicar.
 
-Como você mantém a propriedade e a responsabilidade pelo Seu Conteúdo, precisamos que você conceda a nós e a outros Usuários do GitHub determinadas permissões legais, listadas nas Seções D.4 – D.1. Essas concessões de licença se aplicam ao Seu Conteúdo. Se você fizer upload de Conteúdo que já vem com uma licença que concede ao GitHub as permissões necessárias para executar nosso Serviço, nenhuma licença adicional é necessária. Você entende que não receberá nenhum pagamento por nenhum dos direitos outorgados nas Seções D.4 – D.1. As licenças que você nos concede terminarão quando você remover Seu Conteúdo de nossos servidores, a menos que outros Usuários o tenham bifurcado.
+Como você mantém a propriedade e a responsabilidade pelo Seu Conteúdo, precisamos que você nos conceda — e a outros usuários do GitHub — certas permissões legais, listadas nas Seções D.4 — D.7. Essas concessões de licença se aplicam ao Seu Conteúdo. Se você fizer upload de Conteúdo que já vem com uma licença que concede ao GitHub as permissões necessárias para executar nosso Serviço, nenhuma licença adicional é necessária. Você entende que não receberá nenhum pagamento por nenhum dos direitos concedidos nas Seções D.4 — D.7. As licenças que você nos concede terminarão quando você remover Seu Conteúdo de nossos servidores, a menos que outros Usuários o tenham bifurcado.
 
 ### 4. Outorga de Licença para Nós
 
