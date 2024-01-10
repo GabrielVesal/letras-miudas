@@ -191,6 +191,10 @@ As disposições constantes desta Política de Privacidade poderão ser atualiza
 
 Todos os visitantes das seguintes plataformas: (i) RappiShopper (com.rappi.shopper); (ii) Rappi Entregador – Seja um entregador (com.rappi.storekeeper); (iii) RappiAliado (com.rappi.restaurants); (iv) Rappi: Super, Restaurante e Mais (com.grability.rappi); e (v) Rappi Partners Rappi (com.rappi.partners), deverão realizar o seu cadastro e autorizar o tratamento de dados pessoais para utilização dos serviços oferecidos. Portanto, em cada um dos sistemas existe uma caixa que diz “Política de Privacidade e Tratamento de Dados Pessoais” que deve ser lida e aceita para continuar usando os serviços da RAPPI BRASIL, sendo aplicada integralmente a presente Política de Privacidade”
 
+Em virtude do exposto, a RAPPI BRASIL INTERMEDIAÇÃO DE NEGÓCIOS LTDA. coleta e utiliza a localização dos dispositivos dos diferentes usuários por meio de suas plataformas. Essas informações são utilizadas para executar determinadas funcionalidades dessas plataformas, conforme descrito a seguir: (i) para a plataforma “Rappi Super e Comida”, a localização é usada para que o usuário possa inserir seu endereço de entrega com maior precisão; (ii) para a plataforma “Soy RappiShopper”, é utilizada para identificar o “Shopper” que gerenciará a respectiva ordem; e (iii) para a plataforma “SoyRappi”, a informação do Mandatário é utilizada em segundo plano para exibir as ordens mais próximas ao local onde ele se encontra.
+
+Não obstante, em todos esses casos, as informações de localização são utilizadas e armazenadas para oferecer uma experiência melhor a todos os nossos usuários.
+
 **10.Lei Aplicável e Jurisdição:**
 
 A presente Política de Privacidade será interpretada segundo a legislação brasileira, no idioma português, sendo eleito o Foro da Comarca de São Paulo para dirimir qualquer litígio, questão ou dúvida superveniente, com expressa renúncia de qualquer outro, por mais privilegiado que seja.
