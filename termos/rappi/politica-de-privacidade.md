@@ -3,8 +3,8 @@ empresa: "Rappi"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://legal.rappi.com/brazil/aviso-de-privacidade-e-politicas-de-uso-das-informacao-utilizadas-pela-rappi/"
-capturado_em: 2023-11-18
-wayback: "https://web.archive.org/web/20231118164250/https://legal.rappi.com/brazil/aviso-de-privacidade-e-politicas-de-uso-das-informacao-utilizadas-pela-rappi/"
+capturado_em: 2024-01-10
+wayback: "https://web.archive.org/web/20240110201257/https://legal.rappi.com/brazil/aviso-de-privacidade-e-politicas-de-uso-das-informacao-utilizadas-pela-rappi/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/rappi/politica-de-privacidade.md"
 ---
 
@@ -196,6 +196,10 @@ Como estamos sempre buscando melhorar a Plataforma e os nossos serviços, essa P
 As disposições constantes desta Política de Privacidade poderão ser atualizadas ou modificadas a qualquer momento, cabendo ao USUÁRIO verificá-las sempre que efetuar o acesso à PLATAFORMA.
 
 Todos os visitantes das seguintes plataformas: (i) RappiShopper (com.rappi.shopper); (ii) Rappi Entregador – Seja um entregador (com.rappi.storekeeper); (iii) RappiAliado (com.rappi.restaurants); (iv) Rappi: Super, Restaurante e Mais (com.grability.rappi); e (v) Rappi Partners Rappi (com.rappi.partners), deverão realizar o seu cadastro e autorizar o tratamento de dados pessoais para utilização dos serviços oferecidos. Portanto, em cada um dos sistemas existe uma caixa que diz “Política de Privacidade e Tratamento de Dados Pessoais” que deve ser lida e aceita para continuar usando os serviços da RAPPI BRASIL, sendo aplicada integralmente a presente Política de Privacidade”
+
+Em virtude do exposto, a RAPPI BRASIL INTERMEDIAÇÃO DE NEGÓCIOS LTDA. coleta e utiliza a localização dos dispositivos dos diferentes usuários por meio de suas plataformas. Essas informações são utilizadas para executar determinadas funcionalidades dessas plataformas, conforme descrito a seguir: (i) para a plataforma “Rappi Super e Comida”, a localização é usada para que o usuário possa inserir seu endereço de entrega com maior precisão; (ii) para a plataforma “Soy RappiShopper”, é utilizada para identificar o “Shopper” que gerenciará a respectiva ordem; e (iii) para a plataforma “SoyRappi”, a informação do Mandatário é utilizada em segundo plano para exibir as ordens mais próximas ao local onde ele se encontra.
+
+Não obstante, em todos esses casos, as informações de localização são utilizadas e armazenadas para oferecer uma experiência melhor a todos os nossos usuários.
 
 **10.Lei Aplicável e Jurisdição:**
 
