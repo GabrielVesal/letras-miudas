@@ -41,45 +41,12 @@ Quer saber mais? Consulte nossa Política de Privacidade completa acessando esse
 
 Nosso InterShop possui certificação em Privacidade emitida pela Bureau Veritas, umas das maiores certificadoras globais, atuante em 140 países. Nossa certificação está de acordo com a Norma Técnica TS-BVCBr0001, baseada na Lei Geral de Proteção a Dados Pessoais no Brasil (LGPD) e na General Data Protection Regulation na União Europeia (GDPR), e em outros 18 normativos e guias de boas práticas.
 
-INTR|Nasdaq Listed
+Sobre nós
 
-Certificação de privacidade
-
-Baixe o Super App
-
-Siga o Inter
-
-- Instagram
-
- @bancointer
-- Linkedin
-
- /banco-inter
-- Facebook
-
- /bancointer
-- Twitter
-
- /bancointer
-- Youtube
-
- /bancointer
-- TikTok
-
- /bancointer
-
-Pra você
-
-- Conta Digital Pessoa Física
-- Cartão de Crédito
-- Conta Digital PJ
-- Conta Digital MEI
-- Empréstimos e Crédito Imobiliário
-
+- O Inter
+- Portal RI
 - Inter Invest
-- Inter Shop
-- Seguros
-- Super App
+- Blog
 
 Precisa de ajuda?
 
@@ -90,7 +57,6 @@ Precisa de ajuda?
 - 2ª via do boleto
 - Saldo devedor
 - Negocie sua dívida
-- Blog
 
 Nossos números
 
@@ -101,14 +67,21 @@ Nossos números
 - Pessoa Com Deficiência de fala e audição0800 979 7099
 - Ouvidoria0800 940 7772
 - **Não ligamos pra você por esses telefones**. Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
+- Atendimento em libras
 
 **Não ligamos pra você por esses telefones**. Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
 
-INTR|Nasdaq Listed
-
 Certificação de privacidade
 
-Baixe o Super App
+Escolha outro país ou região para ver o conteúdo específico da sua localização
+
+Brasil
+
+Idioma da página
+
+Português
+
+Baixe o App
 
 Siga o Inter
 
