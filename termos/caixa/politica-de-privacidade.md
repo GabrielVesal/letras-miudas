@@ -26,7 +26,7 @@ São as atividades que realizamos com o seus dados pessoais, como: coleta, acess
 
 São as informações relacionadas a você, como o seu nome, nº da Identidade, CPF ou endereço.
 
-Além disso, dados pessoais também são informações que podem te identificar, tais como dados de localização do seu aparelho celular ou computador (geolocalização) e endereço de identificação na internet do seu computador ou aparelho celular (endereço IP).
+Além disso, dados pessoais também são informações que podem te identificar, tais como biometria, dados de localização do seu aparelho celular ou computador (geolocalização) e endereço de identificação na internet do seu computador ou aparelho celular (endereço IP).
 
 #### Dado pessoal sensível
 
@@ -154,13 +154,13 @@ Destacamos, a seguir, os casos mais comuns de compartilhamento de dados pessoais
 
 - com outras instituições financeiras participantes do Open Finance do Banco Central do Brasil, apenas mediante operação de consentimento efetuada por você por meio da interface da instituição financeira escolhida por você;
 
+- com outras instituições financeiras, instituições de pagamento e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, com a finalidade de prevenir fraudes, em atendimento à Resolução Conjunta n° 6, de 23/5/2023;
+
 - com nossos prestadores de serviços e parceiros de negócios.
 
 A CAIXA realiza transferência internacional apenas quando necessário e atendendo às orientações da legislação vigente, como, por exemplo, com outros bancos e instituições financeiras, para operações de câmbio e pagamentos no exterior.
 
 Compartilhamos somente os dados pessoais estritamente necessários, sempre prezando pela segurança da informação e seguindo as normas de sigilo bancário e legislação de privacidade e proteção de dados.
-
-Para saber mais detalhes sobre compartilhamento dos seus dados pessoais, você pode solicitar uma declaração completa.
 
 ### 7. Quais são os seus direitos como Titular de Dados Pessoais
 
@@ -176,7 +176,7 @@ Você pode ter acesso aos seus dados pessoais de 2 formas:
 
 - declaração simplificada: mostra quais dados pessoais temos sobre você. O envio dessa declaração é imediato.
 
-- declaração completa: além de mostrar quais dados pessoais temos sobre você, informamos para quais finalidades são realizados os tratamentos e com quem compartilhamos seus dados pessoais, dentre outras informações relevantes. Essa declaração é enviada no prazo de até 15 (quinze) dias.
+- declaração completa: além de mostrar quais dados pessoais temos sobre você, informamos para quais finalidades são realizados os tratamentos, dentre outras informações relevantes. Essa declaração é enviada no prazo de até 15 (quinze) dias.
 
 #### Correção
 
@@ -225,6 +225,6 @@ Você pode pedir para a CAIXA não realizar mais o tratamento dos seus dados, se
 ### 8. Dúvidas sobre o Aviso de Privacidade
 
 Você pode entrar em contato com o nosso Encarregado de Proteção de Dados, Jardel Luis Carpes, pelo e-mail
-encarregado.lgpd@caixa.gov.br.
+**encarregado.lgpd@caixa.gov.br**.
 
 Data de Atualização do Aviso de Privacidade: 06/07/2021
