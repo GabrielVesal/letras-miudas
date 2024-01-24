@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2023-12-18
-wayback: "https://web.archive.org/web/20231218081102/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2024-01-24
+wayback: "https://web.archive.org/web/20240124011436/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -20,7 +20,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 15 de novembro de 2023 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 15 de janeiro de 2024 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -103,20 +103,20 @@ Ir para a Conta do Google
 
 ### Suas informações de localização
 
-Quando você usa nossos serviços, coletamos informações sobre sua localização, o que nos ajuda a oferecer recursos, como rotas de carro, resultados da pesquisa para o que está perto de você e anúncios baseados na sua localização geral.
+Quando você usa nossos serviços, coletamos informações sobre sua localização, o que nos ajuda a oferecer recursos como rotas de carro, resultados da pesquisa para o que está perto de você e anúncios baseados na sua localização.
 
-Sua localização pode ser determinada com vários graus de precisão por:
+Dependendo dos produtos que você usa e das configurações escolhidas, o Google pode usar diferentes tipos de informações de localização para deixar alguns serviços e produtos mais úteis. Eles incluem:
 
 - GPS e outros dados do sensor do seu dispositivo
 - Endereço IP
-- atividade nos Serviços do Google, como pesquisa e lugares identificados como casa ou trabalho
+- atividade nos Serviços do Google, como pesquisas ou lugares identificados como casa ou trabalho
 - informações de itens próximos do dispositivo, como pontos de acesso Wi-Fi, torres de celular e dispositivos com Bluetooth ativado
 
 Os tipos de dados de localização que coletamos e por quanto tempo os armazenamos dependem, em parte, do dispositivo e das configurações da conta. Por exemplo, é possível ativar ou desativar a localização do dispositivo Android usando o app de configurações do dispositivo. Também é possível ativar o Histórico de localização caso você queira criar um mapa particular dos lugares que visita com seus dispositivos conectados. E, se a configuração "Atividade na Web e de apps" estiver ativada, suas pesquisas e outras atividades dos Serviços do Google, que podem também incluir informações de localização, serão salvas na sua Conta do Google. Saiba mais sobre como usamos as informações de localização.
 
 ---
 
-Em algumas circunstâncias, o Google também coleta informações sobre você de fontes de acesso público. Por exemplo, se seu nome aparecer em um jornal local, o mecanismo de pesquisa do Google poderá indexar esse artigo e exibi-lo para outras pessoas se elas pesquisarem pelo seu nome. Também podemos coletar informações sobre você de parceiros confiáveis, como serviços de diretório que nos fornecem informações comerciais que serão exibidas nos serviços do Google, parceiros de marketing que nos fornecem informações sobre clientes em potencial para nossos serviços comerciais e parceiros de segurança que nos fornecem informações para proteção contra abuso. Também recebemos informações de parceiros anunciantes para oferecer serviços de publicidade e pesquisa em nome deles.
+Em algumas circunstâncias, o Google também coleta informações sobre você de fontes de acesso público. Por exemplo, se o seu nome aparecer em um jornal local, o mecanismo de pesquisa do Google poderá indexar esse artigo e mostrá-lo para outras pessoas se elas pesquisarem pelo seu nome. Também podemos coletar informações sobre você de parceiros confiáveis, como serviços de diretório que nos fornecem informações comerciais que serão mostradas nos serviços do Google, parceiros de marketing que nos fornecem informações sobre clientes em potencial para nossos serviços comerciais e parceiros de segurança que nos fornecem informações para proteção contra abuso. Também recebemos informações de parceiros para oferecer serviços de publicidade e pesquisa em nome deles.
 
 Usamos várias tecnologias para coletar e armazenar informações, incluindo cookies, tags de pixel, armazenamento local como armazenamento do navegador da Web ou caches de dados de aplicativos, bancos de dados e registros do servidor.
 
@@ -152,7 +152,7 @@ Acessar a Minha central de anúncios
 
 ### Avaliar o desempenho
 
-Usamos dados para análise e avaliação a fim de entender como nossos serviços são usados. Por exemplo, analisamos dados sobre suas visitas aos nossos sites para otimizar o design do produto. Também usamos dados sobre os anúncios com os quais você interage para ajudar os anunciantes a entender o desempenho das campanhas publicitárias. Usamos diversas ferramentas para fazer isso, incluindo o Google Analytics. Quando você visita sites ou usa apps que usam o Google Analytics, um cliente do Google Analytics desse site pode ativar o Google para vincular informações sobre sua atividade naquele site ou app com atividades de outros sites e apps que usam nossos serviços de anúncios.
+Usamos dados para análise e avaliação a fim de entender como nossos serviços são usados. Por exemplo, analisamos dados sobre suas visitas aos nossos sites para otimizar o design do produto. Também usamos dados sobre os anúncios com os quais você interage, incluindo sua atividade relacionada na Pesquisa Google, para ajudar os anunciantes a entender a performance das campanhas publicitárias. Usamos diversas ferramentas para fazer isso, incluindo o Google Analytics. Quando você visita sites ou usa apps que utilizam o Google Analytics, um cliente do Google Analytics desse site pode ativar o Google para vincular informações sobre sua atividade naquele site ou app com atividades de outros sites e apps que usam nossos serviços de anúncios.
 
 ### Entrar em contato com você
 
@@ -282,7 +282,7 @@ Quando sua conta está conectada e você interage com alguns serviços do Google
 
 Não compartilhamos informações pessoais com empresas, organizações ou indivíduos externos ao Google, exceto nos casos descritos abaixo.
 
-### Com sua autorização
+### Com seu consentimento
 
 Compartilhamos informações pessoais fora do Google quando temos seu consentimento. Por exemplo, se você usar o Google Home para fazer uma reserva em um serviço de reservas, pediremos sua autorização antes de compartilhar seu nome ou número de telefone com o restaurante. Também oferecemos controles para revisar e gerenciar apps e sites de terceiros aos quais você concedeu acesso a dados na sua Conta do Google. Pediremos seu consentimento explícito antes de compartilhar quaisquer informações pessoais sensíveis.
 
@@ -461,7 +461,7 @@ Um dispositivo é um computador que pode ser usado para acessar os serviços do 
 
 ### Endereço IP
 
-Para todo dispositivo conectado à Internet é atribuído um número conhecido como endereço de protocolo de Internet (Internet Protocol ou IP). Geralmente, esses números são atribuídos em blocos geográficos. Um endereço IP muitas vezes pode ser usado para identificar de qual local um dispositivo está se conectando à Internet.
+Para todo dispositivo conectado à Internet é atribuído um número conhecido como endereço de Protocolo de Internet (IP). Geralmente, esses números são atribuídos em blocos geográficos. Um endereço IP muitas vezes pode ser usado para identificar de qual local um dispositivo está se conectando à Internet. Saiba mais sobre como usamos as informações de localização.
 
 ### Etiqueta de pixel
 
@@ -493,12 +493,12 @@ Como a maioria dos websites, nossos servidores registram automaticamente as soli
 
 Uma entrada de registro padrão para uma pesquisa de “carros” é assim:
 
-``` 123.45.67.89 - 25/Mar/2003 10:15:32 - http://www.google.com/search?q=cars - Firefox 1.0.7; Windows NT 5.1 - 740674ce2123e969 ```
+``` 123.45.67.89 - 25/Mar/2003 10:15:32 - http://www.google.com/search?q=cars - Chrome 112; OS X 10.15.7 - 740674ce2123e969 ```
 
 - `123.45.67.89` é o Endereço de Protocolo de Internet atribuído ao usuário pelo ISP dele. Dependendo do serviço do usuário, um endereço diferente pode ser atribuído pelo provedor de serviços dele a cada nova conexão com a Internet.
 - `25/Mar/2003 10:15:32` é a data e o horário da consulta.
 - `http://www.google.com/search?q=cars` é o URL solicitado, inclusive a consulta de pesquisa.
-- `Firefox 1.0.7; Windows NT 5.1` é o navegador e sistema operacional em uso.
+- `Chrome 112; OS X 10.15.7` é o navegador e sistema operacional em uso.
 - `740674ce2123a969` é o ID do cookie único atribuído a esse computador específico na primeira vez que ele visitou o Google. Os cookies podem ser excluídos pelos usuários. Se o usuário excluir o cookie do computador depois da última vez que acessou o site do Google, esse será o ID do cookie exclusivo atribuído ao dispositivo dele na próxima vez que ele acessar o site do Google em um dispositivo particular.
 
 ### URL referenciador
@@ -529,6 +529,14 @@ Essa atividade pode ser proveniente do seu uso de serviços do Google, como a si
 
 Saiba mais sobre como a Google usa dados quando o usuário utiliza sites ou apps dos nossos parceiros.
 
+### Atividade nos Serviços do Google
+
+Se a sua Conta do Google estiver conectada e a Atividade na Web e de apps ativada, seus dados de atividade em sites, apps e Serviços do Google poderão ser salvos na Atividade na Web e de apps da sua conta. Algumas atividades podem incluir informações sobre a área geral em que você estava quando usou o serviço do Google. Quando você pesquisa algo usando uma área geral, essa área tem pelo menos 3 km² ou é ampliada até que inclua a localização de pelo menos 1.000 pessoas. Isso ajuda a proteger sua privacidade.
+
+Em alguns casos, áreas que você pesquisou no passado podem ser usadas para estimar um local relevante para sua pesquisa. Por exemplo, se você pesquisar cafés enquanto estiver em Curitiba, o Google poderá mostrar resultados para essa cidade em pesquisas futuras.
+
+Você pode conferir e controlar sua Atividade na Web e de apps na página Minha atividade.
+
 ### categorias sensíveis
 
 Ao mostrar anúncios personalizados, usamos tópicos que achamos que podem ser interessantes para você com base na sua atividade. Por exemplo, podem ser exibidos anúncios de itens como "culinária e receitas" ou "viagem aérea". Não usamos tópicos nem exibimos anúncios personalizados com base em categorias sensíveis, como raça, religião, orientação sexual ou saúde. E exigimos o mesmo dos anunciantes que usam nossos serviços.
@@ -544,7 +552,7 @@ Alguns exemplos de como combinamos as informações que coletamos são descritos
 
 ### dados do sensor do seu dispositivo
 
-Seu dispositivo pode ter sensores que podem ser usados para entender melhor sua localização e movimentação. Por exemplo, um acelerômetro pode ser usado para determinar sua velocidade e um giroscópio pode ser usado para descobrir em que direção você está indo.
+Seu dispositivo pode ter sensores que podem ser usados para entender melhor sua localização e movimentação. Por exemplo, um acelerômetro pode ser usado para determinar sua velocidade e um giroscópio pode ser usado para descobrir em que direção você está indo. Saiba mais sobre como usamos as informações de localização.
 
 ### dependem de cookies para funcionar corretamente
 
@@ -572,7 +580,7 @@ Exemplos de como usamos suas informações para fornecer nossos serviços inclue
 
 - a utilização do endereço IP atribuído ao seu dispositivo para enviar os dados solicitados por você, como o carregamento de um vídeo do YouTube;
 - a utilização dos identificadores exclusivos armazenados em cookies no seu dispositivo, que nos ajudam a autenticar você como a pessoa que deve ter acesso à sua Conta do Google;
-- a utilização de fotos e vídeos enviados para o Google Fotos para ajudar você a criar álbuns, animações e outras criações que podem ser compartilhadas; Saiba mais
+- Fotos e vídeos enviados para o Google Fotos para ajudar você a criar álbuns, animações e outros conteúdos que podem ser compartilhados. Saiba mais
 - a utilização de um e-mail de confirmação de voo recebido por você para criar um botão de "check-in" no Gmail.
 - Quando você compra serviços ou produtos físicos conosco, você pode nos fornecer informações como endereço de entrega ou instruções para a entrega. Usamos essas informações para, dentre outros, processar, atender e entregar o seu pedido, além de oferecer o suporte relacionado ao produto ou serviço comprado.
 
@@ -597,6 +605,12 @@ Você pode escolher, por exemplo, se quer que o Google salve uma gravação de �
 ### informações sobre itens próximos do dispositivo
 
 Se você usa os serviços de localização do Google no Android, podemos melhorar o desempenho dos apps que dependem da localização, como o Google Maps. Se você usa os serviços de localização do Google, o dispositivo envia ao Google informações sobre localização, sensores (por exemplo, acelerômetro), torres de celular e pontos de acesso Wi-Fi próximos (por exemplo, endereço MAC e intensidade do sinal). Todos esses itens ajudam a determinar sua localização. Você pode usar as configurações do dispositivo para ativar os serviços de localização do Google. Saiba mais
+
+### Lugares que você marcou como casa e trabalho
+
+Você pode salvar lugares importantes na sua Conta do Google, como sua casa ou seu trabalho. Com o endereço de casa ou do trabalho definidos, fica mais fácil fazer as coisas, por exemplo, encontrar rotas ou resultados mais perto desses locais, além de receber anúncios mais úteis.
+
+Você pode editar ou excluir seus endereços de casa e do trabalho a qualquer momento na sua Conta do Google.
 
 ### mostrar tendências
 
@@ -643,7 +657,7 @@ Alguns exemplos de como usamos suas informações para ajudar a manter nossos se
 
 ### serviços de publicidade e pesquisa em nome deles
 
-Por exemplo, os anunciantes podem fazer upload de dados dos programas de cartão de fidelidade para que possam entender melhor o desempenho das campanhas publicitárias deles. Apenas fornecemos relatórios agregados aos anunciantes, esses relatórios não revelam informações sobre pessoas específicas.
+Por exemplo, os comerciantes podem fazer upload de dados dos programas de cartões de fidelidade para entender melhor a performance das campanhas publicitárias ou incluir essas informações nos resultados da pesquisa ou do Shopping. Apenas fornecemos relatórios agregados aos anunciantes, esses relatórios não revelam informações sobre pessoas específicas.
 
 ### serviços específicos do Google
 
