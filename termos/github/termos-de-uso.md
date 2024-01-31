@@ -3,8 +3,8 @@ empresa: "GitHub"
 documento: "Termos de Uso"
 categoria: "Tecnologia"
 fonte: "https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
-capturado_em: 2023-12-28
-wayback: "https://web.archive.org/web/20231228022315/https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
+capturado_em: 2024-01-31
+wayback: "https://web.archive.org/web/20240131210752/https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/github/termos-de-uso.md"
 ---
 
@@ -176,7 +176,7 @@ Encerraremos as contas de infratores reincidentes desta política.
 
 ### 1. Direitos do GitHub ao Conteúdo
 
-O GitHub e nossos licenciadores, fornecedores, agentes e/ou nossos provedores de conteúdo mantêm a propriedade de todos os direitos de propriedade intelectual de qualquer tipo relacionados ao Site e ao Serviço. Reservamos todos os direitos que não são expressamente concedidos a você sob este Contrato ou por lei. A aparência do site e do serviço é copyright © GitHub, Inc. Todos os direitos reservados. Você não pode duplicar, copiar ou reutilizar qualquer parte do HTML/CSS, Javascript ou elementos ou conceitos de design visual sem permissão expressa por escrito do GitHub.
+O GitHub e nossos licenciadores, fornecedores, agentes e/ou nossos provedores de conteúdo mantêm a propriedade de todos os direitos de propriedade intelectual de qualquer tipo relacionados ao Site e ao Serviço. Reservamos todos os direitos que não são expressamente concedidos a você sob este Contrato ou por lei. A aparência do site e do serviço é copyright © GitHub, Inc. Todos os direitos reservados. Você não pode duplicar, copiar ou reutilizar qualquer parte do HTML/CSS, JavaScript ou elementos ou conceitos de design visual sem permissão expressa por escrito do GitHub.
 
 ### 2. Marcas e Logotipos do GitHub
 
