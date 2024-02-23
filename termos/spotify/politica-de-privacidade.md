@@ -2,9 +2,6 @@
      Fonte: https://www.spotify.com/br-pt/legal/privacy-policy/
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-Sua privacidade é importante. Em 5 de dezembro, atualizamos nossa Política de privacidade para facilitar a leitura e incluir outros detalhes.
-
-
 # **Política de Privacidade do Spotify**
 
 Em vigor a partir de 5 de dezembro de 2023
