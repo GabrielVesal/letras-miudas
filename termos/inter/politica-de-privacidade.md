@@ -45,7 +45,8 @@ Sobre nós
 
 - O Inter
 - Portal RI
-- Inter Invest
+- Ética e Compliance
+- Investimentos
 - Blog
 
 Precisa de ajuda?
@@ -64,7 +65,6 @@ Nossos números
 - Demais localidades0800 940 0007
 - SAC0800 940 9999
 
-- Pessoa Com Deficiência de fala e audição0800 979 7099
 - Ouvidoria0800 940 7772
 - **Não ligamos pra você por esses telefones**. Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
 - Atendimento em libras
