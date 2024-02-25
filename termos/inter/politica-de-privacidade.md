@@ -3,8 +3,8 @@ empresa: "Inter"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://inter.co/politica-de-privacidade/"
-capturado_em: 2024-01-18
-wayback: "https://web.archive.org/web/20240118193717/https://inter.co/politica-de-privacidade/"
+capturado_em: 2024-02-25
+wayback: "https://web.archive.org/web/20240225210434/https://inter.co/politica-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/inter/politica-de-privacidade.md"
 ---
 
@@ -50,7 +50,8 @@ Sobre nós
 
 - O Inter
 - Portal RI
-- Inter Invest
+- Ética e Compliance
+- Investimentos
 - Blog
 
 Precisa de ajuda?
@@ -69,7 +70,6 @@ Nossos números
 - Demais localidades0800 940 0007
 - SAC0800 940 9999
 
-- Pessoa Com Deficiência de fala e audição0800 979 7099
 - Ouvidoria0800 940 7772
 - **Não ligamos pra você por esses telefones**. Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
 - Atendimento em libras
