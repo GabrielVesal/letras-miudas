@@ -3,8 +3,8 @@ empresa: "Hotmart"
 documento: "Política de Privacidade"
 categoria: "Serviços"
 fonte: "https://hotmart.com/pt-br/legal/privacidade-de-dados"
-capturado_em: 2023-11-27
-wayback: "https://web.archive.org/web/20231127214323/https://hotmart.com/pt-br/legal/privacidade-de-dados"
+capturado_em: 2024-02-27
+wayback: "https://web.archive.org/web/20240227102220/https://hotmart.com/pt-br/legal/privacidade-de-dados"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/hotmart/politica-de-privacidade.md"
 ---
 
@@ -286,9 +286,7 @@ Para Usuários localizados na União Europeia:
 
 **Hotmart B.V.**
 
-Spuistraat, 168
-
-1012 VT
+Frederiksplein, 1 1017XK
 
 Amsterdam, Holanda
 
