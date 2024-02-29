@@ -14,7 +14,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 15 de janeiro de 2024 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 8 de fevereiro de 2024 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -416,7 +416,7 @@ Algumas Leis Estaduais de Privacidade dos EUA também exigem que uma descrição
 
 **Manutenção dos nossos serviços:** o Google usa informações para garantir que nossos serviços funcionem de acordo com o esperado, como para rastrear interrupções de serviço, corrigir bugs e solucionar outros problemas informados.
 
-**Pesquisa e desenvolvimento:** o Google usa informações para melhorar nossos serviços e desenvolver novos produtos, recursos e tecnologias que tragam benefícios aos usuários e ao público. Por exemplo, usamos informações disponíveis publicamente para treinar os modelos de IA do Google e criar produtos e funcionalidades como o Google Tradutor, o Bard e recursos de IA em Cloud.
+**Pesquisa e desenvolvimento**: o Google usa informações para melhorar nossos serviços e desenvolver novos produtos, recursos e tecnologias que tragam benefícios aos usuários e ao público. Por exemplo, usamos informações disponíveis publicamente para treinar os modelos de IA do Google e criar produtos e funcionalidades como o Google Tradutor, os apps do Gemini e os recursos de IA em Cloud.
 
 **Uso de provedores de serviço:** O Google compartilha informações com provedores de serviços para que eles prestem serviços pelo Google, em conformidade com nossa Política de Privacidade e outras medidas de confidencialidade e segurança adequadas. Por exemplo, podemos deixar que os provedores de serviços cuidem do atendimento ao cliente.
 
@@ -631,7 +631,7 @@ Podemos, por exemplo, usar informações dos seus dispositivos para ajudar você
 
 ### fontes de acesso público
 
-Podemos, por exemplo, coletar informações disponíveis publicamente on-line ou de outras fontes públicas para ajudar a treinar os modelos de IA do Google e criar recursos como o Google Tradutor, o Bard e recursos de IA na nuvem. Ou, caso as informações sobre sua empresa apareçam em um site, podemos indexá-las e exibi-las nos Serviços do Google.
+Podemos, por exemplo, coletar informações disponíveis publicamente on-line ou de outras fontes públicas para ajudar a treinar os modelos de IA do Google e criar recursos como o Google Tradutor, os apps do Gemini e os recursos de IA em Cloud. Ou, caso as informações sobre sua empresa apareçam em um site, podemos indexá-las e exibi-las nos Serviços do Google.
 
 ### fornecer nossos serviços
 
