@@ -3,8 +3,8 @@ empresa: "WhatsApp"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
-capturado_em: 2023-08-26
-wayback: "https://web.archive.org/web/20230826100817/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
+capturado_em: 2024-03-01
+wayback: "https://web.archive.org/web/20240301001018/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/politica-de-privacidade.md"
 ---
 
@@ -44,7 +44,7 @@ O WhatsApp precisa receber ou coletar algumas informações para operar, fornece
 
 Os tipos de dados que recebemos e coletamos dependem de como você usa nossos Serviços. Para fornecermos nossos Serviços, solicitamos certas informações e, sem elas, não poderemos oferecer esses Serviços a você. Por exemplo, precisamos que você forneça seu número de telefone celular para criar uma conta e usar nossos Serviços.
 
-Nossos Serviços têm recursos opcionais e precisamos coletar dados adicionais para fornecê-los a você. Conforme o caso, você receberá uma notificação sobre essa coleta. Caso você decida não fornecer os dados necessários à utilização de um recurso, não será possível usá-lo. Você não pode compartilhar sua localização com seus contatos, por exemplo, se não permitir a coleta dos seus dados de localização a partir do seu dispositivo. As permissões podem ser gerenciadas pelo menu de Configurações/Ajustes de dispositivos Android e iOS.
+Nossos Serviços têm recursos opcionais e precisamos coletar dados adicionais para fornecê-los a você. Conforme o caso, você receberá uma notificação sobre essa coleta. Caso você decida não fornecer os dados necessários à utilização de um recurso, não será possível usá-lo. Por exemplo, você não conseguirá compartilhar sua localização com seus contatos se não permitir a coleta dos seus dados de localização do seu dispositivo. As permissões podem ser gerenciadas pelo menu de Configurações/Ajustes em dispositivos Android e iOS.
 
 #### Dados fornecidos por você
 
@@ -93,7 +93,7 @@ Você compartilha informações à medida que usa nossos Serviços e se comunica
 - **Seus contatos e outros**. Os usuários e as empresas com quem você se comunica podem armazenar ou compartilhar seus dados (inclusive seu número de telefone ou mensagens) com outras pessoas dentro e fora de nossos Serviços. É possível usar a configuração e o recurso “bloquear” em nossos Serviços para gerenciar com quem você se comunica nos nossos Serviços e a forma de compartilhamento de determinados dados.
 - **Empresas no WhatsApp**. Oferecemos serviços específicos às empresas, como métricas relacionadas ao uso de nossos serviços por essas empresas.
 - **Provedores de serviços de terceiros**. Trabalhamos com provedores de serviços de terceiros e com outras Empresas da Meta para nos ajudar a operar, fornecer, aprimorar, entender, personalizar e comercializar nossos Serviços, além de oferecer suporte para eles. Nós trabalhamos com essas empresas para oferecer suporte para os nossos Serviços, como disponibilizar sistemas de infraestrutura técnica e física, veiculação e outros; comercializar nossos Serviços; realizar pesquisas; garantir a proteção, a segurança e a integridade dos usuários e de outras pessoas; e ajudar no atendimento ao cliente. Quando compartilhamos informações com provedores de serviço de terceiros e com outras Empresas da Meta nesse sentido, exigimos que eles usem suas informações em nosso nome de acordo com as nossas instruções e termos.
-- **Serviços de terceiros**. Quando você ou outra pessoa usa serviços de terceiros ou outros Produtos das Empresas da Meta que são integrados aos nossos Serviços, esses serviços de terceiros podem receber informações sobre o que você ou outras pessoas compartilham com eles. Por exemplo, se você usa um serviço de backup de dados integrado aos nossos Serviços (como o iCloud ou o Google Drive), eles recebem informações que você compartilha com eles, como suas mensagens do WhatsApp. Caso você interaja com um serviço de terceiros ou outro Produto das Empresas da Meta conectado por meio dos nossos Serviços (como o uso do player do app para reproduzir conteúdo de uma plataforma externa) os dados sobre você, como endereço IP e a informação de que você é usuário do WhatsApp, podem ser fornecidos a esse terceiro ou aos Produtos das Empresas da Meta. Quando você usa serviços de terceiros ou outros Produtos das Empresas da Meta, os termos e as políticas de privacidade aplicáveis regem o uso desses serviços e produtos.
+- **Serviços de terceiros**. Quando você ou outra pessoa usa serviços de terceiros ou outros Produtos das Empresas da Meta que são integrados aos nossos Serviços, esses serviços de terceiros podem receber informações sobre o que você ou outras pessoas compartilham com eles. Por exemplo, se você usa um serviço de backup de dados integrado aos nossos Serviços (como o iCloud ou a Conta do Google), eles recebem informações que você compartilha com eles, como suas mensagens do WhatsApp. Caso você interaja com um serviço de terceiros ou outro Produto das Empresas da Meta conectado por meio dos nossos Serviços (como o uso do player do app para reproduzir conteúdo de uma plataforma externa) os dados sobre você, como endereço IP e a informação de que você é usuário do WhatsApp, podem ser fornecidos a esse terceiro ou aos Produtos das Empresas da Meta. Quando você usa serviços de terceiros ou outros Produtos das Empresas da Meta, os termos e as políticas de privacidade aplicáveis regem o uso desses serviços e produtos.
 
 ### Como trabalhamos com outras Empresas da Meta
 
