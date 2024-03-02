@@ -3,12 +3,12 @@ empresa: "Roblox"
 documento: "Política de Privacidade"
 categoria: "Jogos"
 fonte: "https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
-capturado_em: 2023-11-29
-wayback: "https://web.archive.org/web/20231129122159/https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
+capturado_em: 2024-03-02
+wayback: "https://web.archive.org/web/20240302004656/https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/politica-de-privacidade.md"
 ---
 
-Data de entrada em vigor: 14 de novembro de 2023
+Data de entrada em vigor: 15 de fevereiro de 2024
 
 Você também pode encontrar a Política de Privacidade completa aqui.
 
@@ -38,11 +38,13 @@ Você também pode encontrar a Política de Privacidade completa aqui.
 
  **EUA:** Ligue para: (888) 858 - BLOX Escreva para: Roblox Corporation Aos cuidados de: Roblox Privacy Manager Endereço: 970 Park Place, Suite 100 San Mateo, California, 94403privacy@roblox.com
 
- **EEE, Reino Unido ou Suíça:** Se você estiver no Espaço Econômico Europeu (EEE), no Reino Unido ou na Suíça: entre em contato com roblox@gdpr-rep.com (Nosso representante de acordo com os artigos 27 da UE e do GPDR da União Europeia) EEE: DP-Dock GmbH Aos cuidados: Empresa Roblox Ballindamm 39 / Ecke Jungfernstieg 20095 Hamburgo, Alemanha
+ **EEE, Reino Unido ou Suíça:** Se você estiver no Espaço Econômico Europeu (EEE), no Reino Unido ou na Suíça: entre em contato com roblox@gdpr-rep.com (Nosso representante de acordo com os artigos 27 da UE e do GPDR da União Europeia) EEE: DP-Dock GmbH Aos cuidados: Roblox Corporation Ballindamm 39 / Ecke Jungfernstieg 20095 Hamburgo, Alemanha
 
  Reino Unido: DP Data Protection Services UK Ltd. Attn: Roblox Corporation 16 Great Queen Street Covent Garden, London, WC2B 5AH, United Kingdom
 
  Se você estiver no Brasil, entre em contato com nosso Oficial de Proteção de Dados enviando um e-mail para privacy@roblox.com.
+
+ Se você estiver na Coreia do Sul, mais informações estão localizadas no Adendo de Política de Privacidade para Usuários na República da Coreia.
 
  Antes de seguir para o resto da Política de Privacidade, quando você vê certos termos nesta política, alguns deles têm significados específicos.
 
@@ -126,7 +128,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
 
  Compartilhamento de número de telefone
 
- Se você optar por fornecer um número de telefone, enviaremos uma mensagem pedindo que você confirme seu número antes de iniciar a sessão. Você pode usar seu número de telefone para resgatar uma senha perdida ou fazer login pelo celular. Você autoriza a sua operadora de telefonia móvel a usar ou divulgar informações sobre a sua conta e seu dispositivo sem fio, se disponível, à Roblox ou ao seu provedor de serviços pela duração de seu relacionamento de negócios, exclusivamente para auxiliá-los a identificar você ou o seu dispositivo e para evitar fraudes.
+ Se você optar por fornecer um número de telefone, enviaremos uma mensagem pedindo que você confirme seu número antes de iniciar a sessão. Usaremos seu número de telefone para segurança e acesso à conta, incluindo para recuperar uma senha perdida ou iniciar a sessão usando o celular. Você autoriza a sua operadora de telefonia móvel a usar ou divulgar informações sobre a sua conta e seu dispositivo sem fio, se disponível, à Roblox ou ao seu provedor de serviços pela duração de seu relacionamento de negócios, exclusivamente para auxiliá-los a identificar você ou o seu dispositivo e para evitar fraudes.
 
  Além disso, e com sua autorização, podemos usar seu número de telefone e acessar sua lista de contatos para encontrar outros amigos usando Roblox. Você será recomendado com seu nome de contato armazenado nos dispositivos de seus amigos, que também pode incluir seu nome real. Se você não desejar que utilizemos seu número de telefone para encontrar seus amigos na Roblox, não ative esse recurso. Observe que o recurso Descoberta pode não estar disponível em determinados locais.
 
@@ -145,13 +147,13 @@ Você também pode encontrar a Política de Privacidade completa aqui.
 
  Postagem de conteúdo
 
- Você pode publicar comentários, mensagens ou outro conteúdo na Roblox por meio de chats, fóruns, murais de grupo, publicações pessoais e outros recursos. Usuários menores de 13 anos também podem usar o chat via voz na Roblox. Monitoramos o que você diz e escreve para confirmar se o conteúdo atende aos Padrões da nossa Comunidade e está em conformidade com nossos termos de uso. Se considerarmos que o conteúdo não atende aos nossos padrões, por exemplo, se acreditamos que é inadequado, inclui informações pessoais ou não é adequado para os usuários da Roblox, temos o direito de alterar ou removê-lo. Onde a lei nos permite, podemos usar o conteúdo que você e outros usuários publicaram para treinamento ou para nos ajudar a melhorar a maneira que filtramos os conteúdos na nossa plataforma. Nosso objetivo é aumentar a segurança em nossa plataforma. Também podemos usar esses dados para nos ajudar a fornecer uma melhor experiência na Roblox e para responder a solicitações sobre sua conta feitas por você ou por seus pais ou responsáveis legais.
+ Você pode publicar comentários, mensagens ou outro conteúdo na Roblox por meio de chats, fóruns, murais de grupo, publicações pessoais e outros recursos. Usuários menores de 13 anos também podem usar o chat via voz na Roblox. Monitoramos o que você diz e escreve para confirmar se o conteúdo atende às Regras da Comunidade e está em conformidade com nossos Termos de Uso. Se considerarmos que o conteúdo não atende aos nossos padrões, por exemplo, se acreditamos que é inadequado, inclui informações pessoais ou não é adequado para os usuários da Roblox, temos o direito de alterar ou removê-lo. Onde a lei nos permite, podemos usar o conteúdo que você e outros usuários publicaram para treinamento ou para nos ajudar a melhorar a maneira que filtramos os conteúdos na nossa plataforma. Nosso objetivo é aumentar a segurança em nossa plataforma. Também podemos usar esses dados para nos ajudar a fornecer uma melhor experiência na Roblox e para responder a solicitações sobre sua conta feitas por você ou por seus pais ou responsáveis legais.
 
  Fazer perguntas ou obter suporte técnico
 
  Coletamos seu endereço de e-mail (ou o endereço de e-mail de seus pais ou responsáveis, se você for menor de 13 anos) , nome de usuário e outros detalhes que você nos fornece quando você:
 
- - entrar em contato com o suporte ao cliente
+ - entrar em contato com o atendimento ao cliente
  - relatar um problema
  - pedir suporte técnico
  - fazer perguntas ou comentários
@@ -198,7 +200,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
 
  Criador de eventos (usuários maiores de 13 anos)
 
- Se você participar de um evento virtual organizado por um Criador, dados como seu nome de usuário, e-mail e ID de usuário da Roblox podem ser compartilhados com a empresa que hospeda os eventos. Isso é feito para permitir que você faça login na experiência. Sua atividade durante um Evento do Criador está sujeita à política de privacidade da plataforma de terceiros, bem como aos Padrões da Comunidade da Roblox. Criadores de eventos só estão disponíveis para usuários maiores de 13 anos.
+ Se você participar de um evento virtual organizado por um Criador, dados como seu nome de usuário, e-mail e ID de usuário da Roblox podem ser compartilhados com a empresa que hospeda os eventos. Isso é feito para permitir que você inicie a sessão na experiência. Sua atividade durante um Evento do Criador está sujeita à política de privacidade da plataforma de terceiros, bem como às Regras da Comunidade da Roblox. Criadores de eventos só estão disponíveis para usuários maiores de 13 anos.
 
  Interagindo com nossas experiências
 
@@ -263,7 +265,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
  **Para estar em conformidade com a lei e nossas políticas**
 
  - Para auditar interações e transações e realizar quaisquer outras tarefas de conformidade
- - Para estar em conformidade com a lei e nossos próprios Termos de uso ou quaisquer outras restrições que colocamos ao seu uso do nosso serviço
+ - Para estar em conformidade com a lei e nossos próprios Termos de Uso ou quaisquer outras restrições que colocamos ao seu uso do nosso serviço
 
  Você não tem nenhuma obrigação de fornecer informações pessoais à Roblox quando solicitado. No entanto, se você optar por não fornecer alguma informação solicitada, podemos não ser capazes de fornecer a você determinados serviços e recursos.
 
@@ -315,7 +317,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
 
  Empresas de publicidade de terceiros
 
- Fazemos parcerias com empresas de publicidade de terceiros, como empresas de servidores de anúncios e redes de anúncios. Se você interagir com o conteúdo ou acessar a Roblox por meio de um link de um anunciante, nós ou nossos provedores de serviços podem fornecer a essas empresas de publicidade de terceiros alguns identificadores do seu dispositivo, como um endereço IP ou a ID do seu dispositivo. Coletamos essas informações para nos ajudar a promover e a divulgar nossos serviços melhor.
+ Fazemos parcerias com empresas de publicidade de terceiros, como empresas de servidores de anúncios e redes de anúncios. Se você interagir com o conteúdo ou acessar a Roblox por meio de um link em um anúncio, nós ou nossos provedores de serviços podem fornecer a essas empresas de publicidade de terceiros alguns identificadores do seu dispositivo, como um endereço IP ou a ID do seu dispositivo. Coletamos essas informações para nos ajudar a promover e a divulgar nossos serviços melhor.
 
  Para usuários com menos de 13 anos, a Roblox faz parcerias com empresas de publicidade de terceiros:
 
@@ -340,13 +342,13 @@ Você também pode encontrar a Política de Privacidade completa aqui.
 
  Google Chrome: https://support.google.com/chrome/answer/95647?hl=en-GB, Microsoft Edge: https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09, Mozilla Firefox: https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer, Safari (Desktop): https://support.apple.com/kb/PH5042?locale=en\_US, Safari (Dispositivo móvel): https://support.apple.com/en-us/HT201265, Navegador Android: https://support.google.com/nexus/answer/54068, Opera: https://www.opera.com/help. Você também pode aprender mais sobre cookies visitandohttps://www.allaboutcookies.org/ (em inglês), que também explica como bloquar ou deletar cookies que já estão em seu dispositivo.
 
- Ao bloquear ou excluir os cookies usados, você pode limitar sua experiência no Serviço. Você pode não conseguir fazer login ou experimentar a Roblox.
+ Ao bloquear ou excluir os cookies usados, você pode limitar sua experiência no Serviço. Você pode não conseguir iniciar a sessão ou experimentar a Roblox.
 
  Quando você visita nosso site com um endereço IP do EEE, um banner de cookie aparecerá solicitando sua autorização. Você pode gerenciar sua escolha clicando em "gerenciar preferências de cookie" no banner do cookie. Nós salvaremos suas escolhas na forma de um cookie. Este cookie tem um período efetivo limitado de um ano. Para obter mais detalhes, consulte a Seção 8 abaixo.
 
  Para impedir que as empresas rastreiem você em seus sites
 
- Você pode nos solicitar, ou a terceiros, para desabilitar o rastreamento relacionado a publicidade em nossos sites. Para desativar esse rastreamento, nós ou o terceiro podemos precisar definir um cookie de exclusão no seu navegador. Você pode precisar alterar as configurações do seu navegador para aceitar cookies se quiser desabilitar totalmente o rastreamento relacionado a publicidade.
+ Você pode nos solicitar, ou a terceiros, para desabilitar o rastreamento relacionado a publicidade em nossos sites. Para desativar esse rastreamento, nós ou o terceiro podemos precisar definir um cookie de não participação no seu navegador. Você pode precisar alterar as configurações do seu navegador para aceitar cookies se quiser desabilitar totalmente o rastreamento relacionado a publicidade.
 
  Em nossos sites corporativos ou em solicitações de emprego
 
@@ -428,7 +430,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
  Nossos Serviços não respondem aos sinais de Não Rastreio (DNT). Não rastreamos nossos usuários ao longo do tempo e em outros sites para fornecer publicidade direcionada.
 5. Você pode atualizar ou excluir suas Informações Pessoais
 
- Se você quiser visualizar, corrigir ou excluir suas Informações Pessoais, ou se quiser que façamos outra solicitação sobre suas Informações Pessoais, preencha o Formulário de Suporte ao Cliente. Se você tiver menos de 13 anos, peça aos seus pais ou responsáveis para preencherem o formulário.
+ Se você quiser visualizar, corrigir ou excluir suas Informações Pessoais, ou se quiser que façamos outra solicitação sobre suas Informações Pessoais, preencha o Formulário de atendimento ao cliente. Se você tiver menos de 13 anos, peça aos seus pais ou responsáveis para preencherem o formulário.
 
  Se as suas Informações Pessoais mudarem, ou se você não quiser mais usar o nosso serviço, você pode corrigir, atualizar, alterar ou fechar sua conta nas suas configurações de conta ou entrando em contato com a Roblox usando o formulário acima. Responderemos à sua solicitação dentro de um prazo razoável. Consulte a Seção 8 para saber dos direitos adicionais disponíveis para residentes de certos Estados dos EUA, Reino Unido, Suíça, Espaço Econômico Europeu (EEE), e Brasil.
 6. Cuidando de suas informações
@@ -515,7 +517,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
 
  - Nome de usuário e senha para criar sua conta. As bases para o processamento desses dados pessoais são o Artigo 6°, parágrafo 1º, Inciso 1 b (“execução de um contrato”).
  - E-mails e outras informações que você nos forneceu para verificação adicional e/ou para habilitar determinados recursos. As bases para o processamento desses dados pessoais são o Artigo 6°, parágrafo 1º. Inciso 1 b ("cumprimento de contrato") e f ("interesse legítimo") do RGPD. A Roblox tem interesse legítimo em fornecer uma Plataforma segura e protegida, sobretudo para proteger crianças.
- - Se você optar por fornecer um número de telefone para verificação, o que permitirá iniciar a sessão pelo celular. Seu número de telefone também pode ser usado para recuperar uma senha perdida ou esquecida. Você autoriza a sua operadora de telefonia móvel a usar ou divulgar informações sobre a sua conta e seu dispositivo sem fio, se disponível, à Roblox ou ao seu provedor de serviços pela duração de seu relacionamento de negócios, exclusivamente para auxiliá-los a identificar você ou o seu dispositivo e para evitar fraudes. A base legal para essa atividade de processamento é o Artigo 6 da seção 1 sent. Inciso 1 b ("realização de um contrato") do Regulamento Geral sobre a Proteção de Dados e f ("interesse legítimo") do Regulamento Geral sobre a Proteção. Temos um interesse legítimo em permitir que você use nossos Serviços por meio de seu dispositivo móvel e na prevenção de fraudes. Além disso, e com sua autorização, podemos usar seu número de telefone e acessar sua lista de contatos para encontrar outros amigos usando Roblox. A base legal para essa atividade de processamento é o Artigo 6 da seção 1 sent. Inciso 1 b do RGPD ("consentimento").
+ - Se você optar por fornecer um número de telefone, usaremos esse número para fins de segurança e acesso à conta, permitindo que você inicie a sessão usando o celular e recupere uma senha perdida ou esquecida. Você autoriza a sua operadora de telefonia móvel a usar ou divulgar informações sobre a sua conta e seu dispositivo sem fio, se disponível, à Roblox ou ao seu provedor de serviços pela duração de seu relacionamento de negócios, exclusivamente para auxiliá-los a identificar você ou o seu dispositivo e para evitar fraudes. A base legal para essa atividade de processamento é o Artigo 6 da seção 1 sent. Inciso 1 b ("realização de um contrato") do Regulamento Geral sobre a Proteção de Dados e f ("interesse legítimo") do Regulamento Geral sobre a Proteção. Temos um interesse legítimo em permitir que você use nossos Serviços por meio de seu dispositivo móvel, e aplicamos medidas de segurança e de prevenção de fraudes. Além disso, e com sua autorização, podemos usar seu número de telefone e acessar sua lista de contatos para encontrar outros amigos usando Roblox. A base legal para essa atividade de processamento é o Artigo 6 da seção 1 sent. Inciso 1 b do RGPD ("consentimento").
 
  Compras na Roblox
 
@@ -535,10 +537,10 @@ Você também pode encontrar a Política de Privacidade completa aqui.
  - Quando você solicita ou concorda com serviços baseados em voz da Roblox, nós podemos coletar, processar e armazenar sua gravação de voz para fornecer serviços e melhorar nossos serviços relacionados à voz. Podemos usar a gravação da sua voz para fins de treinamento e aprimoramento da nossa tecnologia de filtros e melhorar a segurança na nossa plataforma, exceto que não participaremos de treinamento ou melhoria de produtos com gravações de chat de voz em servidores privados de usuários do EEE. As bases para o processamento desses dados pessoais são o Artigo 6°, parágrafo 1º. Inciso 1 a (“consentimento”) RGPD. Temos ainda um interesse legítimo no Artigo 6º, parágrafo 1º. Inciso 1 f (“interesse legítimo”) RGPD fornecerá moderação e aumentará a segurança de nossos serviços relacionados à voz.
  - Quando você solicita ou concorda com serviços baseados em localização (usuários com 13 anos ou mais), podemos coletar e rastrear informações de geolocalização, para que possamos oferecer serviços que dependem de sabermos onde você está. Alguns exemplos são check-in ou personalização de conteúdo ou publicidade. Coletamos essas informações usando um identificador em seu dispositivo ou navegador, de forma a podermos reconhecê-lo sempre que você retornar. Para impedir que coletemos suas informações de localização, você pode atualizar as configurações do seu dispositivo, parar de usar o serviço ou desinstalar nossos aplicativos móveis. As bases para o processamento desses dados pessoais são o Artigo 6°, parágrafo 1º, Inciso 1 b (“execução de um contrato”).
  - Se você participar das nossas experiências em uma plataforma de realidade virtual, coletaremos suas informações para replicar seu movimento na experiência. Essas informações são usadas apenas para fornecer o Serviço, e não são armazenadas. As bases para o processamento desses dados pessoais são o Artigo 6°, parágrafo 1º. Inciso 1 b (“execução de um contrato”).
- - Se você entrar em um evento virtual organizado por um Criador, dados como seu nome de usuário, e-mail e ID de usuário da Roblox podem ser compartilhados com a plataforma de terceiros que hospeda os eventos. Esses dados são usados para permitir que você inicie a sessão para a experiência. Sua atividade durante um Evento do Criador está sujeita à política de privacidade da plataforma de terceiros, bem como aos Padrões da Comunidade da Roblox. As bases para o processamento desses dados pessoais são o Artigo 6°, parágrafo 1º. Inciso 1 b (“realização de um contrato”) para participar de um evento e f (“interesse legítimo”) do Regulamento Geral sobre a Proteção de Dados para garantir a segurança e a integridade de nosso serviço.
+ - Se você entrar em um evento virtual organizado por um Criador, dados como seu nome de usuário, e-mail e ID de usuário da Roblox podem ser compartilhados com a plataforma de terceiros que hospeda os eventos. Esses dados são usados para permitir que você inicie a sessão para a experiência. Sua atividade durante um Evento do Criador está sujeita à política de privacidade da plataforma de terceiros, bem como às Regras da Comunidade da Roblox. As bases para o processamento desses dados pessoais são o Artigo 6°, parágrafo 1º. Inciso 1 b (“realização de um contrato”) para participar de um evento e f (“interesse legítimo”) do Regulamento Geral sobre a Proteção de Dados para garantir a segurança e a integridade de nosso serviço.
  - Informações necessárias para recursos adicionais que exigem o uso de sua câmera ou upload de conteúdo que contenha suas informações pessoais. Se você decidir usar recursos e fazer o upload de conteúdo que exijam o uso de sua câmera ou fazer o upload de conteúdo que contenha suas informações pessoais, nós coletaremos, processaremos e armazenaremos esse conteúdo apenas pelo tempo necessário para cumprir a finalidade do recurso. As bases para o processamento desses dados pessoais são o Artigo 6°, parágrafo 1º. Inciso 1 b (“execução de um contrato”). Para obter mais informações, consulte a Política de Privacidade de Animação Facial da Roblox.
  - Informações necessárias para outros recursos ou atividades, que podem estar disponíveis para nossos usuários que não sejam crianças. Podemos oferecer outros recursos e atividades em nossos Serviços de tempos em tempos, e você poderá enviar ou carregar informações pessoais relacionadas a esses recursos. Os dados que estão sendo coletados para tais recursos e seus usos pretendidos serão evidentes no momento da coleta de dados. As bases para o processamento desses dados pessoais são o Artigo 6°, parágrafo 1º. Inciso 1 b (“execução de um contrato”).
- - Se você optar pelo recurso Contact Importer, você concorda em compartilhar com a Roblox os nomes e sobrenomes e números de telefone de seus contatos em seu catálogo de endereços em seu celular, no momento em que você se registrar em nosso Serviço ou de outra forma. Agimos assim para ajudar você a se conectar com seus amigos em nosso Serviço. A base legal para essa atividade de processamento é o Artigo 6 da seção 1 sent. Inciso 1 b do RGPD ("cumprimento de contrato").
+ - Se optar pela funcionalidade Importador de Contatos, você concorda em compartilhar com a Roblox os nomes e sobrenomes e números de telefone de seus contatos em seu catálogo de endereços em seu celular, no momento em que você se registrar em nosso Serviço ou de outra forma. Agimos assim para ajudar você a se conectar com seus amigos em nosso Serviço. A base legal para essa atividade de processamento é o Artigo 6 da seção 1 sent. Inciso 1 b do RGPD ("cumprimento de contrato").
  - Interagindo com nossas experiências. Para melhorar sua experiência e garantir a segurança, coletamos informações sobre como você interage com os Serviços e conectamos essas informações à sua conta. Por exemplo, podemos coletar informações do estado do jogo de um usuário para detectar violações de nossos Termos e melhorar nossa capacidade de detectar tais violações; coletar informações de seu histórico de pesquisa para fornecer recomendações semelhantes; compartilhar informações como seu nome de usuário e detalhes da transação com o criador do CGU (Conteúdo Gerado por Usuários) ou proprietários subsequentes, se você adquirir um item limitado ao comprar, compartilhar, trocar ou, de outra forma, se envolver em uma transação envolvendo o CGU. As bases para o processamento desses dados pessoais são o Artigo 6°, parágrafo 1º. Inciso 1 alíneas b (“desempenho de um contrato”) e f (“interesse legítimo”). Poderemos usar dados coletados de sua interação com nossas experiências para fins de segurança com base no Artigo 6, seção 1. f ("interesse legítimo").
 
  Competições, promoções e pesquisas
@@ -608,7 +610,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
 
  Se você for um usuário baseado no Espaço Econômico Europeu, você pode exercer alguns ou todos os direitos a seguir:
 
- - Exigir (i) saber se suas informações pessoais estão sendo armazenadas e (ii) acessar ou obter cópias de suas informações pessoais armazenadas, inclusive para fins do processamento, as categorias de informações pessoais em questão, os recebedores dos dados e potenciais períodos de armazenamento;
+ - Exigir (i) saber se suas informações pessoais estão sendo armazenadas e (ii) acessar ou obter cópias de suas informações pessoais armazenadas, inclusive para fins do processamento, as categorias de informações pessoais em questão, os recebedores dos dados e potenciais períodos de retenção;
  - Solicitar a retificação, remoção ou restrição das suas Informações Pessoais, por exemplo, porque (i) elas estão incompletas ou imprecisas, (ii) elas não são mais necessárias para as finalidades para as quais foram coletadas ou (iii) o consentimento no qual o processamento se baseia foi retirado;
  - Recusar-se a fornecer e, sem impacto para as atividades de processamento de dados que tenham ocorrido antes de tal retirada, retirar sua autorização para o processamento das suas Informações Pessoais a qualquer momento;
  - Opor-se, por motivos relacionados à sua situação particular, ao processamento de suas Informações Pessoais, no caso de tal processamento ser baseado no nosso interesse legítimo ou no interesse de terceiros, ou em um desempenho de uma tarefa realizada por interesse público. Neste caso, forneça informações sobre sua situação em particular. Após a avaliação dos fatos apresentados por você, vamos parar de processar suas Informações Pessoais ou apresentar a você nossos motivos legítimos convincentes para a continuidade do processamento;
@@ -628,7 +630,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
 
  - Nome de usuário e senha para criar sua conta.
  - E-mails e outras informações que você nos forneceu para verificação adicional e/ou para habilitar determinados recursos. A Roblox tem interesse legítimo em fornecer uma Plataforma segura e protegida, sobretudo para proteger crianças.
- - Se você optar por fornecer um número de telefone para verificação, o que permitirá iniciar a sessão pelo celular. Seu número de telefone também pode ser usado para recuperar uma senha perdida ou esquecida. Você autoriza a sua operadora de telefonia móvel a usar ou divulgar informações sobre a sua conta e seu dispositivo sem fio, se disponível, à Roblox ou ao seu provedor de serviços pela duração de seu relacionamento de negócios, exclusivamente para auxiliá-los a identificar você ou o seu dispositivo e para evitar fraudes. Temos um interesse legítimo em permitir que você use nossos Serviços por meio de seu dispositivo móvel e na prevenção de fraudes. Além disso, e com sua autorização, podemos usar seu número de telefone e acessar sua lista de contatos para encontrar outros amigos usando Roblox.
+ - Se você optar por fornecer um número de telefone, usaremos esse número para fins de segurança e acesso à conta, permitindo que você inicie a sessão usando o celular e recupere uma senha perdida ou esquecida. Você autoriza a sua operadora de telefonia móvel a usar ou divulgar informações sobre a sua conta e seu dispositivo sem fio, se disponível, à Roblox ou ao seu provedor de serviços pela duração de seu relacionamento de negócios, exclusivamente para auxiliá-los a identificar você ou o seu dispositivo e para evitar fraudes. Temos um interesse legítimo em permitir que você use nossos Serviços por meio de seu dispositivo móvel, e aplicamos medidas de segurança e de prevenção de fraudes. Além disso, e com sua autorização, podemos usar seu número de telefone e acessar sua lista de contatos para encontrar outros amigos usando Roblox.
 
  Compras na Roblox
 
@@ -651,7 +653,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
  - Se você entrar em um evento virtual organizado por um Criador, dados como seu nome de usuário, e-mail e ID de usuário da Roblox podem ser compartilhados com a plataforma de terceiros que hospeda os eventos. Esses dados são usados para permitir que você inicie a sessão para a experiência. Sua atividade durante um Evento do Criador está sujeita à política de privacidade da plataforma de terceiros, bem como aos Padrões da Comunidade da Roblox.
  - Informações necessárias para recursos adicionais que exigem o uso de sua câmera ou upload de conteúdo que contenha suas informações pessoais. Se você decidir usar esses recursos e carregar conteúdo, coletaremos, processaremos e armazenaremos esse conteúdo apenas pelo tempo necessário para cumprir o propósito da funcionalidade do recurso. Para obter mais informações, consulte a Política de Privacidade de Animação Facial da Roblox.
  - Informações necessárias para outros recursos ou atividades, que podem estar disponíveis para nossos usuários que não sejam crianças. Podemos oferecer outros recursos e atividades em nossos Serviços de tempos em tempos, e você poderá enviar ou carregar informações pessoais relacionadas a esses recursos. Os dados que estão sendo coletados para tais recursos e seus usos pretendidos serão evidentes no momento da coleta de dados.
- - Se você optar pelo recurso Contact Importer, você concorda em compartilhar com a Roblox os nomes e sobrenomes e números de telefone de seus contatos em seu catálogo de endereços em seu celular, no momento em que você se registrar em nosso Serviço ou de outra forma. Agimos assim para ajudar você a se conectar com seus amigos em nosso Serviço.
+ - Se optar pela funcionalidade Importador de Contatos, você concorda em compartilhar com a Roblox os nomes e sobrenomes e números de telefone de seus contatos em seu catálogo de endereços em seu celular, no momento em que você se registrar em nosso Serviço ou de outra forma. Agimos assim para ajudar você a se conectar com seus amigos em nosso Serviço.
  - Interagindo com nossas experiências. Para melhorar sua experiência e garantir a segurança, coletamos informações sobre como você interage com os Serviços e conectamos essas informações à sua conta. Por exemplo, podemos coletar informações do estado do jogo de um usuário para detectar violações de nossos Termos e melhorar nossa capacidade de detectar tais violações; coletar informações de seu histórico de pesquisa para fornecer recomendações semelhantes; compartilhar informações como seu nome de usuário e detalhes da transação com o criador do CGU (Conteúdo Gerado por Usuários) ou proprietários subsequentes, se você adquirir um item limitado ao comprar, compartilhar, trocar ou, de outra forma, se envolver em uma transação envolvendo o CGU.
 
  Competições, promoções e pesquisas
@@ -743,4 +745,4 @@ Você também pode encontrar a Política de Privacidade completa aqui.
 
  Observe também que esses direitos não são absolutos e podem não se aplicar em certas circumstâncias. Por exemplo, podemos continuar processando e retendo Informações Pessoais, independentemente de sua solicitação para excluí-las, contestá-las, bloqueá-las ou torná-las anônimas, para cumprir obrigações legais, contratuais e/ou regulatórias e para proteger e exercer direitos, inclusive em processos judiciais, administrativos e procedimentos de arbitragem e conforme exigido por lei. Para exercer seus direitos ou fazer perguntas, você pode entrar em contato conosco, preenchendo este Formulário de Atendimento ao Cliente. Para recorrer de uma decisão sobre seus direitos de privacidade, entre em contato com nosso Diretor de Proteção de Dados no Brasil enviando um e-mail para privacy@roblox.com ou entrando em contato conosco conforme descrito na Seção 1.
 
-Última atualização: 14 de novembro de 2023
+Data de entrada em vigor: 15 de fevereiro de 2024 Última atualização: 15 de fevereiro de 2024
