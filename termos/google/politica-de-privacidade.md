@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2024-01-24
-wayback: "https://web.archive.org/web/20240124011436/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2024-03-23
+wayback: "https://web.archive.org/web/20240323212022/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -20,7 +20,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 15 de janeiro de 2024 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 4 de março de 2024 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -52,7 +52,7 @@ Criamos uma gama de serviços que ajudam diariamente milhões de pessoas a desco
 - plataformas, como o navegador Chrome e o sistema operacional Android;
 - produtos integrados a apps e sites de terceiros, como anúncios, análises e Google Maps incorporados.
 
-É possível usar nossos serviços de diversas maneiras para gerenciar a sua privacidade. Por exemplo, você pode se inscrever em uma Conta do Google se quiser criar e gerenciar conteúdo, como e-mails e fotos, ou ver resultados de pesquisa mais relevantes. É possível também usar muitos serviços do Google sem fazer login ou sem criar uma conta, como pesquisar no Google ou assistir vídeos do YouTube. Além disso, existe a opção de navegar na Web de forma privada usando o Chrome no modo de navegação anônima. E em todos os nossos serviços, é possível ajustar as configurações de privacidade para controlar o que coletamos e como as informações são usadas.
+É possível usar nossos serviços de diversas maneiras para gerenciar a sua privacidade. Por exemplo, você pode se inscrever em uma Conta do Google se quiser criar e gerenciar conteúdo, como e-mails e fotos, ou receber resultados de pesquisa mais relevantes. É possível também usar muitos Serviços do Google sem fazer login ou sem criar uma conta, como pesquisar no Google ou assistir vídeos do YouTube. Além disso, existe a opção de navegar na Web de forma particular usando o Chrome no modo de navegação anônima, que ajuda a proteger sua navegação de outras pessoas que usam o dispositivo. Em todos os nossos serviços, é possível ajustar as configurações de privacidade para controlar os tipos específicos de dados que coletamos e como eles são usados.
 
 Para ajudar a explicar as coisas da forma mais clara possível, adicionamos exemplos, vídeos explicativos e definições para os termos-chave. Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco.
 
@@ -140,9 +140,9 @@ Usamos as informações que coletamos nos serviços existentes no desenvolviment
 
 ### Fornecer serviços personalizados, incluindo conteúdo e anúncios
 
-Usamos as informações que coletamos para personalizar nossos serviços, inclusive para fornecer recomendações, conteúdo e resultados de pesquisa personalizados. Por exemplo, a Verificação de segurança fornece dicas de segurança adaptadas à forma como você usa os produtos do Google. E o Google Play usa informações, como apps já instalados e vídeos assistidos no YouTube, para sugerir novos apps que você pode gostar.
+Usamos as informações que coletamos para personalizar nossos serviços, inclusive para fornecer recomendações, conteúdo e resultados de pesquisa personalizados. Por exemplo, a Verificação de segurança fornece dicas de segurança adaptadas à forma como você usa os produtos do Google. Além disso, dependendo das configurações disponíveis, o Google Play pode usar informações como apps já instalados e vídeos assistidos no YouTube para sugerir novos apps que você pode gostar.
 
-Dependendo das suas configurações, também podemos mostrar anúncios personalizados com base nos seus interesses. Por exemplo, se você pesquisar "mountain bikes", poderá encontrar um anúncio sobre equipamentos esportivos no YouTube. É possível controlar quais informações usamos para exibir anúncios nas configurações da Minha central de anúncios.
+Dependendo das suas configurações, também podemos mostrar anúncios personalizados com base nos seus interesses e atividades nos Serviços do Google. Por exemplo, se você pesquisar "mountain bikes", poderá encontrar um anúncio sobre equipamentos esportivos no YouTube. É possível controlar quais informações usamos para mostrar anúncios nas configurações da Minha central de anúncios.
 
 - Não mostramos anúncios personalizados com base em categorias sensíveis, como raça, religião, orientação sexual ou saúde.
 - Não mostramos anúncios personalizados com base no seu conteúdo do Drive, Gmail ou Fotos.
@@ -166,7 +166,7 @@ Usamos informações para ajudar a melhorar a segurança e a confiabilidade dos 
 
 Usamos diferentes tecnologias para processar suas informações para esses fins. Usamos sistemas automatizados que analisam o conteúdo para fornecer a você resultados de pesquisa personalizados, anúncios personalizados ou outros recursos adaptados à maneira como você usa nossos serviços. Também analisamos seu conteúdo para nos ajudar a detectar abuso como spam, malware e conteúdo ilegal. Além disso, usamos algoritmos para reconhecer padrões nos dados. Por exemplo, o Google Tradutor ajuda na comunicação das pessoas entre os idiomas, pela detecção de padrões de linguagem comuns em frases que você pede para traduzir.
 
-Podemos combinar as informações que coletamos com nossos serviços e nos seus dispositivos para as finalidades descritas acima. Por exemplo, se você assistir vídeos de guitarristas no YouTube, poderá ver um anúncio de aulas de violão em um site que usa nossos produtos de anúncios. Dependendo das configurações da conta, suas atividades em outros sites e apps podem ser associadas às suas informações pessoais para melhorar os serviços e os anúncios fornecidos pelo Google.
+Podemos usar as informações coletadas nos nossos serviços e nos seus dispositivos para as finalidades descritas acima. Por exemplo, dependendo das configurações disponíveis, se você assistir vídeos de guitarristas no YouTube, poderá receber um anúncio de aulas de violão em um site que usa nossos produtos de anúncios. Dependendo das configurações da conta, sua atividade em outros sites e apps pode ser associada às suas informações pessoais para melhorar os serviços e os anúncios fornecidos pelo Google.
 
 Se outras pessoas já tiverem o endereço de e-mail ou outra informação que identifique você, poderemos mostrar a elas suas informações da Conta do Google que são visíveis publicamente, como o nome e a foto. Isso ajuda as pessoas a identificar um e-mail recebido de você, por exemplo.
 
@@ -303,12 +303,12 @@ Fornecemos informações pessoais às nossas afiliadas ou outras empresas ou pes
 
 ### Por motivos legais
 
-Compartilharemos informações pessoais fora do Google se acreditarmos, de boa-fé, que o acesso, o uso, a conservação ou a divulgação das informações sejam razoavelmente necessários para:
+Vamos compartilhar informações pessoais fora do Google se acreditarmos, de boa-fé, que a divulgação das informações seja razoavelmente necessária para:
 
-- cumprir qualquer legislação, regulação, processo legal ou solicitação governamental aplicável. Compartilhamos informações sobre o número e o tipo de solicitações que recebemos dos governos em nosso Transparency Report;
+- cumprir qualquer legislação, regulamentação, processo judicial ou solicitação governamental aplicável. Compartilhamos informações sobre o número e o tipo de solicitações que recebemos dos governos em nosso Relatório de Transparência;
 - cumprir Termos de Serviço aplicáveis, inclusive investigação de possíveis violações;
 - detectar, impedir ou lidar de alguma forma com fraudes, problemas técnicos ou de segurança;
-- Proteger contra dano aos direitos, à propriedade ou à segurança do Google, aos nossos usuários ou ao público, conforme solicitado ou permitido por lei.
+- proteger contra danos aos direitos, à propriedade ou à segurança do Google, aos nossos usuários ou ao público.
 
 Podemos compartilhar informações de identificação não pessoal publicamente e com nossos parceiros – como editores, anunciantes, desenvolvedores ou detentores de direitos. Por exemplo, compartilhamos informações publicamente para mostrar tendências sobre o uso geral dos nossos serviços. Também permitimos que parceiros específicos coletem informações do seu navegador ou dispositivo para fins de publicidade e medição usando os próprios cookies ou tecnologias semelhantes.
 
@@ -537,18 +537,17 @@ Em alguns casos, áreas que você pesquisou no passado podem ser usadas para est
 
 Você pode conferir e controlar sua Atividade na Web e de apps na página Minha atividade.
 
+### atividades em sites e apps de terceiros que usam nossos serviços
+
+Sites e apps que integram Serviços do Google, como anúncios e análises de dados, compartilham informações conosco.
+
+Essas informações são coletadas independente do navegador ou do modo de navegação usado. Por exemplo, embora o modo de navegação anônima do Chrome possa ajudar a proteger sua navegação de outras pessoas que usam o dispositivo, sites e apps de terceiros que integram nossos serviços ainda podem compartilhar informações com o Google quando você os visita.
+
+Saiba mais sobre algumas maneiras de controlar as informações compartilhadas ao visitar ou interagir com sites e apps que usam Serviços do Google.
+
 ### categorias sensíveis
 
 Ao mostrar anúncios personalizados, usamos tópicos que achamos que podem ser interessantes para você com base na sua atividade. Por exemplo, podem ser exibidos anúncios de itens como "culinária e receitas" ou "viagem aérea". Não usamos tópicos nem exibimos anúncios personalizados com base em categorias sensíveis, como raça, religião, orientação sexual ou saúde. E exigimos o mesmo dos anunciantes que usam nossos serviços.
-
-### combinar as informações que coletamos
-
-Alguns exemplos de como combinamos as informações que coletamos são descritos a seguir.
-
-- Quando você está conectado à sua Conta do Google e faz uma pesquisa no Google, pode ver os resultados de pesquisa da Web pública, junto com informações relevantes e relacionadas ao seu conteúdo em outros produtos do Google, como Gmail ou Google Agenda. Isso pode incluir itens como o status dos próximos voos, reservas de restaurantes e hotéis ou fotos. Saiba mais
-- Se você se comunicou com alguém pelo Gmail e quer adicionar essa pessoa a um Documento Google ou a um evento no Google Agenda, o Google facilita isso ao completar automaticamente o endereço de e-mail quando você começa a digitar o nome dela. Esse recurso facilita o compartilhamento de itens com pessoas que você conhece. Saiba mais
-- O Google app pode usar dados que você armazenou em outros produtos do Google para exibir conteúdo personalizado, dependendo das suas configurações. Por exemplo, se você tiver pesquisas armazenadas na Atividade na Web e de apps, o Google app pode mostrar artigos de notícias e outras informações sobre seus interesses, como resultados de jogos, com base nas atividades realizadas. Saiba mais
-- Se você vincular a Conta do Google ao Google Home, poderá gerenciar informações e realizar tarefas com o Google Assistente. Por exemplo, é possível adicionar eventos ao Google Agenda ou receber a programação do dia, solicitar atualizações de status sobre o próximo voo ou enviar informações como rotas de carro para o smartphone. Saiba mais
 
 ### dados do sensor do seu dispositivo
 
@@ -572,7 +571,7 @@ Podemos, por exemplo, usar informações dos seus dispositivos para ajudar você
 
 ### fontes de acesso público
 
-Podemos, por exemplo, coletar informações disponíveis publicamente on-line ou de outras fontes públicas para ajudar a treinar os modelos de IA do Google e criar recursos como o Google Tradutor, o Bard e recursos de IA na nuvem. Ou, caso as informações sobre sua empresa apareçam em um site, podemos indexá-las e exibi-las nos Serviços do Google.
+Podemos, por exemplo, coletar informações disponíveis publicamente on-line ou de outras fontes públicas para ajudar a treinar os modelos de IA do Google e criar recursos como o Google Tradutor, os apps do Gemini e os recursos de IA em Cloud. Ou, caso as informações sobre sua empresa apareçam em um site, podemos indexá-las e exibi-las nos Serviços do Google.
 
 ### fornecer nossos serviços
 
@@ -689,6 +688,16 @@ Há mais de 2 milhões de sites e apps que não são do Google, mas têm parceri
 ### terceiros
 
 Por exemplo, processamos suas informações para informar estatísticas de uso aos detentores de direitos sobre como o conteúdo deles foi usado em nossos serviços. Também podemos processar suas informações se pessoas pesquisarem seu nome, bem como exibir resultados da pesquisa com os sites que contenham informações disponíveis publicamente sobre você.
+
+### usar as informações que coletamos nos nossos serviços
+
+Dependendo das configurações disponíveis, alguns exemplos de como usamos as informações que coletamos nos nossos serviços são descritos a seguir:
+
+- Quando você está conectado à sua Conta do Google e faz uma pesquisa no Google, pode ver os resultados de pesquisa da Web pública, junto com informações relevantes e relacionadas ao seu conteúdo em outros produtos do Google, como Gmail ou Google Agenda. Isso pode incluir itens como o status dos próximos voos, reservas de restaurantes e hotéis ou fotos. Saiba mais
+- Se você se comunicou com alguém pelo Gmail e quer adicionar essa pessoa a um Documento Google ou a um evento no Google Agenda, o Google facilita isso ao completar automaticamente o endereço de e-mail quando você começa a digitar o nome dela. Esse recurso facilita o compartilhamento de itens com pessoas que você conhece. Saiba mais
+- O Google app pode usar dados que você armazenou em outros produtos do Google para mostrar conteúdo personalizado, dependendo das suas configurações. Por exemplo, se você tiver pesquisas armazenadas na Atividade na Web e de apps, o Google app poderá mostrar notícias e outras informações sobre seus interesses, como resultados de jogos, com base nas atividades realizadas.
+- Se você conectar sua Conta do Google ao Google Home, poderá gerenciar informações e realizar tarefas com o Google Assistente. Por exemplo, é possível adicionar eventos ao Google Agenda ou receber a programação do dia, pedir atualizações de status sobre o próximo voo ou enviar informações como rotas de carro para o smartphone. Saiba mais
+- Caso você esteja na UE, as decisões que tomar sobre a vinculação dos serviços vão afetar a forma como determinados Serviços do Google podem usar os dados neles.
 
 ### visualizações e interações com conteúdo e anúncios
 
