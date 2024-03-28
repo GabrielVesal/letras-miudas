@@ -204,6 +204,18 @@ Assim, o Código tem por objetivo evoluir a atuação responsável das empresas,
 
 Acesse o código de boas práticas.
 
+ Iniciativas de Privacidade da TIM
+
+Iniciativas de Privacidade da TIM
+
+Como uma das maiores empresas de telecomunicações do Brasil, a TIM tem como uma de suas principais missões a garantia da privacidade e proteção dos dados pessoais dos titulares, sejam estes clientes ou não clientes. Para cumprir esse propósito, entendemos que, muito mais do que obrigações legais ou regulatórias, o respeito à privacidade e a garantia da proteção de dados pessoais são elementos fundamentais de respeito aos titulares, às suas liberdades e decisões.
+
+Além da constante busca pelo uso das mais avançadas soluções tecnológicas, visando garantir o mais alto nível de segurança das informações tratadas pela TIM, internamente existem diversos mecanismos que tornam a empresa apta a atender as exigências legais e regulatórias relacionadas à privacidade e proteção de dados, como a Lei Geral de Proteção de Dados Pessoais (“LGPD”), aquelas previstas no Código de Defesa do Consumidor, no Marco Civil da Internet e nas leis e regulamentos aplicáveis ao setor de telecomunicações.
+
+Desde 2018, a TIM vem desenvolvendo um dos maiores programas de adequação em proteção de dados do país, havendo o envolvimento direto e indireto de diversos profissionais na construção de procedimentos, políticas e práticas que são revistas e atualizadas constantemente, de acordo com os mais altos padrões de conformidade exigidos pela legislação brasileira. Esse é um dos fatores que levaram a TIM a ser eleita, em 2020, 2021 e 2022, como uma das operadoras mais bem avaliadas do setor no ranking “Quem Defende seus Dados”, do InternetLab.
+
+Por fim, esclarecemos que a TIM possui uma estrutura robusta de governança em privacidade e proteção de dados, em linha com as disposições do artigo 50 da LGPD e melhores práticas de mercado. Ainda, a TIM possui Encarregado de Dados constituído desde dezembro de 2018, conforme publicado em sua Política de Privacidade, bem como canal direto para que os titulares possam exercer seus direitos, através de um Formulário de solicitação disponível nesta Central.
+
 
 ### Administração de dados
 
