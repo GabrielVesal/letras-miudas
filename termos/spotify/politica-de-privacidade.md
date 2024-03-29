@@ -2,7 +2,7 @@
      Fonte: https://www.spotify.com/br-pt/legal/privacy-policy/
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-# **Política de Privacidade do Spotify**
+# Política de Privacidade do Spotify
 
 Em vigor a partir de 5 de dezembro de 2023
 
@@ -234,7 +234,7 @@ Veja esta tabela para mais detalhes sobre com quem compartilhamos seus dados e p
 | Autoridades policiais ou outras entidades, bem como outros partes relacionadas aos litígios | - Dados do usuário - Dados de Uso | Quando acreditamos de boa‑fé que seja necessário fazermos o seguinte, por exemplo: - Cumprir uma obrigação legal - Responder a um processo legal válido (como mandado de busca, ordem judicial ou intimação) - Nosso próprio interesse ou de terceiros, com relação a: - segurança nacional; - cumprimento da lei; - litígio (processo judicial); - investigação criminal; - proteção da segurança de alguém; - prevenir morte ou danos corporais iminentes. |
 | Compradores da empresa | - Dados do usuário - Dados de Endereço - Dados de Uso - Dados de voz - Dados sobre pagamentos e compras - Dados sobre pesquisas e estudos | Se vendermos ou negociarmos a venda de nossa empresa a um comprador ou possível comprador. Nesse caso, podemos transferir seus dados pessoais para um sucessor ou coligado como parte dessa transação. |
 
-## **6. Retenção de dados**
+## 6. Retenção de dados
 
 Guardamos seus dados pessoais apenas enquanto for necessário para fornecer o Serviço Spotify a você e para fins comerciais legítimos e essenciais do Spotify, tais como:
 
