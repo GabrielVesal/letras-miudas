@@ -8,6 +8,10 @@ Em vigor a partir de 5 de janeiro de 2022 | Versões arquivadas | Fazer o downlo
 
 Versão específica: Brasil
 
+Nossos Termos de Serviço serão atualizados no dia 22 de maio de 2024 para que você possa entender melhor o que esperar do Google e o que esperamos de você ao usar nossos serviços. Até a atualização, os Termos descritos abaixo continuarão em vigor.
+
+Veja uma prévia dos novos Termos
+
 ## O que estes termos cobrem
 
 ### Sabemos que é tentador pular estes Termos de Serviço, mas é importante estabelecer o que você pode esperar de nós ao usar os serviços do Google e o que esperamos de você.
@@ -362,7 +366,7 @@ Os Serviços do Google sujeitos a estes termos são os produtos e serviços list
 
 - Apps e sites, como a Pesquisa e o Google Maps
 - Plataformas, como o Google Shopping
-- serviços integrados, como o Maps incorporado em apps ou sites de outras empresas;
+- Serviços integrados, como o Maps incorporado em apps ou sites de outras empresas
 - Dispositivos e outros produtos, como o Google Nest
 
 Muitos desses serviços também incluem conteúdo que pode ser visto por streaming ou com o qual você pode interagir.
