@@ -134,7 +134,7 @@ Para a finalidade acima descrita, o portal **gov.br** realiza o tratamento dos s
 
 O portal **gov.br** utiliza cookies próprios (primários), ou seja, do domínio **gov.br**, para registrar as configurações e preferências de navegação dos usuários e gerar relatórios estatísticos através do Google Analytics, e também cookies de terceiros para complementar essas estatísticas.
 
-##### 2.2.1 Cookies essenciais
+## 2.2.1 Cookies essenciais
 
 | Nome | Finalidade | Duração |
 | --- | --- | --- |
@@ -161,7 +161,7 @@ O portal **gov.br** utiliza cookies próprios (primários), ou seja, do domínio
 | Ges\_Prod\_Xsrf | Conter informações criptografadas do lado do servidor | 1 hora |
 | f5avraaaaaaaaaaaaaaaa\_session\_ | Usado para armazenar a sessão do usuário para identificá-lo no tráfego do aplicativo | Até terminar a sessão de navegação |
 
-##### 2.2.2 Cookies analíticos
+## 2.2.2 Cookies analíticos
 
 | Nome | Finalidade | Duração |
 | --- | --- | --- |
@@ -204,7 +204,7 @@ O portal **gov.br** utiliza cookies próprios (primários), ou seja, do domínio
 
 Mais informações e configurações sobre o Consentimento do Google Analytics: (https://policies.google.com/technologies/partner-sites?hl=pt-BR)
 
-##### 2.2.3 Cookies de terceiros
+## 2.2.3 Cookies de terceiros
 
 O portal **gov.br** depende dos serviços fornecidos por terceiros que permitem:
 
@@ -285,7 +285,7 @@ Domínios: Google, YouTube, Doubleclick.net
 | bscookie | Para armazenar as ações realizadas no site | 2 anos |
 | JSESSIONID | É usado no rastreamento de sessão. Como o HTTP é um protocolo sem estado, precisamos usar qualquer sessão para lembrar o estado | Até terminar a sessão de navegação |
 
-##### 2.2.4 Informações de Cookies utilizados para uso de redes sociais
+## 2.2.4 Informações de Cookies utilizados para uso de redes sociais
 
 O portal **gov.br** incorpora vídeos e outros arquivos de mídias provenientes do Facebook, Youtube e Google. O usuário pode pesquisar mais informações sobre os cookies utilizados por essas redes sociais e sobre como os dados pessoais são tratados por ela. A seguir, links para o acesso às Políticas de Privacidade de cada rede social.
 
@@ -295,7 +295,7 @@ O portal **gov.br** incorpora vídeos e outros arquivos de mídias provenientes 
 - **Twitter** - https://help.twitter.com/pt/rules-and-policies/twitter-cookies
 - **Linkedin** - https://br.linkedin.com/legal/cookie-policy?trk=homepage-basic\_footer-cookie-policy
 
-##### 2.2.5 Configuração de Cookies no navegador
+## 2.2.5 Configuração de Cookies no navegador
 
 Para gerenciar os cookies, uma das alternativas é a configuração do navegador. Tutoriais sobre o tema nos links abaixo:
 
