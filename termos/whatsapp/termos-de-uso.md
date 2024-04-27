@@ -3,12 +3,12 @@ empresa: "WhatsApp"
 documento: "Termos de Uso"
 categoria: "Redes sociais"
 fonte: "https://www.whatsapp.com/legal/terms-of-service?lang=pt_BR"
-capturado_em: 2023-05-29
-wayback: "https://web.archive.org/web/20230529142933/https://www.whatsapp.com/legal/terms-of-service?lang=pt_BR"
+capturado_em: 2024-04-27
+wayback: "https://web.archive.org/web/20240427063004/https://www.whatsapp.com/legal/terms-of-service?lang=pt_BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/termos-de-uso.md"
 ---
 
-Início da vigência: 4 de janeiro de 2021 (versões arquivadas)
+Data da vigência: 4 de janeiro de 2021 (versões arquivadas)
 
 # Termos de Serviço do WhatsApp
 
@@ -23,8 +23,8 @@ Início da vigência: 4 de janeiro de 2021 (versões arquivadas)
 - Avisos legais e isenções
 - Limitação de responsabilidade
 - Indenização
-- Resolução de contestações
-- Disponibilidade e rescisão dos nossos Serviços
+- Resolução de conflitos
+- Disponibilidade dos nossos Serviços
 - Disposições gerais
 - Cláusula especial de arbitragem para usuários nos Estados Unidos e no Canadá
 
@@ -48,7 +48,9 @@ O WhatsApp LLC (“WhatsApp,” “nosso”, “nossa”, “nós” ou “conos
 
 SEM ACESSO A SERVIÇOS DE EMERGÊNCIA: há diferenças importantes entre os nossos Serviços ou Serviços Comerciais e os serviços de telefonia fixa, de celular e de SMS. Nossos Serviços não permitem acesso a serviços de emergência ou a prestadores de serviço de emergência, incluindo a polícia, o corpo de bombeiros, hospitais, nem qualquer forma de contato com pontos de atendimento de segurança pública. Verifique se consegue entrar em contato com prestadores de serviços de emergência por telefone fixo, celular ou outro serviço.
 
-**CASO VOCÊ SEJA UM USUÁRIO DO WHATSAPP LOCALIZADO NOS ESTADOS UNIDOS OU NO CANADÁ, NOSSOS TERMOS CONTÊM UMA CLÁUSULA DE ARBITRAGEM VINCULANTE QUE DISPÕE QUE, EXCETO SE VOCÊ SE RECUSA A PARTICIPAR DE ARBITRAGENS E EXCETO PARA DETERMINADOS TIPOS DE CONTESTAÇÕES, VOCÊ E O WHATSAPP CONCORDAM EM RESOLVER TODAS AS CONTESTAÇÕES (DEFINIDAS ABAIXO) PELA ARBITRAGEM INDIVIDUAL VINCULANTE, O QUE SIGNIFICA QUE VOCÊ RENUNCIA AO DIREITO DE RESOLVÊ-LAS JUDICIALMENTE E AO DE PARTICIPAR DE AÇÕES COLETIVAS, ARBITRAGENS COLETIVAS OU AÇÕES POR SUBSTITUIÇÃO DERIVADA. LEIA A SEÇÃO “****CLÁUSULA ESPECIAL DE ARBITRAGEM PARA USUÁRIOS NOS ESTADOS UNIDOS OU NO CANADÁ****”, LOCALIZADA ABAIXO, PARA SABER MAIS.Cadastro**. Você deve se cadastrar nos nossos Serviços com informações precisas, fornecer seu número de telefone atual e, em caso de alteração, atualizá-lo com o recurso do WhatsApp de mudança de número. Você concorda em receber mensagens de texto e ligações telefônicas (nossas ou de nossos prestadores de serviço terceirizados) com códigos para se registrar para nossos Serviços.
+**CASO VOCÊ SEJA UM USUÁRIO DO WHATSAPP LOCALIZADO NOS ESTADOS UNIDOS OU NO CANADÁ, NOSSOS TERMOS CONTÊM UMA CLÁUSULA DE ARBITRAGEM VINCULANTE QUE DISPÕE QUE, EXCETO SE VOCÊ SE RECUSA A PARTICIPAR DE ARBITRAGENS E EXCETO PARA DETERMINADOS TIPOS DE CONTESTAÇÕES, VOCÊ E O WHATSAPP CONCORDAM EM RESOLVER TODAS OS CONFLITOS (DEFINIDOS ABAIXO) PELA ARBITRAGEM INDIVIDUAL VINCULANTE, O QUE SIGNIFICA QUE VOCÊ RENUNCIA O DIREITO DE RESOLVÊ-LAS JUDICIALMENTE E O DE PARTICIPAR DE AÇÕES COLETIVAS, ARBITRAGENS COLETIVAS OU AÇÕES POR SUBSTITUIÇÃO DERIVADA. LEIA A SEÇÃO “****CLÁUSULA ESPECIAL DE ARBITRAGEM PARA USUÁRIOS NOS ESTADOS UNIDOS OU NO CANADÁ****” ABAIXO PARA SABER MAIS.**
+
+**Registro**. Você deve se registrar em nossos Serviços usando informações precisas, fornecer seu número de celular atual e, em caso de alteração, atualizar o número de celular usando o recurso do WhatsApp de mudança de número. Você concorda em receber mensagens de texto e ligações telefônicas (nossas ou de nossos prestadores de serviço terceirizados) com códigos para se registrar para nossos Serviços.
 
 **Agenda de contatos**. Use o recurso de carregamento de contatos para nos enviar, se permitido pelas leis aplicáveis, os números de telefone da agenda de contatos do seu celular regularmente, incluindo de usuários de nossos Serviços e de seus outros contatos. Saiba mais sobre nosso recurso de carregamento de contato neste artigo.
 
@@ -116,9 +118,7 @@ Se alguém apresentar uma reivindicação (“Reivindicação de terceiros”) c
 
 **Disponibilidade dos nossos Serviços**. Estamos sempre buscando aprimorar nossos Serviços. Isso significa que podemos ampliar, adicionar ou remover nossos Serviços, recursos, funcionalidades e a compatibilidade com certos aparelhos e plataformas. Nossos Serviços podem ser interrompidos, inclusive para manutenção, reparos, atualizações ou falhas de rede ou de equipamento. Podemos descontinuar alguns ou todos os nossos Serviços, inclusive determinados recursos e o suporte a determinados dispositivos e plataformas, a qualquer momento. Eventos fora de nosso controle podem afetar nossos Serviços, como casos fortuitos ou de força maior.
 
-**Rescisão**. Embora esperamos que você continue usando o WhatsApp, você pode encerrar seu relacionamento conosco a qualquer momento, por qualquer motivo, ao apagar sua conta. Para instruções sobre como proceder, leia os artigos para Android, iPhone ou KaiOS na nossa Central de ajuda.
-
-Podemos modificar, suspender ou encerrar seu acesso ou uso dos nossos Serviços a qualquer momento e por qualquer motivo, por exemplo, se você violar as disposições ou intenções destes Termos ou prejudicar, colocar em risco ou expor juridicamente a nós, nossos usuários ou terceiros. Também podemos desativar ou apagar sua conta caso ela não fique ativa após o registro ou se sua conta permanecer inativa por um período de tempo prolongado. As cláusulas a seguir permanecerão válidas após a rescisão do seu relacionamento com o WhatsApp: “Licenças”, “Avisos legais”, “Limitação de responsabilidade”, “Indenização”, “Resolução de contestações”, “Disponibilidade”, “Rescisão de nossos Serviços”, “Outros”, e “Cláusula especial de arbitragem para usuários nos Estados Unidos e no Canadá”.
+Podemos modificar, suspender ou encerrar seu acesso ou uso dos nossos Serviços a qualquer momento e por qualquer motivo, por exemplo, se você violar as disposições ou intenções destes Termos ou prejudicar, colocar em risco ou expor juridicamente a nós, nossos usuários ou terceiros. Também podemos desativar ou apagar sua conta caso ela não fique ativa após o registro ou se sua conta permanecer inativa por um período de tempo prolongado. As cláusulas a seguir permanecerão válidas após a rescisão do seu relacionamento com o WhatsApp: “Licenças”, “Avisos legais”, “Limitação de responsabilidade”, “Indenização”, “Resolução de conflitos”, “Disponibilidade de nossos Serviços”, “Outros”, e “Cláusula especial de arbitragem para usuários nos Estados Unidos e no Canadá”.
 
 ### Disposições gerais
 
