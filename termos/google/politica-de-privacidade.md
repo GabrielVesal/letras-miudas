@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2024-03-23
-wayback: "https://web.archive.org/web/20240323212022/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2024-05-18
+wayback: "https://web.archive.org/web/20240518081419/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -20,7 +20,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 4 de março de 2024 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 28 de março de 2024 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -600,6 +600,10 @@ Também podemos usar as informações de pagamento para verificar se você atend
 ### Informações de voz e áudio
 
 Você pode escolher, por exemplo, se quer que o Google salve uma gravação de áudio na sua Conta do Google durante suas interações com a Pesquisa, o Assistente e o Maps. Quando o dispositivo detecta um comando de ativação de áudio, por exemplo, "Ok Google", o Google grava sua voz e o áudio alguns segundos antes da ativação. Saiba mais
+
+### informações semelhantes relacionadas à sua saúde física ou mental
+
+Se você usa os produtos e apps fitness que oferecemos, como o Fitbit, Pixel Watch, Nest ou Google Fit, coletamos os dados fornecidos por você, como sua altura e seu peso. Também coletamos informações desses apps e dispositivos, como seus padrões de sono, frequência cardíaca, temperatura da pele, calorias queimadas e passos dados.
 
 ### informações sobre itens próximos do dispositivo
 
