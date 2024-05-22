@@ -3,12 +3,10 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2024-04-28
-wayback: "https://web.archive.org/web/20240428121635/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2024-05-22
+wayback: "https://web.archive.org/web/20240522043359/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
-
-Se você está no EEE, no Reino Unido ou na Suíça, clique aqui para acessar a Política de Privacidade atual. A Política de Privacidade abaixo entrará em vigor para o EEE, o Reino Unido e a Suíça em 30 de abril de 2024.
 
 Declaração de Privacidade da Califórnia
 
@@ -401,13 +399,6 @@ Além disso, identificamos e usamos proteções adicionais conforme apropriado p
 - políticas e processos para contestar solicitações desproporcionais ou ilegais de autoridades governamentais.
 
 Para obter uma cópia dessas decisões de adequação ou das CCPs, entre em contato conosco por meio dos detalhes fornecidos na seção Fale conosco abaixo.
-
-| 개인정보를 제공받는 자 (연락처) | 개인정보가 이전되는 국가 | 이전 시기 및 방법 | 이전되는 개인정보 항목 | 개인정보를 제공받는 자의 수집 및 이용 목적 | 개인정보를 제공받는 자의 개인정보 보유 및 이용기간 | 이전 근거 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Pinterest Inc. 651 Brannan Street, San Francisco, CA 94107, USA. (정보보호책임자에게 연락할 수 있습니다) | 미국 | 필요에 따라 수시로 통신망을 통해 전송 | 상기 열거된 정보 일체 | **이용자에게 관련성 있고 흥미로운 개인 맞춤형 콘텐츠 제공** **Pinterest 서비스의 개선, 이용자 및 공공의 안전 유지 및 법익 보호** **Pinterest서비스에 개인 맞춤형 광고 게재** | **관계 법령상 달리 요구되지 않는 한, 회원님의 개인정보는 목적 달성 시까지 보유됩니다** | 정보주체의 동의 |
-| Meta Platforms, Inc. (여기를 통해서도 Meta에게 연락할 수 있습니다) | 미국 | 필요에 따라 수시로 통신망을 통해 전송 | 핀 미디어 핀 설명 핀 링크 | **Pinterest 상에 존재하는 회원님의 콘텐츠를 Instagram에 게시할 때, 회원님은 Instagram에 대하여 특정 정보의 공개를 지시하게 됩니다.** | **관계 법령상 달리 요구되지 않는 한, 회원님의 개인정보는 목적 달성 시까지 보유됩니다** | 정보주체의 동의 |
-
-Pinterest Europe Limited는 아일랜드에 위치해 있으며, 회원님의 개인정보는 아일랜드에서 수집 및 처리됩니다. 개인정보의 국외이전을 거부하기 위해서는 Pinterest의 고객센터로 연락하여 주시기 바랍니다. 다만, 국외이전에 동의하지 않을 경우 Pinterest 서비스 이용이 제한될 수 있습니다.
 
 Por quanto tempo mantemos suas informações
 
