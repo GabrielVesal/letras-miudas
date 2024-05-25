@@ -3,8 +3,8 @@ empresa: "Inter"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://inter.co/politica-de-privacidade/"
-capturado_em: 2024-02-25
-wayback: "https://web.archive.org/web/20240225210434/https://inter.co/politica-de-privacidade/"
+capturado_em: 2024-05-25
+wayback: "https://web.archive.org/web/20240525174555/https://inter.co/politica-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/inter/politica-de-privacidade.md"
 ---
 
@@ -119,16 +119,14 @@ Siga o Inter
 - Política de Segurança da Informação
 - Política de Segurança da Informação para Fornecedores
 
-© 2023 Banco Inter S.A. CNPJ: 00.416.968/0001-01
+© 2024 Banco Inter S.A. CNPJ: 00.416.968/0001-01
 
 Belo Horizonte | MG - Av. Barbacena, 1219 - Santo Agostinho. CEP: 30190-924
 
 São Paulo | SP - Avenida Presidente Juscelino Kubitschek, 1.400, 8º andar, CJ 81 - Vila Nova Conceição. CEP: 04543-000
 
-Banco Inter
+Inter&Co
 
-★★★★★
+Baixe o Super App e simplifique sua vida.
 
-4.8 - 323,2 mil
-
-Baixe o App
+Baixar o App
