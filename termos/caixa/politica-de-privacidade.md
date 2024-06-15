@@ -3,8 +3,8 @@ empresa: "Caixa"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/privacidade/aviso-de-privacidade/Paginas/default.aspx"
-capturado_em: 2024-01-19
-wayback: "https://web.archive.org/web/20240119155244/https://www.caixa.gov.br/privacidade/aviso-de-privacidade/Paginas/default.aspx"
+capturado_em: 2024-06-15
+wayback: "https://web.archive.org/web/20240615171220/https://www.caixa.gov.br/privacidade/aviso-de-privacidade/Paginas/default.aspx"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/politica-de-privacidade.md"
 ---
 
@@ -221,8 +221,7 @@ Você pode pedir para a CAIXA não realizar mais o tratamento dos seus dados, se
 
 #### Você pode exercer todos esses direitos entrando em contato conosco:
 
-- pelo site: www.caixa.gov.br/privacidade (em "Faça sua Solicitação");
-- pelo Whatsapp: 0800 104 0104;
+- Fale conosco
 - nas agências CAIXA;
 - pelo SAC: 0800 726 0101;
 - pela Ouvidoria: 0800 726 7474.
