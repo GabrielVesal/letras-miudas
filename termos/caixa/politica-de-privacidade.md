@@ -216,8 +216,7 @@ Você pode pedir para a CAIXA não realizar mais o tratamento dos seus dados, se
 
 #### Você pode exercer todos esses direitos entrando em contato conosco:
 
-- pelo site: www.caixa.gov.br/privacidade (em "Faça sua Solicitação");
-- pelo Whatsapp: 0800 104 0104;
+- Fale conosco
 - nas agências CAIXA;
 - pelo SAC: 0800 726 0101;
 - pela Ouvidoria: 0800 726 7474.
