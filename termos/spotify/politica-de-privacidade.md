@@ -3,12 +3,12 @@ empresa: "Spotify"
 documento: "Política de Privacidade"
 categoria: "Streaming"
 fonte: "https://www.spotify.com/br-pt/legal/privacy-policy/"
-capturado_em: 2024-02-23
-wayback: "https://web.archive.org/web/20240223095325/https://www.spotify.com/br-pt/legal/privacy-policy/"
+capturado_em: 2024-06-19
+wayback: "https://web.archive.org/web/20240619132015/https://www.spotify.com/br-pt/legal/privacy-policy/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/spotify/politica-de-privacidade.md"
 ---
 
-# **Política de Privacidade do Spotify**
+# Política de Privacidade do Spotify
 
 Em vigor a partir de 5 de dezembro de 2023
 
@@ -140,11 +140,11 @@ Recebemos alguns dados acima de terceiros. A tabela a seguir descreve as categor
 | --- | --- | --- |
 | **Categorias de terceiros** | **Descrição** | **Categorias de dados** |
 | Parceiros de autenticação | Se você se cadastrar ou acessar o Serviço Spotify usando outro serviço, receberemos suas informações desse terceiro. Isso nos ajudará a criar sua conta. | Dados do usuário |
-| Aplicativos, serviços e dispositivos de terceiros que você conecta à sua conta Spotify | Se você conectar sua conta Spotify a um aplicativo, serviço ou dispositivo de terceiros, poderemos coletar e usar as informações deles. Isso serve para tornar a integração possível. Esses apps, serviços ou dispositivos de terceiros podem incluir: - Redes sociais - Dispositivos, como: - de áudio (por exemplo, alto‑falantes e fones de ouvido) - smartwatches - televisões - celulares e tablets - automotivos (por exemplo, carros) - consoles de videogame - Serviços ou plataformas, tais como assistentes de voz ou plataformas de conteúdo Pediremos sua permissão antes de coletarmos suas informações de certos terceiros. | Dados do usuárioDados de Uso |
-| Parceiros de serviços técnicos | Trabalhamos com parceiros de serviços técnicos que nos fornecem certos dados. Isso inclui mapeamento de endereços IP para dados de localização não precisos (por exemplo, país ou região, cidade, estado). Isso possibilita ao Spotify fornecer o Serviço Spotify, conteúdos e recursos. Também trabalhamos com prestadores de serviços de segurança que nos ajudam a proteger as contas dos usuários. | Dados do usuárioDados de Uso |
+| Aplicativos, serviços e dispositivos de terceiros que você conecta à sua conta Spotify | Se você conectar sua conta Spotify a um aplicativo, serviço ou dispositivo de terceiros, poderemos coletar e usar as informações deles. Isso serve para tornar a integração possível. Esses apps, serviços ou dispositivos de terceiros podem incluir: - Redes sociais - Dispositivos, como: - de áudio (por exemplo, alto‑falantes e fones de ouvido) - smartwatches - televisões - celulares e tablets - automotivos (por exemplo, carros) - consoles de videogame - Serviços ou plataformas, tais como assistentes de voz ou plataformas de conteúdo Pediremos sua permissão antes de coletarmos suas informações de certos terceiros. | Dados do usuário Dados de Uso |
+| Parceiros de serviços técnicos | Trabalhamos com parceiros de serviços técnicos que nos fornecem certos dados. Isso inclui mapeamento de endereços IP para dados de localização não precisos (por exemplo, país ou região, cidade, estado). Isso possibilita ao Spotify fornecer o Serviço Spotify, conteúdos e recursos. Também trabalhamos com prestadores de serviços de segurança que nos ajudam a proteger as contas dos usuários. | Dados do usuário Dados de Uso |
 | Parceiros de pagamento e Comerciantes | Se você escolher pagar por um terceiro (por exemplo, operadoras de telecomunicações) ou por fatura, podemos receber os dados dos nossos parceiros de pagamento. Isto nos permite: - enviar faturas para você; - processar seu pagamento; - dar a você o que você comprou. Se encaminhamos você para um comerciante, recebemos dados do comerciante relacionados à sua compra. Por exemplo, podemos direcionar você a uma loja de mercadorias de um artista em uma plataforma de terceiros ou a um site de venda de ingressos de terceiros. O recebimento desses dados nos permite: - calcular quaisquer comissões devidas a nós; - analisar a eficácia de nossa parceria com esses parceiros comerciais; - entender seus interesses. | Dados sobre pagamentos e compras |
 | Parceiros de publicidade e marketing | Recebemos inferências de certos parceiros de publicidade ou marketing. Essas inferências são o entendimento dos parceiros de seus interesses e preferências. Isso nos permite veicular anúncios e marketing mais relevantes. | Dados de Uso |
-| Empresas adquiridas | Podemos receber seus dados de empresas adquiridas por nós. Isto visa melhorar nossos serviços, produtos e ofertas. | Dados do usuárioDados de Uso |
+| Empresas adquiridas | Podemos receber seus dados de empresas adquiridas por nós. Isto visa melhorar nossos serviços, produtos e ofertas. | Dados do usuário Dados de Uso |
 
 Se você baixar o app móvel do Spotify e testar o Spotify em uma experiência de usuário sem fazer login, coletaremos informações limitadas sobre seu uso do Serviço Spotify, incluindo Dados de Uso. Fazemos isso para entender como você está acessando e usando o Serviço. Também fazemos isso para assegurar que fornecemos a experiência certa para você, por exemplo, com base em seu país ou região. Se você decidir criar uma conta Spotify para experimentar nosso serviço completo, então combinaremos estes dados com os dados da sua conta Spotify.
 
@@ -240,7 +240,7 @@ Veja esta tabela para mais detalhes sobre com quem compartilhamos seus dados e p
 | Autoridades policiais ou outras entidades, bem como outros partes relacionadas aos litígios | - Dados do usuário - Dados de Uso | Quando acreditamos de boa‑fé que seja necessário fazermos o seguinte, por exemplo: - Cumprir uma obrigação legal - Responder a um processo legal válido (como mandado de busca, ordem judicial ou intimação) - Nosso próprio interesse ou de terceiros, com relação a: - segurança nacional; - cumprimento da lei; - litígio (processo judicial); - investigação criminal; - proteção da segurança de alguém; - prevenir morte ou danos corporais iminentes. |
 | Compradores da empresa | - Dados do usuário - Dados de Endereço - Dados de Uso - Dados de voz - Dados sobre pagamentos e compras - Dados sobre pesquisas e estudos | Se vendermos ou negociarmos a venda de nossa empresa a um comprador ou possível comprador. Nesse caso, podemos transferir seus dados pessoais para um sucessor ou coligado como parte dessa transação. |
 
-## **6. Retenção de dados**
+## 6. Retenção de dados
 
 Guardamos seus dados pessoais apenas enquanto for necessário para fornecer o Serviço Spotify a você e para fins comerciais legítimos e essenciais do Spotify, tais como:
 
