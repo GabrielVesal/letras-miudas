@@ -3,14 +3,14 @@ empresa: "Google"
 documento: "Termos de Uso"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/terms?hl=pt-BR&gl=BR"
-capturado_em: 2022-04-07
-wayback: "https://web.archive.org/web/20220407213613/https://policies.google.com/terms?hl=pt-BR&gl=BR"
+capturado_em: 2024-06-29
+wayback: "https://web.archive.org/web/20240629000948/https://policies.google.com/terms?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/termos-de-uso.md"
 ---
 
 # Termos de Serviço do Google
 
-Em vigor a partir de 5 de janeiro de 2022 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 22 de maio de 2024 | Versões arquivadas | Fazer o download do PDF
 
 Versão específica: Brasil
 
@@ -65,7 +65,7 @@ Sobre estes termos
 
 # Seu relacionamento com o Google
 
-Estes termos ajudam a definir o relacionamento entre você e o Google. De modo geral, permitimos que você use nossos serviços se concordar em seguir estes termos, que refletem o modo como as empresas do Google funcionam e como nós ganhamos dinheiro. Quando falamos de "Google", "nós", "nosso" ou "nossa", estamos nos referindo à Google LLC e às afiliadas dela.
+Estes termos ajudam a definir o relacionamento entre você e o Google. Quando falamos de "Google", "nós", "nosso" ou "nossa", estamos nos referindo à Google LLC e às afiliadas dela. De modo geral, permitimos que você acesse e use nossos serviços quando concorda em seguir estes termos, que refletem o modo como as empresas do Google funcionam e como nós ganhamos dinheiro.
 
 ## O que você pode esperar de nós
 
@@ -76,7 +76,7 @@ Fornecemos uma grande variedade de serviços que estão sujeitos a estes termos,
 - apps e sites, como a Pesquisa e o Maps;
 - plataformas, como o Google Shopping;
 - serviços integrados, como o Maps incorporado em apps ou sites de outras empresas;
-- dispositivos, como o Google Nest.
+- dispositivos, como o Google Nest e Pixel.
 
 Muitos desses serviços também incluem conteúdo que pode ser visto por streaming ou com o qual você pode interagir.
 
@@ -84,7 +84,7 @@ Nossos serviços são feitos para operar em conjunto, facilitando a alternância
 
 ### Desenvolvimento, melhorias e atualizações dos serviços do Google
 
-Estamos sempre desenvolvendo novos recursos e tecnologias para melhorar nossos serviços. Por exemplo, usamos inteligência artificial e aprendizado de máquina para oferecer traduções simultâneas, além de melhorar a detecção e o bloqueio de spam e malware. Como parte dessa melhoria contínua, às vezes adicionamos ou removemos recursos e funcionalidades, aumentamos ou diminuímos limites para nossos serviços e começamos a oferecer novos serviços ou deixamos de oferecer os antigos. Quando um serviço exigir ou incluir um software disponível para download, às vezes esse software será atualizado automaticamente no seu dispositivo se uma nova versão ou recurso estiver disponível. Alguns serviços permitem que você ajuste suas configurações de atualização automática.
+Estamos sempre desenvolvendo novos recursos e tecnologias para melhorar nossos serviços. Por exemplo, usamos inteligência artificial e aprendizado de máquina para oferecer traduções simultâneas, além de melhorar a detecção e o bloqueio de spam e malware. Como parte dessa melhoria contínua, às vezes adicionamos ou removemos recursos e funcionalidades, aumentamos ou diminuímos limites para nossos serviços e começamos a oferecer novos serviços ou deixamos de oferecer os antigos. Quando um serviço exigir ou incluir um software disponível para download ou pré-carregado, esse software poderá ser atualizado automaticamente no seu dispositivo se uma nova versão ou recurso estiver disponível. Alguns serviços permitem que você ajuste suas configurações de atualização automática.
 
 Se fizermos mudanças que impactem negativamente seu uso dos nossos serviços ou se pararmos de oferecer um serviço, enviaremos um aviso com certa antecedência, salvo em situações urgentes, como para evitar abusos, responder a requisitos legais ou resolver problemas técnicos ou de segurança. Também daremos a você a oportunidade, sujeita à legislação e às políticas aplicáveis, de exportar seu conteúdo da Conta do Google usando o Google Takeout.
 
@@ -92,25 +92,48 @@ Se fizermos mudanças que impactem negativamente seu uso dos nossos serviços ou
 
 ### Cumprimento destes termos e dos termos adicionais específicos do serviço
 
-A permissão que concedemos a você para usar nossos serviços permanecerá enquanto você obedecer:
+A permissão que concedemos a você para acessar e usar nossos Serviços permanecerá enquanto você obedecer:
 
 - **a estes termos;**
 - **aos termos adicionais específicos do serviço**, o que pode, por exemplo, incluir restrições de idade complementares.
 
-Também disponibilizamos várias políticas, Centrais de Ajuda e outros recursos para responder a perguntas comuns e definir expectativas sobre o uso dos nossos serviços. Esses recursos incluem nossa Política de Privacidade, a Central de Ajuda de direitos autorais, a Central de segurança e outras páginas que podem ser acessadas pelo nosso site de políticas.
+Também disponibilizamos várias políticas, Centrais de Ajuda e outros recursos para responder a perguntas comuns e definir expectativas sobre o uso dos nossos serviços. Esses recursos incluem nossa Política de Privacidade, a Central de Ajuda de direitos autorais, a Central de segurança, a Central de Transparência e outras páginas que podem ser acessadas pelo nosso site de políticas. Também podemos fornecer instruções e avisos específicos nos nossos serviços, como caixas de diálogo que alertam você sobre informações importantes.
 
 Apesar de darmos a você permissão para usar nossos serviços, mantemos todos os direitos de propriedade intelectual que detemos sobre eles.
 
 ### Respeito às outras pessoas
 
-Queremos manter um ambiente respeitoso para todos, o que significa que você precisa seguir estas regras básicas de conduta:
+Queremos manter um ambiente respeitável para todo mundo. Isso significa que você precisa seguir estas regras básicas de conduta:
 
-- Obedeça às leis aplicáveis, incluindo controle de exportação, sanções e leis de tráfico de pessoas.
-- Respeite os direitos das outras pessoas, incluindo a privacidade e direitos de propriedade intelectual.
-- Não abuse nem prejudique terceiros ou a si mesmo, nem ameace ou incentive esse tipo de conduta. Por exemplo, enganar, fraudar, falsificar a identidade, difamar, fazer bullying, assediar ou perseguir terceiros.
-- Não abuse, prejudique, interrompa ou interfira nos serviços. Por exemplo, acessá-los ou usá-los de formas fraudulentas ou enganosas, introduzir malware, invadir, praticar spam ou ignorar nossas medidas de proteção ou nossos sistemas. Quando indexamos a Web para oferecer a você os resultados da pesquisa, respeitamos as restrições padrão de uso que os proprietários de sites especificam no código deles, então exigimos o mesmo quando terceiros utilizam nossos serviços.
+- Obedecer às leis aplicáveis, incluindo controle de exportação, sanções e tráfico humano
+- Respeitar os direitos de terceiros, incluindo direitos de privacidade e de propriedade intelectual
+- Não prejudicar nem abusar de outras pessoas ou de si mesmo (nem ameaçar ou incentivar abuso ou danos), por exemplo, enganando, fraudando, falsificando ilegalmente uma identidade, difamando ou praticando bullying, assédio ou perseguição contra outras pessoas
 
-Nossos termos e políticas adicionais específicos do serviço fornecem mais detalhes sobre a conduta apropriada que todos que usam os serviços devem seguir. Se você encontrar outras pessoas que não estejam seguindo essas regras, muitos dos nossos serviços permitem que você denuncie casos de abuso. Se tomarmos providências com relação a uma denúncia de abuso, também forneceremos o processo descrito na seção *Tomando providências em caso de problemas*.
+Nossos termos e políticas adicionais específicos do serviço, como a Política de uso proibido da IA generativa, fornecem mais detalhes sobre a conduta apropriada que todos que usam os serviços devem seguir. Se você encontrar outras pessoas que não estejam seguindo essas regras, muitos dos nossos serviços permitem que você denuncie casos de abuso. Se tomarmos providências com relação a uma denúncia de abuso, também forneceremos o processo descrito na seção *Tomando providências em caso de problemas*.
+
+### Não abuse dos nossos serviços
+
+A maioria das pessoas que acessa ou usa nossos serviços entende as regras gerais que mantêm a Internet segura e aberta. Infelizmente, um pequeno número de pessoas não respeita essas regras. Por isso, elas estão descritas aqui para proteger nossos serviços e usuários contra abusos. Com isso em mente:
+
+Não é permitido abusar, prejudicar, interferir ou interromper nossos serviços ou sistemas, por exemplo:
+
+- introduzindo malware;
+- enviando spam, invadindo ou burlando nossos sistemas ou medidas de proteção;
+- executando jailbreak, comandos maliciosos ou injeções de comando, exceto como parte dos nossos programas de teste de segurança e bugs;
+- acessando ou usando nossos serviços ou conteúdo de maneira fraudulenta ou formas enganosas, como para:
+
+- phishing;
+- criação de contas ou conteúdo falsos, incluindo avaliações falsas;
+- indução de pessoas a pensar que conteúdo de IA generativa foi criado por uma pessoa;
+- fornecimento de serviços que parecem vir de você (ou de outra pessoa) quando, na verdade, são nossos,
+
+- oferecendo serviços que parecem vir de nós quando, na verdade, não vêm;
+- usando nossos serviços (incluindo o conteúdo que eles fornecem) para violar os direitos legais de qualquer pessoa, como propriedade intelectual ou direitos de privacidade;
+- fazendo engenharia reversa dos nossos serviços ou tecnologia subjacente, como nossos modelos de aprendizado de máquina, para extrair segredos comerciais ou outras informações reservadas, exceto conforme permitido pela legislação aplicável;
+- usando meios automatizados para acessar o conteúdo de qualquer um dos nossos serviços que viole as instruções legíveis por máquina em nossas páginas da Web (por exemplo, arquivos robots.txt que não permitem rastreamento, treinamento ou outras atividades);
+- usando conteúdo gerado por IA dos nossos serviços para desenvolver modelos de aprendizado de máquina ou tecnologias de IA relacionadas;
+- ocultando ou deturpando sua identidade para violar estes termos;
+- oferecendo serviços que incentivam outras pessoas a violar estes termos.
 
 ### Permissão para usar seu conteúdo
 
@@ -197,6 +220,8 @@ Se você optar por nos dar feedback, como sugestões para melhorar nossos servi�
 
 ## Seu conteúdo
 
+Alguns dos nossos serviços permitem que você gere conteúdo original. O Google não vai reivindicar a propriedade desse conteúdo.
+
 Alguns dos nossos serviços permitem que você deixe seu conteúdo disponível publicamente. Por exemplo, é possível postar uma avaliação de restaurante ou produto ou fazer upload de uma postagem em um blog que você criou.
 
 - Consulte a seção *Permissão para usar seu conteúdo* para ver mais informações sobre os direitos relacionados ao seu conteúdo e sobre como ele é usado nos nossos serviços.
@@ -214,7 +239,7 @@ Por fim, alguns dos nossos serviços dão a você acesso a conteúdos que perten
 
 # Software nos serviços do Google
 
-Alguns dos nossos serviços incluem softwares disponíveis para download. Nós damos a você permissão para usar esses softwares como parte dos serviços.
+Alguns dos nossos serviços incluem software para download ou pré-carregado. Nós damos a você permissão para usar esses softwares como parte dos serviços.
 
 A licença que concedemos a você é:
 
@@ -240,13 +265,20 @@ Fornecemos nossos serviços usando um nível razoável de habilidade e cuidado. 
 
 Os únicos compromissos que assumimos com relação aos nossos serviços, incluindo o conteúdo deles, as funções específicas ou a confiabilidade, disponibilidade ou possibilidade de atender às suas necessidades são fornecidos (1) na seção *Garantia*, (2) nos termos adicionais específicos do serviço e (3) nas leis que não podem ser limitadas por estes termos.
 
+**Não confie nos serviços para aconselhamento médico, jurídico, financeiro ou outra assistência profissional. Todo conteúdo sobre esses assuntos é fornecido somente para fins informativos e não substitui a orientação de um profissional qualificado.**
+
 ## Responsabilidades
 
 ### Para todos os usuários
 
-Tanto a legislação quanto estes termos buscam alcançar um equilíbrio quanto ao que você e o Google podem reivindicar em caso de problemas. A legislação nos permite limitar certas responsabilidades, mas não outras, sob estes termos.
+Tanto a legislação quanto estes termos buscam alcançar um equilíbrio quanto ao que você e o Google podem reivindicar em caso de problemas. Por isso, a legislação exige que todos tenham responsabilidades específicas e limitadas de acordo com estes termos.
 
-Estes termos só limitam nossas responsabilidades de acordo com o permitido pela legislação aplicável. Estes termos não limitam a responsabilidade por fraude, declarações falsas, ou morte ou ferimentos causados por negligência ou má conduta intencional.
+Estes termos só limitam nossas responsabilidades de acordo com o permitido pela legislação aplicável. Estes termos não limitam a responsabilidade por:
+
+- fraude ou declaração falsa;
+- morte ou danos pessoais causados por negligência;
+- negligência grave;
+- má conduta intencional.
 
 Salvo as responsabilidades descritas acima, o Google será responsável apenas pelas próprias violações destes termos ou dos termos adicionais específicos do serviço, sujeitas à legislação aplicável.
 
@@ -254,17 +286,17 @@ Salvo as responsabilidades descritas acima, o Google será responsável apenas p
 
 Se você é um usuário comercial ou uma organização:
 
-- na medida permitida por lei, você indenizará o Google e os diretores, executivos, funcionários e prestadores de serviço dele por quaisquer ações judiciais de terceiros (incluindo ações de órgãos do governo) decorrentes ou relacionadas ao uso ilegal dos serviços, a violações destes termos ou dos termos adicionais específicos do serviço. Essa indenização cobre qualquer responsabilidade ou despesa decorrente de ações judiciais, perdas, danos, julgamentos, multas, custos de litígios e honorários advocatícios;
+- Na medida permitida por lei, você indenizará o Google e os diretores, executivos, funcionários e prestadores de serviço dele por qualquer processo judicial de terceiros (incluindo ações de órgãos do governo) decorrentes ou relacionados ao uso ilegal dos serviços, a violações destes termos ou dos termos adicionais específicos do serviço. Essa indenização cobre qualquer responsabilidade ou despesa decorrente de ações judiciais, perdas, danos, julgamentos, multas, custos de litígios e honorários advocatícios, exceto se a responsabilidade ou despesa for causada por violação, negligência ou má conduta intencional do Google.
 - Se você for passível de isenção legal de certas responsabilidades, incluindo indenização, essas responsabilidades não se aplicarão a você de acordo com estes termos. Por exemplo, a ONU goza de certas imunidades para com obrigações legais, e estes termos não modificam essas imunidades.
 - o Google não será responsável por responsabilidades:
  - Perda de lucros, receitas, oportunidades de negócios, clientela ou economias previstas
  - Perda indireta ou emergente
  - Danos punitivos
-- a responsabilidade total do Google decorrente destes termos ou relacionada a eles é limitada ao valor de (1) US$ 500 ou (2) 125% das taxas pagas por você para usar os serviços relevantes nos 12 meses anteriores à violação.
+- Exceto conforme indicado na seção *Para todos os usuários* acima, a responsabilidade total do Google decorrente destes termos ou relacionada a eles é limitada ao valor de (1) US$ 500 ou (2) 125% das taxas pagas por você para usar os serviços relevantes nos 12 meses anteriores à violação.
 
 ## Tomando providências em caso de problemas
 
-Antes de tomar as providências descritas abaixo, forneceremos um aviso prévio sempre que possível, descreveremos o motivo da nossa ação e daremos a você a oportunidade de resolver o problema, a menos que haja motivos razoáveis para acreditar que fazer isso:
+Antes de tomar as providências descritas abaixo, vamos enviar, com antecedência e sempre que possível, um aviso descrevendo o motivo da nossa ação e daremos a você a oportunidade de esclarecer e resolver o problema, a menos que haja motivos razoáveis para acreditarmos que fazer isso:
 
 - acarretaria em dano ou responsabilidade para um usuário, terceiros ou ao Google;
 - violaria a legislação ou determinação emanada de uma autoridade;
@@ -277,7 +309,7 @@ Se tivermos razões concretas para acreditar que qualquer conteúdo seu (1) viol
 
 ### Suspender ou encerrar seu acesso aos serviços do Google
 
-O Google se reserva o direito de suspender ou encerrar seu acesso aos serviços ou excluir sua Conta do Google se alguma destas situações acontecer:
+Sem limitar qualquer um dos nossos outros direitos, o Google poderá suspender ou rescindir seu acesso aos serviços ou excluir sua Conta do Google se uma destas situações acontecer:
 
 - Você violar estes termos, os termos adicionais específicos do serviço ou as políticas de forma relevante ou recorrente.
 - Se precisarmos fazer isso para obedecer a um requisito legal ou uma ordem judicial.
@@ -365,7 +397,7 @@ Os Serviços do Google sujeitos a estes termos são os produtos e serviços list
 
 - Apps e sites, como a Pesquisa e o Google Maps
 - Plataformas, como o Google Shopping
-- serviços integrados, como o Maps incorporado em apps ou sites de outras empresas;
+- Serviços integrados, como o Maps incorporado em apps ou sites de outras empresas
 - Dispositivos e outros produtos, como o Google Nest
 
 Muitos desses serviços também incluem conteúdo que pode ser visto por streaming ou com o qual você pode interagir.
