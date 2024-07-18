@@ -2,7 +2,7 @@
      Fonte: https://openai.com/pt-BR/policies/privacy-policy/
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-Atualizado em: Atualizado em
+Atualizado em: November 14, 2023
 
 # Política de Privacidade
 
