@@ -3,12 +3,12 @@ empresa: "ChatGPT (OpenAI)"
 documento: "Política de Privacidade"
 categoria: "IA"
 fonte: "https://openai.com/pt-BR/policies/privacy-policy/"
-capturado_em: 2024-05-31
-wayback: "https://web.archive.org/web/20240531164020/https://openai.com/pt-BR/policies/privacy-policy/"
+capturado_em: 2024-07-18
+wayback: "https://web.archive.org/web/20240718095435/https://openai.com/pt-BR/policies/privacy-policy/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/openai/politica-de-privacidade.md"
 ---
 
-Atualizado em: Atualizado em
+Atualizado em: November 14, 2023
 
 # Política de Privacidade
 
