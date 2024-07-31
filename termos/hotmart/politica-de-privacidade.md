@@ -3,8 +3,8 @@ empresa: "Hotmart"
 documento: "Política de Privacidade"
 categoria: "Serviços"
 fonte: "https://hotmart.com/pt-br/legal/privacidade-de-dados"
-capturado_em: 2024-02-27
-wayback: "https://web.archive.org/web/20240227102220/https://hotmart.com/pt-br/legal/privacidade-de-dados"
+capturado_em: 2024-07-31
+wayback: "https://web.archive.org/web/20240731071108/https://hotmart.com/pt-br/legal/privacidade-de-dados"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/hotmart/politica-de-privacidade.md"
 ---
 
@@ -233,14 +233,14 @@ Abaixo estão listados os dados pessoais que são coletados pelas empresas Hotma
 - Confirmação da existência do tratamento. Você tem o direito de nos questionar se tratamos seus dados pessoais, confirmando a existência ou não desses tratamentos.
 - Acesso aos dados. Você tem o direito de solicitar uma cópia dos seus dados pessoais que são tratados por nós, por meio eletrônico, seguro e idôneo ou sob forma impressa, de acordo com sua preferência.
 - Retificação. Você tem o direito de solicitar a correção dos seus dados pessoais que estejam incompletos, inexatos ou desatualizados.
-- Anonimização, bloqueio ou exclusão. Nos casos em que forem tratados dados desnecessários, excessivos ou em desconformidade com a legislação, você tem o direito de solicitar que sejam anonimizados, bloqueados ou até excluídos.
+- Anonimização, bloqueio ou exclusão. Nos casos em que forem tratados dados desnecessários, excessivos ou em desconformidade com a legislação, você tem o direito de solicitar que sejam anonimizados, bloqueados ou até excluídos, através deste formulário.
 - Portabilidade. Você tem o direito de solicitar a portabilidade dos seus dados pessoais para outras plataformas de conteúdo, na forma da regulamentação expedida pela Autoridade Nacional de Proteção de Dados, observados o segredo comercial e industrial das empresas Hotmart Company.
 - Informações sobre compartilhamento. Você tem o direito de solicitar informações sobre as entidades públicas e privadas com as quais nós compartilhamos os seus dados pessoais.
 - Informações sobre a possibilidade de negar seu consentimento. Você tem direito de receber informações sobre a possibilidade de não fornecer o seu consentimento, quando o consentimento for a base legal aplicável para o tratamento de dados pessoais, com a indicação das consequências dessa negativa.
 - Revogação de consentimento. A qualquer tempo, você tem direito de revogar o consentimento que você tenha anteriormente outorgado, de forma fácil e gratuita. É importante que você saiba que a revogação do consentimento não invalida ou torna ilegítimas as atividades de tratamento de dados pessoais que tenham sido concretizadas antes da data da revogação.
 - Oposição ao tratamento. Nos casos em que o consentimento não for a base legal aplicável ao tratamento dos seus dados pessoais, e quando houver algum descumprimento à lei de proteção de dados, você tem o direito de se opor ao tratamento, indicando suas razões para tanto. As empresas Hotmart Company avaliarão se a sua oposição é justificada ou não, adotando as medidas necessárias para suspender o tratamento ou informar os fundamentos pelos quais compreende que o tratamento é lícito e permitido.
 - Reclamação. Você tem o direito de protocolar uma reclamação em relação ao tratamento dos seus dados pessoais realizado pelas empresas Hotmart Company perante a Autoridade Nacional de Proteção de Dados. No entanto, esperamos que, antes de fazer isso, você nos dê a oportunidade de responder a quaisquer dúvidas ou reclamações que você tenha diretamente.
-- Exclusão de dados tratados com consentimento. Nos casos em que o seu consentimento for a base legal para uma determinada atividade de tratamento, você tem o direito de solicitar a exclusão desses dados, ressalvadas as possibilidades de continuarmos armazenando os dados quando for necessário para o cumprimento de uma obrigação legal ou regulatória, ou para a defesa de nossos interesses em processos judiciais, administrativos ou arbitrais.
+- Exclusão de dados tratados com consentimento. Nos casos em que o seu consentimento for a base legal para uma determinada atividade de tratamento, você tem o direito de solicitar a exclusão desses dados, através deste formulário, ressalvadas as possibilidades de continuarmos armazenando os dados quando for necessário para o cumprimento de uma obrigação legal ou regulatória, ou para a defesa de nossos interesses em processos judiciais, administrativos ou arbitrais.
 
 9.2. Para falar com o nosso responsável pela proteção de dados pessoais, entre em contato através deste formulário.
 
@@ -308,4 +308,4 @@ Avenida Paseo de la reforma, número 295,
 
 Piso 8 Oficina A, Cuauhtemoc, Ciudad de México
 
-Para falar com a DPO das empresas Hotmart Company, entre em contato através deste formulário.
+Para falar com a Data Protection Officer das empresas Hotmart Company, Juliana Salles, entre em contato através deste formulário.
