@@ -3,34 +3,34 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2024-05-22
-wayback: "https://web.archive.org/web/20240522043359/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2024-08-26
+wayback: "https://web.archive.org/web/20240826230430/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
 
-Declaração de Privacidade da Califórnia
+# Declaração de Privacidade da Califórnia
 
 **Residentes na Califórnia: consulte a Declaração de Privacidade da Califórnia e o Aviso de Coleta de Dados aqui.**
 
-Resumo das alterações
+# Resumo das alterações
 
 Trabalhamos muito para que nosso uso de dados pessoais seja transparente e para facilitar a compreensão dos seus direitos e opções. Adicionamos mais detalhes sobre os dados pessoais que coletamos e como podemos compartilhá-los.
 
-Obrigado por usar o Pinterest!
+# Obrigado por usar o Pinterest!
 
 Nossa missão é inspirar as pessoas a criar a vida que elas amam. Para fazer isso, mostramos a você conteúdo personalizado e anúncios que achamos que você terá interesse com base nas informações que coletamos de você e de terceiros.
 
 Nós escrevemos esta política para ajudar você a entender quais informações coletamos, como usamos essas informações e as escolhas que você tem sobre elas. Alguns dos conceitos abaixo são um pouco técnicos, mas tentamos explicar as coisas de uma forma simples e clara.
 
-Escopo da Política de Privacidade
+# Escopo da Política de Privacidade
 
 Esta é a Política de Privacidade global do Pinterest. Destacamos abaixo onde uma determinada seção se aplica a você com base no seu local de residência.
 
 Para efeitos do Regulamento Geral sobre a Proteção de Dados ("**RGPD**"), se você reside no EEE, na Suíça e no Reino Unido, o Pinterest Europe Ltd. e o Pinterest, Inc. são controladores conjuntos dos seus dados pessoais. O Pinterest Europe Ltd. é uma empresa irlandesa com escritório registrado em Palmerston House, 2º andar, Fenian Street, Dublin 2, Irlanda. O Pinterest, Inc. é uma empresa dos EUA com escritório registrado em 651 Brannan St., São Francisco, CA 94107, EUA. O Pinterest Europe Ltd é o controlador responsável por cumprir as principais obrigações de acordo com o RGPD. Se tiver alguma dúvida sobre nossas atividades de tratamento de dados, entre em contato com nosso Encarregado da proteção de dados.
 
-Nós coletamos informações de algumas maneiras diferentes
+# Nós coletamos informações de algumas maneiras diferentes
 
-1. Quando você nos fornece ou nos dá permissão para obtê-la.
+### 1. Quando você nos fornece ou nos dá permissão para obtê-la.
 
 Quando você usa sites, aplicativos, serviços, tecnologias, APIs, widgets ou quaisquer outros produtos ou recursos do Pinterest que oferecemos (“Pinterest” ou os “Serviços”), compartilha voluntariamente determinadas informações.
 
@@ -40,7 +40,7 @@ Quando você usa sites, aplicativos, serviços, tecnologias, APIs, widgets ou qu
 - **Suas comunicações conosco**: se você entrar em contato conosco para obter suporte ao consumidor ou se comunicar conosco para qualquer outro fim, coletaremos o conteúdo dessas comunicações.
 - **Seus contatos**: se você optou anteriormente por sincronizar seus contatos com sua conta, continuaremos processando determinadas informações sobre seus contatos que forem usuários do Pinterest para ajudar vocês a encontrar uns aos outros em nossos Serviços.
 
-2. Também obtemos informações técnicas quando você usa o Pinterest
+### 2. Também obtemos informações técnicas quando você usa o Pinterest
 
 Quando você usa um site, aplicativo para celular ou outro serviço da Internet, determinadas informações de atividade na Internet e na rede eletrônica são criadas e registradas automaticamente. O mesmo acontece quando você usa o Pinterest. Veja alguns tipos de informação que coletamos:
 
@@ -51,7 +51,7 @@ Quando você usa um site, aplicativo para celular ou outro serviço da Internet,
 - **Informações de localização**: usamos seu endereço IP para inferir sua localização aproximada, mesmo que você opte por não compartilhar sua localização exata, e as fotos que você compartilha podem incluir informações sobre a localização em que foram tiradas.
 - **Opções do usuário**: manteremos um registro das opções que você selecionou nas configurações, incluindo configurações de privacidade e se você habilitou as notificações.
 
-3. Nossos parceiros e anunciantes compartilham informações conosco
+### 3. Nossos parceiros e anunciantes compartilham informações conosco
 
 Além disso, recebemos informações sobre você e sua atividade fora do Pinterest de nossos afiliados, anunciantes, parceiros e outros terceiros com os quais trabalhamos. Por exemplo:
 
@@ -61,7 +61,7 @@ Além disso, recebemos informações sobre você e sua atividade fora do Pintere
 
 Você pode controlar como usamos essas informações para personalizar sua experiência e os anúncios que você vê no Pinterest nas Configurações de privacidade e dados.
 
-Como usamos as informações que coletamos
+# Como usamos as informações que coletamos
 
 **Estamos empenhados em mostrar conteúdo que seja relevante, interessante e pessoal para você. Para fazer isso, usamos suas informações para fornecer e melhorar sua experiência, incluindo:**
 
@@ -95,11 +95,13 @@ Algumas de nossas atividades podem constituir "publicidade segmentada", "compart
 
 Quando usarmos cookies para saber sobre seu comportamento dentro ou fora de nossos serviços, nós ou nossos parceiros obteremos o consentimento de que possamos precisar de acordo com a lei aplicável. Para saber mais sobre como usamos cookies, consulte nossa Política de Cookies.
 
-Informações adicionais para titulares de dados do EEE, Suíça e Reino Unido: bases legais com as quais contamos quando usamos suas informações
+# Informações adicionais para titulares de dados do EEE, Suíça e Reino Unido: bases legais com as quais contamos quando usamos suas informações
 
 A seção abaixo aplica-se apenas aos residentes no EEE, na Suíça e no Reino Unido. De acordo com a lei de proteção de dados aplicável na região europeia (como o RGPD), as empresas devem ter uma justificativa legal para processar suas informações para os diversos fins descritos nesta Política de Privacidade.
 
 Você também tem direitos específicos à sua disposição, dependendo de qual base legal usamos, e explicamos isso abaixo.
+
+Usamos as informações com base em interesses legítimos
 
 Contamos com nossos legítimos interesses ou aqueles de terceiros, desde que não sejam superados por seus interesses e direitos fundamentais.
 
@@ -303,6 +305,8 @@ Temos um interesse legítimo em veicular anúncios relevantes, interessantes e p
 - Escolhas do usuário
 - Dados de outras fontes (plataformas de terceiros; parceiros de serviço técnico; anunciantes e outros parceiros)
 
+Usamos as informações para cumprir nossas obrigações legais
+
 ## Por que e como usamos suas informações
 
 **Para cumprir as obrigações legais e regulatórias**
@@ -325,6 +329,8 @@ Temos um interesse legítimo em veicular anúncios relevantes, interessantes e p
 
 Qualquer uma das categorias de informações listadas em "Coletamos informações de algumas maneiras diferentes", exceto as informações de localização precisa (que não coletamos de usuários no EEE, na Suíça ou no Reino Unido).
 
+Usamos as informações quando você nos dá consentimento
+
 ## Como e por que usamos suas informações
 
 Quando você nos deu consentimento (por exemplo, nas configurações do seu dispositivo):
@@ -340,7 +346,7 @@ Qualquer uma das categorias de informações listadas em "Coletamos informaçõe
 
 Nos casos em que dependemos do consentimento, você pode retirá-lo a qualquer momento.
 
-Seus direitos e opções
+# Seus direitos e opções
 
 Oferecemos a você algumas opções para controlar seus dados. Dependendo do seu local de residência (por exemplo, EEE, Suíça, Reino Unido, EUA), essas opções também podem ser direitos de privacidade que você tem de acordo com a lei local. Para exercer esses direitos, acesse suas configurações da conta e, se ainda precisar de ajuda, nossa Central de Ajuda.
 
@@ -351,6 +357,8 @@ Oferecemos a você algumas opções para controlar seus dados. Dependendo do seu
 
 Nos casos em que dependemos de consentimento, você pode retirá-lo a qualquer momento.
 
+Direitos adicionais no EEE, no Reino Unido e na Suíça
+
 Se você reside no EEE, no Reino Unido ou na Suíça, também tem alguns direitos adicionais:
 
 - **Direito de se opor a ou de restringir o processamento**: você pode se opor ao nosso marketing direto ou quando dependemos de interesses legítimos para processar suas informações. Você pode se opor por meio deste formulário.
@@ -360,7 +368,7 @@ Se você reside no EEE, no Reino Unido ou na Suíça, também tem alguns direito
  - No Reino Unido, a autoridade relevante de proteção de dados é o Information Commissioner's Office, Wycliff House, Water Lane, Wilmslow, Cheshire, SK9 5AF, +44 (0303) 123 1113, email: casework@ico.org.uk.
  - Na Irlanda, a autoridade relevante de proteção de dados é a Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, +353 017650100/+ 353 1800437737, email: info@dataprotection.ie ou usar o seguinte formulário online: Formulários de proteção de dados.
 
-Não vamos discriminar você caso opte por exercer os direitos ou opções relacionados às suas informações pessoais. Esses direitos podem ser limitados, por exemplo, se o atendimento de sua solicitação revela dados pessoais sobre outra pessoa; onde eles infringem os direitos de terceiros (incluindo nossos direitos); ou se você nos pede para excluir informações que somos obrigados por lei a manter ou temos legítimo interesse em manter. Se recusarmos sua solicitação de exercer seus direitos, você poderá ter o direito de apelar de nossa decisão entrando em contato conosco pelo email privacy-support [at] pinterest.com (privacy-support[at]pinterest[dot]com).
+Não vamos discriminar você caso opte por exercer os direitos ou opções relacionados às suas informações pessoais. Esses direitos podem ser limitados, por exemplo, se o atendimento de sua solicitação revela dados pessoais sobre outra pessoa; onde eles infringem os direitos de terceiros (incluindo nossos direitos); ou se você nos pede para excluir informações que somos obrigados por lei a manter ou temos legítimo interesse em manter. Se recusarmos sua solicitação de exercer seus direitos, você poderá ter o direito de apelar de nossa decisão entrando em contato conosco pelo email privacy-support@pinterest.com.
 
 Você tem opções em relação às suas informações no Pinterest. Se você tem uma conta do Pinterest, muitos desses controles são integrados diretamente ao Pinterest ou às suas configurações. Por exemplo, você pode: editar informações no seu perfil, vincular ou desvincular sua conta do Pinterest de outros serviços (como Facebook ou Google), editar configurações de pastas secretas e encerrar sua conta a qualquer momento. Também oferecemos suporte para configurações como Limitar Publicidade Rastreada no iOS e Personalização de anúncios em dispositivos Android.
 
@@ -371,7 +379,7 @@ Você também tem opções disponíveis para você por meio do dispositivo ou so
 
 No caso de usuários residentes em certos estados dos EUA que habilitaram um sinal de preferências de recusa (como o Controle de Privacidade Global), respeitaremos essa preferência quando você usar o Pinterest.
 
-Como e quando compartilhamos informações
+# Como e quando compartilhamos informações
 
 Qualquer pessoa pode ver o conteúdo público que você publica, como pastas e Pins que você cria e as informações do perfil público que você nos fornece. Dependendo de seu local de residência, também disponibilizamos essas informações públicas por meio do que chamamos de APIs (uma forma técnica de compartilhar informações rapidamente). Por exemplo, um parceiro pode estudar quais são seus respectivos Pins mais populares ou como eles estão sendo compartilhados no Pinterest usando uma API do Pinterest. Também compartilhamos as categorias de informações descritas acima:
 
@@ -381,9 +389,11 @@ Qualquer pessoa pode ver o conteúdo público que você publica, como pastas e P
 - Com autoridades competentes, agências governamentais, pesquisadores ou outras partes em conformidade com as leis, regras ou regulamentos. Por exemplo, autoridades competentes, como a polícia ou a justiça, podem solicitar informações sobre contas. Apenas divulgamos informações em resposta a essas solicitações se acreditamos que a divulgação é razoavelmente necessária para cumprir uma lei, regulamento ou solicitação legal; para proteger a segurança, os direitos ou a propriedade do público, de qualquer pessoa ou do Pinterest; ou para detectar, prevenir ou resolver problemas técnicos, de fraude e segurança. Também podemos compartilhar informações se acreditarmos ser necessário para prevenir lesões corporais graves e iminentes a uma pessoa em situações de emergência. Para saber mais sobre como respondemos a solicitações de autoridades competentes, consulte nossas Diretrizes para Autoridades Competentes. Podemos compartilhar suas informações acessíveis publicamente com pesquisadores independentes, desde que atendam a determinados critérios, para combater danos sociais.
 - Com nossa família corporativa de empresas, incluindo subsidiárias integrais e afiliados. Se nos envolvermos em uma fusão, aquisição, falência, dissolução, reorganização ou transação ou procedimento semelhante que envolva a transferência das informações descritas nesta Política de Privacidade, compartilharemos suas informações com uma parte envolvida em tal processo (por exemplo, um potencial comprador).
 
-Como transferir suas informações
+# Como transferir suas informações
 
 O Pinterest é um serviço mundial. Ao usar nossos produtos e serviços, você nos autoriza a transferir e armazenar suas informações fora do seu país de origem, inclusive nos Estados Unidos, para os fins descritos nesta política. As proteções à privacidade e os direitos das autoridades de acessar suas informações pessoais nesses países poderão não ser equivalentes àqueles aplicados em seu país de origem.
+
+Etapas adicionais para transferências de dados no EEE, na Suíça e no Reino Unido
 
 Se você reside no EEE, na Suíça ou no Reino Unido, tomamos medidas adicionais relacionadas às transferências de dados. As informações controladas pelo Pinterest Europe Limited serão transferidas ou transmitidas para, ou armazenadas e tratadas nos Estados Unidos ou outros países fora de seu local de residência para os fins descritos nesta política. As salvaguardas nas quais confiamos para garantir que suas informações se beneficiem de um nível adequado de proteção incluem:
 
@@ -400,21 +410,21 @@ Além disso, identificamos e usamos proteções adicionais conforme apropriado p
 
 Para obter uma cópia dessas decisões de adequação ou das CCPs, entre em contato conosco por meio dos detalhes fornecidos na seção Fale conosco abaixo.
 
-Por quanto tempo mantemos suas informações
+# Por quanto tempo mantemos suas informações
 
 Nós mantemos suas informações apenas enquanto precisamos para fornecer o Pinterest para você e cumprir os fins descritos nesta política. Quando não precisarmos mais usar suas informações e não houver necessidade de as mantermos em conformidade com nossas obrigações legais ou regulatórias, removeremos as informações dos nossos sistemas ou as despersonalizaremos para que não possamos usá-las para identificar você.
 
 Se você reside no EEE, no Reino Unido ou na Suíça, veja aqui algumas informações adicionais sobre nossas práticas de retenção: nós mantemos suas informações apenas pelo tempo necessário para os fins identificados nesta Política de Privacidade, que incluem o fornecimento do nosso Serviço ou para outros fins legítimos, como cumprir obrigações legais, aplicar nossos Termos e evitar violações destes, combater spam, ou proteger ou defender nossos direitos, propriedade e usuários. Os períodos de armazenamento são determinados caso a caso. Nós manteremos as informações da conta, como seu nome, endereço de email e senha, enquanto sua conta existir, porque precisamos delas para operá-la.
 
-Nossa política sobre informações de crianças
+# Nossa política sobre informações de crianças
 
 Menores de 13 anos não têm permissão para usar o Pinterest. Se residir em um estado ou país com um requisito de idade superior, você poderá usar os Serviços somente se tiver idade igual ou superior à qual pode fornecer consentimento para o tratamento de dados. Acesse a Central de Ajuda para obter mais informações.
 
-Como fazemos alterações nesta política
+# Como fazemos alterações nesta política
 
 Podemos alterar esta política de tempos em tempos e, se o fizermos, publicaremos as alterações nesta página. Se você continuar a usar o Pinterest depois que essas alterações estiverem em vigor, a nova política será aplicável a você. Se as alterações forem significativas, poderemos apresentar um aviso mais proeminente, como pelo envio de um email para você.
 
-Fale conosco
+# Fale conosco
 
 A melhor maneira de você entrar em contato conosco ou exercer suas opções descritas acima é através da Central de Ajuda. Se você reside nos Estados Unidos, o Pinterest, Inc. é responsável pelas suas informações. Você pode entrar em contato com o Pinterest Inc., localizado em 651 Brannan Street, São Francisco, CA 94103.
 
