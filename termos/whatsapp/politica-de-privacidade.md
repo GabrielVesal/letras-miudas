@@ -3,14 +3,16 @@ empresa: "WhatsApp"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
-capturado_em: 2024-03-01
-wayback: "https://web.archive.org/web/20240301001018/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
+capturado_em: 2024-08-27
+wayback: "https://web.archive.org/web/20240827212236/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/politica-de-privacidade.md"
 ---
 
-Início da vigência: 4 de janeiro de 2021 (versões arquivadas)
-
 # Política de Privacidade do WhatsApp
+
+Em vigor em 4 de janeiro de 2021
+
+versões arquivadas
 
 *Se você reside na Região Europeia, o WhatsApp Ireland Limited fornece os Serviços para você de acordo com estes Termos de Serviço e a Política de Privacidade.*
 
@@ -57,7 +59,7 @@ Nossos Serviços têm recursos opcionais e precisamos coletar dados adicionais p
 - **Seus contatos**. Use o recurso de carregamento de contatos para nos enviar, se permitido pelas leis aplicáveis, os números de telefone de sua agenda de contatos regularmente, tanto de usuários de nossos Serviços quanto de outros contatos. Se algum dos seus contatos ainda não estiver utilizando nossos Serviços, gerenciaremos esses dados de forma a garantir que seus contatos não sejam identificados por nós. Saiba mais sobre nosso recurso de carregamento de contato neste artigo. Você pode criar, entrar ou ser adicionado a grupos e listas de transmissão, que serão associados aos dados da sua conta. Você deve atribuir um nome aos grupos. É possível adicionar uma descrição ou imagem ao grupo.
 - **Dados de status**. Você pode compartilhar conosco seu status caso decida adicioná-lo à sua conta. Saiba como usar o status no Android, no iPhone ou no KaiOS.
 - **Dados de transações e pagamentos**. Caso você use os serviços de pagamento, nossos Serviços de compra ou outras transações financeiras, tratamos dados adicionais sobre você, como conta para pagamento e dados da transação. Os dados de conta para pagamento e transação incluem informações necessárias para concluir a transação (como informações sobre sua forma de pagamento, dados de envio e valor da transação). Se você usar nossos serviços de pagamento disponíveis em seu país ou território, nossas práticas de privacidade serão descritas na política de privacidade do recurso pagamentos aplicável.
-- **Suporte e outras comunicações com os clientes**. Ao entrar em contato com o suporte para obter ajuda, ou se comunicar conosco de alguma outra forma, você poderá fornecer dados relacionados ao seu uso dos nossos Serviços, como cópias de suas mensagens, dados que considerar úteis e uma forma de contato (como um endereço de e-mail). Por exemplo, podemos receber um e-mail seu com dados sobre o desempenho do app ou com outras questões.
+- **Suporte e outras comunicações com os clientes**. Ao entrar em contato com o suporte para obter ajuda, ou se comunicar conosco de alguma outra forma, você poderá fornecer dados relacionados ao seu uso dos nossos Serviços, como cópias de suas mensagens, dados que considerar úteis e uma forma de contato (como um endereço de email). Por exemplo, podemos receber um email seu com dados sobre o desempenho do app ou com outras questões.
 
 #### Dados coletados automaticamente
 
