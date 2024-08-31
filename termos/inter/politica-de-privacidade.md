@@ -48,6 +48,7 @@ Sobre nós
 - Ética e Compliance
 - Investimentos
 - Blog
+- Newsroom
 
 Precisa de ajuda?
 
@@ -58,6 +59,7 @@ Precisa de ajuda?
 - 2ª via do boleto
 - Saldo devedor
 - Negocie sua dívida
+- Leilões de crédito emergencial
 
 Nossos números
 
@@ -116,7 +118,7 @@ Siga o Inter
 
 © 2024 Banco Inter S.A. CNPJ: 00.416.968/0001-01
 
-Belo Horizonte | MG - Av. Barbacena, 1219 - Santo Agostinho. CEP: 30190-924
+Belo Horizonte | MG - Av. Barbacena, 1219 - Santo Agostinho. CEP: 30190-131
 
 São Paulo | SP - Avenida Presidente Juscelino Kubitschek, 1.400, 8º andar, CJ 81 - Vila Nova Conceição. CEP: 04543-000
 
