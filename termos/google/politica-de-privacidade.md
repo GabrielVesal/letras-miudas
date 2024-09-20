@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2024-05-18
-wayback: "https://web.archive.org/web/20240518081419/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2024-09-20
+wayback: "https://web.archive.org/web/20240920013528/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -20,7 +20,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 28 de março de 2024 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 16 de setembro de 2024 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -380,7 +380,7 @@ Para usuários localizados no Brasil, o controlador de dados responsável por su
 
 ### Dados de contato
 
-Se tiver alguma dúvida, entre em contato com o Google e com nosso escritório de proteção de dados. Você também poderá entrar em contato com a autoridade local de proteção de dados se tiver dúvidas sobre seus direitos de acordo com a legislação brasileira.
+Se tiver alguma dúvida, entre em contato com o Google e com nosso escritório de proteção de dados. A oficial de proteção de dados é Kristie Chon Flynn. Você também poderá entrar em contato com a autoridade local de proteção de dados se tiver dúvidas sobre seus direitos de acordo com a legislação brasileira.
 
 # Sobre esta política
 
@@ -405,6 +405,7 @@ Os seguintes avisos de privacidade fornecem informações adicionais sobre algun
 
 - Payments
 - Fiber
+- Apps do Gemini
 - Google Fi
 - Google Workspace for Education
 - Read Along
