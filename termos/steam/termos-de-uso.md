@@ -2,9 +2,9 @@
 empresa: "Steam"
 documento: "Termos de Uso"
 categoria: "Jogos"
-fonte: "https://store.steampowered.com/subscriber_agreement/?l=brazilian"
-capturado_em: 2023-02-08
-wayback: "https://web.archive.org/web/20230208224628/https://store.steampowered.com/subscriber_agreement/?l=brazilian"
+fonte: "https://store.steampowered.com/subscriber_agreement?l=brazilian"
+capturado_em: 2024-09-28
+wayback: "https://web.archive.org/web/20240928032519/https://store.steampowered.com/subscriber_agreement?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/termos-de-uso.md"
 ---
 
@@ -21,13 +21,10 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/st
 7. Isenção de responsabilidade; limitação de responsabilidade; ausência de garantias; garantia limitada e acordo
 8. Alterações no presente acordo
 9. Duração e término
-10. Taxas para leis aplicáveis/mediação/jurisdição/advogados
-11. Resolução de disputas/arbitragem vinculativa/renúncia de ação coletiva
-12. Disposições gerais
+10. Lei vigente/jurisdição
+11. Disposições gerais
 
 Este Acordo de Assinatura do Steam (“Acordo”) é um documento legal que explica seus direitos e obrigações como um assinante do Steam da Valve Corporation, uma corporação de acordo com as leis do Estado de Washington, com sede registrada em 10400 NE 4th St., Bellevue, WA 98004, Estados Unidos, registrada no Washington Secretary of State com o número 60 22 90 773, ID de IVA nº EU 8260 00671 (“Valve”). Leia-o atentamente.
-
-A SEÇÃO 11 CONTÉM UM ACORDO DE ARBITRAGEM VINCULATIVA E UMA RENÚNCIA À AÇÃO COLETIVA. ISSO AFETA COMO AS DISPUTAS SÃO RESOLVIDAS. LEIA OS ITENS MENCIONADOS. SE VOCÊ FOR CONSUMIDOR E MORAR EM UMA PROVÍNCIA DE QUEBEC (CANADÁ), NA UNIÃO EUROPEIA OU NO REINO UNIDO, A SEÇÃO 11 NÃO SE APLICARÁ A VOCÊ.
 
 1. REGISTRO COMO ASSINANTE; APLICAÇÃO DOS TERMOS A VOCÊ; A SUA CONTA; ACEITAÇÃO DE ACORDOS ⏶
 
@@ -43,11 +40,11 @@ B. Hardware; Assinaturas; Conteúdo e Serviços
 
 Como Assinante, você pode obter acesso a determinados serviços, software e conteúdo disponíveis para os Assinantes ou adquirir determinado Hardware (conforme definido abaixo) no Steam. O software cliente Steam e qualquer outro software, conteúdo e atualizações que você baixar ou acessar por meio do Steam, incluindo, mas sem caráter limitativo, videogames e conteúdo do jogo da Valve ou de terceiros, software associado ao hardware e quaisquer itens virtuais que trocar, vender ou comprar em um Mercado de Assinaturas Steam são mencionados no presente Acordo como “Conteúdo e Serviços”; os direitos de acesso e/ou uso de quaisquer Conteúdo e Serviços por meio do Steam são mencionados no presente Acordo como “Assinaturas”.
 
-Cada Assinatura permite o acesso a Conteúdo e Serviços específicos. Algumas Assinaturas podem impor termos adicionais específicos de tal Assinatura ("Termos de Assinatura") (por exemplo, um acordo de licença para o usuário final específico de um determinado jogo, ou termos de uso de um determinado produto ou funcionalidade do Steam). Além disso, os termos adicionais (por exemplo, procedimentos de pagamento e faturamento) podem ser publicados em http://www.steampowered.com" ou no serviço Steam ("Regras de Uso"). As Regras de Uso incluem as Regras de Conduta Online Steam http://steampowered.com/index.php?area=online\_conduct e a Política de Reembolso Steam http://store.steampowered.com/steam\_refunds. Os Termos de Assinatura, as Regras de Uso e a Política de Privacidade da Valve (que pode ser consultada em http://www.valvesoftware.com/privacy.htm) estarão vinculados a você assim que sua aceitação deles ou do presente Acordo for indicada, ou você se tornará vinculado a eles do modo descrito na Seção 8 (Alterações do presente Acordo).
+Cada Assinatura permite o acesso a Conteúdo e Serviços específicos. Algumas Assinaturas podem impor termos adicionais específicos a tal Assinatura ("Termos de Assinatura") (por exemplo, um acordo de licença para o usuário final específico de um determinado jogo, ou termos de uso de um determinado produto ou funcionalidade do Steam). Além disso, os termos adicionais (por exemplo, procedimentos de pagamento e faturamento) podem ser publicados em http://www.steampowered.com ou no serviço Steam ("Regras de Uso"). As Regras de Uso incluem as Regras de Conduta Online Steam http://steampowered.com/index.php?area=online\_conduct e a Política de Reembolso Steam http://store.steampowered.com/steam\_refunds. Os Termos de Assinatura, as Regras de Uso e a Política de Privacidade da Valve (que pode ser consultada em http://www.valvesoftware.com/privacy.htm) estarão vinculados a você assim que sua aceitação deles ou do presente Acordo for indicada, ou você se tornará vinculado a eles do modo descrito na Seção 8 (Alterações do presente Acordo).
 
 C. Sua Conta
 
-Quando você concluir o processo de registro no Steam, será criada uma conta Steam ("Conta"). Sua Conta também poderá incluir informações de faturamento fornecidas à Valve para transações envolvendo Assinaturas, Conteúdo, Serviços e a compra de mercadorias físicas por meio do Steam (“Hardware”). Você poderá não revelar, compartilhar ou de outra forma permitir que outras pessoas usem sua senha ou Conta, exceto se for especificamente autorizado de outra forma pela Valve. Você é o responsável pela confidencialidade de seu nome de login e senha assim como pela segurança do seu sistema de computador. A Valve não é responsável pelo uso da sua senha e Conta nem por todas as comunicações e atividades no Steam que resultem do uso de seu nome de login e senha por você, ou por qualquer pessoa a qual tenha, de forma intencional ou não, divulgado seu login e/ou senha em violação à disposição de confidencialidade. A menos que resulte da negligência ou culpa da Valve, a Valve não é responsável pelo uso de sua Conta por uma pessoa que usou fraudulentamente seu login e senha sem sua permissão. Se você acreditar que a confidencialidade de seu login e/ou senha pode ter sido comprometida, você deverá notificar a Valve por meio do formulário de suporte (https://support.steampowered.com/newticket.php) imediatamente.
+Quando você concluir o processo de registro no Steam, será criada uma conta Steam ("Conta"). Sua Conta também poderá incluir informações de faturamento fornecidas à Valve para transações envolvendo Assinaturas, Conteúdo, Serviços e a compra de mercadorias físicas por meio do Steam ("Hardware"). Você não poderá revelar, compartilhar ou de outra forma permitir que outras pessoas usem sua senha ou Conta, exceto se for especificamente autorizado de outra forma pela Valve. Você é o responsável pela confidencialidade de seu login e senha assim como pela segurança do seu sistema de computador. A Valve não é responsável pelo uso da sua senha e Conta nem pelas comunicações e atividades no Steam que resultem do uso de seu login e senha por você, ou por qualquer pessoa a qual tenha, de forma intencional ou não, divulgado seu login e/ou senha em violação à disposição de confidencialidade. A menos que resulte da negligência ou culpa da Valve, a Valve não é responsável pelo uso de sua Conta por uma pessoa que usou fraudulentamente seu login e senha sem sua permissão. Se você acreditar que a confidencialidade de seu login e/ou senha pode ter sido comprometida, você deverá notificar a Valve imediatamente por meio do formulário de suporte (https://help.steampowered.com/pt-br/).
 
 A sua Conta, incluindo informações pertinentes a ela (ex: informações de contato, informações de cobrança, histórico e Assinaturas da Conta, etc.) é estritamente pessoal. Portanto, você não pode vender, nem cobrar dos outros pelo direito de uso da sua Conta, nem transferir, de outro modo, a sua Conta, nem pode vender, nem cobrar dos outros pelo direito de uso, nem transferir quaisquer Assinaturas que não sejam as expressamente autorizadas pelo presente Acordo (incluindo quaisquer Termos de Assinatura ou Regras de Uso) ou especificamente permitidas, de outra forma, pela Valve.
 
@@ -99,7 +96,7 @@ Caso você incorpore qualquer conteúdo de terceiro em qualquer Arte feita pelos
 
 O uso comercial de alguns conteúdos de jogos da Valve é permitido por meio de recursos como Workshop Steam ou Mercado de Assinaturas Steam. Os termos aplicáveis a esse uso estão definidos nas Seções 3.D. e 6.B. abaixo e em qualquer Termo de Assinatura fornecido para esses recursos.
 
-Para visualizar a política de vídeo da Valve contendo termos adicionais que abrangem o uso de trabalhos audiovisuais incorporando propriedade intelectual da Valve ou conteúdo criado com o Software Source® Filmmaker, clique aqui: Http://www.valvesoftware.com/videopolicy.html
+Para visualizar a política de vídeo da Valve contendo termos adicionais que abrangem o uso de trabalhos audiovisuais incorporando propriedade intelectual da Valve ou conteúdo criado com o Software Source® Filmmaker, clique aqui: http://www.valvesoftware.com/videopolicy.html
 
 E. Licença de Uso para Software de Servidor Dedicado Valve
 
@@ -155,7 +152,7 @@ Você também compreende e reconhece que as Assinaturas trocadas, vendidas ou pe
 
 E. Aquisição comercial
 
-A Valve poderá disponibilizar ou solicitar uma Assinatura no caso de compradores de versões do produto embalado ou de versões OEM dos produtos Valve. A "CD Key" ou "Código de Produto" que acompanha essas versões será usada para ativar a Assinatura. Mais instruções serão fornecidas com o respectivo produto.
+A Valve poderá disponibilizar ou solicitar uma Assinatura no caso de compradores de versões do produto embalado ou de versões OEM dos produtos Valve. A "CD-Key" ou "Código de Produto" que acompanha essas versões será usada para ativar a Assinatura. Mais instruções serão fornecidas com o respectivo produto.
 
 F. Revendedores Autorizados do Steam
 
@@ -175,7 +172,7 @@ Sem prejuízo a qualquer direito legal que você tenha, é possível solicitar u
 
 Para consumidores da União Europeia e do Reino Unido:
 
-As leis da UE e do Reino Unido oferecem um direito legal para revogar determinados contratos para mercadorias físicas e para o pedido de conteúdo digital. Você pode encontrar mais informações sobre a extensão de seus direitos previstos em lei para revogação e sobre as maneiras como você pode exercê-los nesta página: https://support.steampowered.com/kb\_article.php?ref=8620-QYAL-4516.
+As leis da UE e do Reino Unido oferecem o direito legal de revogar determinados contratos para mercadorias físicas e para o pedido de conteúdo digital. Você pode encontrar mais informações sobre a extensão de seus direitos previstos em lei para revogação e sobre as maneiras como você pode exercê-los nesta página: https://help.steampowered.com/pt-br/faqs/view/369C-3E9F-76FD-DEDA.
 
 4. CONDUTA, TRAPAÇA E ADULTERAÇÃO DE PROCESSO ⏶
 
@@ -201,7 +198,7 @@ A. Provisões gerais
 
 O Steam oferece interface e ferramentas para que você possa gerar conteúdo e disponibilizá-lo para outros usuários e/ou para a Valve a seu critério exclusivo. "Conteúdo Gerado pelo Usuário" significa quaisquer informações disponibilizadas para outros usuários por meio do uso de funcionalidades para vários usuários do Steam, ou à Valve ou às suas afiliadas pelo uso do Conteúdo e dos Serviços ou de outro modo.
 
-Ao fazer upload do conteúdo para o Steam para que ele fique disponível para outros usuários e/ou para a Valve, você concede à Valve e às suas afiliadas o direito mundial e não exclusivo de uso, reprodução, modificação, criação de trabalhos derivados, distribuição, transmissão, transcodificação, conversão, difusão e de comunicação, apresentação e execução pública, de qualquer outra forma, do Conteúdo Gerado pelo Usuário e trabalhos derivados dele, para a finalidade de operação, distribuição, incorporação como parte e promoção do serviço, jogos ou outras ofertas do Steam, incluindo assinaturas. Esta licença é concedida à Valve uma vez que o conteúdo é carregado no Steam pela duração dos direitos de propriedade intelectual. Ela poderá ser rescindida se a Valve violar a licença e não sanar tal violação em 14 (quatorze) dias contados a partir do recebimento da notificação enviada por você aos cuidados do Departamento Jurídico da Valve, no endereço aplicável da Valve, informado nesta página da Política de Privacidade. A rescisão da referida licença não afeta os direitos de quaisquer sublicenciados de acordo com qualquer sublicença concedida pela Valve antes do término da licença. A Valve é a única proprietária dos trabalhos derivados criados pela Valve a partir do seu Conteúdo Gerado pelo Usuário e, portanto, está qualificada a fornecer licenças sobre estes trabalhos derivados. Caso você use o armazenamento em nuvem da Valve, você nos concede uma licença para armazenamento de suas informações como parte desse serviço. A Valve pode limitar a quantidade de armazenamento que você pode utilizar.
+Ao fazer upload do conteúdo no Steam para que ele fique disponível para outros usuários e/ou para a Valve, você concede à Valve e às suas afiliadas o direito mundial e não exclusivo de uso, reprodução, modificação, criação de trabalhos derivados, distribuição, transmissão, transcodificação, conversão, difusão e comunicação, apresentação e execução pública, de qualquer outra forma, do Conteúdo Gerado pelo Usuário e trabalhos derivados dele, para fins de operação, distribuição, incorporação e promoção do serviço, jogos ou outras ofertas do Steam, incluindo assinaturas. Esta licença é concedida à Valve uma vez que o conteúdo é carregado no Steam pela duração dos direitos de propriedade intelectual. Ela poderá ser rescindida se a Valve violar a licença e não sanar tal violação em 14 (quatorze) dias contados a partir do recebimento da notificação enviada por você aos cuidados do Departamento Jurídico da Valve, no endereço aplicável da Valve, informado nesta página da Política de Privacidade. A rescisão da referida licença não afeta os direitos de quaisquer sublicenciados de acordo com qualquer sublicença concedida pela Valve antes do término da licença. A Valve é a única proprietária dos trabalhos derivados criados pela Valve a partir do seu Conteúdo Gerado pelo Usuário e, portanto, está qualificada a fornecer licenças sobre estes trabalhos derivados. Caso você use o armazenamento em nuvem da Valve, você nos concede uma licença para armazenamento de suas informações como parte desse serviço. A Valve pode limitar a quantidade de armazenamento que você pode utilizar.
 
 Caso você forneça à Valve quaisquer comentários e sugestões sobre o Steam, o Conteúdo e Serviços ou quaisquer produtos, hardware ou serviços da Valve, a Valve poderá usar os comentários ou as sugestões da maneira que preferir, sem obrigação de responder a você.
 
@@ -262,7 +259,7 @@ ALGUNS HARDWARES ADQUIRIDOS DA VALVE ESTÃO SUJEITOS A UMA GARANTIA LIMITADA E A
 
 8. ALTERAÇÕES NO PRESENTE ACORDO ⏶
 
-OBSERVAÇÃO: Se você for um consumidor residente na Alemanha, será aplicada a você uma versão diferente da Seção 8, que está disponível aqui.
+OBSERVAÇÃO: se você for um consumidor residente na Alemanha, será aplicada a você uma versão diferente da Seção 8, que está disponível aqui.
 
 A. Emenda mútua
 
@@ -270,7 +267,7 @@ Este Acordo pode, a qualquer momento, ser mutuamente alterado por seu consentime
 
 B. Emenda unilateral
 
-Além disso, a Valve poderá alterar o presente Acordo (incluindo quaisquer Termos de Assinatura ou Regras de Uso) a qualquer momento, a seu critério exclusivo. Nesse caso, você será notificado por e-mail sobre qualquer emenda neste Acordo feito pela Valve, em até 30 (trinta) dias antes de a emenda entrar em vigor. Você pode consultar o Acordo a qualquer momento em http://www.steampowered.com/. O não cancelamento da Conta antes de a emenda entrar em vigor constituirá sua aceitação dos termos alterados. Caso não concorde com as alterações ou com algum dos termos do presente Acordo, a única medida que você poderá tomar será cancelar a sua Conta ou deixar de usar as Assinaturas afetadas. A Valve não deverá ser obrigada a reembolsar quaisquer taxas que possam ter sido imputadas a sua Conta antes do cancelamento dela ou do término de uso de qualquer Assinatura, nem deverá ser obrigada a atribuir quaisquer taxas em tais circunstâncias.
+Além disso, a Valve poderá alterar o presente Acordo (incluindo quaisquer Termos de Assinatura ou Regras de Uso) a qualquer momento, a seu critério exclusivo. Nesse caso, você será notificado por e-mail sobre qualquer emenda neste Acordo feita pela Valve em até 30 (trinta) dias antes de a emenda entrar em vigor. Você pode consultar o Acordo a qualquer momento em http://www.steampowered.com/. O não cancelamento da Conta antes que a emenda entre em vigor constituirá sua aceitação dos termos alterados. Caso não concorde com as alterações ou com algum dos termos do presente Acordo, a única medida que você poderá tomar será cancelar a sua Conta ou deixar de usar as Assinaturas afetadas. A Valve não deverá ser obrigada a reembolsar quaisquer taxas que possam ter sido imputadas à sua Conta antes do cancelamento dela ou do término de uso de qualquer Assinatura, nem deverá ser obrigada a ratear quaisquer taxas em tais circunstâncias.
 
 9. DURAÇÃO E TÉRMINO ⏶
 
@@ -288,66 +285,34 @@ A Valve poderá restringir ou cancelar sua Conta ou qualquer Assinatura específ
 
 D. Permanência em vigor dos Termos
 
-As Seções 2.C., 2.D., 2.F., 2.G., 3.A., 3.B., 3.D., 3.H. e 5 - 12 sobreviverão a qualquer expiração ou rescisão deste Acordo.
+As Seções 2.C., 2.D., 2.F., 2.G., 3.A., 3.B., 3.D., 3.H. e 5 - 11 sobreviverão a qualquer expiração ou rescisão deste Acordo.
 
-10. TAXAS PARA LEIS APLICÁVEIS/MEDIAÇÃO/JURISDIÇÃO/ADVOGADOS ⏶
+10. LEI VIGENTE/JURISDIÇÃO ⏶
+
+A maior parte dos problemas dos usuários pode ser resolvida por meio do nosso site de Atendimento ao Cliente Steam em https://help.steampowered.com/pt-br/. Se a Valve não conseguir resolver seus problemas e a controvérsia entre você e a Valve permanecer, esta Seção explica como as partes devem resolver a questão.
 
 Para todos os Assinantes fora da União Europeia e do Reino Unido:
 
-Você e a Valve concordam que este Acordo será considerado criado e executado no Estado de Washington, EUA, e de acordo com as leis de Washington, excluindo conflitos de princípios legais e a Convenção sobre Acordos para a Venda Internacional de Mercadorias, rege todas as reivindicações decorrentes de ou relacionadas a: (i) qualquer aspecto da relação entre as partes; (ii) o presente Acordo; ou (iii) seu uso do Steam, da sua Conta ou do Conteúdo e dos Serviços, exceto que a Lei de Arbitragem Federal dos EUA regirá a arbitragem na medida em que as leis do seu país permitirem. Sujeito à Seção 11 (Resolução de Disputa/Arbitragem Vinculante/Renúncia de Ação Coletiva) abaixo, você e a Valve concordam que qualquer reivindicação declarada em qualquer processo legal deverá ser iniciada e mantida exclusivamente em qualquer tribunal estadual ou federal localizado em King County, Washington, com jurisdição do assunto. Você e a Valve concordam com a jurisdição exclusiva de tais tribunais. Em qualquer disputa decorrente ou relacionada a este Acordo, seu uso do Steam, sua conta ou o Conteúdo e Serviços, a parte prevalecente terá direito a honorários e despesas advocatícios (exceto arbitragem, consulte a Seção 11.C.)
+Você e a Valve concordam que este Acordo terá como jurisdição o Estado de Washington, EUA, e de acordo com as leis de Washington, excluindo conflitos de princípios legais e a Convenção sobre Acordos para a Venda Internacional de Mercadorias, rege todos os litígios e reivindicações decorrentes de ou relacionados a: (i) qualquer aspecto da relação entre as partes; (ii) o presente Acordo; ou (iii) seu uso do Steam, da sua Conta ou do Conteúdo e dos Serviços. Você e a Valve concordam que todos os litígios e reivindicações entre você e a Valve (incluindo qualquer litígio ou reivindicação surgidos anteriormente à existência deste ou de qualquer acordo anterior) deverão ser iniciados e mantidos exclusivamente em qualquer tribunal estadual ou federal localizado em King County, Washington, com jurisdição aplicável. Você e a Valve concordam com a jurisdição exclusiva de tais tribunais, abrindo mão de quaisquer objeções quanto à jurisdição pessoal ou ao foro nesses tribunais.
+
+Se as leis vigentes no seu local de residência exigirem opções de resolução de litígios alternativas, você pode buscar solução nessas opções. Caso seja um consumidor com residência na Rússia, você também pode buscar solução nos tribunais estaduais russos locais.
 
 Para Assinantes da União Europeia e do Reino Unido:
 
 Este Acordo é regido pela lei do seu país de residência.
 
-No caso de uma disputa relacionada à interpretação, desempenho ou validade do Acordo de Assinatura, uma solução amigável poderá ser buscada antes de qualquer ação legal. Você pode registrar a sua reclamação no site http://help.steampowered.com. A Comissão Europeia fornece um site de Resolução On-line de Litígios para consumidores da UE aqui: https://ec.europa.eu/consumers/odr. A participação nesse site não está disponível para empresas dos EUA. Sendo assim, a Valve não está registrada nele. No entanto, caso sua reclamação se refira ao comportamento do representante de proteção de dados da Valve, Valve GmbH, você pode registrar sua reclamação lá.
+No caso de uma disputa relacionada à interpretação, desempenho ou validade do Acordo de Assinatura, uma solução amigável poderá ser buscada antes de qualquer ação legal. Você pode registrar a sua reclamação no site https://help.steampowered.com/pt-br/. A Comissão Europeia fornece um site de Resolução Online de Litígios para consumidores da UE aqui: https://ec.europa.eu/consumers/odr. A participação nesse site não está disponível para empresas dos EUA. Sendo assim, a Valve não está registrada nele. No entanto, caso sua reclamação se refira ao comportamento do representante de proteção de dados da Valve, Valve GmbH, você pode registrar sua reclamação no referido site.
 
 Caso o procedimento alternativo de resolução de litígios não resolva o problema, ou se a Valve ou você preferirem não recorrer à resolução alternativa de litígios, você pode levar o caso aos tribunais do seu local de domicílio.
 
-11. RESOLUÇÃO DE DISPUTAS/ARBITRAGEM VINCULATIVA/RENÚNCIA DE AÇÃO COLETIVA ⏶
+11. DISPOSIÇÕES GERAIS ⏶
 
-A presente Seção 11 deverá ser aplicada na máxima extensão permitida pela legislação aplicável. EM PARTICULAR, SE VOCÊ É UM CONSUMIDOR QUE VIVE EM UM PAÍS-MEMBRO DA UNIÃO EUROPEIA, REINO UNIDO, PROVÍNCIA DE QUEBEC (CANADÁ), AUSTRÁLIA OU NOVA ZELÂNDIA, ESTA SEÇÃO 11 NÃO SE APLICA A VOCÊ. SE VOCÊ É UM CONSUMIDOR QUE VIVE NA RÚSSIA, PODERÁ UTILIZAR O PROCESSO DE ARBITRAGEM IDENTIFICADO NESTA SEÇÃO 11 OU OS TRIBUNAIS ESTADUAIS RUSSOS PARA RESOLVER QUAISQUER DISPUTAS.
+Caso um tribunal julgue qualquer disposição deste Acordo inválida ou inaplicável, tal disposição será considerada descartada e as disposições restantes deste Acordo permanecerão em vigor.
 
-A maior parte dos problemas dos usuários pode ser resolvida por meio do nosso site de Atendimento ao Cliente Steam em https://support.steampowered.com/. Se a Valve não conseguir resolver seus problemas e o litígio entre você e a Valve permanecer, esta Seção explica como as partes devem resolver a referida disputa.
-
-A. Deve arbitrar todas as reivindicações, exceto propriedade intelectual, uso não autorizado, pirataria ou roubo
-
-VOCÊ E A VALVE CONCORDAM EM RESOLVER TODOS OS LITÍGIOS E RECLAMAÇÕES ENTRE AS PARTES POR MEIO DE ARBITRAGEM VINCULATIVA INDIVIDUAL. ISSO INCLUI, MAS NÃO ESTÁ LIMITADO A QUAISQUER RECLAMAÇÕES RESULTANTES DE OU RELACIONADAS COM: (i) QUALQUER ASPECTO DA RELAÇÃO ENTRE AS PARTES; (ii) O PRESENTE ACORDO; OU (iii) O SEU USO DO STEAM, DA SUA CONTA, HARDWARE OU CONTEÚDO E DOS SERVIÇOS. APLICA-SE INDEPENDENTEMENTE DO FATO DE TAIS RECLAMAÇÕES SEREM OU NÃO BASEADAS NO CONTRATO, DANO, ESTATUTO, FRAUDE, CONCORRÊNCIA DESLEAL, DETURPAÇÃO OU QUALQUER OUTRA TEORIA LEGAL, E INCLUI TODAS AS RECLAMAÇÕES EM NOME DE OUTRA PARTE.
-
-Contudo, esta Seção 11 não se aplica aos seguintes tipos de reclamações ou litígios, que você ou a Valve poderão levar a qualquer tribunal competente: (i) reclamações de violação ou outro uso incorreto dos direitos de propriedade intelectual, incluindo reclamações cujo objetivo seja uma medida cominatória; e (ii) reclamações relacionadas com, ou resultantes de, qualquer uso alegado não autorizado, pirataria ou roubo.
-
-Esta Seção 11 não impede você de levar o seu litígio a qualquer agência governamental federal, estatal ou local que possa auxiliá-lo, caso a lei o permita.
-
-Uma arbitragem é um procedimento realizado diante de um árbitro neutro, em vez de diante de um juiz ou de um júri. A arbitragem é menos formal do que um processo legal em tribunal e fornece uma descoberta mais limitada. Segue regras diferentes dos procedimentos dos tribunais e está sujeita a uma análise muito limitada dos tribunais. O árbitro emitirá uma decisão por escrito e fornecerá uma exposição dos motivos, caso solicitado por qualquer uma das partes. VOCÊ COMPREENDE QUE VOCÊ E A VALVE ESTÃO ABDICANDO DO DIREITO DE TEREM UM PROCESSO EM TRIBUNAL E UM JULGAMENTO PERANTE UM JUIZ OU UM JÚRI.
-
-B. Tentar resolver um litígio informalmente primeiro
-
-Você e a Valve concordam em desenvolver esforços razoáveis e de boa-fé para resolverem de forma informal qualquer litígio antes de iniciar a arbitragem. A parte que pretenda procurar arbitragem, em primeiro lugar, deverá enviar à outra parte um aviso por escrito que descreva a natureza e a base da reclamação ou do litígio e defina a resolução desejada. Se você e a Valve não chegarem a um acordo para resolver a reclamação ou o litígio em um prazo de 30 (trinta) dias corridos após o recebimento do aviso, você ou a Valve poderão iniciar uma arbitragem. O aviso por escrito para a Valve deverá ser enviado por correio para: ATTN: Arbitration Notice, Valve Corporation, P.O. Box 1688, Bellevue, WA 98004.
-
-C. Taxas e regras de arbitragem
-
-A Lei Federal de Arbitragem dos EUA aplica-se a esta Seção 11 até onde as leis do seu país permitirem. A arbitragem será regida pelas Regras de Arbitragem do Consumidor (ou pelas Regras de Arbitragem Comercial, se as Regras de Arbitragem do Consumidor não forem aplicáveis) da Associação Americana de Arbitragem (“AAA”), conforme modificado por este Contrato. As regras estão disponíveis em http://www.adr.org. O árbitro se encontra limitado pelos termos do presente Acordo.
-
-A AAA administrará a arbitragem. Fora dos EUA, a Valve selecionará um provedor de arbitragem neutro que use essas regras ou semelhantes. A arbitragem poderá ser realizada pela submissão de documentos, por telefone ou pessoalmente, no país onde você reside ou em outra localização acordada entre ambas as partes.
-
-Se você solicitar US$ 10.000 ou menos, a Valve concordará em reembolsar imediatamente sua taxa de registro e sua parte de qualquer custo de arbitragem da AAA, incluindo a compensação do árbitro, a menos que ele determine que suas reclamações sejam insignificantes ou tenham sido arquivadas por assédio. A Valve concordará em não reclamar os honorários ou custos dos seus advogados, a menos que o árbitro determine que as suas reclamações sejam insignificantes ou tenham sido arquivadas por assédio. Se você solicitar mais de US$ 10.000 e as Regras de Arbitragem do Consumidor da AAA não se aplicarem, os custos de mediação da AAA, incluindo a compensação do árbitro, serão divididos entre você e a Valve de acordo com as Regras de Arbitragem Comercial da AAA.
-
-D. Somente arbitragem vinculativa individual
-
-VOCÊ E A VALVE CONCORDAM EM NÃO INICIAR OU PARTICIPAR DE UMA AÇÃO COLETIVA OU REPRESENTATIVA, AÇÃO GERAL DE UM ADVOGADO PRIVADO, AÇÃO DE INFORMANTE OU ARBITRAGEM COLETIVA, DE CLASSE OU REPRESENTATIVA, MESMO QUE AS REGRAS DA AAA O PERMITAM. O ÁRBITRO APENAS PODERÁ CONCEDER UMA RESOLUÇÃO A FAVOR DA PARTE INDIVIDUAL QUE PROCURA UMA RESOLUÇÃO E APENAS NA EXTENSÃO DA RECLAMAÇÃO INDIVIDUAL DA PARTE EM QUESTÃO. Você e a Valve concordam também não procurar combinar qualquer ação ou arbitragem com qualquer outra ação ou arbitragem sem o consentimento de todas as partes ao presente Acordo e a todas as restantes ações ou arbitragens.
-
-Este Acordo não permite a arbitragem coletiva, representativa ou de classe. Um tribunal tem autoridade exclusiva para avaliar qualquer afirmação que faz.
-
-E. O que acontece se parte da Seção 11 for considerada ilegal ou não aplicável
-
-Se qualquer parte da Seção 11 (Resolução de Disputa/Arbitragem Vinculante/Renúncia de Ação Coletiva) for considerada ilegal ou inexequível, o restante permanecerá em vigor (com uma sentença arbitral emitida antes de qualquer processo judicial começar), exceto se a descoberta de ilegalidade parcial ou inexequibilidade permitir arbitragem de classe, coletiva ou representativa, toda a Seção 11 não será aplicável e a reivindicação ou o litígio será resolvido em juízo.
-
-12. DISPOSIÇÕES GERAIS ⏶
-
-Exceto se definido expressamente em contrário neste Acordo, no caso de qualquer provisão do presente Acordo ser considerada não aplicável ou ilegal por qualquer árbitro ou tribunal competente, tal provisão será aplicada na máxima extensão permitida e as restantes porções do presente Acordo deverão se manter na sua força e efeito total. A Seção 11.E. regirá se algumas partes da Seção 11 (Resolução de Disputas/Arbitragem Vinculativa/Isenção de Ação Coletiva) forem consideradas ilegais ou não aplicáveis. Este Acordo, incluindo quaisquer Termos de Assinatura, Regras de Uso, Política de Privacidade da Valve e Política de Garantia Limitada de Hardware da Valve, constitui e contém um acordo integral entre as partes com relação ao assunto indicado e substitui quaisquer acordos orais ou escritos prévios. Você concorda que o propósito do presente Acordo não é conceder, e não concede, quaisquer direitos ou soluções a qualquer pessoa que não as partes do presente Acordo.
+Este Acordo, incluindo quaisquer Termos de Assinatura, Regras de Uso, a Política de Privacidade da Valve e a Política de Garantia Limitada de Hardware da Valve, constitui e contém o acordo integral entre as partes com relação ao assunto aqui tratado e substitui quaisquer acordos prévios, sejam orais ou escritos. Você concorda que o propósito do presente Acordo não é conceder, e não concede, quaisquer direitos ou soluções a qualquer pessoa que não as partes do presente Acordo.
 
 As obrigações da Valve estão sujeitas às leis e processos legais existentes, e a Valve poderá agir de acordo com o cumprimento da lei ou pedidos ou requisitos regulamentares, apesar de qualquer termo contrário.
 
 Você concorda agir de acordo com todas as leis e regulamentos de importação/exportação. Você concorda em não exportar o Conteúdo, os Serviços ou o Hardware nem autorizar o uso de sua Conta por indivíduos de quaisquer países que apoiem atividades terroristas, para os quais as exportações de criptografia são restritas no momento pelo Bureau of Export Administration dos EUA. Você declara e garante que não se encontra em um país proibido, não está sob controle de indivíduos desses países e não é cidadão nem residente em nenhum desses países.
 
-Este Acordo foi atualizado pela última vez em 2 de dezembro de 2022 ("Data de Revisão"). Se você assinou este Acordo antes da Data de Revisão, ele substitui o acordo existente com a Valve ou a Valve SARL no dia que entrar em vigor de acordo com a Seção 8 acima.
+Este Acordo foi atualizado pela última vez em 26 de setembro de 2024 ("Data de Revisão"). Se você assinou este Acordo antes da Data de Revisão, ele substitui e sucede o acordo existente com a Valve ou a Valve SARL no dia que entrar em vigor de acordo com a Seção 8 acima.
