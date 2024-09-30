@@ -14,7 +14,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 28 de março de 2024 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 16 de setembro de 2024 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -461,6 +461,7 @@ Os seguintes avisos de privacidade fornecem informações adicionais sobre algun
 
 - Payments
 - Fiber
+- Apps do Gemini
 - Google Fi
 - Google Workspace for Education
 - Read Along
@@ -681,6 +682,10 @@ Essas leis incluem:
 - Lei de Privacidade do Consumidor de Utah (UCPA)
 - Lei My Health My Data (MHMD, na sigla em inglês) de Washington
 - Projeto 370 do Senado de Nevada
+- Lei dos Direitos Digitais da Flórida (FDBR)
+- Lei de Privacidade e Segurança de Dados do Texas (TDPSA)
+- Lei de Privacidade do Consumidor de Oregon (OCPA)
+- Lei de Privacidade de Dados do Consumidor de Montana (MTCDPA)
 
 ### Lugares que você marcou como casa e trabalho
 
