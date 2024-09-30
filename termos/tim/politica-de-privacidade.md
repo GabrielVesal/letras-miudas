@@ -257,7 +257,8 @@ Conhecer dica
 
 ## Cancele mensagens publicitárias com um SMS
 
-Basta enviar SAIR para 4112 para cancelar os SMS ou RECEBER para 4111 para voltar a receber.
+Envie SAIR para 4112 para cancelar o recebimento de SMS de conteúdo publicitário.
+Envie RECEBER para 4111 para voltar a receber SMS de conteúdo publicitário.
 
 Compromisso com a privacidade
 
@@ -322,7 +323,9 @@ Você também pode evitar ligações publicitárias de outras empresas. Descubra
 
 Tem alguma dúvida? Quer falar com o DPO?
 
-Mande uma mensagem para **dpo@timbrasil.com.br**
+Se a sua dúvida for sobre serviços da TIM, como cobranças, portabilidade numérica e solicitação de contrato, por favor entre em contato nos números \*144 para atendimento ao serviço de telefonia móvel e 10341 para banda larga.
+
+Caso sua dúvida seja sobre privacidade de dados pessoais e você não encontrou a resposta neste site, mande uma mensagem para **dpo@timbrasil.com.br**
 
 Gestão da TIM com a LGPD
 
