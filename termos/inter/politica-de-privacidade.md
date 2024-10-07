@@ -68,10 +68,10 @@ Nossos números
 - SAC0800 940 9999
 
 - Ouvidoria0800 940 7772
-- **Não ligamos pra você por esses telefones**. Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
+- **Não ligamos para você por estes telefones.** Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
 - Atendimento em libras
 
-**Não ligamos pra você por esses telefones**. Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
+**Não ligamos para você por estes telefones.** Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
 
 Certificação de privacidade
 
