@@ -3,8 +3,8 @@ empresa: "Inter"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://inter.co/politica-de-privacidade/"
-capturado_em: 2024-08-31
-wayback: "https://web.archive.org/web/20240831194029/https://inter.co/politica-de-privacidade/"
+capturado_em: 2024-10-07
+wayback: "https://web.archive.org/web/20241007234459/https://inter.co/politica-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/inter/politica-de-privacidade.md"
 ---
 
@@ -73,10 +73,10 @@ Nossos números
 - SAC0800 940 9999
 
 - Ouvidoria0800 940 7772
-- **Não ligamos pra você por esses telefones**. Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
+- **Não ligamos para você por estes telefones.** Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
 - Atendimento em libras
 
-**Não ligamos pra você por esses telefones**. Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
+**Não ligamos para você por estes telefones.** Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
 
 Certificação de privacidade
 
