@@ -3,8 +3,8 @@ empresa: "QuintoAndar"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://mkt.quintoandar.com.br/aviso-de-privacidade/"
-capturado_em: 2024-06-25
-wayback: "https://web.archive.org/web/20240625183113/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
+capturado_em: 2024-11-13
+wayback: "https://web.archive.org/web/20241113041010/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/quintoandar/politica-de-privacidade.md"
 ---
 
@@ -222,7 +222,7 @@ Parceria de Reparos
 
 Parceria com Portarias
 
-###### Política de Privacidade
+###### Aviso de Privacidade
 
 ###### Termos e condições de uso
 
@@ -262,7 +262,7 @@ Qualquer mudança em nossos produtos e serviços pode ser refletida nesta págin
 
 O presente Aviso de Privacidade será interpretado segundo a legislação brasileira, incluindo, mas não se limitando à Constituição Federal, à LGPD (Lei nº 13.709/2018), ao Marco Civil da Internet (Lei nº 12.965/2014), ao Código Civil (Lei nº 10.406/2002) e ao Código de Defesa do Consumidor (Lei nº 8.078/1990), no idioma português.
 
-**Data da última alteração:**04/06/2024
+**Data da última alteração:**16/10/2024
 
 ## Finalidades de Tratamento
 
@@ -599,3 +599,13 @@ Informação áudio, imagem gravada por CCTV.
 **Verificações de Antecedentes, processos e referências**
 
 Processos civis, multas e citações de trânsito, informações de bens pessoais no IRPF, verificação de referências (verificação de antecedentes ou referências), exame toxicológico, histórico criminal (antecedentes criminais), resultados dos testes de droga, processos trabalhistas, processos tributários.
+
+## 14. Encarregado pelo Tratamento de Dados Pessoais
+
+A Encarregada pelo Tratamento de Dados Pessoais, também conhecida como “DPO”, é a pessoa indicada pelo Grupo QuintoAndar para atuar como canal de comunicação entre nós, os titulares dos dados (você) e a Autoridade Nacional de Proteção de Dados (ANPD).
+
+São funções da Encarregada: (i) aceitar reclamações e comunicações dos titulares, prestar esclarecimentos e adotar providências; (ii) receber comunicações da ANPD e adotar providências; (iii) orientar os funcionários e os contratados do Grupo QuintoAndar a respeito das práticas a serem tomadas em relação à proteção de dados pessoais; e (iv) executar as demais atribuições determinadas nos documentos internos relacionados ao nosso Programa de Privacidade ou em normas complementares, como por exemplo a Resolução CD/ANPD nº 18, de 16 de julho de 2024.
+
+A Encarregada indicada pelo Grupo QuintoAndar chama-se Deborah Siqueira de Oliveira e está à disposição para auxiliar em todos os temas relacionados à Privacidade e Proteção de Dados Pessoais. Todos os contatos realizados por meio de nosso Canal de Atendimento são acompanhados e atendidos por nossa Encarregada.
+
+Para contatos realizados pela ANPD, disponibilizamos o e-mail privacy@quintoandar.com.br. Este é um canal exclusivo para interações entre a Autoridade e o Grupo QuintoAndar e não pode ser utilizado para outros tipos de contato.
