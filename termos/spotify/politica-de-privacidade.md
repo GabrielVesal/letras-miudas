@@ -4,7 +4,7 @@
 
 # Política de Privacidade do Spotify
 
-Em vigor a partir de 5 de dezembro de 2023
+Em vigor a partir de 10º de outubro de 2024
 
 1. Sobre esta Política
 
@@ -56,7 +56,7 @@ Ocasionalmente, podemos desenvolver novos serviços ou oferecer serviços adicio
 As informações‑chave sobre seus dados pessoais estão aqui nesta Política. Entretanto, você pode querer dar uma olhada em nossos outros recursos e controles de privacidade:
 
 - Centro de Privacidade: um hub fácil de usar com resumos de tópicos-chave.
-- Configurações de Privacidade: controla o tratamento de certos dados pessoais, incluindo anúncios personalizados.
+- Privacidade da Conta: controla o tratamento de certos dados pessoais, incluindo anúncios personalizados.
 - Configurações de Notificação: ajusta quais comunicações de marketing você recebe do Spotify.
 - Configurações (encontradas nas versões para Computador e Dispositivos móveis do Spotify): controla certos aspectos do Serviço Spotify, tais como "Redes sociais" ou "Conteúdo explícito". Nas configurações das Redes sociais, você pode:
  - iniciar uma Sessão particular;
@@ -82,7 +82,7 @@ A tabela abaixo explica:
 | É seu direito… | | Como? |
 | --- | --- | --- |
 | **Informação** | **Receber informações relacionadas aos dados pessoais que tratamos sobre você e como fazemos isso.** | Nós informamos você: - Nesta Política de Privacidade - Por informações fornecidas quando você usa o Serviço Spotify - Respondendo às suas perguntas e solicitações específicas quando você fala com a gente |
-| **Acesso** | **Solicitar acesso aos dados pessoais que tratamos sobre você.** | Para solicitar uma cópia dos seus dados pessoais do Spotify: - Utilize a ferramenta "Baixe seus dados" na conta Configurações de Privacidade ou - Fale com a gente Ao baixar seus dados, você vai receber as informações sobre os dados que o Spotify deve fornecer nos termos do Artigo 15 do GDPR. Se quiser mais informações sobre como tratamos seus dados pessoais, fale com a gente. |
+| **Acesso** | **Solicitar acesso aos dados pessoais que tratamos sobre você.** | Para solicitar uma cópia dos seus dados pessoais do Spotify: - Utilize a ferramenta "Baixe seus dados" na página de Privacidade da Conta ou - Fale com a gente Ao baixar seus dados, você vai receber as informações sobre os dados que o Spotify deve fornecer nos termos do Artigo 15 do GDPR. Se quiser mais informações sobre como tratamos seus dados pessoais, fale com a gente. |
 | **Retificação** | **Pedir a mudança ou atualização dos seus dados pessoais quando estiverem incorretos ou incompletos.** | Você pode editar seus Dados de Usuário em “Editar perfil” em sua conta ou falando com a gente. |
 | **Exclusão** | **Pedir a exclusão de alguns dos seus dados pessoais.** Por exemplo, você pode nos solicitar a exclusão de dados pessoais: - que já não precisamos para o propósito para o qual eles foram coletados; - que foram tratados segundo a base legal de um consentimento que você retirou - quando você se opõe (veja a seção “Oposição” abaixo) e - você faz uma oposição justificada; ou - você se opõe ao marketing direto. Há situações em que o Spotify não pode excluir seus dados, entre elas: - Quando ainda é necessário tratar os dados para a finalidade para a qual os coletamos. - Quando o interesse do Spotify no uso dos dados se sobrepõe ao seu interesse em que sejam excluídos. Por exemplo, se precisamos dos dados para proteger nossos serviços contra fraudes. - Quando o Spotify tem obrigação legal de manter os dados. - Quando o Spotify precisa dos dados para estabelecer, exercer ou se defender de reclamações judiciais. Por exemplo, se houver uma questão não resolvida relacionada à sua conta. | Há várias maneiras de excluir os dados pessoais do Spotify: - Para remover o conteúdo de áudio do seu perfil, basta selecioná-lo e excluí-lo. Por exemplo, você pode remover playlists do seu perfil, ou uma faixa da sua playlist. - Para pedir a exclusão dos seus demais dados pessoais do Spotify, siga as etapas em nossa página de suporte. Esses dados incluem seus Dados de Usuário, Dados de Uso e outros dados listados na Seção 3: Dados pessoais que coletamos sobre você. - Você também pode entrar em contato conosco para pedir a exclusão. |
 | **Restrição** | **Solicitar que paremos de tratar todos ou alguns de seus dados pessoais.** Você pode fazer isso nos seguintes casos: - Seus dados pessoais estão inexatos - O tratamento que estamos fazendo é ilegal - Não precisamos de suas informações para uma finalidade específica - Você se opôs a nosso tratamento e estamos avaliando seu pedido de objeção. Veja a seção “Objeção” abaixo Você pode solicitar que paremos esse tratamento temporária ou permanentemente. | Para exercer seu direito de restrição, fale com a gente. |
@@ -101,10 +101,10 @@ O que é publicidade personalizada?
 
 Como controlar publicidade personalizada:
 
-- Você pode controlar publicidade personalizada nas Configurações de Privacidade da conta em "Anúncios Personalizados".
+- Você pode controlar publicidade personalizada na página de Privacidade da Conta em "Anúncios Personalizados".
 - Você também pode controlar publicidade personalizada para alguns podcasts usando o link na descrição de programa do episódio. Isso se aplica quando o criador de conteúdo monetiza o podcast com publicidade. O provedor de hospedagem, que pode não ser o Spotify, gerencia esses controles do podcast.
 
-Se você tiver desativado os Anúncios Personalizados nas Configurações de Privacidade, ainda vai poder receber publicidade. Ela pode aparecer na nossa opção de serviço gratuito e paga (por exemplo, anúncios em podcasts). Esse tipo de publicidade é baseado em suas informações de registro e no que você está ouvindo atualmente em nossos serviços. Por exemplo, se você estiver ouvindo um podcast de culinária, poderá ouvir um anúncio de processador de alimentos.
+Se você tiver desativado os Anúncios Personalizados na página de Privacidade da Conta, ainda vai poder receber publicidade. Isso pode incluir nossas Opções de Serviço gratuito e pago, conforme o caso (por exemplo, anúncios em podcasts). Esse tipo de publicidade é baseado em suas informações de registro e no que você está ouvindo atualmente em nossos serviços. Por exemplo, se você estiver ouvindo um podcast de culinária, poderá ouvir um anúncio de processador de alimentos.
 
 ## **3. Dados pessoais que coletamos sobre você**
 
