@@ -3,8 +3,8 @@ empresa: "Inter"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://inter.co/politica-de-privacidade/"
-capturado_em: 2024-10-07
-wayback: "https://web.archive.org/web/20241007234459/https://inter.co/politica-de-privacidade/"
+capturado_em: 2024-11-27
+wayback: "https://web.archive.org/web/20241127042045/https://inter.co/politica-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/inter/politica-de-privacidade.md"
 ---
 
@@ -73,6 +73,7 @@ Nossos números
 - SAC0800 940 9999
 
 - Ouvidoria0800 940 7772
+- Para recebimento de ofícios judiciais e administrativosoficios@bancointer.com.br
 - **Não ligamos para você por estes telefones.** Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
 - Atendimento em libras
 
@@ -92,6 +93,9 @@ Baixe o App
 
 Siga o Inter
 
+- Inter
+
+ /
 - Instagram
 
  @bancointer
@@ -105,9 +109,6 @@ Siga o Inter
 
  /bancointer
 - Youtube
-
- /bancointer
-- TikTok
 
  /bancointer
 
