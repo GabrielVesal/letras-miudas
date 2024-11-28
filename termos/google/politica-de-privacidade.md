@@ -52,7 +52,7 @@ Para ajudar a explicar as coisas da forma mais clara possível, adicionamos exem
 
 # Informações coletadas pelo Google
 
-Queremos que você entenda os tipos de informações que coletamos quando usa nossos serviços
+## Queremos que você entenda os tipos de informações que coletamos quando usa nossos serviços
 
 Coletamos informações para fornecer serviços melhores a todos os nossos usuários, o que inclui descobrir coisas básicas, como o idioma que você fala, até coisas mais complexas, como anúncios que você pode considerar mais úteis, as pessoas on-line que são mais importantes para você ou os vídeos do YouTube de que você poderá gostar. As informações coletadas pelo Google e como essas informações são usadas dependem de como você usa nossos serviços e de como gerencia os controles de privacidade.
 
@@ -116,7 +116,7 @@ Usamos várias tecnologias para coletar e armazenar informações, incluindo coo
 
 # Por que o Google coleta dados
 
-Usamos os dados para criar serviços melhores
+## Usamos os dados para criar serviços melhores
 
 Usamos as informações que coletamos em todos nossos serviços para os fins descritos abaixo.
 
@@ -168,7 +168,7 @@ Solicitaremos sua autorização antes de usar informações para fins que não e
 
 # Seus controles de privacidade
 
-Você tem escolhas em relação às informações que coletamos e como elas são usadas
+## Você tem escolhas em relação às informações que coletamos e como elas são usadas
 
 Esta seção descreve os principais controles para gerenciar sua privacidade em nossos serviços. Você também pode visitar a Verificação de privacidade para revisar e ajustar configurações de privacidade importantes. Além dessas ferramentas, também oferecemos configurações de privacidade específicas em nossos produtos. Saiba mais em nosso Guia de Privacidade do Produto.
 
@@ -310,7 +310,7 @@ Se o Google for envolvido em uma fusão, aquisição ou venda de ativos, continu
 
 # Manter suas informações seguras
 
-Incorporamos segurança nos nossos serviços para proteger suas informações
+## Incorporamos segurança nos nossos serviços para proteger suas informações
 
 Todos os produtos do Google são desenvolvidos com recursos de segurança sólidos que protegem continuamente suas informações. Os insights que recebemos na manutenção dos nossos serviços nos ajudam a detectar e bloquear automaticamente ameaças de segurança que chegam até você. E se detectarmos algo perigoso e digno de notificação, notificaremos e orientaremos você sobre as etapas necessárias para se manter em segurança.
 
