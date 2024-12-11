@@ -3,12 +3,12 @@ empresa: "Roblox"
 documento: "Política de Privacidade"
 categoria: "Jogos"
 fonte: "https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
-capturado_em: 2024-11-16
-wayback: "https://web.archive.org/web/20241116223138/https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
+capturado_em: 2024-12-11
+wayback: "https://web.archive.org/web/20241211195541/https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/politica-de-privacidade.md"
 ---
 
-Data de entrada em vigor: 6 de novembro de 2024
+Data de entrada em vigor: 2 de dezembro de 2024
 
 Resumo das mudanças recentes
 
@@ -47,8 +47,6 @@ Você também pode encontrar a Política de Privacidade completa aqui.
  Se você estiver no Brasil, entre em contato com nosso Oficial de Proteção de Dados enviando um e-mail para privacy@roblox.com.
 
  Se você estiver na Coreia do Sul, mais informações estão localizadas no Adendo de Política de Privacidade para Usuários na República da Coreia.
-
- DELETE DELETE
 
  Antes de seguir para o resto da Política de Privacidade, quando você vê certos termos nesta política, alguns deles têm significados específicos.
 
@@ -130,11 +128,11 @@ Você também pode encontrar a Política de Privacidade completa aqui.
 
  Podemos pedir o seu e-mail para verificar a sua identidade ou habilitar funcionalidades adicionais. A principal razão pela qual precisamos de um endereço de e-mail é para segurança, porque é como verificamos a autenticidade das contas. Você pode alterar seu endereço de e-mail a qualquer momento – se um endereço de e-mail for alterado, enviaremos um e-mail de notificação para o endereço usado anteriormente.
 
- Se você tiver uma conta para maiores de 13 anos e alterar sua data de nascimento para indicar que tem menos de 13 anos, a Roblox salvará um hash do seu endereço de e-mail e excluirá imediatamente qualquer endereço de e-mail coletado de você anteriormente. Esse hash não pode ser reconstruído em seu endereço de e-mail nem usado para contatar você, e só será usado para a sua autenticação no futuro.
+ Se você tiver uma conta para maiores de 13 anos e alterar sua data de nascimento para indicar que tem menos de 13 anos, a Roblox salvará um hash do seu endereço de e-mail e qualquer endereço de e-mail coletado de você anteriormente. Esse hash não pode ser reconstruído em seu endereço de e-mail nem usado para contatar você, e só será usado para a sua autenticação no futuro.
 
  Compartilhamento de número de telefone
 
- Se você optar por fornecer um número de telefone, enviaremos uma mensagem pedindo que você confirme seu número antes de iniciar a sessão. Usaremos seu número de telefone para segurança e acesso à conta, incluindo para recuperar uma senha perdida ou iniciar a sessão usando o celular. Você autoriza a sua operadora de telefonia móvel a usar ou divulgar informações sobre a sua conta e seu dispositivo sem fio, se disponível, à Roblox ou ao seu provedor de serviços pela duração de seu relacionamento de negócios, exclusivamente para auxiliá-los a identificar você ou o seu dispositivo e para evitar fraudes.
+ Se você optar por fornecer um número de telefone, enviaremos uma mensagem pedindo que você confirme seu número antes de iniciar a sessão. Usaremos seu número de telefone por motivos de segurança e para acesso à conta, inclusive para recuperar uma senha perdida ou esquecida, acessar uma funcionalidade ou conectar usando um dispositivo móvel. Você autoriza a sua operadora de telefonia móvel a usar ou divulgar informações sobre a sua conta e seu dispositivo sem fio, se disponível, à Roblox ou ao seu provedor de serviços pela duração de seu relacionamento de negócios, exclusivamente para auxiliá-los a identificar você ou o seu dispositivo e para evitar fraudes.
 
  Além disso, e com sua autorização, podemos usar seu número de telefone e acessar sua lista de contatos para encontrar outros amigos usando Roblox. Você será recomendado com seu nome de contato armazenado nos dispositivos de seus amigos, que também pode incluir seu nome real. Se você não desejar que utilizemos seu número de telefone para encontrar seus amigos na Roblox, não ative esse recurso. Observe que o recurso Descoberta pode não estar disponível em determinados locais.
 
@@ -379,7 +377,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
  - Serviços de integridade e segurança da conta (por exemplo, Veriff, Persona, Arkose Labs);
  - Serviços de analytics (por exemplo, Google LLC);
  - Serviços de Aquisição de Usuários (por exemplo, AppsFlyer);
- - Serviços de filtragem e moderação de comunidades (por exemplo, CommunitySift);
+ - Serviços de moderação e filtragem de comunidade;
  - Serviços de atendimento ao cliente (por exemplo, Zendesk);
  - Pesquisas e divulgações (por exemplo, Reach3);
  - Serviços de login de mídias sociais (por exemplo, SAP Customer Data Cloud);
@@ -581,7 +579,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
  - Integridade e Segurança da Conta (por exemplo, Veriff, Persona, Arkose Labs);
  - Serviços de analytics (por exemplo, Google LLC);
  - Serviços de Aquisição de Usuários (por exemplo, AppsFlyer);
- - Serviços de filtragem e moderação de comunidades (por exemplo, CommunitySift);
+ - Serviços de moderação e filtragem de comunidade;
  - Serviços de atendimento ao cliente (por exemplo, Zendesk);
  - Pesquisas e divulgações (por exemplo, Reach3);
  - Login de mídia social (por exemplo, SAP Customer Data Cloud);
@@ -702,7 +700,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
  - Integridade e Segurança da Conta (por exemplo, Veriff, Arkose Labs);
  - Serviços de analytics (por exemplo, Google LLC);
  - Serviços de Aquisição de Usuários (por exemplo, AppsFlyer);
- - Serviços de filtragem e moderação de comunidades (por exemplo, CommunitySift);
+ - Serviços de moderação e filtragem de comunidade;
  - Serviços de atendimento ao cliente (por exemplo, Zendesk);
  - Pesquisas e divulgações (por exemplo, Reach3);
  - Login de mídia social (por exemplo, SAP Customer Data Cloud);
@@ -754,4 +752,4 @@ Resumo das mudanças recentes
 - Adicionamos informações sobre os dados que são processados quando os usuários optam por receber anúncios personalizados na Roblox.
 - Adicionamos informações sobre o processamento de dados relacionados ao Roblox Commerce.
 
-Data de entrada em vigor: 6 de novembro de 2024 Última atualização: 6 de novembro de 2024
+Data de entrada em vigor: 2 de dezembro de 2024 Última atualização: 2 de dezembro de 2024
