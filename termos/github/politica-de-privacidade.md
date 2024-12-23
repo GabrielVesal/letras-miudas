@@ -3,8 +3,8 @@ empresa: "GitHub"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://docs.github.com/pt/site-policy/privacy-policies/github-general-privacy-statement"
-capturado_em: 2024-04-30
-wayback: "https://web.archive.org/web/20240430021624/https://docs.github.com/pt/site-policy/privacy-policies/github-general-privacy-statement"
+capturado_em: 2024-12-23
+wayback: "https://web.archive.org/web/20241223113931/https://docs.github.com/pt/site-policy/privacy-policies/github-general-privacy-statement"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/github/politica-de-privacidade.md"
 ---
 
@@ -199,7 +199,7 @@ Para Páginas de Marketing Corporativo, também podemos usar cookies não essenc
 
 Nossos emails para usuários podem conter uma tag de pixel, que é uma imagem pequena e clara que pode nos dizer se você abriu ou não um email e qual é o endereço IP. Usamos essa tag de pixel para tornar nossas comunicações por email mais eficazes e garantir que não estamos enviando emails indesejados.
 
-O tempo que um cookie permanecerá no seu navegador ou dispositivo depende se ele é um cookie “persistente” ou de “sessão”. Os cookies de sessão só continuarão no seu dispositivo até você parar de navegar. Os cookies persistentes são mantidos até expirarem ou serem excluídos. A data de validade ou período de retenção aplicável aos cookies persistentes depende da finalidade da coleta de cookies e da ferramenta usada. Você pode excluir dados de cookies. Para obter mais informações, confira "Declaração Geral de Privacidade do GitHub".
+O tempo que um cookie permanecerá no seu navegador ou dispositivo depende se ele é um cookie “persistente” ou de “sessão”. Os cookies de sessão só continuarão no seu dispositivo até você parar de navegar. Os cookies persistentes são mantidos até expirarem ou serem excluídos. A data de validade ou período de retenção aplicável aos cookies persistentes depende da finalidade da coleta de cookies e da ferramenta usada. Você pode excluir dados de cookies. Para saber mais, confira Declaração Geral de Privacidade do GitHub.
 
 #### O que são cookies e tecnologias semelhantes?
 
