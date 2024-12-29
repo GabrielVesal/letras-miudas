@@ -3,8 +3,8 @@ empresa: "QuintoAndar"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://mkt.quintoandar.com.br/aviso-de-privacidade/"
-capturado_em: 2024-11-13
-wayback: "https://web.archive.org/web/20241113041010/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
+capturado_em: 2024-12-29
+wayback: "https://web.archive.org/web/20241229234809/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/quintoandar/politica-de-privacidade.md"
 ---
 
@@ -85,11 +85,12 @@ Para que possamos atuar com qualidade, atingir os propósitos que justificam a c
 Para garantir que estamos sendo transparentes com você, destacamos abaixo algumas finalidades que podem não ser inicialmente esperadas por você, reforçando que todas são realizadas em acordância à legislação aplicável:
 
 - Ações para prevenção e combate ao crime de “lavagem” ou ocultação de bens, direitos e valores (Lei nº 9.613/98 - PLD) e de responsabilização administrativa e civil de pessoas jurídicas pela prática de atos contra a administração pública, nacional ou estrangeira (Lei nº 12.846/2013 - Anticorrupção).
-- Consultas ao Sistema de Informações de Crédito do Banco Central do Brasil (SCR), para fins de análise de crédito, mediante sua autorização expressa nos termos da Resolução BACEN 4.571/17.
+- Consultas ao Sistema de Informações de Crédito do Banco Central do Brasil (SCR), para fins de análise de crédito, mediante sua autorização expressa nos termos da Resolução CMN n° 5.037/2022.
 - *Due diligence* de imóveis e clientes, com a busca de certidões e informações para garantir a sua idoneidade e dos nossos demais clientes.
 - Análise de crédito, para definição do seu perfil de crédito e oferecimento de condições de contratação mais adequadas a você.
 - Análise de perfil de busca, filtros utilizados, imóveis favoritos e visualizações, para gerar recomendações de acordo com o seu perfil.
-- Consumo e disponibilização em nossa plataforma de dados de bases públicas relacionadas a imóveis (por exemplo, ITBI e IPTU), incluindo endereço completo, para realização de análises de mercado e oferta e disponibilização de informações de inteligência mercadológica.
+- Consumo e disponibilização em nossa plataforma de dados de bases públicas relacionadas a imóveis (por exemplo, ITBI e IPTU), incluindo endereço completo, para realização de análises de mercado e oferta e disponibilização de informações de inteligência mercadológica, mesmo para imóveis que não estejam anunciados no Grupo QuintoAndar.
+- Avaliação sistemática dos históricos de busca e quaisquer outras interações do usuário com a plataforma do QuintoAndar, com o objetivo de te sugerir, por solicitação ou proativamente, imóveis compatíveis com as suas preferências.
 
 Há determinação expressa, em nossos Termos e Condições de Uso, de que os serviços do **Grupo QuintoAndar** se destinam exclusivamente a pessoas capazes de exercer atos da vida civil. Deste modo, como regra não tratamos dados pessoais de crianças e adolescentes no contexto de aplicação deste Aviso de Privacidade.
 
@@ -160,8 +161,8 @@ Você poderá solicitar a revisão dessas decisões por meio do Canal de Atendim
 ## A LGPD assegura a você alguns direitos que trazemos aqui de forma simplificada para sua consulta:
 
 - **Confirmação de existência de tratamento -**Você pode confirmar se nós tratamos os seus dados pessoais.
-- Acesso aos dados pessoais - Você pode solicitar o acesso aos dados pessoais que possuímos relacionados a você.
-- Correção de dados pessoais - Você pode solicitar a correção de seus dados pessoais que estão incompletos, inexatos ou desatualizados, podendo corrigi-los ou complementá-los. Para realizar a correção, pode ser necessário apresentar um documento comprovando a veracidade dos novos dados informados.
+- **Acesso aos dados pessoais -** Você pode solicitar o acesso aos dados pessoais que possuímos relacionados a você.
+- **Correção de dados pessoais -** Você pode solicitar a correção de seus dados pessoais que estão incompletos, inexatos ou desatualizados, podendo corrigi-los ou complementá-los. Para realizar a correção, pode ser necessário apresentar um documento comprovando a veracidade dos novos dados informados.
 - **Anonimização, bloqueio ou eliminação -** Caso os seus dados estejam sendo tratados de forma desnecessária, em excesso para a finalidade do tratamento ou em desconformidade com as disposições da LGPD, você poderá solicitar que realizemos a anonimização, bloqueio ou eliminação dos dados. Para isso, deverá restar comprovado de fato que houve excesso, ausência de necessidade ou desconformidade com a LGPD nas nossas atividades de tratamento. A eliminação de dados essenciais para o uso da plataforma implicará o término de seu cadastro junto ao **Grupo Quinto Andar**.
 - **Eliminação dos dados pessoais tratados com o consentimento -** Você pode solicitar a eliminação dos dados pessoais tratados com base no seu consentimento. A eliminação será realizada desde que os dados não sejam utilizados para outras finalidades necessárias à prestação e fornecimento dos nossos serviços ou produtos, ou para o cumprimento de obrigações legais ou regulatórias.
 - **Informação sobre o compartilhamento de dados pessoais -** Você pode solicitar informações das entidades públicas e privadas com as quais tenhamos compartilhado seus dados pessoais.
@@ -262,7 +263,7 @@ Qualquer mudança em nossos produtos e serviços pode ser refletida nesta págin
 
 O presente Aviso de Privacidade será interpretado segundo a legislação brasileira, incluindo, mas não se limitando à Constituição Federal, à LGPD (Lei nº 13.709/2018), ao Marco Civil da Internet (Lei nº 12.965/2014), ao Código Civil (Lei nº 10.406/2002) e ao Código de Defesa do Consumidor (Lei nº 8.078/1990), no idioma português.
 
-**Data da última alteração:**16/10/2024
+**Data da última alteração:**02/12/2024
 
 ## Finalidades de Tratamento
 
@@ -316,7 +317,7 @@ Síndico, condômino, comprador, proprietário/vendedor, inquilino, que **possua
 
 **Informações de navegação**
 
-- Análise de crédito; Prestação do serviço ou fornecimento de produto; Captação de imóveis; Ações de marketing; Atendimento ao cliente; Suporte e manutenção de portais; Recomendações de imóveis
+- Análise de crédito; Prestação do serviço ou fornecimento de produto; Captação de imóveis; Ações de marketing; Atendimento ao cliente; Suporte e manutenção de portais; Recomendações de imóveis; Experiência conversacional com IA generativa
 
 **Informações de contas em plataformas digitais e/ou redes sociais**
 
@@ -336,7 +337,7 @@ Síndico, condômino, comprador, proprietário/vendedor, inquilino, que **possua
 
 **Informações de atendimento ou de segurança**
 
-- Atendimento ao cliente; Financiamento; Rescisão contratual; Elaboração, revisão e gestão de contratos; Atuação em processos judiciais, administrativos ou arbitrais
+- Atendimento ao cliente; Financiamento; Rescisão contratual; Elaboração, revisão e gestão de contratos; Atuação em processos judiciais, administrativos ou arbitrais; Experiência conversacional com IA generativa
 
 **Verificações de Antecedentes, processos e referências**
 
@@ -368,7 +369,7 @@ Pessoa contactada pelo Grupo QuintoAndar, ainda que não o tenha solicitado.
 
 **Informações de navegação**
 
-- Agendamento de visitas
+- Agendamento de visitas; Experiência conversacional com IA generativa
 
 **Informações de contas em plataformas digitais e/ou redes sociais**
 
@@ -377,6 +378,10 @@ Pessoa contactada pelo Grupo QuintoAndar, ainda que não o tenha solicitado.
 **Informações biométricas**
 
 - Atendimento ao cliente
+
+**Informações de atendimento ou de segurança**
+
+- Experiência conversacional com IA generativa
 
 **Verificações de Antecedentes, processos e referências**
 
