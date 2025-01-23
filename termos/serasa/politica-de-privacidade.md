@@ -3,8 +3,8 @@ empresa: "Serasa"
 documento: "Política de Privacidade"
 categoria: "Serviços"
 fonte: "https://www.serasa.com.br/app/politica-de-privacidade/"
-capturado_em: 2024-08-06
-wayback: "https://web.archive.org/web/20240806005348/https://www.serasa.com.br/app/politica-de-privacidade/"
+capturado_em: 2025-01-23
+wayback: "https://web.archive.org/web/20250123155448/https://www.serasa.com.br/app/politica-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md"
 ---
 
@@ -38,9 +38,9 @@ A Serasa Experian realiza o tratamento de dados conforme a legislação aplicáv
 
 - **Dados Pessoais Cadastrais:** nome, RG, CPF, endereço, estado civil, profissão, data de nascimento, nome da mãe e e-mail. Alguns desses dados são fornecidos por Você para autenticação ao se cadastrar no site da Serasa e podem ser colhidos pela Serasa Experian por diversas fontes.
 
-· **Foto do seu rosto e foto do seu documento de identidade que contenha a sua foto** são mantidas em nossa base de dados segura, podendo ser utilizadas exclusivamente para validar a sua identidade, inclusive nas soluções de autenticação e prevenção a fraudes que a Serasa Experian comercializa aos seus clientes.
+- **Foto do seu rosto e foto do seu documento de identidade que contenha a sua foto** são mantidas em nossa base de dados segura, podendo ser utilizadas exclusivamente para validar a sua identidade, inclusive nas soluções de autenticação e prevenção a fraudes que a Serasa Experian comercializa aos seus clientes.
 
-· **Dados Pessoais contidos nas soluções oferecidas no site da Serasa,**que são todos aqueles que sejam informados por Você, produzidos pelos sistemas da Serasa ou decorram de seus parceiros, durante o acesso a uma das referidas soluções, tais como:
+- **Dados Pessoais contidos nas soluções oferecidas no site da Serasa,**que são todos aqueles que sejam informados por Você, produzidos pelos sistemas da Serasa ou decorram de seus parceiros, durante o acesso a uma das referidas soluções, tais como:
 
 - Serasa Limpa Nome: valor da dívida, prazo de vencimento, oferta de acordo, parcelas, etc.
 
@@ -48,9 +48,9 @@ A Serasa Experian realiza o tratamento de dados conforme a legislação aplicáv
 
 - Serasa Premium: endereço, informações sobre meio de pagamento escolhido, etc.
 
-· **Dados Pessoais e do seu Dispositivo captados pelo nosso aplicativo ou site,** como dados do seu dispositivo (tais como Advertising ID e informações técnicas, como sistema operacional, tamanho de tela), identificação do dispositivo, uso do dispositivo e conexão (tais como data, hora e Endereço IP, rede utilizada). Também poderemos coletar, se Você autorizar por meio do nosso aplicativo, sua geolocalização, para prevenção à fraude, proteção do crédito e sua lista de contatos de dispositivos móveis para a prestação de diferentes serviços, como recarga de celular em nossa Carteira Digital.
+- **Dados Pessoais e do seu Dispositivo captados pelo nosso aplicativo ou site,** como dados do seu dispositivo (tais como Advertising ID e informações técnicas, como sistema operacional, tamanho de tela), identificação do dispositivo, uso do dispositivo e conexão (tais como data, hora e Endereço IP, rede utilizada). Também poderemos coletar, se Você autorizar por meio do nosso aplicativo, sua geolocalização, para prevenção à fraude, proteção do crédito e sua lista de contatos de dispositivos móveis para a prestação de diferentes serviços, como recarga de celular em nossa Carteira Digital.
 
-· **Dados de comportamento de navegação no nosso Site ou no nosso aplicativo,**como cliques em telas e botões no nosso Site e no nosso aplicativo, páginas visitadas, links acessados e dados vistos por Você. Você pode saber mais sobre a captação e as finalidades de utilização desses Dados [clicando aqui].
+- **Dados de comportamento de navegação no nosso Site ou no nosso aplicativo,**como cliques em telas e botões no nosso Site e no nosso aplicativo, páginas visitadas, links acessados e dados vistos por Você. Você pode saber mais sobre a captação e as finalidades de utilização desses Dados [clicando aqui].
 
 A qualquer momento é possível configurar o seu navegador de internet para rejeitar a coleta automática desses dados. Neste caso, a sua experiência no Site ou no nosso aplicativo não será customizada de acordo com os seus interesses, ou seja, com as páginas ou assuntos que Você mais procura.
 
@@ -67,6 +67,8 @@ Os bancos de dados da Serasa Experian são compostos por dados provenientes de d
 (iv) dados disponíveis na internet por meio de processos automatizados; e
 
 (v) recebimento de informações de clientes e parceiros.
+
+Para mais informações sobre como tratamos dados pessoais, visite https://www.serasa.com.br/protecao-dados-pessoais/como-tratamos-seus-dados e fique à vontade também para contatar nosso Encarregado de Dados - Emiliano Tozetto através do e-mail dpo@br.experian.com.
 
 **3. Quais as finalidades do tratamento dos Dados Pessoais tratados pela Serasa?**
 
@@ -192,7 +194,7 @@ Qualquer falha ou atraso no pagamento decorrente da ausência, atraso ou incorre
 
 Caso o Gestor de Pagamentos não consiga concluir o pagamento perante o Credor, Você receberá de volta integralmente o valor pago. Neste caso, o Gestor de Pagamentos realizará a devolução ou transferência do valor para conta indicada por Você que, de preferência, seja de sua própria titularidade.
 
-Lembramos que, no âmbito do Limpa Nome, a responsabilidade pela oferta e definição das condições do acordo**(inclusive, sem limitar, respectivos valores e boletos**), assim como pela cobrança de quaisquer dívidas, é exclusiva da(s) empresa(s) credoras da(s) dívida(s). A Serasa e/ou o Gestor de Pagamentos não executam ações de cobrança, tampouco definem ou participam da definição das condições da oferta.
+Lembramos que, no âmbito do Limpa Nome, a responsabilidade pela oferta e definição das condições do acordo **(inclusive, sem limitar, respectivos valores e boletos**), assim como pela cobrança de quaisquer dívidas, é exclusiva da(s) empresa(s) credoras da(s) dívida(s). A Serasa e/ou o Gestor de Pagamentos não executam ações de cobrança, tampouco definem ou participam da definição das condições da oferta.
 
 AINDA, VOCÊ AUTORIZA QUE A PAGUEVELOZ COMPARTILHE COM A SERASA DADOS SOBRE OS PAGAMENTOS REALIZADOS PARA A FINALIDADE EXCLUSIVA DE PREVENÇÃO A FRAUDES E ATENDIMENTO DAS NORMAS VIGENTES, BEM COMO PARA AQUELAS FINALIDADES PREVISTAS NA SEÇÃO 3 DESTE DOCUMENTO.
 
@@ -218,7 +220,7 @@ Os seus Dados Pessoais são armazenados em nosso sistema ou em sistema de tercei
 
 Você pode solicitar acesso aos Dados Pessoais que mantemos sobre Você e solicitar a sua atualização, correção e, para a finalidade de análise de potencial de mercado para o direcionamento de ofertas e para aqueles Dados captados com o seu Consentimento, a sua exclusão.
 
-Para isso, Você deve enviar seu pedido de forma online através do linkhttps://www.serasa.com.br/protecao-dados-pessoais/conheca-seus-direitos ou por correio ao endereço Avenida Doutor Heitor José Reali, nº 360, Distrito Industrial Miguel Abdelnur, São Carlos/SP, CEP 13571-385.
+Para isso, você deve enviar seu pedido de forma online para o e-mail do nosso encarregado de dados (dpo@br.experian.com), pelos canais indicados no link https://www.serasa.com.br/protecao-dados-pessoais/conheca-seus-direitos ou por correio ao endereço Avenida Doutor Heitor José Reali, nº 360, Distrito Industrial Miguel Abdelnur, São Carlos/SP, CEP 13571-385.
 
 É importante ressaltar que, em alguns casos, se Você pedir para corrigir, alterar ou excluir os Dados Pessoais, nem sempre poderemos fazê-lo. Se for esse o caso, explicaremos o porquê, como, por exemplo, quando os Dados Pessoais são necessários para proteção do crédito, autenticação e prevenção a fraudes e aprimoramento da qualidade dos Dados tratados pela Serasa Experian conforme a legislação aplicável.
 
@@ -226,9 +228,11 @@ Para isso, Você deve enviar seu pedido de forma online através do linkhttps://
 
 - **Você poderá revogar o seu Consentimento em relação aos Dados Pessoais captados durante a autenticação, por meio das soluções da Serasa e através do nosso aplicativo, para que não sejam utilizados para a finalidade análise de potencial de mercado para o direcionamento de ofertas tanto para nós quanto para clientes e parceiros;**
 
-O pedido de revogação de Consentimento poderá ser realizado de forma gratuita, mediante solicitação escrita em qualquer um dos seguintes canais: (i) envio ao endereço Avenida Doutor Heitor José Reali, nº 360, Distrito Industrial Miguel Abdelnur, São Carlos/SP, CEP 13571-385; (ii) de forma online no link https://www.serasa.com.br/protecao-dados-pessoais/conheca-seus-direitos
+O pedido de revogação de Consentimento poderá ser realizado de forma gratuita, mediante solicitação escrita em qualquer um dos seguintes canais: (i) envio de pedido de forma online para o e-mail do nosso encarregado de dados (dpo@br.experian.com) ou no link https://www.serasa.com.br/protecao-dados-pessoais/conheca-seus-direitos; ou (ii) envio ao endereço Avenida Doutor Heitor José Reali, nº 360, Distrito Industrial Miguel Abdelnur, São Carlos/SP, CEP 13571-385.
 
-Para deixar de receber nossas campanhas promocionais e solicitações para participação em pesquisas por meios eletrônicos, como e-mail ou SMS, Você deve entrar em contato com a Central de Atendimento aos Clientes, cujos números telefônicos e horários de funcionamento encontram-se disponíveis no item 16 deste documento ou em: https://www.serasaexperian.com.br/atendimento/, ou cancelar a sua inscrição pelo link disponível nos nossos e-mails.
+Para deixar de receber nossas campanhas promocionais e solicitações para participação em pesquisas por meios eletrônicos, como e-mail ou SMS, Você deve entrar em contato com a Central de Atendimento aos Clientes, cujos números telefônicos e horários de funcionamento encontram-se disponíveis no item 16 deste documento ou em:
+
+https://www.serasaexperian.com.br/atendimento/, ou cancelar a sua inscrição pelo link disponível nos nossos e-mails.
 
 Você pode entrar em contato conosco a qualquer momento se tiver dúvidas ou preocupações.
 
