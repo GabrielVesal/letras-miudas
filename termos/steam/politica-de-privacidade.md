@@ -3,8 +3,8 @@ empresa: "Steam"
 documento: "Política de Privacidade"
 categoria: "Jogos"
 fonte: "https://store.steampowered.com/privacy_agreement/?l=brazilian"
-capturado_em: 2024-03-24
-wayback: "https://web.archive.org/web/20240324213403/https://store.steampowered.com/privacy_agreement/?l=brazilian"
+capturado_em: 2025-01-24
+wayback: "https://web.archive.org/web/20250124091713/https://store.steampowered.com/privacy_agreement/?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/politica-de-privacidade.md"
 ---
 
@@ -127,7 +127,7 @@ Valve Corporation Att. Data Protection officer P.O. Box 1688 Bellevue, WA 98009
 
 Representante da UE e Suíça para questões de proteção de dados:
 
-Valve GmbH Att. Legal Rödingsmarkt 9 D-20459 Hamburg Germany
+Valve GmbH Att. Legal Alstertwiete 3 D-20099 Hamburg Germany
 
 Representante do Reino Unido para questões de proteção de dados:
 
