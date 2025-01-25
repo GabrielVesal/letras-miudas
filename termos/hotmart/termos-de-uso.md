@@ -3,8 +3,8 @@ empresa: "Hotmart"
 documento: "Termos de Uso"
 categoria: "Serviços"
 fonte: "https://hotmart.com/pt-br/legal/termos-de-uso"
-capturado_em: 2024-11-16
-wayback: "https://web.archive.org/web/20241116161205/https://hotmart.com/pt-br/legal/termos-de-uso"
+capturado_em: 2025-01-25
+wayback: "https://web.archive.org/web/20250125215101/https://hotmart.com/pt-br/legal/termos-de-uso"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/hotmart/termos-de-uso.md"
 ---
 
@@ -41,6 +41,8 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/ho
 **O.** O uso de exemplos nestes Termos, bem como o uso de expressões como “inclusive”, “incluindo” e outros termos semelhantes, não pode ser interpretado de modo a limitar a abrangência das regras que os utilizam, tendo sempre função exemplificativa e, portanto, não exaustiva.
 
 **P.** O idioma oficial destes Termos é o inglês americano. Qualquer versão destes Termos em outro idioma é uma tradução fornecida por cortesia. Em caso de conflito, a versão em inglês deve prevalecer para todas as contratações.
+
+**Q**. ESTE TERMO CONTÉM UMA CLÁUSULA DE RENÚNCIA EXPRESSA AOS DIREITOS DE PARTICIPAÇÃO EM AÇÕES COLETIVAS OU ARBITRAGENS COLETIVAS.
 
 #### **1. OS SERVIÇOS PRESTADOS PELA HOTMART**
 
@@ -251,6 +253,8 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/ho
 12.7. **Avaliação das Denúncias pela Hotmart**: Se o denunciado não responder a denúncia em 10 (dez) dias, a Hotmart pode aplicar, em caráter definitivo, quaisquer das medidas previstas na Seção 10 destes Termos, de modo isolado ou cumulativo, se entender cabíveis, dando ciência ao denunciante e comunicando as medidas ao Usuário afetado. A Hotmart também pode aplicar quaisquer das medidas previstas na Seção 10 destes Termos, de modo isolado ou cumulativo, se, diante da resposta do denunciado, concluir que houve infração aos Termos, violação de direitos ou outras irregularidades praticadas na Plataforma. Se a Hotmart, por si ou por terceiros por ela determinados, entender que a questão denunciada é razoavelmente controversa, a Hotmart pode instaurar um procedimento de solução de disputas entre os Usuários.
 
 12.8. **Solução de Disputas entre Usuários**: Os Serviços da Hotmart são prestados para conectar os Usuários entre si. As disputas que surgem dessas relações devem ser resolvidas entre os Usuários diretamente, inclusive aquelas relativas à qualidade, às garantias e aos aspectos técnicos dos Produtos. Com o intuito de facilitar o diálogo para solução de disputas, além do canal de denúncias, a Hotmart oferece serviço de suporte aos Usuários, sem custo, por meio da Central de Ajuda. Uma vez acionado, o serviço de suporte pode entrar em contato com os Usuários envolvidos numa disputa. Você concorda que deve aplicar seus melhores esforços para responder aos chamados do serviço de suporte, com foco na solução do problema, no menor tempo possível e dentro dos prazos estabelecidos pela Hotmart. Se não for possível a composição entre os Usuários acerca de uma disputa, a Hotmart pode (mas não se obriga a) encerrar a disputa mediante decisão própria, pautada na boa-fé e em parâmetros de equidade, considerando as regras destes Termos e das Políticas da Hotmart. A Hotmart pode delegar a solução de qualquer disputa a terceiros por ela determinados, inclusive mecanismos de autorregulamentação. A decisão da Hotmart a respeito da disputa, ou de quem ela designar, deve ser acatada de modo integral e irrecorrível pelos Usuários envolvidos.
+
+12.9. **Ações Coletivas.**Todos os usuários da Plataforma concordam expressamente que **NÃO** podem apresentar uma reclamação como queixoso ou membro de uma classe numa ação coletiva, consolidada ou representativa, independente do assunto em questão, em desfavor à Hotmart. Não são permitidas arbitragens coletivas, ações coletivas, ações de procurador-geral privado e consolidação com outras arbitragens. O Usuário só poderá resolver litígios contra a Hotmart, ou em que a Hotmart faça parte, individualmente.
 
 #### 13. DISPOSIÇÕES FINAIS
 
