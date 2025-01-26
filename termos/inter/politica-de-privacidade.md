@@ -117,7 +117,7 @@ Siga o Inter
 - Política de Segurança da Informação
 - Política de Segurança da Informação para Fornecedores
 
-© 2024 Banco Inter S.A. CNPJ: 00.416.968/0001-01
+© 2025 Banco Inter S.A. CNPJ: 00.416.968/0001-01
 
 Belo Horizonte | MG - Av. Barbacena, 1219 - Santo Agostinho. CEP: 30190-131
 
