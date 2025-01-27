@@ -3,8 +3,8 @@ empresa: "QuintoAndar"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://mkt.quintoandar.com.br/aviso-de-privacidade/"
-capturado_em: 2024-12-29
-wayback: "https://web.archive.org/web/20241229234809/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
+capturado_em: 2025-01-27
+wayback: "https://web.archive.org/web/20250127091401/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/quintoandar/politica-de-privacidade.md"
 ---
 
@@ -91,6 +91,7 @@ Para garantir que estamos sendo transparentes com você, destacamos abaixo algum
 - Análise de perfil de busca, filtros utilizados, imóveis favoritos e visualizações, para gerar recomendações de acordo com o seu perfil.
 - Consumo e disponibilização em nossa plataforma de dados de bases públicas relacionadas a imóveis (por exemplo, ITBI e IPTU), incluindo endereço completo, para realização de análises de mercado e oferta e disponibilização de informações de inteligência mercadológica, mesmo para imóveis que não estejam anunciados no Grupo QuintoAndar.
 - Avaliação sistemática dos históricos de busca e quaisquer outras interações do usuário com a plataforma do QuintoAndar, com o objetivo de te sugerir, por solicitação ou proativamente, imóveis compatíveis com as suas preferências.
+- Ações de cobrança e negociação de débitos internamente ou por meio de empresas de cobrança contratadas, com o objetivo de minimizar índices de inadimplência. **Quando necessário, as ações incluirão o enriquecimento de dados, a fim de obter formas alternativas de contato com inadimplentes. Isso pode incluir, mas não se limita, à utilização de dados de fontes públicas ou de terceiros, com o intuito de identificar meios mais eficazes de contatar o cliente e realizar a cobrança de valores pendentes. Essas atividades serão realizadas em conformidade com a legislação vigente, incluindo a LGPD, garantindo a proteção e a privacidade dos titulares de dados pessoais.**
 
 Há determinação expressa, em nossos Termos e Condições de Uso, de que os serviços do **Grupo QuintoAndar** se destinam exclusivamente a pessoas capazes de exercer atos da vida civil. Deste modo, como regra não tratamos dados pessoais de crianças e adolescentes no contexto de aplicação deste Aviso de Privacidade.
 
@@ -100,7 +101,7 @@ Existem situações em que compartilhamos os seus dados pessoais com os seguinte
 
 - **Empresas do Grupo QuintoAndar**, para fins de eficiência organizacional, análises estatísticas, desenvolvimento de novos produtos e serviços, atender aos propósitos dos negócios do **Grupo QuintoAndar** e transações e alterações societárias envolvendo as empresas do **Grupo QuintoAndar**, hipótese em que a transferência de dados pessoais será necessária para a continuidade dos negócios e serviços oferecidos a você.
 - **Parceiros de negócio**, incluindo, mas não se limitando a corretores e imobiliárias, para oferecer serviços, produtos e funcionalidades que entendemos que podem ser do seu interesse, bem como ampliar e desenvolver nossos negócios.
-- **Prestadores de serviços**, contratados pelo **Grupo QuintoAndar** para a execução de atividades de suporte técnico ou operacional, incluindo vistoriadores e fotógrafos, e serviços especializados, tais como seguradoras e consultorias.
+- **Prestadores de serviços**, contratados pelo **Grupo QuintoAndar** para a execução de atividades de suporte técnico ou operacional, incluindo vistoriadores e fotógrafos, e serviços especializados, tais como seguradoras, consultorias e empresas de cobrança.
 - **Bureaus de crédito, provedores de meios de pagamento, instituições financeiras e empresas de cartões de crédito,** para processar pagamentos realizados em decorrência do uso de nossos serviços ou produtos, cumprir com obrigações contratuais, obter uma definição mais precisa e embasada do seu perfil de crédito, prevenir atividades ilegais, suspeitas ou fraudulentas e garantir a prevenção à fraude e/ou a segurança dos nossos usuários.
 - **Conselhos Regionais de Corretores de Imóveis (CRECI)**, para cumprimento de obrigações regulatórias e fiscalizações conduzidas pelo órgão.
 - **Autoridades governamentais**, para cumprir com obrigações legais ou regulatórias, para execução de contratos, para contribuir com a persecução do interesse público, para o exercício de direitos em processos judiciais, administrativos ou arbitrais e para garantir a prevenção à fraude.
@@ -263,7 +264,7 @@ Qualquer mudança em nossos produtos e serviços pode ser refletida nesta págin
 
 O presente Aviso de Privacidade será interpretado segundo a legislação brasileira, incluindo, mas não se limitando à Constituição Federal, à LGPD (Lei nº 13.709/2018), ao Marco Civil da Internet (Lei nº 12.965/2014), ao Código Civil (Lei nº 10.406/2002) e ao Código de Defesa do Consumidor (Lei nº 8.078/1990), no idioma português.
 
-**Data da última alteração:**02/12/2024
+**Data da última alteração:** 20/01/2025
 
 ## Finalidades de Tratamento
 
@@ -281,15 +282,15 @@ Síndico, condômino, comprador, proprietário/vendedor, inquilino, que **possua
 
 **Informações cadastrais**
 
-- Atendimento ao cliente; Análise de crédito; Prestação do serviço ou fornecimento de produto; Validação de identidade; Captação de imóveis; Compartilhamento com autoridades administrativas, judiciais ou arbitrais; Cadastro de usuários e clientes; Ações de marketing; Melhoria e desenvolvimento de produtos; Financiamento; Rotinas de cobrança; Rotinas financeiras; Ações antifraude; Transferência de carteira de clientes; Compartilhamento com autoridades governamentais; Gerenciamento de banco de dados; Atuação em processos judiciais, administrativos ou arbitrais; Elaboração, revisão e gestão de contratos; Agendamento de visitas; Gerenciamento de apólices de seguro; Análises e consultas jurídicas; Rotinas contábeis; Emissão de relatórios e dashboards; Gerenciamento de relacionamento com clientes; Pesquisa de qualidade do atendimento (NPS); Compartilhamento com parceiros; Rescisão contratual; Compartilhamento com escritórios de advocacia; Suporte e manutenção de portais; Pesquisa de qualidade dos serviços prestados; Pesquisa de mercado; Due diligence de imóveis e clientes; Compartilhamento com instituições financeiras; Desenvolvimento de novos produtos
+- Atendimento ao cliente; Análise de crédito; Prestação do serviço ou fornecimento de produto; Validação de identidade; Captação de imóveis; Compartilhamento com autoridades administrativas, judiciais ou arbitrais; Cadastro de usuários e clientes; Ações de marketing; Melhoria e desenvolvimento de produtos; Financiamento; Ações de cobrança e negociação de débitos; Rotinas financeiras; Ações antifraude; Transferência de carteira de clientes; Compartilhamento com autoridades governamentais; Gerenciamento de banco de dados; Atuação em processos judiciais, administrativos ou arbitrais; Elaboração, revisão e gestão de contratos; Agendamento de visitas; Gerenciamento de apólices de seguro; Análises e consultas jurídicas; Rotinas contábeis; Emissão de relatórios e dashboards; Gerenciamento de relacionamento com clientes; Pesquisa de qualidade do atendimento (NPS); Compartilhamento com parceiros; Rescisão contratual; Compartilhamento com escritórios de advocacia; Suporte e manutenção de portais; Pesquisa de qualidade dos serviços prestados; Pesquisa de mercado; Due diligence de imóveis e clientes; Compartilhamento com instituições financeiras; Desenvolvimento de novos produtos
 
 **Identificadores governamentais**
 
-- Atendimento ao cliente; Análise de crédito; Prestação do serviço ou fornecimento de produto; Validação de identidade; Cadastro de usuários e clientes; Financiamento; Rotinas financeiras; Emissão de relatórios e dashboards; Ações antifraude; Transferência de carteira de clientes; Elaboração, revisão e gestão de contratos; Atuação em processos judiciais, administrativos ou arbitrais; Gerenciamento de apólices de seguro; Análises e consultas jurídicas; Rotinas contábeis; Compartilhamento com parceiros; Rescisão contratual; Suporte e manutenção de portais; Ações de marketing; Rotinas de cobrança; Due diligence de imóveis e clientes; Compartilhamento com instituições financeiras
+- Atendimento ao cliente; Análise de crédito; Prestação do serviço ou fornecimento de produto; Validação de identidade; Cadastro de usuários e clientes; Financiamento; Rotinas financeiras; Emissão de relatórios e dashboards; Ações antifraude; Transferência de carteira de clientes; Elaboração, revisão e gestão de contratos; Atuação em processos judiciais, administrativos ou arbitrais; Gerenciamento de apólices de seguro; Análises e consultas jurídicas; Rotinas contábeis; Compartilhamento com parceiros; Rescisão contratual; Suporte e manutenção de portais; Ações de marketing; Ações de cobrança e negociação de débitos; Due diligence de imóveis e clientes; Compartilhamento com instituições financeiras
 
 **Informações financeiras**
 
-- Atendimento ao cliente; Análise de crédito; Prestação do serviço ou fornecimento de produto; Financiamento Rotinas financeiras; Transferência de carteira de clientes; Elaboração, revisão e gestão de contratos; Atuação em processos judiciais, administrativos ou arbitrais; Rotinas contábeis; Emissão de relatórios e dashboards; Compartilhamento com parceiros; Rescisão contratual; Suporte e manutenção de portais; Rotinas de cobrança; Compartilhamento com instituições financeiras
+- Atendimento ao cliente; Análise de crédito; Prestação do serviço ou fornecimento de produto; Financiamento Rotinas financeiras; Transferência de carteira de clientes; Elaboração, revisão e gestão de contratos; Atuação em processos judiciais, administrativos ou arbitrais; Rotinas contábeis; Emissão de relatórios e dashboards; Compartilhamento com parceiros; Rescisão contratual; Suporte e manutenção de portais; Ações de cobrança e negociação de débitos; Compartilhamento com instituições financeiras
 
 **Informações sobre seguro**
 
