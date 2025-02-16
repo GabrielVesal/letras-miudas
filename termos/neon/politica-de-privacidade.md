@@ -3,8 +3,8 @@ empresa: "Neon"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://site.neon.com.br/portal-privacidade"
-capturado_em: 2024-12-08
-wayback: "https://web.archive.org/web/20241208123614/https://site.neon.com.br/portal-privacidade"
+capturado_em: 2025-02-16
+wayback: "https://web.archive.org/web/20250216214819/https://site.neon.com.br/portal-privacidade"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/neon/politica-de-privacidade.md"
 ---
 
@@ -101,8 +101,6 @@ Prazo para atendimento
 Prazo para armazenamento
 
 #### Os dados fornecidos por você para que a Neon possa atender aos direitos que você solicitou serão armazenados pelo tempo exigido por lei.
-
-Comunicação de órgãos oficiais (ANPD) e/ou outros assuntos não contemplados acima, clique aqui para formalizar sua comunicação.
 
 Politica de privacidade
 
