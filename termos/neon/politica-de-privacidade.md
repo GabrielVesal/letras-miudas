@@ -96,8 +96,6 @@ Prazo para armazenamento
 
 #### Os dados fornecidos por você para que a Neon possa atender aos direitos que você solicitou serão armazenados pelo tempo exigido por lei.
 
-Comunicação de órgãos oficiais (ANPD) e/ou outros assuntos não contemplados acima, clique aqui para formalizar sua comunicação.
-
 Politica de privacidade
 
 Meus direitos
