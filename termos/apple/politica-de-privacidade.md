@@ -3,8 +3,8 @@ empresa: "Apple"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://www.apple.com/br/legal/privacy/br/"
-capturado_em: 2024-11-10
-wayback: "https://web.archive.org/web/20241110035258/https://www.apple.com/br/legal/privacy/br/"
+capturado_em: 2025-02-17
+wayback: "https://web.archive.org/web/20250217121744/https://www.apple.com/br/legal/privacy/br/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/politica-de-privacidade.md"
 ---
 
@@ -52,6 +52,8 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/ap
  - **Pessoas.** A Apple pode coletar dados sobre você por meio de outras pessoas. Por exemplo, se essa pessoa enviou um produto ou cartão-presente para você, convidou você para participar de um serviço ou fórum da Apple ou compartilhou conteúdo com você.
  - **De Acordo com Sua Orientação.** Você pode instruir outras pessoas ou terceiros a compartilhar dados com a Apple. Por exemplo, você pode instruir sua operadora de celular a compartilhar dados sobre a sua conta da operadora com a Apple para ativar sua conta ou instruir seu programa de fidelidade a compartilhar informações sobre a sua participação para que você possa ganhar recompensas por compras da Apple.
  - **Parceiros da Apple.** Também podemos validar as informações que você fornece. Por exemplo, ao criar uma Conta Apple com um terceiro por motivos de segurança e para fins de prevenção de fraude.
+
+ Para ativar recursos como pesquisa e como uma fonte para nossos modelos de IA de base, a Apple utiliza o Applebot, um rastreador da Web, para buscar informações que estão publicamente disponíveis na Internet. Temos medidas em vigor para reduzir a quantidade de dados pessoais que coletamos e não tentamos associar os dados rastreados a usuários individuais da Apple, nem criar perfis sobre indivíduos. Seus dados pessoais privados não são usados para treinar nossos modelos de IA de base. Para exercer seu direito de optar pela exclusão do processamento, acesse o formulário Apple Intelligence Privacy Inquiries (Consultas de Privacidade da Apple Intelligence). Para obter mais informações sobre o Applebot, consulte support.apple.com/120320.
 
  Para fins de pesquisa e desenvolvimento, podemos usar conjuntos de dados, como aqueles que contêm imagens, vozes ou outros dados que possam estar associados a uma pessoa identificável. Ao coletar esses conjuntos de dados, seguimos as leis aplicáveis, incluindo as leis na jurisdição em que eles são hospedados. Ao usar esses conjuntos de dados para pesquisa e desenvolvimento, não tentamos identificar novamente as pessoas que podem aparecer neles.
 - ## Uso de Dados Pessoais pela Apple
