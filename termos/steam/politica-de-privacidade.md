@@ -3,14 +3,14 @@ empresa: "Steam"
 documento: "Política de Privacidade"
 categoria: "Jogos"
 fonte: "https://store.steampowered.com/privacy_agreement/?l=brazilian"
-capturado_em: 2025-01-24
-wayback: "https://web.archive.org/web/20250124091713/https://store.steampowered.com/privacy_agreement/?l=brazilian"
+capturado_em: 2025-02-27
+wayback: "https://web.archive.org/web/20250227144824/https://store.steampowered.com/privacy_agreement/?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/politica-de-privacidade.md"
 ---
 
 A Valve respeita a privacidade dos seus visitantes on-line e dos clientes dos seus produtos e serviços e está em conformidade com as leis aplicáveis de proteção de privacidade, incluindo, sem limitação, a Lei de Privacidade do Consumidor da Califórnia ("CCPA"), o Regulamento Geral sobre a Proteção de Dados da União Europeia ("GDPR”) e o Regulamento Geral sobre a Proteção de Dados do Reino Unido.
 
-A Valve e sua subsidiária, TR Technical Inc., agem em concordância com a Estrutura de Privacidade de Dados UE-EUA (EU-U.S. DPF), a Extensão do RU da EU-U.S. DPF e a Estrutura de Privacidade de Dados Suíça-EUA (Swiss-U.S. DPF), conforme estabelecido pelo Departamento de Comércio dos EUA. A Valve confirmou ao Departamento de Comércio dos EUA sua adesão aos Princípios da Estrutura de Privacidade de Dados UE-EUA (Princípios da EU-U.S. DPF) no que diz respeito ao processamento de dados pessoais recebidos da União Europeia em conformidade com a EU-U.S. DPF e do Reino Unido (e Gibraltar) em conformidade com a Extensão do RU da EU-U.S. DPF. A Valve confirmou a Departamento de Comércio dos EUA sua adesão aos Princípios da Estrutura de Privacidade de Dados Suíça-EUA (Princípios da Swiss-U.S. DPF) no que diz respeito ao processamento de dados pessoais recebidos da Suíça em conformidade com a Swiss-U.S. DPF. Em caso de qualquer conflito entre os termos desta política de privacidade e os Princípios da EU-U.S. DPF e/ou os Princípios da Swiss-U.S. DPF, prevalecerão os Princípios. Caso queira saber mais sobre o programa da Estrutura de Privacidade de Dados (DPF), e para consultar a nossa certificação, visite https://www.dataprivacyframework.gov/.
+A Valve e sua subsidiária, TR Technical Inc., agem em concordância com a Estrutura de Privacidade de Dados UE-EUA (EU-U.S. DPF), a Extensão do RU da EU-U.S. DPF e a Estrutura de Privacidade de Dados Suíça-EUA (Swiss-U.S. DPF), conforme estabelecido pelo Departamento de Comércio dos EUA. A Valve confirmou ao Departamento de Comércio dos EUA sua adesão aos Princípios da Estrutura de Privacidade de Dados UE-EUA (Princípios da EU-U.S. DPF) no que diz respeito ao processamento de dados pessoais recebidos da União Europeia em conformidade com a EU-U.S. DPF e do Reino Unido (e Gibraltar) em conformidade com a Extensão do RU da EU-U.S. DPF. A Valve confirmou ao Departamento de Comércio dos EUA sua adesão aos Princípios da Estrutura de Privacidade de Dados Suíça-EUA (Princípios da Swiss-U.S. DPF) no que diz respeito ao processamento de dados pessoais recebidos da Suíça em conformidade com a Swiss-U.S. DPF. Em caso de qualquer conflito entre os termos desta política de privacidade e os Princípios da EU-U.S. DPF e/ou os Princípios da Swiss-U.S. DPF, prevalecerão os Princípios. Caso queira saber mais sobre o programa da Estrutura de Privacidade de Dados (DPF), e para consultar a nossa certificação, visite https://www.dataprivacyframework.gov/.
 
 **1. Definições**
 
@@ -43,7 +43,7 @@ Essas razões para a coleta e processamento de Dados Pessoais determinam e limit
 
 3.5 Seu uso dos jogos e outras assinaturas A fim de fornecer esses serviços a você, precisamos coletar, armazenar e utilizar várias informações sobre sua atividade no nosso Conteúdo e em nossos Serviços. "Informações Relacionadas ao Conteúdo" inclui seu Steam ID e as "estatísticas de jogo". "Estatísticas de jogo" significa informações sobre suas preferências e o progresso nos jogos e o tempo de uso, bem como informações sobre o dispositivo que você está usando, incluindo sistema operacional, configurações, identificadores únicos de dispositivos e dados de falha.
 
-3.6 Dados de rastreamento e cookies Utilizamos "Cookies", que são arquivos de texto adicionados ao seu computador, e tecnologias semelhantes (por exemplo, "web beacons", pixels, tags de anúncios e identificadores de dispositivo) para nos ajudar a analisar como os usuários usam nossos serviços e também para melhorar os serviços que oferecemos e o recurso de marketing, de análise ou do site. O uso de cookies é padrão na internet. Embora a maioria dos navegadores da Web aceite cookies automaticamente, a decisão de autorizar ou negar é sua. Você pode ajustar as configurações do seu navegador para impedir o recebimento de cookies ou para enviar uma notificação sempre que um cookie for recebido no seu computador. Você pode gerenciar o uso de cookies opcionais clicando na página "Configurações de Cookies", acessível a partir do banner que aparece quando você visita nosso site pela primeira vez, ou a qualquer momento através da página de Configurações de Cookies disponível aqui. Quando você acessa qualquer um dos nossos serviços, nossos servidores registram seu endereço IP, que é um número atribuído automaticamente à rede a qual seu computador faz parte.
+3.6 Dados de rastreamento e cookies Utilizamos "Cookies", que são arquivos de texto adicionados ao seu computador, e tecnologias semelhantes (por exemplo, "web beacons", pixels, tags de anúncios e identificadores de dispositivo) para nos ajudar a analisar como os usuários usam nossos serviços e também para melhorar os serviços que oferecemos e o recurso de marketing, de análise ou do site. O uso de cookies é padrão na internet. Embora a maioria dos navegadores da Web aceite cookies automaticamente, a decisão de autorizar ou negar é sua. Você pode ajustar as configurações do seu navegador para impedir o recebimento de cookies ou para enviar uma notificação sempre que um cookie for recebido no seu computador. Você pode gerenciar o uso de cookies opcionais clicando na página "Configurações de Cookies", acessível a partir do banner que aparece quando você visita nosso site pela primeira vez, ou a qualquer momento através da página de Configurações de Cookies disponível aqui. Quando você acessa qualquer um dos nossos serviços, nossos servidores registram seu endereço IP, que é um número atribuído automaticamente à rede da qual seu computador faz parte.
 
 3.7 Recomendações de conteúdo Podemos processar informações coletadas nos termos desta seção 3, de modo que o conteúdo, os produtos e os serviços mostrados nas páginas da loja do Steam e nas mensagens de atualização exibidas ao iniciar o cliente do Steam podem ser adaptados para atender às suas necessidades e preenchidos com recomendações e ofertas relevantes. Isto é feito para melhorar a experiência do seu cliente. Você pode impedir o processamento dos seus dados dessa forma ao desligar o carregamento automático da página da loja do Steam e das notificações do Steam na seção "Interface" das configurações do cliente do Steam. A Valve pode enviar mensagens de marketing ao seu endereço de e-mail (ou onde você deu consentimento explícito) sobre produtos e serviços similares aos produtos e serviços que você solicitou à Valve anteriormente. Nesse caso, poderemos utilizar também suas informações coletadas para personalizar essas mensagens de marketing, além de coletar informações das suas ações, como se você abriu essas mensagens e em que links do texto delas você clicou. Você pode cancelar ou revogar seu consentimento de receber e-mails de marketing a qualquer momento, ao revogar seu consentimento na mesma página onde você tinha previamente concedido ou ao clicar no link "cancelar inscrição" incluído em cada e-mail de marketing. Como alternativa, é possível selecionar os tipos de e-mail que você deseja receber na página de configuração de e-mails.
 
@@ -56,7 +56,7 @@ Armazenaremos informações apenas pelo tempo necessário para cumprir as finali
 Em especial:
 
 - Se você encerrar a sua Conta de Usuário do Steam, seus Dados Pessoais serão marcados para exclusão, exceto se os requisitos legais ou outros fins legítimos prevalecentes solicitarem um período de armazenamento mais longo.
-- Em certos casos, os Dados Pessoais não podem ser completamente eliminados, a fim de garantir a consistência da experiência do jogo ou do Mercado da Comunidade do Steam. Por exemplo, partidas que afetam outros dados e pontuações de partidas de outros jogados não serão removidos. Em vez disso, sua conexão com estes jogos será permanentemente anonimizada.
+- Em certos casos, os Dados Pessoais não podem ser completamente eliminados, a fim de garantir a consistência da experiência do jogo ou do Mercado da Comunidade do Steam. Por exemplo, partidas que afetam outros dados e pontuações de partidas de outros jogadores não serão removidos. Em vez disso, a sua conexão com estes jogos será permanentemente anonimizada.
 - Observe que a Valve é obrigada a manter certos dados transacionais nos termos da legislação fiscal e comercial estatutária por um período de até 10 (dez) anos.
 - Se você remover sua autorização quanto ao processamento dos seus Dados Pessoais ou dos Dados Pessoais do seu filho, excluiremos seus Dados Pessoais ou os do seu filho imediatamente, desde que a coleta e o processamento sejam dependentes dessa autorização.
 - Se você se opuser ao processamento dos seus Dados Pessoais, sua objeção será analisada e removeremos imediatamente os Dados Pessoais que forem usados para a finalidade à qual você se opôs, a menos que haja outra base jurídica para o processamento e a retenção de dados ou se a legislação aplicável exigir a retenção deles.
@@ -81,17 +81,19 @@ A Valve não vende Dados Pessoais. No entanto, podemos compartilhar ou fornecer 
 
 **6. Seus direitos e mecanismos de controle**
 
-As leis de proteção de dados do Espaço Econômico Europeu, do Reino Unido, da Califórnia e de outros territórios concedem aos seus residentes determinados direitos em relação aos Dados Pessoais. Embora outras jurisdições forneçam menos direitos, criamos ferramentas para que os clientes de todo o mundo possam exercê-los. (Quando falamos sobre o GDPR nesta seção, queremos dizer a versão do GDPR que se aplica a você na UE ou no Reino Unido).
+As leis de proteção de dados do Espaço Econômico Europeu, do Reino Unido, da Suíça, da Califórnia e de outros territórios concedem aos seus residentes determinados direitos em relação aos Dados Pessoais. Embora outras jurisdições forneçam menos direitos, criamos ferramentas para que os clientes de todo o mundo possam exercê-los. (Quando falamos sobre o GDPR nesta seção, queremos dizer a versão do GDPR que se aplica a você na UE ou no Reino Unido).
 
 Para que você possa exercer seu direito à proteção de dados de forma simples, disponibilizamos uma seção dedicada na página de suporte do Steam (o "Painel de privacidade"). Ela oferece acesso aos seus Dados Pessoais, permite corrigi-los e excluí-los e se opor ao uso deles, quando necessário. Para acessá-la, faça o login na página de suporte do Steam em https://help.steampowered.com e escolha os itens do menu *Minha conta -> Dados relacionados à sua conta Steam.* Na maioria dos casos, você pode acessar, gerenciar ou excluir Dados Pessoais no Painel de Privacidade, mas também pode entrar em contato com a Valve com perguntas ou solicitações por meio dos processos de contato descritos nas seções 8 e 10 abaixo.
 
 Como visitante do site do Steam sem estar conectado, você pode controlar os Cookies por meio do processo descrito na seção 3.6 acima. Você também pode entrar em contato com a Valve ou seu representante europeu por meio das informações de contato fornecidas na seção 8. abaixo para exercer seus direitos ou usar este formulário.
 
-Como residente do Espaço Econômico Europeu ou do Reino Unido, você tem os seguintes direitos quanto aos seus Dados Pessoais:
+Como residente do Espaço Econômico Europeu, Reino Unido ou Suíça, você tem os seguintes direitos quanto aos seus Dados Pessoais:
 
-6.1 Direito de acesso Você tem o direito de acessar os Dados Pessoais que mantemos sobre você, ou seja, o direito de solicitar gratuitamente (i) informações se os seus Dados Pessoais estão armazenados, (ii) o acesso aos Dados Pessoais armazenados e/ou (iii) cópias dos Dados Pessoais armazenados. Você pode exercer o direito de acesso aos seus Dados Pessoais por meio do Painel de Privacidade. Se a solicitação afetar os direitos e as liberdades de terceiros ou for infundada ou excessiva, reservamo-nos o direito de cobrar uma taxa razoável (levando em conta os custos administrativos de fornecer as informações ou a comunicação ou efetuar a ação solicitada) ou de recusar a solicitação.
+6.1 Direito de acesso Você tem o direito de acessar os Dados Pessoais que mantemos sobre você, ou seja, o direito de solicitar gratuitamente (i) informações se os seus Dados Pessoais estão armazenados, (ii) o acesso aos Dados Pessoais armazenados e/ou (iii) cópias dos Dados Pessoais armazenados. Você pode exercer o direito de acesso aos seus Dados Pessoais por meio do Painel de Privacidade. Se a solicitação afetar os direitos e as liberdades de terceiros, ou for infundada ou excessiva, reservamo-nos o direito de cobrar uma taxa razoável (levando em conta os custos administrativos de fornecer as informações ou a comunicação, ou efetuar a ação solicitada) ou de recusar a solicitação.
 
-6.2 Direito de retificação Se processarmos seus Dados Pessoais, nós asseguraremos a implementação de medidas adequadas para que eles se mantenham atualizados e precisos de acordo com as finalidades para que foram coletados. Se seus Dados Pessoais estiverem imprecisos ou incompletos, você pode alterar as informações fornecidas no Painel de Privacidade.
+6.2 Direito de retificação
+
+Se processarmos seus Dados Pessoais, nós asseguraremos a implementação de medidas adequadas para que eles se mantenham atualizados e precisos de acordo com as finalidades para que foram coletados. Se seus Dados Pessoais estiverem imprecisos ou incompletos, você pode alterar as informações fornecidas no Painel de Privacidade.
 
 6.3 Direito de remoção Você tem o direito de obter a exclusão de Dados Pessoais relacionados a você se o motivo pelo qual conseguimos coletá-los (consulte a seção 2 acima) não existir mais ou se houver outra base jurídica para sua exclusão. Para itens individuais de Dados Pessoais, edite-os por meio do Painel de Privacidade ou solicite a exclusão por meio da página de suporte do Steam. Você também pode solicitar a exclusão de sua conta de usuário do Steam por meio da página de suporte do Steam.
 
@@ -125,17 +127,21 @@ Em conformidade com a EU-U.S. DPF, a Extensão do RU da EU-U.S. DPF e da Swiss-U
 
 Valve Corporation Att. Data Protection officer P.O. Box 1688 Bellevue, WA 98009
 
-Representante da UE e Suíça para questões de proteção de dados:
+Representante da UE para questões de proteção de dados:
 
 Valve GmbH Att. Legal Alstertwiete 3 D-20099 Hamburg Germany
 
 Representante do Reino Unido para questões de proteção de dados:
 
-RIVACY Ltd. 71, Warriner Gardens, Unit G1/G2 London, SW11 4DX United Kingdom
+RIVACY Ltd. St James' Hall Mill Road Lancing, West Sussex England, BN15 0PT
+
+Representante da Suíça para questões de proteção de dados:
+
+RIVACY Switzerland GmbH c/o epartners Rechtsanwälte AG Piuls 5, Hardturmstrasse 11 8005 Zurich Switzerland
 
 **9. Informações adicionais para usuários do Espaço Econômico Europeu, Reino Unido e Suíça**
 
-Como uma empresa sediada nos EUA que opera um serviço de jogos em todo o mundo, podemos transferir seus dados pessoais para fora do Espaço Econômico Europeu ou do Reino Unido. Nesse caso, tomamos medidas adicionais para garantir que seus dados pessoais sejam protegidos por salvaguardas legais apropriadas e que sejam tratados com segurança e de acordo com esta Política de Privacidade. A este respeito, a Valve implementou medidas contratuais e organizacionais apropriadas para garantir a confidencialidade, a segurança e a integridade dos dados do usuário em conexão com sua coleta, processamento e transferência. As medidas que tomamos incluem, entre outras coisas:
+Como uma empresa sediada nos EUA que opera um serviço de jogos em todo o mundo, podemos transferir seus dados pessoais para fora do Espaço Econômico Europeu, do Reino Unido ou da Suíça. Nesse caso, tomamos medidas adicionais para garantir que seus dados pessoais sejam protegidos por salvaguardas legais apropriadas e que sejam tratados com segurança e de acordo com esta Política de Privacidade. A este respeito, a Valve implementou medidas contratuais e organizacionais apropriadas para garantir a confidencialidade, a segurança e a integridade dos dados do usuário em conexão com sua coleta, processamento e transferência. As medidas que tomamos incluem, entre outras coisas:
 
 - Minimização da coleta de dados; em particular a possibilidade de criar e operar contas anônimas.
 - Pseudonimização de dados.
@@ -169,4 +175,4 @@ Você pode designar, por escrito ou por meio de um procurador, um agente autoriz
 
 **Categorias, fontes, finalidades e destinatários dos dados que coletamos.** Nos últimos 12 meses, coletamos as categorias de Dados Pessoais descritas na seção 3 desta Política de Privacidade. As fontes das quais coletamos Dados Pessoais e as finalidades para as quais coletamos e processamos esses dados estão descritas nas seções 2 e 3. Nos últimos 12 meses, divulgamos para fins comerciais cada uma das categorias de Dados Pessoais com as categorias de terceiros conforme descritas na seção 5.
 
-*Data da revisão: 14 de fevereiro de 2024*
+*Data da revisão: 14 de fevereiro de 2025*
