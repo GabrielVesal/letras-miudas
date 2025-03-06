@@ -2,9 +2,11 @@
      Fonte: https://legal.rappi.com/brazil/aviso-de-privacidade-e-politicas-de-uso-das-informacao-utilizadas-pela-rappi/
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
+**Aviso de Privacidade e Políticas de uso das Informação utilizadas pela Rappi**
+
 Este documento, denominado Política de Privacidade, possui finalidade de estabelecer as regras sobre o uso, armazenamento e tratamento dos dados e informações coletadas dos USUÁRIOS na PLATAFORMA RAPPI.
 
-**Responsáveis pelas Informações dos USUÁRIOS:** **RAPPI BRASIL INTERMEDIAÇÃO DE NEGÓCIOS LTDA.**, registrada sob o CNPJ 26.900.161/0001-25 e com sede na Rua Haddock Lobo, 595 – 9º andar – Conj 91 – Lado A – São Paulo/SP – CEP: 01414-905,,e suas filiadas (“RAPPI”).
+**Responsáveis pelas Informações dos USUÁRIOS:** **RAPPI BRASIL INTERMEDIAÇÃO DE NEGÓCIOS LTDA.**, registrada sob o CNPJ 26.900.161/0001-25 e com sede na Rua Haddock Lobo, 595 – 9º andar – Conj 91 – Lado A – São Paulo/SP – CEP: 01414-905, e suas filiadas (“RAPPI”).
 
 Quando Você acessar, utilizar ou interagir com a Plataforma, podemos coletar Dados Pessoais sobre Você. Este documento (que também chamaremos de “Política de Privacidade” ou simplesmente de “Política”) tem o propósito de esclarecer como Dados Pessoais podem ser coletados, usados, compartilhados, armazenados na e de qualquer forma tratados na nossa operação da Plataforma.
 
@@ -161,7 +163,7 @@ Seus Dados Pessoais são seus e a legislação brasileira lhe garante, na sua co
 
 Em alguns casos, você terá a opção de não fornecer certos Dados Pessoais e/ou de não permitir certas formas de tratamento (ao não fornecer o seu consentimento para uma finalidade específica, por exemplo). Nesses casos, é importante ter em mente que alguns Dados e/ou algumas autorizações específicas que dependem do seu consentimento podem ser condição para que você possa usufruir de alguns de nossos produtos, serviços, benefícios e facilidades. Sempre que esse for o caso e o tratamento dos seus Dados for condição para determinada finalidade, você será informado antes que possa tomar uma decisão sobre isso.
 
-Para apresentar uma requisição de exercício de qualquer dos direitos acima, você pode optar pelo uso dos meios descritos abaixo para entrar em contato com a encarregada pelo tratamento de dados pessoais da Rappi, Michele Volpe:
+Para apresentar uma requisição de exercício de qualquer dos direitos acima, você pode optar pelo uso dos meios descritos abaixo para entrar em contato com o encarregado pelo tratamento de dados pessoais da Rappi, Fernando Bousso:
 
 **Atendimento Eletrônico:** um requerimento deve ser apresentado por meio do envio do requerimento através da Plataforma Rappi na opção “Excluir minha conta Rappi” dentro da aba Dados Pessoais dentro do aplicativo e pelo site no seguinte link: https://www.rappi.com.br/account/profile ou através do e-mail dpo\_br@rappi.com
 
