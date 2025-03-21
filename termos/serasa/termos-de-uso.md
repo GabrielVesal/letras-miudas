@@ -3,8 +3,8 @@ empresa: "Serasa"
 documento: "Termos de Uso"
 categoria: "Serviços"
 fonte: "https://www.serasa.com.br/app/termos-de-uso/"
-capturado_em: 2025-02-20
-wayback: "https://web.archive.org/web/20250220174632/https://www.serasa.com.br/app/termos-de-uso/"
+capturado_em: 2025-03-21
+wayback: "https://web.archive.org/web/20250321195234/https://www.serasa.com.br/app/termos-de-uso/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/termos-de-uso.md"
 ---
 
@@ -204,9 +204,11 @@ Desta forma, a Serasa não se responsabiliza pelos itens citados acima e tampouc
 
 **6.** **Compromisso antispam e antiphishing**
 
-A Serasa atua de acordo com as boas práticas do mercado digital. Por isso, recomendamos que, caso Você receba um e-mail em nosso nome e suspeite de fraude, não abra os arquivos anexos e nem clique em qualquer link ou botão. Você poderá enviar uma mensagem para **abuse@br.experian.com** para que possamos avaliar e tomar as medidas possíveis no combate ao crime eletrônico.
+A Serasa atua de acordo com as boas práticas do mercado digital. Por isso, recomendamos que, caso Você receba um e-mail em nosso nome e suspeite de fraude, não abra os arquivos anexos e nem clique em qualquer link ou botão. Confira no nosso site ou App se é um e-mail ou número oficial da Serasa.
 
-**Importante:** este endereço de e-mail somente aceita mensagens referentes a fraudes, denúncias e informações sobre possíveis irregularidades ocorridas. Caso tenha alguma dúvida ou queira obter informações sobre outros assuntos, entre em contato com os Canais de Atendimento descritos no item 10, abaixo.
+Caso Você receba alguma mensagem suspeita em nosso nome, poderá fazer uma denúncia napágina **https://www.serasa.com.br/contra-fraudes/**, para que possamos avaliar e tomar as medidas possíveis no combate ao crime eletrônico. Além disso, poderá conferir diversos conteúdos sobre como se prevenir, identificar o que fazer quando se deparar com uma fraude.
+
+**Importante:** esta página somente aceita mensagens referentes a fraudes, denúncias e informações sobre possíveis irregularidades ocorridas. Caso tenha alguma dúvida ou queira obter informações sobre outros assuntos, entre em contato com os Canais de Atendimento descritos no item 10, abaixo.
 
 **7.** **Segurança de Dados**
 
