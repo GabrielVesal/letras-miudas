@@ -10,6 +10,8 @@ Politica de privacidade
 
 Meus direitos
 
+Nota de esclarecimento
+
 ## Na Neon tratamos seus dados com seriedade e transparência
 
 As informações disponíveis no Portal referem-se a todos os tratamentos de dados realizados pelas empresas que integram o Grupo Econômico Neon.
