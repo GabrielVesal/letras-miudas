@@ -3,8 +3,8 @@ empresa: "Neon"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://site.neon.com.br/portal-privacidade"
-capturado_em: 2025-02-16
-wayback: "https://web.archive.org/web/20250216214819/https://site.neon.com.br/portal-privacidade"
+capturado_em: 2025-03-23
+wayback: "https://web.archive.org/web/20250323164616/https://site.neon.com.br/portal-privacidade"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/neon/politica-de-privacidade.md"
 ---
 
@@ -15,6 +15,8 @@ Estamos aqui para garantir a sua segurança e privacidade.
 Politica de privacidade
 
 Meus direitos
+
+Nota de esclarecimento
 
 ## Na Neon tratamos seus dados com seriedade e transparência
 
