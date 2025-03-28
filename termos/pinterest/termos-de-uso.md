@@ -3,10 +3,12 @@ empresa: "Pinterest"
 documento: "Termos de Uso"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/terms-of-service"
-capturado_em: 2025-01-27
-wayback: "https://web.archive.org/web/20250127222653/https://policy.pinterest.com/pt-br/terms-of-service"
+capturado_em: 2025-03-28
+wayback: "https://web.archive.org/web/20250328093824/https://policy.pinterest.com/pt-br/terms-of-service"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/termos-de-uso.md"
 ---
+
+Vamos atualizar nossos Termos de Serviço no dia 30 de abril de 2025. Você pode ver uma prévia dos Termos de Serviço atualizados aqui.
 
 # Obrigado por usar o Pinterest!
 
@@ -184,7 +186,7 @@ Se você é um consumidor no EEE ou no Reino Unido, a Seção 11 não se aplica 
 
 Para qualquer disputa que tenha conosco, você concorda em entrar em contato conosco primeiro e tentar resolver a disputa amigavelmente. Na extensão permitida pela lei, nenhuma parte deverá iniciar qualquer processo legal, seja no tribunal, arbitragem ou qualquer outro fórum, até que os processos de notificação de disputa e Resolução de Disputa Informal descritos abaixo sejam concluídos. Nada nesta Seção, no entanto, impedirá que você ou nós busquemos uma medida cautelar temporária no tribunal (ou na arbitragem) para preservar o status quo ou para auxiliar a aplicação da cláusula de arbitragem no início de qualquer disputa.
 
-Uma parte com uma disputa precisa primeiro nos enviar uma Notificação de Disputa, que precisa incluir seu nome completo; o nome do seu perfil do Pinterest (que começa com @); o endereço de email associado à sua conta do Pinterest; seu país de residência e, se você for residente dos EUA, o estado onde reside; seu advogado, se você for representado por um advogado; uma descrição detalhada da disputa e do dano alegado; e sua assinatura. Essas informações devem ser enviadas por email para litigation@pinterest.com. A notificação só pode ser enviada em nome de uma parte. Uma Notificação de Disputa que afirme os direitos de mais de uma parte não será considerada. Após o recebimento da Notificação de Disputa, o Pinterest vai responder no prazo de 60 dias para tentar resolver a disputa amigavelmente. Após esse período, qualquer uma das partes pode iniciar uma arbitragem.
+Uma parte com uma disputa precisa primeiro nos enviar uma Notificação de Disputa, que precisa incluir seu nome completo; o nome do seu perfil do Pinterest (que começa com @); o endereço de email associado à sua conta do Pinterest; seu país de residência e, se você for residente dos EUA, o estado onde reside; seu advogado, se você for representado por um advogado; uma descrição detalhada da disputa e do dano alegado; e sua assinatura. Essas informações devem ser enviadas para o email litigation@pinterest.com. A notificação só pode ser enviada em nome de uma parte. Uma Notificação de Disputa que afirme os direitos de mais de uma parte não será considerada. Após o recebimento da Notificação de Disputa, o Pinterest responderá no prazo de 60 dias para tentar resolver a disputa amigavelmente. Após esse período, qualquer uma das partes pode iniciar uma arbitragem.
 
 **Arbitragem**: se não conseguirmos resolver a disputa seguindo os processos obrigatórios acima, você e nós concordamos em resolver qualquer reivindicação, disputa ou controvérsia decorrente ou relacionada a estes Termos ou ao Serviço por meio de processo arbitral ou, para alegações qualificadas, em juizados especiais.
 
