@@ -3,8 +3,8 @@ empresa: "Neon"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://site.neon.com.br/portal-privacidade"
-capturado_em: 2025-03-23
-wayback: "https://web.archive.org/web/20250323164616/https://site.neon.com.br/portal-privacidade"
+capturado_em: 2025-04-22
+wayback: "https://web.archive.org/web/20250422022908/https://site.neon.com.br/portal-privacidade"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/neon/politica-de-privacidade.md"
 ---
 
@@ -48,7 +48,7 @@ As informações sobre os tratamentos de dados realizados pela Neon podem ser en
 
 O papel do DPO, também conhecido como Encarregado de Dados, é garantir que uma organização siga as leis de proteção de dados, como a LGPD, protegendo assim os dados pessoais. Eles são responsáveis por supervisionar a coleta, o armazenamento e o uso desses dados, além de estimular a cultura de proteção de dados e práticas seguras.
 
-A DPO da Neon é a Lucilene de Souza Melo Galindo.
+A DPO da Neon é o **Geison Correa**.
 
 ### Como faço para contatar o DPO
 
