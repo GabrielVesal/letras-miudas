@@ -3,8 +3,8 @@ empresa: "WhatsApp"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
-capturado_em: 2024-08-27
-wayback: "https://web.archive.org/web/20240827212236/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
+capturado_em: 2025-04-25
+wayback: "https://web.archive.org/web/20250425200608/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/politica-de-privacidade.md"
 ---
 
@@ -123,7 +123,7 @@ Se você também quiser gerenciar, alterar, limitar ou apagar suas informações
 
 - **Configurações dos Serviços**. Você pode alterar as configurações dos Serviços para gerenciar a disponibilidade de determinados dados para outros usuários. Também é possível gerenciar seus contatos, grupos e listas de transmissão ou usar nosso recurso “bloquear” para gerenciar os usuários com quem você se comunica.
 - **Alteração de número de celular, nome, foto de perfil e recado**. Se você mudar de número de celular, você precisará atualizá-lo usando o recurso de mudança de número no app e transferir sua conta para o novo número de celular. Também é possível alterar seu nome do perfil, foto de perfil e recado a qualquer momento.
-- **Apagar sua conta do WhatsApp**. É possível apagar sua conta do WhatsApp a qualquer momento (inclusive a revogação do consentimento de uso de seus dados por nós de acordo com as leis aplicáveis) com o recurso interno “Apagar minha conta”. Quando você apaga sua conta do WhatsApp, as mensagens que não foram entregues são apagadas de nossos servidores junto com outros dados que não precisamos para operar e executar nossos Serviços. Ao apagar sua conta, por exemplo, você apagará os dados da conta e sua foto de perfil, removerá a você mesmo de todos os grupos do WhatsApp e apagará seu histórico de mensagens do WhatsApp. Observe que se o WhatsApp for apagado apenas do seu dispositivo, sem o uso do recurso Apagar minha conta, seus dados ficarão armazenados conosco por mais tempo. Lembre-se de que apagar sua conta não afeta os dados relacionados aos grupos que você criou ou os dados relacionados a você e que estão em poder de outros usuários, como as cópias das mensagens que você enviou.
+- **Apagar sua conta do WhatsApp**. É possível apagar sua conta do WhatsApp a qualquer momento (inclusive revogar o consentimento de uso de seus dados por nós de acordo com as leis aplicáveis) com o recurso interno “Apagar minha conta”. Quando você apaga sua conta do WhatsApp, as mensagens que não foram entregues são apagadas de nossos servidores junto com outros dados que não precisamos para operar e executar nossos Serviços. Ao apagar sua conta, por exemplo, você apagará os dados da conta e sua foto de perfil, removerá a você mesmo de todos os grupos do WhatsApp e apagará seu histórico de mensagens do WhatsApp. Observe que se o WhatsApp for apagado apenas do seu dispositivo, sem o uso do recurso Apagar minha conta, seus dados ficarão armazenados conosco por mais tempo. Lembre-se de que apagar sua conta não afeta os dados relacionados aos grupos que você criou ou os dados relacionados a você e que estão em poder de outros usuários, como as cópias das mensagens que você enviou.
 
 Saiba mais sobre nossas práticas de exclusão e retenção de dados e sobre como apagar sua conta neste artigo.
 
