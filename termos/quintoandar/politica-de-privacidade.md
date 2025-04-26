@@ -3,12 +3,10 @@ empresa: "QuintoAndar"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://mkt.quintoandar.com.br/aviso-de-privacidade/"
-capturado_em: 2025-01-27
-wayback: "https://web.archive.org/web/20250127091401/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
+capturado_em: 2025-04-26
+wayback: "https://web.archive.org/web/20250426215927/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/quintoandar/politica-de-privacidade.md"
 ---
-
-# Aviso de Privacidade
 
 # Quem somos? →
 
@@ -35,8 +33,6 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/qu
 # Alterações em nosso Aviso de Privacidade →
 
 # Legislação aplicável →
-
-www.quintoandar.com.br
 
 ## 1. Quem somos
 
@@ -264,7 +260,7 @@ Qualquer mudança em nossos produtos e serviços pode ser refletida nesta págin
 
 O presente Aviso de Privacidade será interpretado segundo a legislação brasileira, incluindo, mas não se limitando à Constituição Federal, à LGPD (Lei nº 13.709/2018), ao Marco Civil da Internet (Lei nº 12.965/2014), ao Código Civil (Lei nº 10.406/2002) e ao Código de Defesa do Consumidor (Lei nº 8.078/1990), no idioma português.
 
-**Data da última alteração:** 20/01/2025
+**Data da última alteração:**20/01/2025
 
 ## Finalidades de Tratamento
 
@@ -615,3 +611,5 @@ São funções da Encarregada: (i) aceitar reclamações e comunicações dos ti
 A Encarregada indicada pelo Grupo QuintoAndar chama-se Deborah Siqueira de Oliveira e está à disposição para auxiliar em todos os temas relacionados à Privacidade e Proteção de Dados Pessoais. Todos os contatos realizados por meio de nosso Canal de Atendimento são acompanhados e atendidos por nossa Encarregada.
 
 Para contatos realizados pela ANPD, disponibilizamos o e-mail privacy@quintoandar.com.br. Este é um canal exclusivo para interações entre a Autoridade e o Grupo QuintoAndar e não pode ser utilizado para outros tipos de contato.
+
+# Aviso de Privacidade
