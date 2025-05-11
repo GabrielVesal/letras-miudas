@@ -3,12 +3,10 @@ empresa: "Pinterest"
 documento: "Termos de Uso"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/terms-of-service"
-capturado_em: 2025-03-28
-wayback: "https://web.archive.org/web/20250328093824/https://policy.pinterest.com/pt-br/terms-of-service"
+capturado_em: 2025-05-11
+wayback: "https://web.archive.org/web/20250511213204/https://policy.pinterest.com/pt-br/terms-of-service"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/termos-de-uso.md"
 ---
-
-Vamos atualizar nossos Termos de Serviço no dia 30 de abril de 2025. Você pode ver uma prévia dos Termos de Serviço atualizados aqui.
 
 # Obrigado por usar o Pinterest!
 
@@ -17,10 +15,11 @@ Estes Termos de Serviço (“Termos”) regem seu acesso e uso do site, aplicati
 Você não pode usar o Serviço para fazer ou compartilhar algo que seja contrário a estes Termos. Para fins de esclarecimento, estes Termos incluem, e incorporam por referência, as seguintes políticas:
 
 - Nossas Diretrizes da Comunidade, que explicam o que é ou não permitido no Pinterest;
-- Nossas Diretrizes de Publicidade e Diretrizes para Comerciantes, que explicam políticas adicionais aplicáveis a anúncios e comerciantes no Pinterest; e
+- Nossas Diretrizes de Publicidade e Diretrizes para Comerciantes, que explicam políticas adicionais aplicáveis a anúncios e comerciantes no Pinterest;
+- Nossas Diretrizes de Conteúdo Comercial e de Marca, que explicam políticas adicionais aplicáveis a conteúdo patrocinado, de marca ou comercial; e
 - Nossas práticas de aplicação, que explicam como colocamos nossas políticas em prática, inclusive as restrições que podemos impor ao seu conteúdo ou uso do Pinterest.
 
-Ao acessar ou usar o Pinterest, você concorda em cumprir estes Termos. Se você não concordar com nossos Termos, não deverá acessar ou usar o Pinterest.
+Ao acessar ou usar o Pinterest, você concorda em cumprir e estar vinculado a estes Termos e não tentará contorná-los. Se você não concordar com nossos Termos, não deverá acessar ou usar o Pinterest.
 
 Simplificando
 
@@ -32,7 +31,7 @@ O Pinterest ajuda a inspirar as pessoas a criar a vida que elas amam. Para fazer
 
 Simplificando
 
-O Pinterest ajuda a inspirar as pessoas a criar a vida que elas amam. Usaremos seus interesses para mostrar conteúdo e anúncios no Pinterest que sejam relevantes para você.
+O Pinterest ajuda a inspirar as pessoas a criar a vida que elas amam. Usaremos seus interesses para mostrar conteúdo e anúncios dentro e fora do Pinterest que sejam relevantes para você.
 
 # 2. Uso do Pinterest
 
@@ -60,9 +59,11 @@ Você não pode permitir que o Pinterest seja usado por ou em benefício de terc
 
 Se você quiser usar o Pinterest para fins comerciais, deverá criar uma conta business e concordar com nossos Termos de Serviço Comerciais. Se você abrir uma conta para uma empresa, organização ou outra entidade, "você" inclui você e essa entidade, declara e garante que tem autorização para conceder todas as permissões e licenças fornecidas nestes Termos e vincular a entidade a estes Termos, e que concorda com estes Termos em nome da entidade. Na medida em que as disposições nos Termos de Serviço Comerciais conflitarem com estes Termos, os Termos de Serviço Comerciais prevalecerão até a extensão do conflito.
 
+Se você publicar conteúdo no Pinterest que seja patrocinado ou de marca — como quando um parceiro de negócios paga ou incentiva você a publicar — ou que seja de alguma forma comercial por natureza, você estará sujeito às nossas Diretrizes de Conteúdo Comercial e de Marca.
+
 Simplificando
 
-Estes Termos são um contrato entre você e nós. Você não poderá usar o Pinterest se tiver menos de 13 anos de idade (ou mais velho, em alguns países). Se você usa o Pinterest para trabalhar, precisa configurar uma conta business. Concedemos a você uma licença revogável para usar o Pinterest, que está sujeita aos nossos Termos e políticas conforme descrito imediatamente acima. Você não poderá retornar ao Pinterest se tivermos suspendido sua conta, a menos que concordemos.
+Estes Termos são um contrato entre você e nós. Você não poderá usar o Pinterest se tiver menos de 13 anos de idade (ou mais velho, em alguns países). Se você usa o Pinterest para fins comerciais, precisa configurar uma conta business. Se você publicar conteúdo comercial, patrocinado ou de marca, precisará cumprir nossas Diretrizes de Conteúdo Comercial e de Marca. Concedemos a você uma licença revogável para usar o Pinterest, que está sujeita aos nossos Termos e políticas conforme descrito imediatamente acima. Você não poderá retornar ao Pinterest se tivermos suspendido sua conta, a menos que concordemos.
 
 # 3. Seu Conteúdo do Usuário
 
@@ -90,7 +91,7 @@ Se você publicar seu Conteúdo do Usuário no Pinterest, nós o mostraremos par
 
 ### c. Por quanto tempo guardamos seu Conteúdo do Usuário
 
-Após o encerramento ou a desativação da sua conta ou a remoção do Conteúdo do Usuário do Pinterest, podemos guardar seu Conteúdo do Usuário por um período razoável para fins de backup, arquivamento ou auditoria. Nós e nossos usuários podemos reter e continuar a usar, armazenar, exibir, reproduzir, compartilhar, modificar, criar trabalhos derivados, apresentar e distribuir qualquer um do seu Conteúdo do Usuário que você ou outros usuários tenham armazenado ou compartilhado no Pinterest.
+Após o encerramento ou a desativação da sua conta ou a remoção do Conteúdo do Usuário do Pinterest, podemos guardar seu Conteúdo do Usuário por um período razoável para fins de backup, arquivamento ou auditoria. Nós e nossos usuários podemos reter e continuar a usar, armazenar, exibir, reproduzir, salvar, modificar, criar trabalhos derivados, apresentar e distribuir qualquer um do seu Conteúdo do Usuário que você ou outros usuários tenham armazenado ou compartilhado no Pinterest.
 
 Simplificando
 
@@ -106,13 +107,13 @@ O Pinterest oferece canais de denúncia que você pode usar para denunciar conte
 
 Simplificando
 
-Valorizamos sua opinião e vamos usar suas sugestões e denúncias para melhorar o Pinterest.
+Valorizamos sua opinião e vamos usar suas sugestões e denúncias para melhorar o Pinterest. Você pode denunciar conteúdo no Pinterest que acha que viola nossas políticas ou a lei.
 
 # 4. Propriedade intelectual
 
 ### a. Política de Direitos Autorais e Política de Marca Comercial
 
-O Pinterest adotou e implementou a Política de Direitos Autorais e a Política de Marca Comercial do Pinterest de acordo com as leis de propriedade intelectual aplicáveis. Para obter mais informações, leia nossa Política de Direitos Autorais e a Política de Marca Comercial.
+O Pinterest adotou e implementou a Política de Direitos Autorais e a Política de Marca Comercial de acordo com as leis de propriedade intelectual aplicáveis.
 
 ### b. Propriedade intelectual do Pinterest
 
@@ -150,7 +151,7 @@ Após a rescisão, as Seções 3, 8, 9, 10, 11, 12 e 13 destes Termos continuar�
 
 Simplificando
 
-O Pinterest é fornecido a você gratuitamente. Nós nos reservamos o direito de recusar o serviço a qualquer pessoa e forneceremos um aviso de encerramento quando apropriado.
+Nós nos reservamos o direito de recusar o serviço a qualquer pessoa e forneceremos um aviso de encerramento quando apropriado.
 
 # 8. Indenização
 
@@ -182,15 +183,15 @@ Estamos desenvolvendo o melhor Serviço possível, mas nem sempre será perfeito
 
 # 11. Arbitragem
 
-Se você é um consumidor no EEE ou no Reino Unido, a Seção 11 não se aplica a você.
+Se você é um consumidor no EEE, na Suíça ou no Reino Unido, a Seção 11 não se aplica a você.
 
 Para qualquer disputa que tenha conosco, você concorda em entrar em contato conosco primeiro e tentar resolver a disputa amigavelmente. Na extensão permitida pela lei, nenhuma parte deverá iniciar qualquer processo legal, seja no tribunal, arbitragem ou qualquer outro fórum, até que os processos de notificação de disputa e Resolução de Disputa Informal descritos abaixo sejam concluídos. Nada nesta Seção, no entanto, impedirá que você ou nós busquemos uma medida cautelar temporária no tribunal (ou na arbitragem) para preservar o status quo ou para auxiliar a aplicação da cláusula de arbitragem no início de qualquer disputa.
 
 Uma parte com uma disputa precisa primeiro nos enviar uma Notificação de Disputa, que precisa incluir seu nome completo; o nome do seu perfil do Pinterest (que começa com @); o endereço de email associado à sua conta do Pinterest; seu país de residência e, se você for residente dos EUA, o estado onde reside; seu advogado, se você for representado por um advogado; uma descrição detalhada da disputa e do dano alegado; e sua assinatura. Essas informações devem ser enviadas para o email litigation@pinterest.com. A notificação só pode ser enviada em nome de uma parte. Uma Notificação de Disputa que afirme os direitos de mais de uma parte não será considerada. Após o recebimento da Notificação de Disputa, o Pinterest responderá no prazo de 60 dias para tentar resolver a disputa amigavelmente. Após esse período, qualquer uma das partes pode iniciar uma arbitragem.
 
-**Arbitragem**: se não conseguirmos resolver a disputa seguindo os processos obrigatórios acima, você e nós concordamos em resolver qualquer reivindicação, disputa ou controvérsia decorrente ou relacionada a estes Termos ou ao Serviço por meio de processo arbitral ou, para alegações qualificadas, em juizados especiais.
+**Arbitragem**: se não conseguirmos resolver a disputa seguindo os processos obrigatórios acima, você e nós concordamos em resolver qualquer reivindicação, disputa ou controvérsia decorrente ou relacionada a estes Termos ou ao Serviço por meio de processo arbitral ou, para alegações qualificadas, em juizados especiais. O árbitro terá autoridade para emitir quaisquer recursos autorizados por lei.
 
-A arbitragem é uma maneira mais informal de resolver nossas divergências do que uma ação judicial. Ao aceitar estes Termos, você concorda que a Lei Federal de Arbitragem dos EUA rege a interpretação e a aplicação desta Seção, e que você e o Pinterest estão renunciando ao direito de um julgamento por júri ou de participar de uma ação coletiva. O árbitro também tem autoridade exclusiva para resolver qualquer disputa relacionada à interpretação, aplicabilidade ou exequibilidade deste contrato de processo arbitral.
+A arbitragem é uma maneira mais informal de resolver nossos desacordos do que uma ação judicial. Ao aceitar estes Termos, você concorda que a Lei Federal de Arbitragem dos EUA rege a interpretação e a aplicação desta Seção, e que você e o Pinterest estão renunciando ao direito de um julgamento por júri ou de participar de uma ação coletiva. O árbitro também tem autoridade exclusiva para resolver qualquer disputa relacionada à interpretação, aplicabilidade ou exequibilidade deste contrato de processo arbitral, incluindo qualquer disputa relacionada à arbitrabilidade.
 
 Qualquer arbitragem será administrada pela American Arbitration Association ("AAA") sob as regras aplicáveis em vigor para a AAA. Se houver conflito entre as regras da AAA e estes Termos, os Termos prevalecerão. Você pode encontrar os formulários AAA em www.adr.org. O árbitro deverá emitir uma decisão fundamentada por escrito explicando as constatações e conclusões essenciais nas quais a sentença se baseia. Um julgamento sobre a sentença proferida pelo árbitro poderá ser registrado em qualquer tribunal de jurisdição competente. Quando as Regras de Arbitragem do Consumidor da AAA forem aplicáveis, se o árbitro determinar que a reivindicação de uma parte foi frívola ou imprópria, o árbitro precisará atribuir as tarifas e os custos associados à arbitragem a essa parte.
 
@@ -198,7 +199,7 @@ Todas as disputas devem ser apresentadas na capacidade individual da parte, e n�
 
 Nada nestes Termos afetará quaisquer direitos legais indispensáveis que se apliquem a você. Na medida em que qualquer disputa não seja arbitrável sob as leis aplicáveis ou de outra forma, você concorda que tal disputa será resolvida exclusivamente de acordo com a Seção 12 destes Termos.
 
-**Arbitragem em lote**: para o processo de arbitragem ser mais eficiente, você e nós concordamos que se 50 ou mais demandas de arbitragem similares forem registradas em um período de 60 dias ou com a assistência do mesmo escritório de advocacia ou grupo de escritórios de advocacia, a AAA vai consolidar as demandas de arbitragem. Para cada lote, a AAA vai administrar um conjunto de tarifas de registro e administrativas por lado, por lote, e a AAA vai apontar um árbitro para resolver cada lote como uma única arbitragem consolidada. As demandas de arbitragem serão similares se forem baseadas em fatos similares e levantarem questões jurídicas similares que buscam reparações similares. Qualquer disputa sobre similaridade será enviada a um único árbitro, cujos honorários serão pagos por nós.
+**Arbitragem em lote**: para o processo de arbitragem ser mais eficiente, você e nós concordamos que se 25 ou mais demandas de arbitragem similares forem registradas em um período de 60 dias ou com a assistência do mesmo escritório de advocacia ou grupo de escritórios de advocacia, a AAA vai consolidar as demandas de arbitragem. Para cada lote, a AAA vai administrar um conjunto de tarifas de registro e administrativas por lado, por lote, e a AAA vai apontar um árbitro para resolver cada lote como uma única arbitragem consolidada. As demandas de arbitragem serão similares se forem baseadas em fatos similares e levantarem questões jurídicas similares que buscam reparações similares. Qualquer disputa sobre similaridade será enviada a um único árbitro, cujos honorários serão pagos por nós.
 
 Simplificando
 
@@ -206,13 +207,13 @@ Você concorda em nos enviar uma notificação de qualquer disputa e tentar reso
 
 # 12. Lei regente e jurisdição
 
-Se você é um consumidor no EEE ou no Reino Unido, estes Termos e seu uso do Serviço serão regidos pela lei do país onde você reside, e quaisquer reivindicações, disputas ou controvérsias decorrentes ou relacionadas a estes Termos ou ao Serviço serão resolvidas nos tribunais do país onde você reside.
+Se você é um consumidor no EEE, na Suíça ou no Reino Unido, estes Termos e seu uso do Serviço serão regidos pela lei do país onde você reside, e quaisquer reivindicações, disputas ou controvérsias decorrentes ou relacionadas a estes Termos, ao Pinterest ou ao Serviço serão resolvidas nos tribunais do país onde você reside.
 
 Em todos os outros casos, estes Termos e seu uso do Serviço serão regidos pelas leis do Estado da Califórnia, sem respeito a seus princípios de conflito de leis. Para todas as ações não sujeitas à Seção 11 (Arbitragem), o local de jurisdição exclusivo para todas as reivindicações, disputas ou controvérsias decorrentes ou relacionadas a estes Termos ou ao Serviço é o Condado de São Francisco, Califórnia, ou o Tribunal Distrital dos Estados Unidos para o Distrito Norte da Califórnia, e tais disputas serão determinadas sob a lei da Califórnia.
 
 Simplificando
 
-A Bay Area é linda nesta época do ano. Na verdade, é linda em qualquer época do ano, isso é que é ótimo! Vamos resolver quaisquer disputas na Califórnia. Se você é um consumidor no EEE ou no Reino Unido, pode iniciar disputas nos tribunais do seu país.
+A Bay Area é linda nesta época do ano. E não importa que época isso seja, por isso é tão legal! Vamos resolver quaisquer disputas na Califórnia. Se você é um consumidor no EEE, na Suíça ou no Reino Unido, pode iniciar disputas nos tribunais do seu país.
 
 # 13. Termos gerais
 
@@ -226,7 +227,7 @@ Se estivermos fazendo uma alteração significativa nos termos, informaremos voc
 
 ### b. Atribuição
 
-Se você é um consumidor no EEE ou no Reino Unido, você ou nós podemos ceder este contrato (e quaisquer direitos e licenças concedidos por ele) a terceiros. Em todos os outros casos, estes Termos e quaisquer direitos e licenças aqui concedidos não podem ser transferidos ou cedidos por você, mas podem ser cedidos por nós sem restrições. Qualquer tentativa de transferência ou cessão em violação deste documento será nula e sem efeito.
+Se você é um consumidor no EEE, na Suíça ou no Reino Unido, você ou nós podemos ceder este contrato (e quaisquer direitos e licenças concedidos por ele) a terceiros. Em todos os outros casos, estes Termos e quaisquer direitos e licenças aqui concedidos não podem ser transferidos ou cedidos por você, mas podem ser cedidos por nós sem restrições. Qualquer tentativa de transferência ou cessão em violação deste documento será nula e sem efeito.
 
 No caso de tal cessão ser feita por nós, você terá o direito de rescindir o contrato com efeito imediato desativando sua conta. Forneceremos a você um aviso razoável de tal cessão.
 
@@ -240,12 +241,10 @@ Nenhuma renúncia de qualquer disposição destes Termos será considerada uma r
 
 ### e. Partes
 
-Se você reside nos Estados Unidos, estes Termos são um contrato entre você e o Pinterest, Inc., 651 Brannan Street, San Francisco, CA 94107. Se você reside fora dos Estados Unidos, estes Termos são um contrato entre você e o Pinterest Europe Ltd., uma empresa irlandesa com seu escritório registrado em Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Irlanda. Como o Pinterest é um serviço mundial, você concorda que quaisquer direitos e licenças aqui concedidos beneficiam o Pinterest Inc. e todas as suas subsidiárias e afiliadas em todo o mundo.
+Se você reside nos Estados Unidos, estes Termos são um contrato entre você e o Pinterest, Inc., 651 Brannan Street, San Francisco, CA 94107. Se você reside fora dos Estados Unidos, estes Termos são um contrato entre você e o Pinterest Europe Ltd., uma empresa irlandesa com seu escritório registrado em Waterloo Exchange, 3rd Floor, Waterloo Road, Dublin 4, Irlanda. Como o Pinterest é um serviço mundial, você concorda que quaisquer direitos e licenças aqui concedidos beneficiam o Pinterest Inc. e todas as suas subsidiárias e afiliadas em todo o mundo.
 
 Simplificando
 
 Com quem você trata depende de onde você mora.
 
-Data de vigência fora do EEE, do Reino Unido e da Suíça: 13 de março de 2024
-
-Data de vigência no EEE, no Reino Unido e na Suíça: 30 de abril de 2024
+Data de vigência: 30 de abril de 2025
