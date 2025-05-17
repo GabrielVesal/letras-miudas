@@ -2,13 +2,11 @@
      Fonte: https://legal.rappi.com/brazil/termos-e-condicoes-de-uso-da-plataforma-rappi/
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-TERMOS E CONDIÇÕES DE USO DA PLATAFORMA “RAPPI”
-
 ***ASPECTOS GERAIS***
 
 **1.INFORMAÇÃO**
 
-RAPPI BRASIL INTERMEDIAÇÃO DE NEGÓCIOS LTDA. CNPJ: 26.900.161/0001-25, constituída na cidade de Osasco, para os efeitos destes termos será definida como A OPERADORA.
+RAPPI BRASIL INTERMEDIAÇÃO DE NEGÓCIOS LTDA. CNPJ: 26.900.161/0001-25, constituída na cidade de São Paulo, os efeitos destes termos será definida como A OPERADORA.
 
 **2.NATUREZA JURÍDICA**
 
@@ -116,11 +114,13 @@ Da mesma forma, o Usuário/Consumidor declara e reconhece que:
 2. É o titular de todos os cartões cadastrados na Plataforma como meio/forma de pagamento, declarando e reconhecendo que os cartões não pertencem a terceiros.
 3. Caso os cartões cadastrados, como meio/forma de pagamento forem pertencentes a terceiros, o Usuário/Consumidor tem a respectiva autorização do titular do meio de pagamento para utilizá-lo com a finalidade de utilizar como meio/forma de pagamento na Plataforma. Eximindo a Rappi de qualquer responsabilidade pela utilização não autorizada dos cartões como meio/forma de pagamento na Plataforma cuja titularidade seja de terceiros.
 4. O Usuário/Consumidor é responsável por garantir a veracidade e exatidão das informações prestadas ao cadastrar suas formas de pagamento dentro da Plataforma. Nesse sentido, o Usuário/Consumidor isenta o Rappi de qualquer responsabilidade por informações de pagamento incorretas ou desatualizadas fornecidas.
+5. Os produtos e/ou serviços adquiridos pelo Usuário/Consumidor por meio da Plataforma Rappi são faturados diretamente pelos Parceiros Comerciais, que atuam como fornecedores e/ou produtores dos mesmos. Nesse sentido, o Usuário/Consumidor reconhece que a Rappi não emite notas fiscais/faturas desses produtos e/ou serviços, uma vez que a Rappi não é fornecedora e/ou produtora deles.
+6. Caso o Usuário/Consumidor queira que os produtos e/ou serviços adquiridos através da Plataforma Rappi sejam cobrados em seu nome, poderá inserir seus dados pessoais na seção “Dados do Perfil” da Central de Ajuda Rappi, cabendo ao Parceiro Comercial realizar a emissão da fatura/nota fiscal
+7. A Rappi somente fatura ou emite nota fiscal dos valores correspondentes ao RappiPro, quando o Usuário/Consumidor adquire este serviço, e à Taxa de Serviço, nos casos em que tal cobrança for aplicada. Essas faturas/notas fiscais são enviadas periodicamente para o endereço de e-mail cadastrado na conta do Usuário/Consumidor na Plataforma Rappi.
 
 **13.DEVERES DA OPERADORA**
 
 Em razão destes termos, a Operadora obriga-se a: (1) fornecer informações certas, fidedignas, suficientes, claras e atualizadas com respeito aos produtos exibidos, podendo realizar a substituição deles no caso de falta; (2) indicar as características gerais do produto para que sirvam de referência aos Consumidores, para o efeito são marca e apresentação, conforme disponibilizadas pelo Parceiro Comercial, sendo total responsabilidade do Parceiro Comercial qualquer incorreção ou divergência de informação quando ao produto/serviço efetivamente adquirido pelo Consumidor; (3) informar suficientemente sobre os meios habilitados para que os Consumidores realizem o pagamento; (4) informar no momento indicado os dados dos Mandatários com os quais os Consumidores realizarão o contrato de mandato; (5) enviar ao correio eletrônico fornecido pelo Consumidor constância da transação; (6) colocar à disposição dos Consumidores os termos e condições de uso na Plataforma de forma atualizada; (7) utilizar as informações unicamente para os fins estabelecidos nestes termos; (8) utilizar mecanismos de informações e validação durante a transação como as janelas emergentes (Pop Ups) que permitam ao Consumidor aceitar ou não cada passo do processo de compra. (9) Proteger, por meio de armazenamento em servidores ou quaisquer outros meios magnéticos de alta segurança, a confidencialidade de todas as informações e cadastros relativos aos Consumidores, assim como valores atinentes às operações advindas da operacionalização dos serviços previstos no presente documento. Contudo, não responderá pela reparação de prejuízos que possam ser derivados de apreensão e cooptação de dados por parte de terceiros que, rompendo os sistemas de segurança, consigam acessar essas informações.
-O Usuário autoriza a Plataforma a realizar complementação dos itens faltantes em eventual Encargo realizado através da Plataforma mediante a criação de novo encargo em loja parceira para aquisição dos itens faltantes no Encargo originalmente solicitado pelo Usuário, o qual será regido de acordo com as regras próprias aplicáveis a esta funcionalidade (denominada “Complementação de Itens Faltantes através de Segundo Pedido”)
 
 **14.DESCRIÇÃO DOS PRODUTOS E INFORMAÇÕES SOBRE SERVIÇOS**
 
@@ -212,4 +212,4 @@ O Consumidor manifesta expressamente ter a capacidade legal para usar a Platafor
 
 Assim, manifesta ter fornecido informação real, veraz e fidedigna. Portanto, de **forma expressa e inequívoca** declara ter lido, que entende e que aceita a totalidade das situações reguladas nestes Termos e Condições de Uso da Plataforma, dando o seu CONSENTIMENTO, pelo que se compromete ao cumprimento total dos deveres, obrigações, ações e omissões aqui expressadas. Em caso de USUÁRIOS de outros países utilizarem a Plataforma, ficam completamente sujeitos ao disposto nestes termos. Declara ainda que teve a possibilidade de sanar quaisquer dúvidas em relação a este TERMOS E CONDIÇÕES pelo canal de Suporte ao Usuário. Com esta aceitação entende-se que na solicitação do cada encargo se encontra a assinatura do Consumidor para outorgar o poder ao Mandatário e desta maneira poder gerir dito encargo.
 
-Osasco/SP, Brasil
+São Paulo/SP, Brasil
