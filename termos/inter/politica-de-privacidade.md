@@ -3,8 +3,8 @@ empresa: "Inter"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://inter.co/politica-de-privacidade/"
-capturado_em: 2025-01-26
-wayback: "https://web.archive.org/web/20250126182455/https://inter.co/politica-de-privacidade/"
+capturado_em: 2025-05-23
+wayback: "https://web.archive.org/web/20250523103517/https://inter.co/politica-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/inter/politica-de-privacidade.md"
 ---
 
@@ -40,7 +40,7 @@ O Inter zela pela privacidade dos seus titulares de dados e, em conformidade com
 
 Para que você possa exercer seus direitos como titular de dados, bem como determinar suas preferências no tratamento e utilização pelo Inter de alguns de seus dados pessoais você pode usar os canais de atendimento oficiais disponíveis na página inicial do Inter.
 
-Quer saber mais? Consulte nossa Política de Privacidade completa acessando esse esse link. Ou entre em contato com privacidade@bancointer.com.br
+Quer saber mais? Consulte nossa Política de Privacidade completa acessando esse esse link. Ou entre em contato com privacidade@inter.co
 
 #### 7. Certificação em Privacidade
 
@@ -75,11 +75,10 @@ Nossos números
 - Ouvidoria0800 940 7772
 - Para recebimento de ofícios judiciais e administrativosoficios@bancointer.com.br
 - **Não ligamos para você por estes telefones.** Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
+
 - Atendimento em libras
 
 **Não ligamos para você por estes telefones.** Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
-
-Certificação de privacidade
 
 Escolha outro país ou região para ver o conteúdo específico da sua localização
 
@@ -89,28 +88,17 @@ Idioma da página
 
 Português
 
+Certificação de privacidade
+
 Baixe o App
 
-Siga o Inter
+- Atendimento em libras
+
+Já criou seu @ no Forum? A rede social da vida financeira inteligente.
 
 - Inter
 
- /
-- Instagram
-
- @bancointer
-- Linkedin
-
- /banco-inter
-- Facebook
-
- /bancointer
-- Twitter
-
- /bancointer
-- Youtube
-
- /bancointer
+ https://blog.inter.co/forum-o-que-e-e-como-funciona-a-rede-social-do-inter/
 
 - Confira Nossas Vagas
 - Cotação do Dólar
