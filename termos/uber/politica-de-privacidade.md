@@ -3,8 +3,8 @@ empresa: "Uber"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
-capturado_em: 2025-04-25
-wayback: "https://web.archive.org/web/20250425194018/https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
+capturado_em: 2025-06-25
+wayback: "https://web.archive.org/web/20250625140314/https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/uber/politica-de-privacidade.md"
 ---
 
@@ -97,6 +97,9 @@ Além disso, observe o seguinte se você usar o app da Uber em:
 - Suíça
 
  A Uber Switzerland GmbH (Dreikönigstrasse 31A, 8002 Zurique, Suíça) é a representante designada pela Uber para os fins da Lei Federal de Proteção de Dados (Federal Act on Data Protection) e pode ser contatada aqui ou pelo correio, conforme relacionado a esse ato.
+- Taiwan
+
+ Acesse aqui para obter informações sobre as medidas adotadas pela Uber ao realizar transferências internacionais de dados, de acordo com a Lei de Proteção de Dados Pessoais de Taiwan e seus respectivos regulamentos, bem como outras informações relacionadas.
 - Estados Unidos
 
  Acesse este link para saber mais sobre as práticas de privacidade da Uber relacionadas às leis de privacidade estaduais dos EUA, incluindo a Lei de Privacidade do Consumidor da Califórnia (California Consumer Privacy Act). Caso você use o app da Uber nos estados de Nevada ou Washington nos EUA, acesse este link para saber mais sobre as práticas da Uber relacionadas à coleta e ao uso de dados de saúde do usuário de acordo com as leis de privacidade desses estados.
@@ -124,7 +127,7 @@ A Uber coleta os seguintes dados:
 | Categoria dos dados | Tipos de dados |
 | --- | --- |
 | a. **Informações da conta.** Nós coletamos dados quando você cria ou atualiza sua conta da Uber. | - Endereço - E-mail - Nome e sobrenome - Nome de usuário e senha para login - Número de telefone - Forma de pagamento (incluindo informações de verificação de pagamento relacionadas) - Foto do perfil - Configurações (inclusive de acessibilidade) e preferências - Informações sobre o programa de fidelidade do Uber Partner |
-| b. **Dados demográficos.** Nós coletamos dados demográficos se isso for necessário para ativar determinados recursos. Por exemplo: - Nós coletamos sua data de nascimento e/ou idade para verificar sua elegibilidade para usar produtos ou serviços com restrição de idade, como Uber Teens, ou se você comprar produtos como bebidas alcoólicas, tabaco ou cannabis. - Nós coletamos ou deduzimos seu gênero para habilitar o Recurso U-Elas e para fins de marketing e publicidade. Nós também podemos coletar dados demográficos por meio de pesquisas com usuários. | - Idade ou data de nascimento - Gênero ou gênero inferido (com base no primeiro nome) |
+| b. **Dados demográficos.** Coletamos dados demográficos se necessário para ativar certos recursos. Por exemplo: - coletamos sua data de nascimento e/ou idade para verificar sua elegibilidade para usar produtos ou serviços com restrição de idade, como a Uber conta teens, ou se você comprar produtos com bebidas alcoólicas, tabaco ou canábis. - Coletamos ou deduzimos seu gênero para ativar o Recurso U-Elas, e para marketing e publicidade. Também podemos coletar dados demográficos por meio de pesquisas com usuários. | - Idade ou data de nascimento - Gênero ou gênero inferido (com base no primeiro nome) |
 | c. **Informações para a confirmação de identidade.** Referem-se aos dados que coletamos para confirmar sua conta ou identidade. | - Documentos de identificação emitidos pelo governo, como carteiras de habilitação ou passaportes (que podem conter fotos e números de identificação, data de validade, data de nascimento e gênero) - Selfies enviadas pelos usuários |
 | d. **Conteúdo do usuário.** Refere-se aos dados que coletamos quando você: - Entra em contato com a Uber para suporte ao usuário ou por outras dúvidas. - Usa recursos que permitem criar Listas ou avaliações de restaurantes ou estabelecimentos - Envia fotos e gravações (inclusive aquelas enviadas para fins de suporte ao usuário) - Avalia ou deixa comentários sobre motoristas e entregadores parceiros, restaurantes ou estabelecimentos; ou quando eles deixam comentários sobre você. Acesse este link para saber como as avaliações enviadas por outros usuários são determinadas e usadas. | - Registros de chat e gravações de chamadas - Avaliações ou comentários - Listas ou avaliações de restaurantes ou estabelecimentos criadas pelo usuário - Fotos e gravações carregadas, incluindo gravações de áudio no app |
 | e. **Informações da viagem.** Nós coletamos informações do itinerário de quando você reserva viagens de ônibus, trem ou avião pelos apps da Uber. | - Datas/horários da viagem |
@@ -304,7 +307,7 @@ Isso pode incluir o compartilhamento de dados com:
 | **Seu motorista parceiro** | - Conta - Nome - Avaliação - Locais de partida e/ou destino - Configurações e preferências |
 | **Outros usuários durante viagens compartilhadas** | - Conta - Nome |
 | **Restaurantes/estabelecimentos onde você faz o pedido e o entregador parceiro** | - Conta - Nome - Informações do pedido - Endereço de entrega (inclusive com restaurantes/estabelecimentos que fazem entregas com os próprios entregadores para atender ao seu pedido) - Itens solicitados (que podem incluir receita médicas) - Instruções especiais, alergias ou preferências alimentares - Conteúdo do usuário - Comentários - Avaliações |
-| **O titular de qualquer conta da Uber que você use.** Isso inclui se você usar uma conta vinculada a um Perfil Familiar ou se solicitar ou obtiver serviços de viagem ou entrega como Usuário convidado de uma conta de Usuário corporativo. Além disso, se você criar uma conta usando um endereço de e-mail afiliado a um titular de conta da Uber para Empresas (ou seja, seu empregador), nós podemos compartilhar os dados da sua conta (como nome e endereço de e-mail) com esse titular para ajudar você com as despesas de viagens ou pedidos dessa conta da Uber para Empresas.\* | - Conta - Informações da viagem/pedido |
+| **O titular de qualquer conta da Uber que você use.** Isso inclui se você usar uma conta vinculada a um Perfil Familiar ou se solicitar ou obtiver serviços de viagem ou entrega como Usuário convidado de uma conta de Usuário corporativo. Além disso, se você criar uma conta usando um endereço de e-mail afiliado a um titular de conta da Uber para Empresas (ou seja, seu empregador), nós podemos compartilhar os dados da sua conta (como nome e endereço de e-mail) com esse titular para ajudar você com as despesas de viagens ou pedidos dessa conta da Uber para Empresas.\* Também podemos compartilhar informações com o titular da conta sobre questões relacionadas à sua viagem, como incidentes de segurança ou reclamações. | - Conta - Informações da viagem/pedido |
 | **Outros destinatários no seu pedido em grupo** | - Conta - Nome - Informações do pedido - Instruções especiais ou informações sobre alergias - Itens pedidos |
 | **Pessoas que indicam você para a Uber.** Podemos compartilhar seus dados conforme necessário para determinar o valor promocional deles devido à indicação | - Informações de viagens/pedidos - Contagem de viagens |
 | **Outros usuários do Uber Eats.** Nós compartilharemos seus dados se você publicar uma avaliação sobre um restaurante ou criar uma Lista dos seus restaurantes favoritos no Uber Eats e definir o compartilhamento da lista como "Público". | - Conta - Nome - Conteúdo do usuário - Listas - Avaliações |
@@ -396,7 +399,7 @@ Você pode definir ou atualizar suas preferências relacionadas à coleta e ao c
 - Identidade de gênero
 
  Para atualizar suas informações de gênero, acesse a seção Conta > Configurações > Privacidade > Anúncios e dados > menu Identidade de gênero nos apps da Uber.
-- Compartilhamento de dados em casos de emerg�ência
+- Compartilhamento de dados em casos de emergência
 
  Você pode permitir que a Uber compartilhe seus dados com serviços de emergência, como polícia, corpo de bombeiros e serviços de ambulância durante uma viagem, se necessário. Se você fizer isso, nós compartilharemos dados como seu nome e número de telefone; localização aproximada no momento em que a chamada de emergência foi feita; marca, modelo, cor e placa do carro; locais de partida e chegada; e o nome do motorista parceiro.
 
@@ -456,7 +459,7 @@ A Uber oferece várias formas para você conhecer e controlar os seus dados e en
  Você pode solicitar a exclusão da sua conta por meio da Central de Privacidade da Uber.
 - Objeções, restrições e reclamações
 
- Você pode solicitar que paremos ou limitemos o uso de todos os seus dados ou de parte deles. Isso inclui contestar o uso que fazemos dos dados baseado em interesses legítimos da Uber. A Uber pode continuar fazendo o processamento de dados após tal objeção ou solicita�ção na medida necessária para prestar nossos serviços ou conforme exigido ou permitido por lei.
+ Você pode solicitar que paremos ou limitemos o uso de todos os seus dados ou de parte deles. Isso inclui contestar o uso que fazemos dos dados baseado em interesses legítimos da Uber. A Uber pode continuar fazendo o processamento de dados após tal objeção ou solicitação na medida necessária para prestar nossos serviços ou conforme exigido ou permitido por lei.
 
  Além disso, dependendo da sua localização, você pode ter o direito de registrar uma reclamação relacionada ao tratamento dos seus dados pela Uber junto à autoridade de proteção de dados do seu país.
 
@@ -604,13 +607,13 @@ PT-BR
 
 العربيةбългарски езикবাংলাČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)Español (España)Eesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
 
-## Faça login para fazer viagens e entregas
+## Viajar
 
-## Crie uma conta de usuário
+## Dirija e faça entregas
 
-## Peça uma entrega pelo Uber Eats
+## Uber Eats
 
-## Cadastre-se na Uber para Empresas
+## Empresa
 
 ## Faça login para fazer viagens e entregas
 
