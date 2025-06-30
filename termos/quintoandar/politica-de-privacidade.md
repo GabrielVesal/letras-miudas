@@ -3,8 +3,8 @@ empresa: "QuintoAndar"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://mkt.quintoandar.com.br/aviso-de-privacidade/"
-capturado_em: 2025-04-26
-wayback: "https://web.archive.org/web/20250426215927/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
+capturado_em: 2025-06-30
+wayback: "https://web.archive.org/web/20250630010311/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/quintoandar/politica-de-privacidade.md"
 ---
 
@@ -40,7 +40,9 @@ Somos o **Grupo QuintoAndar**, o ecossistema imobiliário líder na América Lat
 
 **GRPQA Ltda.** 16.788.643/0001-81 Rua Girassol, nº 555, Torre B, Vila Madalena, São Paulo/SP - CEP 05.433-001
 
-Pode ser que você esteja mais familiarizado com as nossas marcas. Por isso, esclarecemos que este Aviso de Privacidade é aplicável tanto para quem se relaciona com o **“QuintoAndar”**, quanto para com o **“QuintoCred”** **(antiga “Velo”)**, o **“Imovelweb”**, o **“WImoveis”**, o **“Sindiconet”**, a **“NokNox”** e a **“Casa Mineira”.**
+**GRPQA - For Sale** 16.788.643/0021-25 Av. Getúlio Vargas, n. 1245, Andares 3,4,5,6,7,9,10, Savassi, Belo Horizonte/MG - CEP 30.112-024
+
+Pode ser que você esteja mais familiarizado com as nossas marcas. Por isso, esclarecemos que este Aviso de Privacidade é aplicável tanto para quem se relaciona com o **“QuintoAndar”**, quanto para com o **“QuintoCred”** **(antiga “Velo”)**, o **“Imovelweb”**, o **“WImoveis”**e a **“Casa Mineira”.**
 
 Em complemento a este Aviso, você também deve consultar os Avisos de Privacidade específicos abaixo, para informações mais detalhadas e próprias dessas marcas, conforme sua atuação em nosso grupo econômico:
 
@@ -49,10 +51,6 @@ Aviso de Privacidade do QuintoCred
 Aviso de Privacidade da Imovelweb
 
 Aviso de Privacidade da WImoveis
-
-Aviso de Privacidade do Sindiconet
-
-Aviso de Privacidade do NokNox
 
 Aviso de Privacidade da Casa Mineira
 
@@ -244,7 +242,7 @@ Aproveite para ler também os Termos e Condições de Uso específicos das marca
 
 ## Nós somos controladores em relação aos seus dados pessoais, ressalvadas exceções contidas nos Avisos de Privacidade das marcas. Isso significa que tomamos decisões sobre quais e como tratamos os dados pessoais de cada usuário.
 
-## Em situações em que atuarmos como operadores de dados (por exemplo, **NokNox**), estaremos tratando dados pessoais em nome e de acordo com instruções expressas de outro agente de tratamento.
+## Em situações em que atuarmos como operadores de dados, estaremos tratando dados pessoais em nome e de acordo com instruções expressas de outro agente de tratamento.
 
 ## 11. Entre em contato conosco
 
@@ -260,7 +258,7 @@ Qualquer mudança em nossos produtos e serviços pode ser refletida nesta págin
 
 O presente Aviso de Privacidade será interpretado segundo a legislação brasileira, incluindo, mas não se limitando à Constituição Federal, à LGPD (Lei nº 13.709/2018), ao Marco Civil da Internet (Lei nº 12.965/2014), ao Código Civil (Lei nº 10.406/2002) e ao Código de Defesa do Consumidor (Lei nº 8.078/1990), no idioma português.
 
-**Data da última alteração:**20/01/2025
+**Data da última alteração:**02/05/2025
 
 ## Finalidades de Tratamento
 
