@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2024-09-20
-wayback: "https://web.archive.org/web/20240920013528/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2025-07-18
+wayback: "https://web.archive.org/web/20250718114859/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -20,7 +20,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 16 de setembro de 2024 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 1 de julho de 2025 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -58,7 +58,7 @@ Para ajudar a explicar as coisas da forma mais clara possível, adicionamos exem
 
 # Informações coletadas pelo Google
 
-Queremos que você entenda os tipos de informações que coletamos quando usa nossos serviços
+## Queremos que você entenda os tipos de informações que coletamos quando usa nossos serviços
 
 Coletamos informações para fornecer serviços melhores a todos os nossos usuários, o que inclui descobrir coisas básicas, como o idioma que você fala, até coisas mais complexas, como anúncios que você pode considerar mais úteis, as pessoas on-line que são mais importantes para você ou os vídeos do YouTube de que você poderá gostar. As informações coletadas pelo Google e como essas informações são usadas dependem de como você usa nossos serviços e de como gerencia os controles de privacidade.
 
@@ -112,7 +112,7 @@ Dependendo dos produtos que você usa e das configurações escolhidas, o Google
 - atividade nos Serviços do Google, como pesquisas ou lugares identificados como casa ou trabalho
 - informações de itens próximos do dispositivo, como pontos de acesso Wi-Fi, torres de celular e dispositivos com Bluetooth ativado
 
-Os tipos de dados de localização que coletamos e por quanto tempo os armazenamos dependem, em parte, do dispositivo e das configurações da conta. Por exemplo, é possível ativar ou desativar a localização do dispositivo Android usando o app de configurações do dispositivo. Também é possível ativar o Histórico de localização caso você queira criar um mapa particular dos lugares que visita com seus dispositivos conectados. E, se a configuração "Atividade na Web e de apps" estiver ativada, suas pesquisas e outras atividades dos Serviços do Google, que podem também incluir informações de localização, serão salvas na sua Conta do Google. Saiba mais sobre como usamos as informações de localização.
+Os tipos de dados de localização que coletamos e por quanto tempo os armazenamos dependem, em parte, do dispositivo e das configurações da conta. Por exemplo, é possível ativar ou desativar a localização do dispositivo Android usando o app de configurações do dispositivo. Também é possível ativar a Linha do tempo caso você queira criar um mapa particular dos lugares que visita com seus dispositivos conectados. E, se a configuração "Atividade na Web e de apps" estiver ativada, suas pesquisas e outras atividades dos Serviços do Google, que podem também incluir informações de localização, serão salvas na sua Conta do Google. Saiba mais sobre como usamos as informações de localização.
 
 ---
 
@@ -122,7 +122,7 @@ Usamos várias tecnologias para coletar e armazenar informações, incluindo coo
 
 # Por que o Google coleta dados
 
-Usamos os dados para criar serviços melhores
+## Usamos os dados para criar serviços melhores
 
 Usamos as informações que coletamos em todos nossos serviços para os fins descritos abaixo.
 
@@ -174,7 +174,7 @@ Solicitaremos sua autorização antes de usar informações para fins que não e
 
 # Seus controles de privacidade
 
-Você tem escolhas em relação às informações que coletamos e como elas são usadas
+## Você tem escolhas em relação às informações que coletamos e como elas são usadas
 
 Esta seção descreve os principais controles para gerenciar sua privacidade em nossos serviços. Você também pode visitar a Verificação de privacidade para revisar e ajustar configurações de privacidade importantes. Além dessas ferramentas, também oferecemos configurações de privacidade específicas em nossos produtos. Saiba mais em nosso Guia de Privacidade do Produto.
 
@@ -316,7 +316,7 @@ Se o Google for envolvido em uma fusão, aquisição ou venda de ativos, continu
 
 # Manter suas informações seguras
 
-Incorporamos segurança nos nossos serviços para proteger suas informações
+## Incorporamos segurança nos nossos serviços para proteger suas informações
 
 Todos os produtos do Google são desenvolvidos com recursos de segurança sólidos que protegem continuamente suas informações. Os insights que recebemos na manutenção dos nossos serviços nos ajudam a detectar e bloquear automaticamente ameaças de segurança que chegam até você. E se detectarmos algo perigoso e digno de notificação, notificaremos e orientaremos você sobre as etapas necessárias para se manter em segurança.
 
@@ -612,7 +612,7 @@ Se você usa os serviços de localização do Google no Android, podemos melhora
 
 ### Lugares que você marcou como casa e trabalho
 
-Você pode salvar lugares importantes na sua Conta do Google, como sua casa ou seu trabalho. Com o endereço de casa ou do trabalho definidos, fica mais fácil fazer as coisas, por exemplo, encontrar rotas ou resultados mais perto desses locais, além de receber anúncios mais úteis.
+Você pode salvar lugares importantes na sua Conta do Google, como sua casa ou seu trabalho. Com o endereço de casa ou do trabalho definidos, fica mais fácil fazer as coisas, por exemplo, encontrar rotas ou resultados mais perto desses locais, além de receber anúncios.
 
 Você pode editar ou excluir seus endereços de casa e do trabalho a qualquer momento na sua Conta do Google.
 
@@ -639,6 +639,10 @@ Como outras empresas de tecnologia e comunicação, o Google recebe regularmente
 ### parceiros específicos
 
 Por exemplo, permitimos que criadores de conteúdo e anunciantes do YouTube trabalhem com empresas de medição para conhecer o público dos vídeos ou anúncios do YouTube, usando cookies ou tecnologias semelhantes. Outro exemplo são os comerciantes das nossas páginas de compras que usam cookies para saber quantas pessoas veem as listagens de produtos deles. Saiba mais sobre esses parceiros e como eles usam suas informações.
+
+### Performance das campanhas publicitárias
+
+Saiba mais sobre as tecnologias usadas na publicidade.
 
 ### podem vincular informações
 
