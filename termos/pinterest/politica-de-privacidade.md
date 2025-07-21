@@ -3,8 +3,8 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2025-05-29
-wayback: "https://web.archive.org/web/20250529162709/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2025-07-21
+wayback: "https://web.archive.org/web/20250721180737/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
 
@@ -427,8 +427,6 @@ A Pinterest, Inc. permanecerá responsável se o seu agente, ao agir em seu nome
 # Por quanto tempo mantemos suas informações
 
 Nós mantemos suas informações apenas enquanto precisamos para fornecer o Pinterest para você e cumprir os fins descritos nesta política. Quando não precisarmos mais usar suas informações e não houver necessidade de as mantermos em conformidade com nossas obrigações legais ou regulatórias, removeremos as informações dos nossos sistemas ou as despersonalizaremos para que não possamos usá-las para identificar você.
-
-Se você reside no EEE, no Reino Unido ou na Suíça, veja aqui algumas informações adicionais sobre nossas práticas de retenção: nós mantemos suas informações apenas pelo tempo necessário para os fins identificados nesta Política de Privacidade, que incluem o fornecimento do nosso Serviço ou para outros fins legítimos, como cumprir obrigações legais, aplicar nossos Termos e evitar violações destes, combater spam, ou proteger ou defender nossos direitos, propriedade e usuários. Os períodos de armazenamento são determinados caso a caso. Nós manteremos as informações da conta, como seu nome, endereço de email e senha, enquanto sua conta existir, porque precisamos delas para operá-la.
 
 Informações adicionais se você é residente do EEE, da Suíça e do Reino Unido
 
