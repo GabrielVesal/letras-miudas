@@ -81,7 +81,8 @@ Usamos as informações sob nosso controle (de acordo com as decisões que você
 - **Proteção, segurança e integridade**. Proteção, segurança e integridade são essenciais para nossos Serviços. Usamos as informações que temos para verificar contas e atividades; combater condutas nocivas, proteger usuários de experiências ruins e mensagens indesejadas (spam); promover a proteção, a segurança e a integridade dentro e fora de nossos Serviços, investigando atividades suspeitas ou violações de nossos Termos e Políticas. Também usamos essas informações para garantir que nossos Serviços estão sendo utilizados de forma legal. Saiba mais na seção Lei, nossos direitos e proteção, localizada abaixo.
 - **Comunicações sobre nossos serviços e** **sobre as Empresas da Meta**. Usamos os dados que temos para entrar em contato com você sobre os nossos Serviços e informar dos nossos termos, políticas e outras atualizações importantes. Podemos enviar anúncios sobre os nossos Serviços e os das Empresas da Meta.
 
-- **Sem banner com anúncios de terceiros**. Seguimos não permitindo banners com anúncios de terceiros em nossos Serviços. Nós não temos a intenção de usar anúncios de terceiros, mas caso venhamos a usá-los, atualizaremos esta Política de Privacidade.
+- **Sem banner com anúncios de terceiros**. Seguimos não permitindo banners com anúncios de terceiros em nossos Serviços. Não temos intenção de introduzi-los, mas você pode ver outros tipos de anúncios na aba Atualizações, onde há recursos como os Canais e os Status.
+
 - **Interações comerciais**. Possibilitamos que você e empresas terceirizadas se comuniquem e interajam utilizando nossos serviços, como o Catálogo para empresas no WhatsApp, no qual é possível visualizar produtos e serviços, bem como realizar pedidos. As empresas podem enviar notificações de transação, consulta e envio, atualizações de serviços e produtos, e marketing. Por exemplo, você poderá receber uma mensagem sobre o status de um voo, um recibo de uma compra ou uma notificação quando uma entrega foi realizada. As mensagens de marketing que você venha a receber poderão conter ofertas de algo de seu interesse. Não queremos que você tenha uma experiência com mensagens indesejadas (spam); como em todas as suas mensagens, você poderá administrar esses tipos de comunicação, e respeitaremos sua escolha.
 
 ### Informações que você e nós compartilhamos
@@ -121,7 +122,7 @@ Se você também quiser gerenciar, alterar, limitar ou apagar suas informações
 
 - **Configurações dos Serviços**. Você pode alterar as configurações dos Serviços para gerenciar a disponibilidade de determinados dados para outros usuários. Também é possível gerenciar seus contatos, grupos e listas de transmissão ou usar nosso recurso “bloquear” para gerenciar os usuários com quem você se comunica.
 - **Alteração de número de celular, nome, foto de perfil e recado**. Se você mudar de número de celular, você precisará atualizá-lo usando o recurso de mudança de número no app e transferir sua conta para o novo número de celular. Também é possível alterar seu nome do perfil, foto de perfil e recado a qualquer momento.
-- **Apagar sua conta do WhatsApp**. É possível apagar sua conta do WhatsApp a qualquer momento (inclusive a revogação do consentimento de uso de seus dados por nós de acordo com as leis aplicáveis) com o recurso interno “Apagar minha conta”. Quando você apaga sua conta do WhatsApp, as mensagens que não foram entregues são apagadas de nossos servidores junto com outros dados que não precisamos para operar e executar nossos Serviços. Ao apagar sua conta, por exemplo, você apagará os dados da conta e sua foto de perfil, removerá a você mesmo de todos os grupos do WhatsApp e apagará seu histórico de mensagens do WhatsApp. Observe que se o WhatsApp for apagado apenas do seu dispositivo, sem o uso do recurso Apagar minha conta, seus dados ficarão armazenados conosco por mais tempo. Lembre-se de que apagar sua conta não afeta os dados relacionados aos grupos que você criou ou os dados relacionados a você e que estão em poder de outros usuários, como as cópias das mensagens que você enviou.
+- **Apagar sua conta do WhatsApp**. É possível apagar sua conta do WhatsApp a qualquer momento (inclusive a revogação do consentimento de uso de seus dados por nós de acordo com as leis aplicáveis) com o recurso interno “Apagar minha conta”. Quando você apaga sua conta do WhatsApp, as mensagens que não foram entregues são apagadas de nossos servidores junto com outros dados que não precisamos para operar e executar nossos Serviços. Ao apagar sua conta, por exemplo, você apagará os dados da conta e sua foto de perfil, removerá você de todos os grupos do WhatsApp e apagará seu histórico de mensagens do WhatsApp. Lembre-se de que apagar sua conta não afeta os dados relacionados aos grupos que você criou ou os dados relacionados a você e que estão em poder de outros usuários, como as cópias das mensagens que você enviou.
 
 Saiba mais sobre nossas práticas de exclusão e retenção de dados e sobre como apagar sua conta neste artigo.
 
@@ -136,6 +137,10 @@ O WhatsApp compartilha informações pelo mundo inteiro, tanto internamente, com
 ### Atualizações da nossa Política
 
 Podemos alterar ou atualizar nossa Política de Privacidade. Notificaremos você sobre alterações feitas nesta Política de Privacidade, conforme adequado, e atualizaremos a data de “Início da vigência” na parte superior desta Política de Privacidade. Consulte nossa Política de Privacidade periodicamente.
+
+### Direitos de Privacidade para Residentes nos Estados Unidos
+
+Para saber mais sobre os direitos de privacidade do consumidor que podem estar disponíveis para você, leia o Aviso de Privacidade Regional dos Estados Unidos aqui.
 
 
 Fale conosco
