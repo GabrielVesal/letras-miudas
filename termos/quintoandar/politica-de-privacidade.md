@@ -3,8 +3,8 @@ empresa: "QuintoAndar"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://mkt.quintoandar.com.br/aviso-de-privacidade/"
-capturado_em: 2025-06-30
-wayback: "https://web.archive.org/web/20250630010311/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
+capturado_em: 2025-07-26
+wayback: "https://web.archive.org/web/20250726235825/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/quintoandar/politica-de-privacidade.md"
 ---
 
@@ -139,9 +139,11 @@ Sempre que possível, os seus dados pessoais são tratados de forma anônima, im
 
 ## 8. Quando transferimos os seus dados pessoais para fora do Brasil
 
-Os seus dados pessoais podem vir a ser objeto de transferência internacional quando, por exemplo, compartilhados com as empresas do **Grupo QuintoAndar** em outros países ou armazenados em servidores de computação em nuvem localizados fora do Brasil.
+Os seus dados pessoais podem vir a ser objeto de transferência internacional quando, por exemplo, compartilhados com as empresas do Grupo QuintoAndar em outros países ou armazenados em servidores de computação em nuvem localizados fora do Brasil.
 
 Em todas as hipóteses, observamos as diretrizes estabelecidas pela legislação vigente e adotamos práticas de segurança e privacidade adequadas para garantir a integridade e confidencialidade dos seus dados pessoais.
+
+Para mais detalhes sobre a transferência internacional de dados pessoais no Grupo QuintoAndar, acesse **aqui**.
 
 ## 9. Decisões automatizadas
 
@@ -258,7 +260,7 @@ Qualquer mudança em nossos produtos e serviços pode ser refletida nesta págin
 
 O presente Aviso de Privacidade será interpretado segundo a legislação brasileira, incluindo, mas não se limitando à Constituição Federal, à LGPD (Lei nº 13.709/2018), ao Marco Civil da Internet (Lei nº 12.965/2014), ao Código Civil (Lei nº 10.406/2002) e ao Código de Defesa do Consumidor (Lei nº 8.078/1990), no idioma português.
 
-**Data da última alteração:**02/05/2025
+**Data da última alteração:**04/07/2025
 
 ## Finalidades de Tratamento
 
