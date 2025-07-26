@@ -32,7 +32,7 @@ Apenas os dados pessoais são amparados pela LGPD, ou seja, qualquer informaçã
 
 Os Correios possuem a preocupação e o compromisso com o cidadão de que toda e qualquer atividade de tratamento deve ser transparente, e os titulares precisam ser informados sobre quais dados estão sendo coletados, o período de retenção, e com quem esses dados serão compartilhados.
 
-Os titulares dos dados podem exercer seus direitos por meio do site dos Correios: Acesse Correios e clique no link "Minha Privacidade nos Correios" ou em contato pelo e-mail do Encarregado de Dados: contatodpo@correios.ccom.br.
+Os titulares dos dados podem exercer seus direitos por meio do site dos Correios: Acesse Correios e clique no link "Minha Privacidade nos Correios" ou em contato pelo e-mail do Encarregado de Dados: contatodpo@correios.com.br.
 
 A Política de Privacidade e Cookies dos Correios está disponível no site dos Correios, no link "Política de Privacidade e Cookies".
 
