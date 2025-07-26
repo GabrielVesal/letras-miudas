@@ -3,8 +3,8 @@ empresa: "Correios"
 documento: "Política de Privacidade"
 categoria: "Serviços"
 fonte: "https://www.correios.com.br/falecomoscorreios/minha-privacidade-nos-correios"
-capturado_em: 2025-05-25
-wayback: "https://web.archive.org/web/20250525030951/https://www.correios.com.br/falecomoscorreios/minha-privacidade-nos-correios"
+capturado_em: 2025-07-26
+wayback: "https://web.archive.org/web/20250726115057/https://www.correios.com.br/falecomoscorreios/minha-privacidade-nos-correios"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/correios/politica-de-privacidade.md"
 ---
 
@@ -38,7 +38,7 @@ Apenas os dados pessoais são amparados pela LGPD, ou seja, qualquer informaçã
 
 Os Correios possuem a preocupação e o compromisso com o cidadão de que toda e qualquer atividade de tratamento deve ser transparente, e os titulares precisam ser informados sobre quais dados estão sendo coletados, o período de retenção, e com quem esses dados serão compartilhados.
 
-Os titulares dos dados podem exercer seus direitos por meio do site dos Correios: Acesse Correios e clique no link "Minha Privacidade nos Correios" ou em contato pelo e-mail do Encarregado de Dados: contatodpo@correios.ccom.br.
+Os titulares dos dados podem exercer seus direitos por meio do site dos Correios: Acesse Correios e clique no link "Minha Privacidade nos Correios" ou em contato pelo e-mail do Encarregado de Dados: contatodpo@correios.com.br.
 
 A Política de Privacidade e Cookies dos Correios está disponível no site dos Correios, no link "Política de Privacidade e Cookies".
 
