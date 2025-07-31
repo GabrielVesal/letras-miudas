@@ -2,7 +2,7 @@
      Fonte: https://www.serasa.com.br/app/politica-de-privacidade/
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-Atualizado em 06 de fevereiro de 2025.
+Atualizado em 25 de julho de 2025.
 
 Na Serasa S.A. (“Serasa”), privacidade e proteção de dados é nossa prioridade. Temos orgulho em ter a ética no tratamento de dados como valor fundamental.
 
@@ -72,6 +72,8 @@ Serasa Limpa Nome: valor da dívida, prazo de vencimento, oferta de acordo, parc
 Serasa Crédito: CEP de residência, tipo de trabalho, profissão, renda, bens dados em garantia (veículos, imóveis, etc.), valor solicitado para empréstimo, valor efetivamente contratado, etc.
 
 Serasa Premium: endereço, informações sobre meio de pagamento escolhido, etc.
+
+Seguros e Assistências: informações solicitadas pelas seguradoras e pelos parceiros fornecedores de assistência para a análise e contratação do produto.
 
 Dados Pessoais e do seu Dispositivo captados pelo aplicativo ou Site da Serasa: dados do seu Dispositivo (tais como Advertising ID e informações técnicas, como sistema operacional, tamanho de tela), identificação do Dispositivo (Número IMEI), uso do Dispositivo e conexão (tais como data, hora, Endereço IP, IMEI e rede utilizada). A Serasa também poderá coletar, se Você autorizar por meio do aplicativo, sua geolocalização, e sua lista de contatos de Dispositivos móveis para a prestação de diferentes serviços, como recarga de celular em sua Carteira Digital.
 
