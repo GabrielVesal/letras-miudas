@@ -2,7 +2,7 @@
      Fonte: https://openai.com/pt-BR/policies/row-terms-of-use/
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-Select language
+Selecionar idioma
 
 Atualizado em: 11 de dezembro de 2024
 
@@ -62,7 +62,7 @@ A OpenAI é uma empresa de pesquisa e desenvolvimento de IA. A nossa missão é 
 
 **Nosso Uso do Conteúdo**. Podemos usar o seu Conteúdo para fornecer, manter, desenvolver e melhorar nossos Serviços, cumprir com a legislação aplicável, com os nossos termos e políticas e manter nossos Serviços seguros.
 
-**Optar por não participar**. Se você não deseja que usemos o seu Conteúdo para treinar nossos modelos, você pode optar por não participar seguindo as instruções neste artigo do Centro de Ajuda⁠(opens in a new window). Por favor note que em determinados casos isso pode limitar a capacidade dos nossos Serviços de responder da forma mais adequada às suas necessidades concretas.
+**Optar por não participar**. Se você não deseja que usemos o seu Conteúdo para treinar nossos modelos, você pode optar por não participar seguindo as instruções neste artigo do Centro de Ajuda⁠(abre em uma nova janela). Por favor note que em determinados casos isso pode limitar a capacidade dos nossos Serviços de responder da forma mais adequada às suas necessidades concretas.
 
 **Precisão**. A inteligência artificial e a aprendizagem de máquina (machine learning) são campos de estudo em rápida evolução. Trabalhamos constantemente para melhorar os nossos Serviços para torná-los mais precisos, confiáveis, seguros e benéficos. Dada a natureza probabilística da aprendizagem de máquina, o uso dos nossos Serviços pode, em determinadas situações, gerar Resultados que não refletem com precisão pessoas, locais ou fatos reais.
 
@@ -85,7 +85,7 @@ Nós e nossas afiliadas possuímos todos os direitos, titularidades e interesses
 
 **Créditos de Serviço**. Você pode pagar antecipadamente por alguns Serviços comprando créditos de serviço. Todos os créditos de serviço estão sujeitos aos nossos Termos de Crédito de Serviço⁠.
 
-**Cancelamento**. Você pode cancelar⁠(opens in a new window) sua assinatura paga a qualquer momento. Os pagamentos não são reembolsáveis, exceto quando exigido por lei. Estes Termos não substituem quaisquer leis locais obrigatórias em relação aos seus direitos de cancelamento.
+**Cancelamento**. Você pode cancelar⁠(abre em uma nova janela) sua assinatura paga a qualquer momento. Os pagamentos não são reembolsáveis, exceto quando exigido por lei. Estes Termos não substituem quaisquer leis locais obrigatórias em relação aos seus direitos de cancelamento.
 
 **Alterações**. Podemos alterar nossos preços de forma periódica. Se aumentarmos nossos preços de assinatura, iremos notificá-lo com pelo menos 30 dias de antecedência e qualquer aumento de preço entrará em vigor na próxima renovação, para que você possa cancelar se não concordar com o aumento de preço.
 
@@ -99,7 +99,7 @@ Nós e nossas afiliadas possuímos todos os direitos, titularidades e interesses
 
 Também podemos encerrar sua conta se ela estiver inativa por mais de um ano e você não tiver uma conta paga. Se fizermos isso, forneceremos um aviso prévio.
 
-**Recursos**. Se você considerar que suspendemos ou encerramos sua conta por engano, você pode apresentar um recurso, por meio do contato com a equipe de Suporte⁠(opens in a new window).
+**Recursos**. Se você considerar que suspendemos ou encerramos sua conta por engano, você pode apresentar um recurso, por meio do contato com a equipe de Suporte⁠(abre em uma nova janela).
 
 ## Descontinuação dos Serviços
 
@@ -127,11 +127,11 @@ Se você for uma empresa ou organização, na medida do que for permitido por le
 
 **VOCÊ E A OPENAI CONCORDAM COM AS SEGUINTES DISPOSIÇÕES OBRIGATÓRIAS DE ARBITRAGEM E RENÚNCIA DE AÇÃO COLETIVA**:
 
-**ARBITRAGEM OBRIGATÓRIA**. Você e a OpenAI concordam em resolver qualquer reclamação decorrente ou relacionada a estes Termos ou aos nossos Serviços, independentemente de quando a reclamação surgiu, mesmo que tenha sido antes da existência destes Termos (uma "Disputa"), por meio de arbitragem final e vinculativa. Você pode optar por não participar da arbitragem dentro de 30 dias após a criação da conta ou de qualquer atualização desses termos de arbitragem dentro de 30 dias após a entrada em vigor da atualização, preenchendo este formulário⁠(opens in a new window). Se você optar por não participar de uma atualização, os últimos termos de arbitragem acordados serão aplicados.
+**ARBITRAGEM OBRIGATÓRIA**. Você e a OpenAI concordam em resolver qualquer reclamação decorrente ou relacionada a estes Termos ou aos nossos Serviços, independentemente de quando a reclamação surgiu, mesmo que tenha sido antes da existência destes Termos (uma "Disputa"), por meio de arbitragem final e vinculativa. Você pode optar por não participar da arbitragem dentro de 30 dias após a criação da conta ou de qualquer atualização desses termos de arbitragem dentro de 30 dias após a entrada em vigor da atualização, preenchendo este formulário⁠(abre em uma nova janela). Se você optar por não participar de uma atualização, os últimos termos de arbitragem acordados serão aplicados.
 
-**Resolução Alternativa de Disputas**. Gostaríamos de entender e tentar resolver suas preocupações antes de tomar medidas legais formais. Antes que qualquer um de nós apresente uma reclamação contra o outro, concordamos em tentar resolver a Disputa de forma alternativa. Você concorda em fazer isso nos enviando um aviso por meio deste formulário⁠(opens in a new window). Faremos isso enviando um aviso para o endereço de e-mail associado à sua conta. Se não conseguirmos resolver uma Disputa dentro de 60 dias, qualquer um de nós tem o direito de iniciar a arbitragem. Também concordamos em participar de uma conferência de acordo individual se qualquer uma das partes solicitar durante esse período. Qualquer prazo de prescrição será suspenso durante esse processo de resolução informal.
+**Resolução Alternativa de Disputas**. Gostaríamos de entender e tentar resolver suas preocupações antes de tomar medidas legais formais. Antes que qualquer um de nós apresente uma reclamação contra o outro, concordamos em tentar resolver a Disputa de forma alternativa. Você concorda em fazer isso nos enviando um aviso por meio deste formulário⁠(abre em uma nova janela). Faremos isso enviando um aviso para o endereço de e-mail associado à sua conta. Se não conseguirmos resolver uma Disputa dentro de 60 dias, qualquer um de nós tem o direito de iniciar a arbitragem. Também concordamos em participar de uma conferência de acordo individual se qualquer uma das partes solicitar durante esse período. Qualquer prazo de prescrição será suspenso durante esse processo de resolução informal.
 
-**Foro de Arbitragem**. Se não conseguirmos resolver a Disputa, qualquer um de nós pode iniciar a arbitragem com a National Arbitration and Mediation ("NAM") de acordo com suas Regras e Procedimentos Abrangentes de Resolução de Disputas e/ou Regras Suplementares para Arquivamentos de Arbitragem em Massa, conforme aplicável (disponíveis aqui⁠(opens in a new window)). A OpenAI não buscará honorários advocatícios e custos na arbitragem, a menos que o árbitro determine que sua reclamação não é essencial. As atividades descritas nestes Termos envolvem comércio interestadual e a Lei de Arbitragem Federal regerá a interpretação e aplicação desses termos de arbitragem e qualquer arbitragem.
+**Foro de Arbitragem**. Se não conseguirmos resolver a Disputa, qualquer um de nós pode iniciar a arbitragem com a National Arbitration and Mediation ("NAM") de acordo com suas Regras e Procedimentos Abrangentes de Resolução de Disputas e/ou Regras Suplementares para Arquivamentos de Arbitragem em Massa, conforme aplicável (disponíveis aqui⁠(abre em uma nova janela)). A OpenAI não buscará honorários advocatícios e custos na arbitragem, a menos que o árbitro determine que sua reclamação não é essencial. As atividades descritas nestes Termos envolvem comércio interestadual e a Lei de Arbitragem Federal regerá a interpretação e aplicação desses termos de arbitragem e qualquer arbitragem.
 
 **Procedimentos de Arbitragem**. A arbitragem será conduzida por videoconferência, se possível, mas se o árbitro determinar que uma audiência deve ser realizada pessoalmente, o local será acordado mutuamente, no local onde você reside, ou conforme determinado pelo árbitro, a menos que o processo de arbitragem em lote se aplique. A arbitragem será conduzida por um único árbitro. O árbitro será um juiz aposentado ou um advogado licenciado para exercer a advocacia no estado da Califórnia. O árbitro terá autoridade exclusiva para resolver qualquer Disputa, exceto os tribunais estaduais ou federais de São Francisco, Califórnia, têm a autoridade para determinar qualquer disputa sobre a aplicabilidade, validade da renúncia à ação coletiva ou solicitações de medidas cautelares públicas, conforme estabelecido abaixo. Quaisquer valores de oferta de acordo não serão divulgados ao árbitro por nenhuma das partes até que o árbitro determine a decisão final, se houver. O árbitro tem a autoridade para conceder pedidos que resolvam total ou parcialmente qualquer disputa.
 
