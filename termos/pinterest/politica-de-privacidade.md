@@ -3,8 +3,8 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2025-07-21
-wayback: "https://web.archive.org/web/20250721180737/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2025-08-06
+wayback: "https://web.archive.org/web/20250806072816/https://policy.pinterest.com/pt-br/privacy-policy"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
 
@@ -455,5 +455,7 @@ Podemos alterar esta política de tempos em tempos e, se o fizermos, publicaremo
 A melhor maneira de você entrar em contato conosco ou exercer suas opções descritas acima é através da Central de Ajuda. Se você reside nos Estados Unidos, o Pinterest, Inc. é responsável pelas suas informações. Você pode entrar em contato com o Pinterest Inc., localizado em 651 Brannan Street, São Francisco, CA 94103.
 
 Você também pode entrar em contato com o nosso responsável pela proteção dos dados.
+
+Se você reside na República Federativa do Brasil, pode entrar em contato com a Encarregada de Proteção de Dados Ruth O'Toole por meio do e-mail dpo@pinterest.com.
 
 Data de vigência: 30 de abril de 2025
