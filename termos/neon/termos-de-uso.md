@@ -3,8 +3,8 @@ empresa: "Neon"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://site.neon.com.br/termos-de-uso-web-view"
-capturado_em: 2025-06-24
-wayback: "https://web.archive.org/web/20250624153015/https://site.neon.com.br/termos-de-uso-web-view"
+capturado_em: 2025-08-10
+wayback: "https://web.archive.org/web/20250810072538/https://site.neon.com.br/termos-de-uso-web-view"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/neon/termos-de-uso.md"
 ---
 
@@ -12,7 +12,7 @@ A Neon Pagamentos é uma Instituição de Pagamento autorizada pelo Banco Centra
 
 **Resumo**
 
-- Para o que precisar, fale com a gente pelo chat do app, redes sociais, pelo canal whatsapp no número (11) 4861-9331 e pela ouvidoria, quando sua solicitação não for resolvida por outros canais, (0800 882 0652 ou link), com o Portal da Privacidade, através do endereço site.neon.com.br/portal-privacidade, sobre dados pessoais!
+- Para o que precisar, fale com a gente pelo chat do app, redes sociais, pelo canal whatsapp no número (11) 4861-9354 e pela ouvidoria, quando sua solicitação não for resolvida por outros canais, (0800 882 0652 ou link), com o Portal da Privacidade, através do endereço site.neon.com.br/portal-privacidade, sobre dados pessoais!
 - Abrindo sua conta, você terá acesso à conta e um cartão de débito, Pix, outras formas de transferências e muito mais! Alguns produtos têm seus próprios termos, fique esperto.
 - Vamos proteger suas informações, mas se proteja! Não compartilhe senhas, app, cartão, nos avise se houver qualquer problema imediatamente e faça BO na polícia. Mantenha seus dados e documentos atualizados com a gente e aproveite muito!
 - Podemos encerrar nosso relacionamento com você, assim como você pode encerrar com a gente! Podemos, também, bloquear sua conta caso a gente veja qualquer tipo de irregularidade ou atividade suspeita, como descrito aqui nos Termos.
