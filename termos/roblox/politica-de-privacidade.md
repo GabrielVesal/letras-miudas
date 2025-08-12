@@ -3,8 +3,8 @@ empresa: "Roblox"
 documento: "Política de Privacidade"
 categoria: "Jogos"
 fonte: "https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
-capturado_em: 2025-07-23
-wayback: "https://web.archive.org/web/20250723205441/https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
+capturado_em: 2025-08-12
+wayback: "https://web.archive.org/web/20250812084031/https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/politica-de-privacidade.md"
 ---
 
@@ -492,7 +492,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
 
  Se você mora nos Estados Unidos
 
- Se você mora nos Estados Unidos, consulte mais informações no Adendo das Leis de Política de Privacidade Estaduais dos Estados Unidos.
+ Se você mora nos Estados Unidos, acesse o Adendo da Política da Privacidade de um Estado dos EUA para obter mais informações.
 
  Se você mora na República da Coreia
 
