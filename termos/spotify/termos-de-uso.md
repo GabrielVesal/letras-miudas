@@ -113,7 +113,7 @@ Se você tiver adquirido uma Assinatura paga usando um Código, sua assinatura s
 
 Se você se inscrever para um Teste, concorda que o direito de retirada da Assinatura paga para a qual você está recebendo um Teste termina 14 (quatorze) dias após o início do Teste. Se você não cancelar a Assinatura paga antes do final do período de Teste, perderá seu direito de cancelamento e autorizará o Spotify a cobrar automaticamente o preço acordado todos os meses até que você cancele a Assinatura paga. Para testes com menos de 14 (quatorze) dias, você concorda expressamente que podemos fornecer o serviço pago imediatamente após o final do Teste e que, a partir desse momento, você perde seu direito de retirada.
 
-Se você adquirir uma Assinatura paga sem Teste, concorda que tem 14 (quatorze) dias após a compra para se retirar por qualquer motivo e deve nos pagar pelos serviços fornecidos até o momento em que você nos informar que mudou de ideia. . Você consente expressamente que forneçamos o serviço a você imediatamente após a compra, que você perde seu direito de retirada e autoriza o Spotify a cobrar automaticamente a cada mês até que você cancele.
+Se você adquirir uma Assinatura paga sem Teste, concorda que tem 14 (quatorze) dias após a compra para se retirar por qualquer motivo e deve nos pagar pelos serviços fornecidos até o momento em que você nos informar que mudou de ideia. Você consente expressamente que forneçamos o serviço a você imediatamente após a compra, que você perde seu direito de retirada e autoriza o Spotify a cobrar automaticamente a cada mês até que você cancele.
 
 #### Diretrizes do usuário
 
