@@ -14,7 +14,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 16 de setembro de 2024 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 1 de julho de 2025 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -106,7 +106,7 @@ Dependendo dos produtos que você usa e das configurações escolhidas, o Google
 - atividade nos Serviços do Google, como pesquisas ou lugares identificados como casa ou trabalho
 - informações de itens próximos do dispositivo, como pontos de acesso Wi-Fi, torres de celular e dispositivos com Bluetooth ativado
 
-Os tipos de dados de localização que coletamos e por quanto tempo os armazenamos dependem, em parte, do dispositivo e das configurações da conta. Por exemplo, é possível ativar ou desativar a localização do dispositivo Android usando o app de configurações do dispositivo. Também é possível ativar o Histórico de localização caso você queira criar um mapa particular dos lugares que visita com seus dispositivos conectados. E, se a configuração "Atividade na Web e de apps" estiver ativada, suas pesquisas e outras atividades dos Serviços do Google, que podem também incluir informações de localização, serão salvas na sua Conta do Google. Saiba mais sobre como usamos as informações de localização.
+Os tipos de dados de localização que coletamos e por quanto tempo os armazenamos dependem, em parte, do dispositivo e das configurações da conta. Por exemplo, é possível ativar ou desativar a localização do dispositivo Android usando o app de configurações do dispositivo. Também é possível ativar a Linha do tempo caso você queira criar um mapa particular dos lugares que visita com seus dispositivos conectados. E, se a configuração "Atividade na Web e de apps" estiver ativada, suas pesquisas e outras atividades dos Serviços do Google, que podem também incluir informações de localização, serão salvas na sua Conta do Google. Saiba mais sobre como usamos as informações de localização.
 
 ---
 
@@ -686,10 +686,18 @@ Essas leis incluem:
 - Lei de Privacidade e Segurança de Dados do Texas (TDPSA)
 - Lei de Privacidade do Consumidor de Oregon (OCPA)
 - Lei de Privacidade de Dados do Consumidor de Montana (MTCDPA)
+- New Jersey Senate Bill 332
+- New Hampshire Senate Bill 255
+- Nebraska Data Privacy Act (NEDPA)
+- Iowa Consumer Data Protection Act (IACDPA)
+- Delaware Personal Data Privacy Act (DPDPA)
+- Tennessee Information Protection Act (TIPA)
+- Minnesota Consumer Data Privacy Act (MNCDPA)
+- Maryland Online Data Privacy Act of 2024 (MDODPA)
 
 ### Lugares que você marcou como casa e trabalho
 
-Você pode salvar lugares importantes na sua Conta do Google, como sua casa ou seu trabalho. Com o endereço de casa ou do trabalho definidos, fica mais fácil fazer as coisas, por exemplo, encontrar rotas ou resultados mais perto desses locais, além de receber anúncios mais úteis.
+Você pode salvar lugares importantes na sua Conta do Google, como sua casa ou seu trabalho. Com o endereço de casa ou do trabalho definidos, fica mais fácil fazer as coisas, por exemplo, encontrar rotas ou resultados mais perto desses locais, além de receber anúncios.
 
 Você pode editar ou excluir seus endereços de casa e do trabalho a qualquer momento na sua Conta do Google.
 
@@ -716,6 +724,10 @@ Como outras empresas de tecnologia e comunicação, o Google recebe regularmente
 ### parceiros específicos
 
 Por exemplo, permitimos que criadores de conteúdo e anunciantes do YouTube trabalhem com empresas de medição para conhecer o público dos vídeos ou anúncios do YouTube, usando cookies ou tecnologias semelhantes. Outro exemplo são os comerciantes das nossas páginas de compras que usam cookies para saber quantas pessoas veem as listagens de produtos deles. Saiba mais sobre esses parceiros e como eles usam suas informações.
+
+### Performance das campanhas publicitárias
+
+Saiba mais sobre as tecnologias usadas na publicidade.
 
 ### podem vincular informações
 
