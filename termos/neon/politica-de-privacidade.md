@@ -10,11 +10,13 @@ Politica de privacidade
 
 Meus direitos
 
-Nota de esclarecimento
+Transferência internacional
+
+Nota de escalericimento
 
 ## Na Neon tratamos seus dados com seriedade e transparência
 
-As informações disponíveis no Portal referem-se a todos os tratamentos de dados realizados pelas empresas que integram o Grupo Econômico Neon.
+As informações disponíveis no Portal referem-/se a todos os tratamentos de dados realizados pelas empresas que integram o Grupo Econômico Neon.
 
 Nós desenvolvemos nosso Portal visando simplificar sua comunicação conosco e aprimorar a transparência das nossas regras de privacidade. Isso é feito para que você saiba exatamente quais dados pessoais coletamos, quando e porque os usamos, e com quem podemos compartilhá-las.
 
@@ -47,6 +49,10 @@ A DPO da Neon é o **Geison Correa**.
 ### Como faço para contatar o DPO
 
 Para exercer seus direitos, clique em "Meus Direitos" no topo da página ou clique aqui e faça suas escolhas.
+
+### O que é transferência internacional de dados?
+
+A transferência internacional de dados ocorre sempre que dados pessoais coletados em território nacional são enviados para outro país. Para mais informações sobre transferência internacional, **clique aqui.**
 
 ## Meus direitos
 
@@ -98,6 +104,14 @@ Prazo para armazenamento
 
 #### Os dados fornecidos por você para que a Neon possa atender aos direitos que você solicitou serão armazenados pelo tempo exigido por lei.
 
+Transferência internacional de dados
+
+#### A sua segurança continua mesmo fora do Brasil. Para saber mais como a Neon realiza transferência internacional de dados, **clique aqui**.
+
 Politica de privacidade
 
 Meus direitos
+
+Transferência internacional
+
+Nota de esclarecimento
