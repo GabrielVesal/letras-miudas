@@ -3,8 +3,8 @@ empresa: "Apple"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://www.apple.com/br/legal/privacy/br/"
-capturado_em: 2025-02-17
-wayback: "https://web.archive.org/web/20250217121744/https://www.apple.com/br/legal/privacy/br/"
+capturado_em: 2025-09-08
+wayback: "https://web.archive.org/web/20250908203149/https://www.apple.com/br/legal/privacy/br/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/politica-de-privacidade.md"
 ---
 
@@ -128,10 +128,7 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/ap
 
  Os dados pessoais coletados pela Apple ou uma empresa afiliada à Apple em todo o mundo são geralmente armazenados pela Apple Inc. nos Estados Unidos. Independentemente de onde seus dados pessoais estejam armazenados, a Apple mantém o mesmo alto nível de preservação e medidas de proteção.
 
- As práticas de privacidade da Apple, conforme descritas nesta Política de Privacidade, estão em conformidade com o Sistema Global de Normas de Privacidade Internacionais (CBPRs) e o Sistema Global de Reconhecimento de Privacidade para Processadores (PRP). Para obter mais informações sobre os sistemas globais de CBPR e PRP, acesse o Fórum Global de CBPR. Para conferir nossas certificações, acesse o Diretório de Conformidade do Sistema de CBPR. Para obter mais informações sobre o escopo de nossa participação ou enviar uma solicitação de consulta relacionada à privacidade por meio dos Programas BBB Nacionais, nosso Agente de Responsabilidade, acesse:
-
- - Programa de Normas de Privacidade Internacionais
- - Programa de Reconhecimento de Privacidade para Processadores
+ As práticas de privacidade da Apple, conforme descritas nesta Política de Privacidade, estão em conformidade com o Global Cross-Border Privacy Rules (CBPR) System e o Global Privacy Recognition for Processors (PRP) System. Para obter mais informações sobre os Global CBPR e PRP Systems, acesse o Global CBPR Forum. Para conferir nossas certificações, acesse o Global CBPR System Directory. Para obter mais informações sobre o escopo de nossa participação ou enviar uma solicitação de consulta relacionada à privacidade por meio dos BBB National Programs, o nosso Agente de Responsabilidade, clique nos selos oficiais abaixo.
 
  Os dados pessoais relacionados a pessoas na República Popular da China podem ser processados pela Apple em países fora da República Popular da China, como a Apple Inc. nos Estados Unidos ou a Apple Distribution International Limited na República da Irlanda. Quando isso ocorre, o processamento é feito em conformidade com a legislação local, incluindo a Lei de Proteção às Informações Pessoais. Para os fins de processamento estabelecidos nesta Política de Privacidade, a Apple também pode transferir esses dados pessoais para provedores de serviços terceirizados, que podem, por sua vez, armazenar ou transferir os dados para fora da República Popular da China. Para obter mais informações, acesse Avisos de Privacidade da China Continental.
 - ## O Compromisso em Toda a Empresa com a Sua Privacidade
@@ -148,7 +145,3 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/ap
  A qualquer momento, inclusive se não estiver satisfeito com a resposta da Apple, você pode encaminhar sua reclamação ao regulador aplicável. Se você solicitar, nós nos esforçaremos para fornecer as informações sobre as opções de reclamação que podem ser aplicáveis a suas circunstâncias.
 
  Quando houver uma alteração importante nesta Política de Privacidade, publicaremos um aviso neste site pelo menos uma semana antes de fazer isso e entraremos em contato diretamente com você sobre a alteração se tivermos seus dados registrados.
-
-Confira nosso certificado CBPR
-
-Confira nosso certificado PRP
