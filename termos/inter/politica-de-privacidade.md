@@ -3,8 +3,8 @@ empresa: "Inter"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://inter.co/politica-de-privacidade/"
-capturado_em: 2025-05-23
-wayback: "https://web.archive.org/web/20250523103517/https://inter.co/politica-de-privacidade/"
+capturado_em: 2025-09-14
+wayback: "https://web.archive.org/web/20250914054006/https://inter.co/politica-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/inter/politica-de-privacidade.md"
 ---
 
@@ -99,6 +99,12 @@ Já criou seu @ no Forum? A rede social da vida financeira inteligente.
 - Inter
 
  https://blog.inter.co/forum-o-que-e-e-como-funciona-a-rede-social-do-inter/
+- Instagram
+
+ @interbr
+- X
+
+ /interbr
 
 - Confira Nossas Vagas
 - Cotação do Dólar
