@@ -94,6 +94,12 @@ Já criou seu @ no Forum? A rede social da vida financeira inteligente.
 - Inter
 
  https://blog.inter.co/forum-o-que-e-e-como-funciona-a-rede-social-do-inter/
+- Instagram
+
+ @interbr
+- X
+
+ /interbr
 
 - Confira Nossas Vagas
 - Cotação do Dólar
