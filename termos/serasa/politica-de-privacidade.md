@@ -2,7 +2,7 @@
      Fonte: https://www.serasa.com.br/app/politica-de-privacidade/
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-Atualizado em 25 de julho de 2025.
+Atualizado em 28 de agosto de 2025.
 
 Na Serasa S.A. (“Serasa”), privacidade e proteção de dados é nossa prioridade. Temos orgulho em ter a ética no tratamento de dados como valor fundamental.
 
@@ -161,8 +161,6 @@ Ainda, pode fornecer seus Dados Pessoais como número de telefone, CPF, e-mail e
 
 Os seus Dados Pessoais poderão ser armazenados em servidores localizados no exterior - tendo em vista os serviços de armazenamento em nuvem que a Serasa utiliza – e, neste caso, somente serão fornecidos a terceiros na forma da Lei e/ou mediante ordem judicial.
 
-Lembre-se! Ao aceitar a presente Política de Privacidade, o Titular expressamente concorda com essa transferência internacional de dados.
-
 Nessas hipóteses, a Serasa se compromete a respeitar a legislação aplicável para assegurar a proteção dos seus Dados Pessoais, incluindo, quando necessário, a celebração de acordos contratuais específicos sobre o tema.
 
 **8. Relacionamento com terceiros**
@@ -229,7 +227,17 @@ Para deixar de receber as campanhas promocionais e solicitações para participa
 
 Você pode entrar em contato com a Serasa a qualquer momento se tiver dúvidas ou preocupações a respeito do tratamento de seus Dados Pessoais, por meio do item “Canais de Atendimento” abaixo.
 
-**11. Canais de Atendimento:**
+Petição: direito de o Titular peticionar em relação aos seus Dados Pessoais contra o controlador perante a autoridade nacional.
+
+**11. Transferência internacional de dados:**
+
+Os seus Dados Pessoais poderão ser armazenados em servidores localizados nos Estados Unidos e no Reino Unido, tendo em vista (i) os serviços de armazenamento em nuvem que a Serasa utiliza; (ii) a localização dos fornecedores que atuam no oferecimento das soluções da Serasa; e (iii) a localização dos clientes que contratam as soluções da Serasa – e, neste caso, somente serão fornecidos a terceiros na forma da Lei ou mediante ordem judicial.
+
+Nessas hipóteses, a Serasa se compromete a respeitar a legislação aplicável para assegurar a proteção dos seus Dados Pessoais, incluindo, quando necessário, a celebração de acordos contratuais específicos sobre o tema.
+
+Ao longo desta Política de Privacidade, a Serasa disponibiliza a Você informações sobre: a duração de suas atividades de tratamento; a identificação e os contatos do controlador; o uso compartilhado de dados pelo controlador; as responsabilidades dos agentes que realizarão o tratamento e as medidas de segurança adotadas; bem como os direitos do titular e os meios para o seu exercício. Essas informações são igualmente aplicáveis às atividades de transferência internacional de dados realizadas pela Serasa, motivo pelo qual é importante que Você leia o presente documento em sua totalidade.
+
+**12. Canais de Atendimento:**
 
 Você pode acessar canais de contato específicos relativos ao tratamento de seus Dados Pessoais, por meio link https://www.serasa.com.br/protecao-dados-pessoais/conheca-seus-direitos e por meio do e-mail dpo@br.experian.com.
 
@@ -239,7 +247,7 @@ Você também pode solicitar informações ou fazer reclamações via internet, 
 
 A Serasa disponibiliza canais de atendimento e de ouvidoria gratuitos e exclusivos para os assuntos relacionados ao Cadastro Positivo. Lá, Você pode obter informações, oferecer sugestões e reclamações. Você também pode entrar em contato gratuitamente por meio do telefone 0800-776-6606.
 
-**12. Alterações deste Documento**
+**13. Alterações deste Documento**
 
 Esta Política de Privacidade consiste na versão válida e eficaz das informações sobre o tratamento dos Dados Pessoais dos Titulares pela Serasa. Essa versão é responsável por governar todas as relações entre os Titulares e a Serasa, exceto quando forem utilizados serviços que possuem Políticas de Privacidade próprias, respeitados os direitos adquiridos, os atos jurídicos perfeitos e as coisas julgadas.
 
