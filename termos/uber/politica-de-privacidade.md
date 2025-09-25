@@ -46,18 +46,18 @@ Versão anterior do Aviso de Privacidade
 
 **Este aviso se aplica quando você usa os apps ou sites da Uber para solicitar ou obter produtos ou serviços, inclusive viagens e entregas.**
 
-Este aviso descreve como coletamos e usamos os seus dados se você solicitar ou obter produtos ou serviços por meio dos apps ou sites da Uber, exceto quando você usa Uber Freight, Careem ou Uber Taxi (Coreia do Sul).
+Este aviso descreve como coletamos e usamos seus dados quando você solicita ou recebe produtos ou serviços pelos apps ou sites da Uber, exceto quando você usa Uber Freight ou Careem.
 
 Este aviso se aplica especificamente se você:
 
-- Solicitar ou obter serviços de mobilidade, incluindo viagens e serviços de devolução e entrega de itens pelo Uber Flash, via nossa conta da Uber (um "Usuário").
-- Solicitar ou obter refeições ou outros produtos e serviços para entrega ou retirada, inclusive por meio de sua conta do Uber Eats ou Postmates ou por meio dos recursos de pagamento como convidado, que permitem acessar serviços de entrega ou retirada sem criar e/ou fazer login na sua conta (um "Destinatário do pedido").
-- Obter serviços pelos apps ou sites da Uber solicitados por outros titulares de conta (um "Usuário Convidado"), inclusive se você obter serviços de viagens ou entregas solicitados por usuários do Uber Health, Central, Uber Direct ou Uber para Empresas (coletivamente, "Usuários Corporativos"); ou por amigos, familiares ou outros titulares de conta individuais, incluindo via Uber Flash; ou obter um Gift Card.
-- Alugar um veículo por meio do Uber Car Rentals (um "Locatário").
+- Solicite ou receba serviços de mobilidade, incluindo viagens e entregas de itens e retorno de itens, pelo Uber Flash, por meio do seu plataforma da Uber (um “Usuário”).
+- Solicitar ou receber alimentos ou outros produtos e serviços de entrega ou retirada, inclusive pelo seu Uber Eats ou Postmates "A sua conta ou os recursos de pagamento como convidado que permitem que você acesse os serviços de entrega ou retirada sem criar e/ou fazer login na sua conta (um ""Destinatário de Pedidos"")."
+- Receber serviços pelos apps ou sites da Uber solicitados por outros proprietários de conta (um “Usuário Convidado”), inclusive se você receber serviços de viagem ou entrega solicitados por Uber Health, Central, Uber Direct ou Uber para Empresas clientes (coletivamente, “Clientes Corporativos”); ou por amigos, membros da família ou outros proprietários de conta individuais, inclusive por meio de Uber Flash; ou receba um Gift Card.
+- Alugue um veículo com Locação de veículos pela Uber (um “locatário”).
 
-Este aviso **não** descreve a coleta e o uso que a Uber faz dos seus dados se você usar os apps da Uber para fornecer (em vez de solicitar ou obter) serviços por meio dos apps ou sites da Uber, inclusive como motorista/entregador parceiro. O aviso da Uber que descreve nossa coleta e uso desses dados está disponível aqui. Aqueles que usam os apps da Uber para solicitar, obter ou fornecer serviços são chamados de "usuários" neste aviso.
+Este aviso não **não** descrever a coleta e o uso de seus dados pela Uber se você usar a Uber para prestar (em vez de solicitar ou receber) serviços pelo app ou pelos sites da Uber, inclusive como motorista ou entregador parceiro. O aviso da Uber que descreve a coleta e o uso desses dados está disponível aqui. Aqueles que usam a Uber para solicitar, receber ou prestar serviços são chamados de “usuários” neste aviso.
 
-Nossas práticas de privacidade estão sujeitas às leis aplicáveis dos locais em que atuamos. Os tipos de processamento de dados que essas leis exigem, permitem ou proíbem variam entre os locais. Portanto, se você viajar para diferentes países ou estados diferentes ou por outros tipos de fronteiras geográficas, as práticas de processamento de dados da Uber descritas neste aviso podem ser diferentes das do seu país ou território de origem.
+Nossas práticas de privacidade estão sujeitas às leis aplicáveis nos locais em que operamos. Os tipos de processamento de dados que essas leis exigem, permitem ou proíbem variam globalmente. Portanto, se você viajar por fronteiras geográficas nacionais, estaduais ou outras, as práticas de processamento de dados da Uber descritas neste aviso poderão ser diferentes das aplicadas no seu país ou território de origem.
 
 Além disso, observe o seguinte se você usar o app da Uber em:
 
@@ -88,9 +88,13 @@ Além disso, observe o seguinte se você usar o app da Uber em:
 - Quebec, Canadá
 
  Você pode entrar em contato com a Uber por aqui com dúvidas sobre como a plataforma usa seus dados para fins de tomada de decisões automatizadas, inclusive em relação aos fatores considerados relacionados a tal decisão, para solicitar correção de dados pessoais relacionados a essas decisões e para solicitar a revisão dessas decisões pelo pessoal da Uber.
+- Coreia do Sul
+
+ A Uber não realiza algumas das coletas de dados e usos descritos neste aviso na Coreia do Sul. Por favor, vá embora aqui para saber mais sobre as práticas de privacidade da Uber exigidas pela Lei de Proteção de Informações Pessoais da Coreia do Sul.
 - Suíça
 
- A Uber Switzerland GmbH (Dreikönigstrasse 31A, 8002 Zurique, Suíça) é a representante designada pela Uber para os fins da Lei Federal de Proteção de Dados (Federal Act on Data Protection) e pode ser contatada aqui ou pelo correio, conforme relacionado a esse ato.
+ A Uber Switzerland GmbH (Stockerstrasse 33
+ 8002 Zurique, Suíça) é a representante designada pela Uber para os fins da Lei Federal de Proteção de Dados (Federal Act on Data Protection) e pode ser contatada aqui ou pelo correio no que diz respeito à esta lei.
 - Taiwan
 
  Acesse aqui para obter informações sobre as medidas adotadas pela Uber ao realizar transferências internacionais de dados, de acordo com a Lei de Proteção de Dados Pessoais de Taiwan e seus respectivos regulamentos, bem como outras informações relacionadas.
@@ -548,7 +552,7 @@ Produtos
 - Viajar
 - Dirigir
 - Fazer entregas
-- Faça um pedido
+- Fazer um pedido
 - Uber para Empresas
 - Uber Freight
 - Gift cards
@@ -566,7 +570,7 @@ Viaje
 - Cidades
 
 - Português (Brasil)
-- Região da Baía de San Francisco
+- Wichita
 
 © 2025 Uber Technologies Inc.
 
@@ -576,7 +580,7 @@ Viaje
 
 ## Selecione o idioma de sua preferência
 
-العربيةбългарски езикবাংলাČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)Español (España)Eesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
+العربيةбългарски езикবাংলাCatalan (Spain)ČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)Español (España)Eesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
 
 - Viajar
 - Dirigir
@@ -599,7 +603,7 @@ PT-BR
 
 ## Selecione o idioma de sua preferência
 
-العربيةбългарски езикবাংলাČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)Español (España)Eesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
+العربيةбългарски езикবাংলাCatalan (Spain)ČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)Español (España)Eesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
 
 ## Viajar
 
