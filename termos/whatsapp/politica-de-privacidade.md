@@ -38,13 +38,14 @@ O respeito que temos por sua privacidade está em nosso DNA. Desde que fundamos 
 
 O WhatsApp precisa receber ou coletar algumas informações para operar, fornecer, melhorar, entender, personalizar e comercializar nossos Serviços e oferecer suporte para eles, incluindo quando você os instala, acessa ou usa.
 
-Os tipos de dados que recebemos e coletamos dependem de como você usa nossos Serviços. Para fornecermos nossos Serviços, solicitamos certas informações e, sem elas, não poderemos oferecer esses Serviços a você. Por exemplo, precisamos que você forneça seu número de telefone celular para criar uma conta e usar nossos Serviços.
+Os tipos de dados que recebemos e coletamos dependem de como você usa nossos Serviços. Para fornecermos nossos Serviços, solicitamos certas informações e, sem elas, não poderemos oferecer esses Serviços a você. Por exemplo, precisamos que você forneça seu número de celular para criar uma conta e usar nossos Serviços.
 
 Nossos Serviços têm recursos opcionais e precisamos coletar dados adicionais para fornecê-los a você. Conforme o caso, você receberá uma notificação sobre essa coleta. Caso você decida não fornecer os dados necessários à utilização de um recurso, não será possível usá-lo. Por exemplo, você não conseguirá compartilhar sua localização com seus contatos se não permitir a coleta dos seus dados de localização do seu dispositivo. As permissões podem ser gerenciadas pelo menu de Configurações/Ajustes em dispositivos Android e iOS.
 
 #### Dados fornecidos por você
 
-- **Dados de sua conta**. Você deve enviar seu número de telefone celular e seus dados básicos (como um nome de perfil escolhido por você) para criar uma conta do WhatsApp. Caso você não forneça esses dados, você não conseguirá criar uma conta para utilizar nossos Serviços. Outras informações podem ser adicionadas à sua conta, como uma foto de perfil e um recado.
+- **Dados de Sua Conta**. Você deve enviar seu número de celular e suas informações básicas (como um nome de perfil escolhido por você) para criar uma conta do WhatsApp. Caso você não forneça esses dados, não conseguirá criar uma conta para usar nossos Serviços. Outras informações podem ser adicionadas à sua conta, como uma foto de perfil e um recado.
+
 - **Suas mensagens**. Não guardamos suas mensagens durante a prestação dos Serviços. Em vez disso, suas mensagens são armazenadas no seu dispositivo e normalmente não ficam armazenadas nos nossos servidores. Ao entregarmos suas mensagens, elas são apagadas dos nossos servidores. Os cenários a seguir descrevem os casos em que podemos armazenar suas mensagens durante o processo de entrega:
  - **Mensagens não entregues**. Se uma mensagem não puder ser entregue imediatamente (por exemplo, se o destinatário estiver offline), mantemos a mensagem criptografada em nossos servidores por até 30 (trinta) dias enquanto tentamos entregá-la. Se a mensagem não puder ser entregue após 30 (trinta) dias, nós a apagaremos.
  - **Encaminhamento de mídia**. Quando um usuário encaminha uma mensagem com arquivos de mídia, nós os armazenamos temporariamente de modo criptografado nos nossos servidores para garantir uma entrega mais eficiente de outros encaminhamentos.
@@ -80,9 +81,7 @@ Usamos as informações sob nosso controle (de acordo com as decisões que você
 - **Nossos Serviços**. Usamos os dados que temos para operar e fornecer nossos Serviços, como para oferecer suporte, concluir compras ou transações, aprimorar, corrigir e personalizar nossos Serviços e conectá-los aos Produtos das Empresas da Meta que você pode usar. Também usamos as informações que temos para compreender como as pessoas usam nossos Serviços, avaliar e aprimorá-los, pesquisar, desenvolver e testar serviços e recursos novos e solucionar problemas. Também usamos seus dados para responder quando você entra em contato conosco.
 - **Proteção, segurança e integridade**. Proteção, segurança e integridade são essenciais para nossos Serviços. Usamos as informações que temos para verificar contas e atividades; combater condutas nocivas, proteger usuários de experiências ruins e mensagens indesejadas (spam); promover a proteção, a segurança e a integridade dentro e fora de nossos Serviços, investigando atividades suspeitas ou violações de nossos Termos e Políticas. Também usamos essas informações para garantir que nossos Serviços estão sendo utilizados de forma legal. Saiba mais na seção Lei, nossos direitos e proteção, localizada abaixo.
 - **Comunicações sobre nossos serviços e** **sobre as Empresas da Meta**. Usamos os dados que temos para entrar em contato com você sobre os nossos Serviços e informar dos nossos termos, políticas e outras atualizações importantes. Podemos enviar anúncios sobre os nossos Serviços e os das Empresas da Meta.
-
 - **Sem banner com anúncios de terceiros**. Seguimos não permitindo banners com anúncios de terceiros em nossos Serviços. Não temos intenção de introduzi-los, mas você pode ver outros tipos de anúncios na aba Atualizações, onde há recursos como os Canais e os Status.
-
 - **Interações comerciais**. Possibilitamos que você e empresas terceirizadas se comuniquem e interajam utilizando nossos serviços, como o Catálogo para empresas no WhatsApp, no qual é possível visualizar produtos e serviços, bem como realizar pedidos. As empresas podem enviar notificações de transação, consulta e envio, atualizações de serviços e produtos, e marketing. Por exemplo, você poderá receber uma mensagem sobre o status de um voo, um recibo de uma compra ou uma notificação quando uma entrega foi realizada. As mensagens de marketing que você venha a receber poderão conter ofertas de algo de seu interesse. Não queremos que você tenha uma experiência com mensagens indesejadas (spam); como em todas as suas mensagens, você poderá administrar esses tipos de comunicação, e respeitaremos sua escolha.
 
 ### Informações que você e nós compartilhamos
@@ -145,7 +144,7 @@ Para saber mais sobre os direitos de privacidade do consumidor que podem estar d
 
 Fale conosco
 
-Em caso de dúvidas ou preocupações sobre esta Política de Privacidade, entre em contato conosco.
+Em caso de dúvidas ou problemas sobre esta Política de Privacidade, entre em contato conosco.
 
 WhatsApp LLC
 
