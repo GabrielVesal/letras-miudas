@@ -3,8 +3,8 @@ empresa: "Rappi"
 documento: "Termos de Uso"
 categoria: "Apps"
 fonte: "https://legal.rappi.com/brazil/termos-e-condicoes-de-uso-da-plataforma-rappi/"
-capturado_em: 2025-05-17
-wayback: "https://web.archive.org/web/20250517112758/https://legal.rappi.com/brazil/termos-e-condicoes-de-uso-da-plataforma-rappi/"
+capturado_em: 2025-10-14
+wayback: "https://web.archive.org/web/20251014154405/https://legal.rappi.com/brazil/termos-e-condicoes-de-uso-da-plataforma-rappi/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/rappi/termos-de-uso.md"
 ---
 
@@ -12,7 +12,7 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/ra
 
 **1.INFORMAÇÃO**
 
-RAPPI BRASIL INTERMEDIAÇÃO DE NEGÓCIOS LTDA. CNPJ: 26.900.161/0001-25, constituída na cidade de São Paulo, os efeitos destes termos será definida como A OPERADORA.
+RAPPI BRASIL INTERMEDIAÇÃO DE NEGÓCIOS LTDA. CNPJ: 26.900.161/0001-25, constituída na cidade de São Paulo, para os efeitos destes termos será definida como A OPERADORA.
 
 **2.NATUREZA JURÍDICA**
 
@@ -26,11 +26,11 @@ Estes termos e condições de uso regulam a relação contratual, de caráter co
 
 **Consumidores (usuários):** são as pessoas físicas cadastradas na Plataforma de Internet denominada **RAPPI**que acessem a esta para solicitar um mandato remunerado, cujo encargo consiste na celebração de um contrato de compra ou qualquer outro tipo de contrato lícito, com o fim de adquirir bens ou serviços.
 
-**Contrato de mandato celebrado por meios eletrônicos:** É aquele acordo de vontades celebrado entre o Mandatário e os Consumidores, onde o Consumidor solicita, através da Plataforma, a gestão de um encargo ao Mandatário, obrigando-se este último a cumprir com dito encargo por conta e risco do Consumidor, a mudança de receber uma remuneração como contraprestação.
+**Contrato de mandato celebrado por meios eletrônicos:** É aquele acordo de vontades celebrado entre o Mandatário e os Consumidores, onde o Consumidor solicita, através da Plataforma, a gestão de um encargo ao Mandatário, obrigando-se este último a cumprir com dito encargo por conta e risco do Consumidor, mediante recebimento de uma remuneração como contraprestação.
 
 **Dados pessoais:** É toda informação que permite identificar ou fazer identificável uma pessoa física.
 
-**Mandatário:**Pessoa física que aceita realizar a gestão do encargo solicitado pelo Consumidor através da Plataforma.
+**Mandatário:**Pessoa física que aceita realizar a gestão do encargo solicitado pelo Consumidor através da Plataforma de forma autônoma.
 
 **Interação na Plataforma:** Faculdade de acesso dos Consumidores para conhecer os produtos e serviços exibidos pelos parceiros da OPERADORA, a publicidade colocada à disposição na Plataforma e manifestar sua vontade de solicitar um encargo.
 
@@ -46,7 +46,7 @@ Estes termos e condições de uso regulam a relação contratual, de caráter co
 
 **Plataforma RAPPI:** aplicativo web e móvel administrado e com os direitos exclusivos de utilização no Brasil pela RAPPI, através do qual: i) são exibidos diferentes produtos de consumo de forma publicitária, ii) facilita a aproximação entre os Consumidores e os Mandatários, iii) serve como meio de envio de comunicações entre o Consumidor e a RAPPI e iv) pode receber os pagamentos das compras diretamente do consumidor (por conta e ordem de terceiros), com repasse do dinheiro ao Mandatário. A RAPPI não realiza a compra de produtos por conta própria, não armazena produtos e tampouco é vendedora de produtos, sendo uma plataforma de tecnologia somente para intermediação, que permite a interação entre Consumidores e Mandatários. Também denominada neste Instrumento como **“PLATAFORMA”,**podendo ser acessada por *computadores, notebooks***,***smartphones* ou *tablets.*
 
-**Publicidade:** É toda forma de comunicação realizada pela OPERADORA, com a finalidade de prestar informações sobre produtos, atividades comerciais e comunicar estratégias ou campanhas publicitárias ou de marketing, próprias ou de terceiros; realizada como mecanismo de referência e não como oferta pública.
+**Publicidade:** É toda forma de comunicação realizada no âmbito da PLATAFORMA, com a finalidade de prestar informações sobre produtos, atividades comerciais e comunicar estratégias ou campanhas publicitárias ou de marketing, próprias ou de terceiros; realizada como mecanismo de referência e não como oferta pública., a qual deverá observar estritamente estes Termos E Condições De Uso Da Plataforma RAPPI e as vedações impostas pela legislação em vigor. Toda Publicidade veiculada por meio da PLATAFORMA é de inteira responsabilidade do responsável pelo conteúdo.A OPERADORA não tolera e não apoia a veiculação de comunicações que atentem contra este Termos E Condições De Uso Da Plataforma RAPPI ou que violem a legislação em vigor.
 
 **Produto:** Bem de consumo exibido através da Plataforma.
 
@@ -58,13 +58,17 @@ Estes termos e condições de uso regulam a relação contratual, de caráter co
 
 Estes termos e condições regulam a autorização de uso que outorga a Operadora aos Consumidores, para que eles ingressem à plataforma virtual e se informem sobre os produtos de consumo e serviços exibidos, para que sejam utilizados como referência e possam solicitar a gestão de um encargo, por médio de um contrato de mandato com o Mandatário.
 
-A Operadora através da Plataforma realiza as seguintes ações: ***i)*** exibe diferentes produtos e serviços de consumo de forma publicitária para que possam servir de referência aos Consumidores, ***ii)*** facilita o encontro entre Consumidores e Mandatários para a realização do vínculo contratual, ***iii)*** permite o uso da plataforma de pagamentos, sem que este processo signifique algum vínculo com a Operadora, posto que, pela tecnologia implementada, o pagamento é realizado diretamente aos Mandatários ***iv)*** serve como meio de envio de comunicações entre os Consumidores e os Mandatários.
+A Operadora através da Plataforma realiza as seguintes ações: ***i)*** possibilita a exibição de diferentes produtos e serviços de consumo cadastrados por seus Parceiros Comerciais para que possam servir de referência aos Consumidores, ***ii)*** facilita o encontro entre Consumidores e Mandatários para a realização do vínculo contratual, ***iii)*** permite o uso da plataforma de pagamentos, sem que este processo signifique algum vínculo com a Operadora, posto que, pela tecnologia implementada, o pagamento é realizado diretamente aos Mandatários ***iv)*** serve como meio de envio de comunicações entre os Consumidores e os Mandatários.
 
 A realização da relação contratual entre Consumidores e Mandatários acontece com os Consumidores que se encontrarem no território nacional ou que estando no exterior solicitarem a gestão de um encargo, que deve ser realizado no Brasil, pagando uma contraprestação econômica mediante o sistema de pagamento eletrônico pela plataforma eletrônica ou em dinheiro no momento da recepção dos produtos escolhidos pelo Consumidor.
+
+A OPERADORA não possui relação societária, laboral ou de subordinação com os MANDATÁRIOS ou PARCEIROS COMERCIAIS, atuando exclusivamente como intermediadora da relação entre eles e os CONSUMIDORES.
 
 Através da Plataforma são exibidos produtos, cuja gestão de compra é encarregada pelos Consumidores aos Mandatários, sendo que os primeiros procuram satisfazer uma necessidade privada, pessoal ou familiar e em nenhum momento para sua comercialização, revenda ou qualquer outro tipo de transação comercial.
 
 O serviço consiste em aproximar os USUÁRIOS e os PARCEIROS COMERCIAIS cadastrados na plataforma, possibilitando a realização de pedidos de forma online via plataforma.
+
+Isto é: em intermediar, por meio da plataforma tecnológica, o contato entre consumidores e prestadores de serviços e/ou vendedores de produtos, sem envolvimento direto da Operadora na relação jurídica entre essas partes.
 
 **5.ALTERAÇÃO**
 
@@ -80,7 +84,7 @@ A Operadora poderá modificar autonomamente para adequações e inserções em q
 
 **7.MANDATÁRIOS**
 
-Pessoa física que aceita realizar a gestão do encargo solicitado pelo Consumidor através da Plataforma.
+Pessoa física que aceita realizar a gestão do encargo solicitado pelo Consumidor através da Plataforma de forma autônoma.
 
 **8.CONTA DE USUÁRIO**
 
@@ -98,9 +102,9 @@ Fica claro para o Consumidor que a relação contratual que pode chegar a ser ge
 
 **10.DESCRIÇÃO DO SERVIÇO**
 
-A Operadora exibe através da Plataforma os produtos e serviços que estão à disposição dos Consumidores para serem adquiridos, usando a Plataforma como meio para solicitar um mandato remunerado, cujo encargo consiste na celebração de um contrato de compra. Desde logo, fica esclarecido aos USUÁRIOS – o qual se declara ciente – que o serviço oferecido pela OPERADORA se relaciona apenas à intermediação através da plataforma tecnológica para comercialização de produtos e/ou serviços, não abarcando quando cabível, preparo, embalagem, disponibilização e entrega física dos produtos e/ou serviços, sendo esses itens de responsabilidade integral do Parceiro Comercial, a quem deverão ser direcionados quaisquer reclamos acerca de problemas decorrentes de vício, defeito ou inexecução da feitura, preparo/realização e entrega de produtos e/ou serviços.
+A Operadora possibilita a exibição, através da Plataforma, dos produtos e serviços que estão à disposição dos Consumidores para serem adquiridos, usando a Plataforma como meio para solicitar um mandato remunerado, cujo encargo consiste na celebração de um contrato de compra. Desde logo, fica esclarecido aos USUÁRIOS – o qual se declara ciente – que o serviço oferecido pela OPERADORA se relaciona apenas à intermediação através da plataforma tecnológica para comercialização de produtos e/ou serviços, não abarcando quando cabível, preparo, embalagem, disponibilização e entrega física dos produtos e/ou serviços, sendo esses itens de responsabilidade integral do Parceiro Comercial, a quem deverão ser direcionados quaisquer reclamos acerca de problemas decorrentes de vício, defeito ou inexecução da feitura, preparo/realização e entrega de produtos e/ou serviços.
 
-**Parágrafo primeiro.** A operadora pode cobrar do usuário uma taxa de serviço pelo uso de sua plataforma e continuar fornecendo um serviço de qualidade. Este valor só será cobrado caso o usuário aceite expressamente mediante seguimento/conclusão do pedido que contém tal taxa de serviço.
+**Parágrafo primeiro.** A Operadora pode cobrar do usuário uma taxa de serviço pela intermediação realizada na plataforma e continuar fornecendo um serviço de qualidade. Este valor só será cobrado caso o usuário aceite expressamente mediante seguimento/conclusão do pedido que contém tal taxa de serviço.
 
 **Parágrafo segundo.**O aperfeiçoamento do contrato de mandato realizado por meios eletrônicos acontece no momento em que o Mandatário aceitar realizar a gestão do encargo solicitado pelo Consumidor através da Plataforma; esta aceitação corresponde ao momento em que o Consumidor seleciona o meio de pagamento. Verificados os passos do processo de compra, o Mandatário, por meio da Operadora, pode aceitar total ou parcialmente o encargo solicitado pelo Consumidor, informando no resumo quais são os produtos incluídos no contrato.
 
@@ -122,17 +126,22 @@ Da mesma forma, o Usuário/Consumidor declara e reconhece que:
 4. O Usuário/Consumidor é responsável por garantir a veracidade e exatidão das informações prestadas ao cadastrar suas formas de pagamento dentro da Plataforma. Nesse sentido, o Usuário/Consumidor isenta o Rappi de qualquer responsabilidade por informações de pagamento incorretas ou desatualizadas fornecidas.
 5. Os produtos e/ou serviços adquiridos pelo Usuário/Consumidor por meio da Plataforma Rappi são faturados diretamente pelos Parceiros Comerciais, que atuam como fornecedores e/ou produtores dos mesmos. Nesse sentido, o Usuário/Consumidor reconhece que a Rappi não emite notas fiscais/faturas desses produtos e/ou serviços, uma vez que a Rappi não é fornecedora e/ou produtora deles.
 6. Caso o Usuário/Consumidor queira que os produtos e/ou serviços adquiridos através da Plataforma Rappi sejam cobrados em seu nome, poderá inserir seus dados pessoais na seção “Dados do Perfil” da Central de Ajuda Rappi, cabendo ao Parceiro Comercial realizar a emissão da fatura/nota fiscal
-7. A Rappi somente fatura ou emite nota fiscal dos valores correspondentes ao RappiPro, quando o Usuário/Consumidor adquire este serviço, e à Taxa de Serviço, nos casos em que tal cobrança for aplicada. Essas faturas/notas fiscais são enviadas periodicamente para o endereço de e-mail cadastrado na conta do Usuário/Consumidor na Plataforma Rappi.
+7. A Operadora apenas disponibiliza ferramentas tecnológicas para a facilitação de pagamentos, não sendo beneficiária direta das transações realizadas entre consumidores e parceiros comerciais e/ou mandatários.
+8. A Rappi somente fatura ou emite nota fiscal dos valores correspondentes à Taxa de Serviço – se aplicável – e às taxas eventualmente cobradas no âmbito do RappiPro, que, de fato, correspondam a uma prestação de serviço e não a uma antecipação do frete, conforme os Termos & Condições do RappiPro. Essas faturas/notas fiscais são enviadas periodicamente para o endereço de e-mail cadastrado na conta do Usuário/Consumidor na Plataforma Rappi.
 
 **13.DEVERES DA OPERADORA**
 
-Em razão destes termos, a Operadora obriga-se a: (1) fornecer informações certas, fidedignas, suficientes, claras e atualizadas com respeito aos produtos exibidos, podendo realizar a substituição deles no caso de falta; (2) indicar as características gerais do produto para que sirvam de referência aos Consumidores, para o efeito são marca e apresentação, conforme disponibilizadas pelo Parceiro Comercial, sendo total responsabilidade do Parceiro Comercial qualquer incorreção ou divergência de informação quando ao produto/serviço efetivamente adquirido pelo Consumidor; (3) informar suficientemente sobre os meios habilitados para que os Consumidores realizem o pagamento; (4) informar no momento indicado os dados dos Mandatários com os quais os Consumidores realizarão o contrato de mandato; (5) enviar ao correio eletrônico fornecido pelo Consumidor constância da transação; (6) colocar à disposição dos Consumidores os termos e condições de uso na Plataforma de forma atualizada; (7) utilizar as informações unicamente para os fins estabelecidos nestes termos; (8) utilizar mecanismos de informações e validação durante a transação como as janelas emergentes (Pop Ups) que permitam ao Consumidor aceitar ou não cada passo do processo de compra. (9) Proteger, por meio de armazenamento em servidores ou quaisquer outros meios magnéticos de alta segurança, a confidencialidade de todas as informações e cadastros relativos aos Consumidores, assim como valores atinentes às operações advindas da operacionalização dos serviços previstos no presente documento. Contudo, não responderá pela reparação de prejuízos que possam ser derivados de apreensão e cooptação de dados por parte de terceiros que, rompendo os sistemas de segurança, consigam acessar essas informações.
+Em razão destes termos, a Operadora obriga-se a: (1) fornecer informações certas, fidedignas, suficientes, claras e atualizadas com respeito aos produtos exibidos, podendo realizar a substituição deles no caso de falta; (2) indicar as características gerais do produto para que sirvam de referência aos Consumidores, para o efeito são marca e apresentação, conforme disponibilizadas pelo Parceiro Comercial, sendo total responsabilidade do Parceiro Comercial qualquer incorreção ou divergência de informação quando ao produto/serviço efetivamente adquirido pelo Consumidor; (3) informar suficientemente sobre os meios habilitados para que os Consumidores realizem o pagamento; (4) informar no momento indicado os dados dos Mandatários com os quais os Consumidores realizarão o contrato de mandato; (5) enviar ao correio eletrônico fornecido pelo Consumidor informações aerca da transação; (6) colocar à disposição dos Consumidores os termos e condições de uso na Plataforma de forma atualizada; (7) utilizar as informações unicamente para os fins estabelecidos nestes termos; (8) utilizar mecanismos de informações e validação durante a transação como as janelas emergentes (Pop Ups) que permitam ao Consumidor aceitar ou não cada passo do processo de compra. (9) Proteger, por meio de armazenamento em servidores ou quaisquer outros meios magnéticos de alta segurança, a confidencialidade de todas as informações e cadastros relativos aos Consumidores, assim como valores atinentes às operações advindas da operacionalização dos serviços previstos no presente documento. Contudo, não responderá pela reparação de prejuízos que possam ser derivados de apreensão e cooptação de dados por parte de terceiros que, rompendo os sistemas de segurança, consigam acessar essas informações.
 
 **14.DESCRIÇÃO DOS PRODUTOS E INFORMAÇÕES SOBRE SERVIÇOS**
 
 Fica claro para o Consumidor que a Operadora não é produtora, fornecedora, logística, responsável pela entrega, agente, distribuidora e, em geral, não realiza nenhum tipo de comercialização dos produtos exibidos, posto que opera somente como uma plataforma tecnológica que permite o encontro entre Consumidores e Fornecedores para a configuração de relações de consumo.
 
-Os produtos de uso restrito como tabaco, bebidas alcoólicas e medicamentos somente serão entregues pelo Mandatário aos Consumidores que forem maiores de idade, que manifestarem expressamente esta qualidade no momento de se registrarem ou no momento da seleção dos produtos. Portanto, é vedada a intermediação de produtos de tabaco, bebidas alcoólicas e medicamentos para menores de 18 anos, sendo certo que não se incentiva ou induz o consumo de tais substâncias uma vez que são danosas para a saúde. Não serão realizados mandatos de compra de tabaco, bebidas alcoólicas e medicamentos para menores de 18 (dezoito) anos, mesmo que o menor tenha tido autorização dos seus representantes legais para o uso da Plataforma, mesmo que com a aquisição de outros produtos autorizados.
+Os produtos de uso restrito como bebidas alcoólicas e medicamentos somente serão entregues pelo Mandatário aos Consumidores que forem maiores de idade, que manifestarem expressamente esta qualidade no momento de se registrarem ou no momento da seleção dos produtos. Portanto, é vedada a intermediação de produtos de bebidas alcoólicas e medicamentos para menores de 18 anos, sendo certo que não se incentiva ou induz o consumo de tais substâncias uma vez que são danosas para a saúde. Não serão realizados mandatos de compra de bebidas alcoólicas e medicamentos para menores de 18 (dezoito) anos, mesmo que o menor tenha tido autorização dos seus representantes legais para o uso da Plataforma, mesmo que com a aquisição de outros produtos autorizados.
+
+A oferta/anúncio/propagada/comercialização de produtos fumígenos, derivados ou não do tabaco, e
+
+terminantemente proibida, em qualquer hipótese.
 
 Quando por erros de ordem tecnológica os preços dos produtos exibidos na Plataforma resultam errôneos e evidentemente desproporcionais com o preço do produto no mercado, a Operadora poderá cancelar as ordens feitas de produtos com ditos preços, a sua livre discrição e com total autonomia.
 
@@ -140,7 +149,7 @@ A Operadora reserva o direito de atualizar, modificar e/ou descontinuar os produ
 
 **15.GARANTIA**
 
-O Consumidor entende e aceita que a relação de consumo é gerada diretamente com os Mandatários, por isto, as reclamações pela garantia devem ser realizadas diretamente aos Mandatários, que têm a obrigação de cumprir com as reclamações nos termos definidos aqui.
+O Consumidor entende e aceita que a relação de consumo é gerada diretamente com os Mandatários, por isto, as reclamações pela garantia devem ser realizadas diretamente aos Mandatários, que têm a obrigação de cumprir com as reclamações nos termos definidos aqui,ainda que a Rappi, eventualmente, possa intermediar a comunicação entre Consumidor e Mandatários.
 
 ***CONSIDERAÇÕES FINAIS***
 
@@ -166,19 +175,19 @@ A RAPPI poderá realizar campanhas promocionais que garantem ao Consumidores des
 
 Sobre essas campanhas, fica a critério do RAPPI definir, entre outras coisas: (1) Consumidores que estão elegíveis a participar, (2) ofertas que estão elegíveis a receber descontos adicionais, (3) regras específicas para ativação de descontos, como valor mínimo da compra e quantidade de cupons, (4) valor do desconto, (5) quantidade disponível de códigos promocionais.
 
-**20. CANCELAMENTOS E PENALIDADES**
+Sem prejuízo, é facultado à RAPPI disponibilizar, de forma discricionária e segundo sua conveniência, descontos por meio de códigos promocionais, vouchers, abatimentos, dentre outros meios, ainda que não atrelados a campanhas promocionais específicas.
 
-Uma vez emitido um Encargo ou pedido pelo Mandatário, este (também denominado Consumidor) poderá cancelá-lo (denominado “Cancelamento”) sem qualquer penalização financeira, desde que o referido Cancelamento seja efetuado através da Plataforma antes de a loja começar a preparar o pedido (Tempo de Preparo no caso de Restaurantes) ou antes que a loja aceite tal pedido (todas as demais seções da Plataformas), cujo status poderá ser visualizado diretamente pelo Consumidor na Plataforma durante a realização do encargo solicitado.
+**20. POLÍTICA DE CANCELAMENTO DE PEDIDOS**
 
-Caso o Cancelamento não seja efetuado no prazo estipulado no parágrafo anterior, o Consumidor será obrigado a pagar a totalidade (ou seja, 100%) do valor correspondente ao pagamento do pedido realizado, incluindo mas não se limitando ao preço dos Produtos adquiridos, taxa de entrega, taxa de serviço e outros exibidos quando da realização do pedido na Plataforma.
+A Política de Cancelamento de Pedidos pode ser acessada através do link: https://legal.rappi.com.co/brazil/politica-de-cancelamento-de-pedidos/.
 
-O montante efetivamente cobrado pelo Cancelamento do pedido será apresentado ao Consumidor previamente à conclusão do pedido de cancelamento realizado na Plataforma.
+A política é parte integrante destes Termos e Condições, ao realizar seu cadastro o **Usuário** declara, de forma expressa e inequívoca, ter lido, que entende e que aceita a totalidade das situações reguladas na Política.
 
-O Usuário reconhece que qualquer restituição de valores pode não ser imediata, dependendo do processo que as entidades financeiras envolvidas devem realizar para a devolução, o qual poderá levar alguns dias para que seja processada conforme regras da Bandeira do cartão utilizado ou forma de pagamento correspondente.
+**21. POLÍTICA DE COMPENSAÇÕES E REEMBOLSOS**
 
-O Usuário não poderá, em hipótese alguma, alegar desconhecimento das limitações, restrições e penalidades, uma vez que informado previamente à solicitação do Cancelamento por meio da Plataforma.
+A Política de Compensações e Reembolsos pode ser acessada em https://legal.rappi.com.co/brazil/politica-de-compensacoes-e-reembolsos/.
 
-Fica esclarecido que, quando cabível, a Rappi poderá realizar a devolução por meio de Créditos da Plataforma, que serão creditados diretamente na Conta do Usuário e poderão ser utilizados no prazo de validade do crédito, o qual é apresentado diretamente na Plataforma. Caso o Consumidor opte pela devolução no mesmo método de pagamento, poderá indicá-lo ao Suporte, caso em que os Créditos pagos a esse respeito serão cancelados, procedendo o cancelamento diretamente no método de pagamento do Usuário de acordo com as regras da Bandeira do cartão do Usuário, o qual estará sujeito ao tempo de processamento da Bandeira/ banco para refletir o reembolso efetuado no cartão do Usuário. Este prazo poderá ser de até 3 (três) faturas do cartão de crédito utilizado para pagamento.
+A política é parte integrante destes Termos e Condições, ao realizar seu cadastro o Usuário declara, de forma expressa e inequívoca, ter lido, que entende e que aceita a totalidade das situações reguladas na Política.
 
 **21. DO USO DAS INFORMAÇÕES**
 
