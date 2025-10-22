@@ -50,9 +50,9 @@ Este aviso descreve como coletamos e usamos seus dados quando você solicita ou 
 
 Este aviso se aplica especificamente se você:
 
-- Solicite ou receba serviços de mobilidade, incluindo viagens e entregas de itens e retorno de itens, pelo Uber Flash, por meio do seu plataforma da Uber (um “Usuário”).
+- Solicite ou receba serviços de mobilidade, incluindo viagens e entregas de itens e retorno de itens, pelo Uber Envios, por meio do seu plataforma da Uber (um “Usuário”).
 - Solicitar ou receber alimentos ou outros produtos e serviços de entrega ou retirada, inclusive pelo seu Uber Eats ou Postmates "A sua conta ou os recursos de pagamento como convidado que permitem que você acesse os serviços de entrega ou retirada sem criar e/ou fazer login na sua conta (um ""Destinatário de Pedidos"")."
-- Receber serviços pelos apps ou sites da Uber solicitados por outros proprietários de conta (um “Usuário Convidado”), inclusive se você receber serviços de viagem ou entrega solicitados por Uber Health, Central, Uber Direct ou Uber para Empresas clientes (coletivamente, “Clientes Corporativos”); ou por amigos, membros da família ou outros proprietários de conta individuais, inclusive por meio de Uber Flash; ou receba um Gift Card.
+- Receber serviços pelos apps ou sites da Uber solicitados por outros proprietários de conta (um “Usuário Convidado”), inclusive se você receber serviços de viagem ou entrega solicitados por Uber Health, Central, Uber Direct ou Uber para Empresas clientes (coletivamente, “Clientes Corporativos”); ou por amigos, membros da família ou outros proprietários de conta individuais, inclusive por meio de Uber Envios; ou receba um Gift Card.
 - Alugue um veículo com Locação de veículos pela Uber (um “locatário”).
 
 Este aviso não **não** descrever a coleta e o uso de seus dados pela Uber se você usar a Uber para prestar (em vez de solicitar ou receber) serviços pelo app ou pelos sites da Uber, inclusive como motorista ou entregador parceiro. O aviso da Uber que descreve a coleta e o uso desses dados está disponível aqui. Aqueles que usam a Uber para solicitar, receber ou prestar serviços são chamados de “usuários” neste aviso.
@@ -183,7 +183,7 @@ A Uber coleta os seguintes dados:
 
 | Usos de dados | Os dados usados incluem |
 | --- | --- |
-| a. **Confirmar sua conta, identidade ou conformidade com os requisitos de segurança.** Isso inclui: - Confirmar que você é quem diz ser comparando as informações que você forneceu ao cadastrar a conta (como nome, e-mail, número de telefone, data de nascimento ou informações de pagamento) com as de bancos de dados de terceiros\* - Confirmar que sua conta está sendo usada por você e não por outra pessoa ao: - Coletar o número e/ou uma foto do seu documento de identificação e realizar uma verificação para confirmar que o documento de identificação é válido, não foi adulterado e que nenhuma outra conta está associada a ele\* - Coletamos uma selfie em tempo real para comparar com a foto do seu documento de identificação para confirmar que se trata da mesma pessoa\* - Confirmar sua identidade e/ou idade coletando uma foto do seu documento de identidade ao obter a entrega de itens restritos por idade, como bebidas alcoólicas, tabaco ou cannabis, ou ao usar produtos como o Uber Rent e o Uber Flash - Confirmar, ao alugar uma bicicleta ou patinete pelos apps da Uber, que você está usando capacete ou outros equipamentos de segurança obrigatório, coletando uma selfie em tempo real e usando a tecnologia de confirmação de objetos - Confirmar sua qualificação para fazer a assinatura do Uber One para Estudantes | - Conta - Dados de outras fontes (bancos de dados de terceiros) - Informações de confirmação de identidade - Conteúdo do usuário |
+| a. **Confirmar sua conta, identidade ou conformidade com os requisitos de segurança.** Isso inclui: - Confirmar que você é quem diz ser comparando as informações que você forneceu ao cadastrar a conta (como nome, e-mail, número de telefone, data de nascimento ou informações de pagamento) com as de bancos de dados de terceiros\* - Confirmar que sua conta está sendo usada por você e não por outra pessoa ao: - Coletar o número e/ou uma foto do seu documento de identificação e realizar uma verificação para confirmar que o documento de identificação é válido, não foi adulterado e que nenhuma outra conta está associada a ele\* - Coletamos uma selfie em tempo real para comparar com a foto do seu documento de identificação para confirmar que se trata da mesma pessoa\* - Confirmar sua identidade e/ou idade coletando uma foto do seu documento de identidade ao obter a entrega de itens restritos por idade, como bebidas alcoólicas, tabaco ou cannabis, ou ao usar produtos como o Uber Rent e o Uber Envios - Confirmar, ao alugar uma bicicleta ou patinete pelos apps da Uber, que você está usando capacete ou outros equipamentos de segurança obrigatório, coletando uma selfie em tempo real e usando a tecnologia de confirmação de objetos - Confirmar sua qualificação para fazer a assinatura do Uber One para Estudantes | - Conta - Dados de outras fontes (bancos de dados de terceiros) - Informações de confirmação de identidade - Conteúdo do usuário |
 | b. **Evitar, detectar e combater fraudes, inclusive por usuários convidados.** | - Conta - Comunicações entre usuários - Dados de outras fontes (dados do motorista parceiro) - Dispositivo - Informações de confirmação de identidade - Local - Informações da viagem/pedido - Uso |
 | c. **Prever e ajudar a evitar pareamentos de usuários que possam resultar em um risco maior de conflito,**\* **ou em que um usuário tenha deixado uma avaliação baixa para o outro (por exemplo, uma estrela).** | - Conta - Informações sobre viagens/pedidos (inclusive taxas de cancelamento) - Uso - Conteúdo do usuário (avaliações e incidentes reportados) |
 | d. **Oferecer suporte em tempo real de especialistas em segurança durante viagens ou entregas.** | - Conta (telefone, nome do usuário, informações do veículo) - Local - Informações de viagem/pedido - Conteúdo do usuário |
@@ -580,10 +580,10 @@ Viaje
 
 ## Selecione o idioma de sua preferência
 
-العربيةбългарски езикবাংলাCatalan (Spain)ČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)Español (España)Eesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
+العربيةбългарски езикবাংলাČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)Español (España)Eesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెల��ుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
 
 - Viajar
-- Dirigir
+- Drive
 - Empresa
 - Uber Eats
 - ### Sobre
@@ -603,7 +603,7 @@ PT-BR
 
 ## Selecione o idioma de sua preferência
 
-العربيةбългарски езикবাংলাCatalan (Spain)ČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)Español (España)Eesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
+العربيةбългарски езикবাংলাČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)Español (España)Eesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
 
 ## Viajar
 
