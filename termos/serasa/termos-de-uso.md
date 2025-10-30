@@ -38,6 +38,8 @@ Caso Você não concorde com os Termos de Uso e/ou queira acessar exclusivamente
 
 **3.9 Gestor de Pagamentos**
 
+**3.10 Carteira de Dados - SerasaPass**
+
 **4. Cadastro Positivo**
 
 **5. Responsabilidade pelo usuário, senha, celular e e-mail fornecidos**
@@ -179,6 +181,12 @@ Qualquer falha ou atraso no pagamento decorrente da ausência, atraso ou incorre
 Caso o Gestor de Pagamentos não consiga concluir o pagamento perante o Credor, Você receberá de volta integralmente o valor pago. Neste caso, o Gestor de Pagamentos realizará a devolução ou transferência do valor, via Pix, para a chave Pix de sua titularidade utilizada no pagamento ou para conta indicada por Você que seja de sua própria titularidade.
 
 Lembramos que a Serasa e/ou o Gestor de Pagamentos não executam ações de cobrança, tampouco definem ou participam da definição das condições da oferta.
+
+**3.10** **Carteira de Dados - SerasaPass**
+
+É uma solução digital que oferece um identificador reutilizável. Com ele, Você pode preencher automaticamente seus dados em cadastros e compras online de empresas parceiras da Serasa, ativando suas credenciais digitais, para se identificar sem preencher formulários ou repetir etapas de validações.
+
+As credenciais que poderão ser compartilhadas, mediante autorização do usuário, incluem: a) Dados básicos: nome, CPF, data de nascimento; b) Contato: nome, e-mail e celular (até 5 opções de celular e 5 opções de email podem ser ativadas); c) Endereço: CEP, logradouro, número, complemento, ponto de referência, país, estado, cidade e bairro (até 5 endereços podem ser ativadas) e d) Cartão de crédito: dados necessários para viabilizar a utilização do cartão em transações com empresas parceiras, mediante inserção expressa do usuário.
 
 **4.** **Cadastro Positivo**
 
