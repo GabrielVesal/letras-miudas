@@ -3,8 +3,8 @@ empresa: "Oi"
 documento: "Política de Privacidade"
 categoria: "Telefonia"
 fonte: "https://www.oi.com.br/portal-de-privacidade/aviso-de-privacidade/"
-capturado_em: 2025-08-11
-wayback: "https://web.archive.org/web/20250811022354/https://www.oi.com.br/portal-de-privacidade/aviso-de-privacidade/"
+capturado_em: 2025-11-16
+wayback: "https://web.archive.org/web/20251116161315/https://www.oi.com.br/portal-de-privacidade/aviso-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/oi/politica-de-privacidade.md"
 ---
 
@@ -394,7 +394,7 @@ Minha Oi
 
 Para cobrança, produto não reconhecido, mudança de titularidade, resgate de número ou outros assuntos
 
-Ligue para 10631
+Ligue para 10331
 
 Para e-mails e comunicações em nome de outra pessoa selecione “Outros” e fale com um atendente
 
