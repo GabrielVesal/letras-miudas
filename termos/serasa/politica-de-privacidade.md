@@ -2,7 +2,7 @@
      Fonte: https://www.serasa.com.br/app/politica-de-privacidade/
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-Atualizado em 28 de agosto de 2025.
+Atualizado em 04 de novembro de 2025.
 
 Na Serasa S.A. (“Serasa”), privacidade e proteção de dados é nossa prioridade. Temos orgulho em ter a ética no tratamento de dados como valor fundamental.
 
@@ -105,7 +105,7 @@ Os Dados Pessoais coletados conforme o item 4 acima poderão ser tratados para a
 
 **Proteção do Crédito:**
 
-A Serasa apoia seus clientes na análise do risco, processo de concessão de crédito e gerenciamento de carteira de clientes, fornecendo insumos para que sejam disponibilizadas a Você as condições e ofertas mais adequadas.
+A Serasa apoia seus clientes na análise do risco, processo de concessão de crédito e gerenciamento de carteira de clientes, fornecendo insumos para que sejam disponibilizadas a Você as condições e ofertas mais adequadas, para isso a SERASA poderá compartilhar seus dados pessoais com instituições parceiras.
 
 A Serasa também compartilha dados de dívidas de negativação com o objetivo de prevenir o superendividamento, possibilitar condições mais adequadas para o ciclo de crédito e a saúde econômica do país.
 
