@@ -3,8 +3,8 @@ empresa: "Serasa"
 documento: "Termos de Uso"
 categoria: "Serviços"
 fonte: "https://www.serasa.com.br/app/termos-de-uso/"
-capturado_em: 2025-10-30
-wayback: "https://web.archive.org/web/20251030072703/https://www.serasa.com.br/app/termos-de-uso/"
+capturado_em: 2025-11-23
+wayback: "https://web.archive.org/web/20251123025949/https://www.serasa.com.br/app/termos-de-uso/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/termos-de-uso.md"
 ---
 
@@ -45,6 +45,8 @@ Caso Você não concorde com os Termos de Uso e/ou queira acessar exclusivamente
 **3.9 Gestor de Pagamentos**
 
 **3.10 Carteira de Dados - SerasaPass**
+
+**3.11 Minhas Contas**
 
 **4. Cadastro Positivo**
 
@@ -100,7 +102,7 @@ Você tem conhecimento de que as ofertas de negociação de dívidas são lança
 
 Você está ciente que o cadastro e o aceite aos Termos de Uso da plataforma Serasa são opcionais e que, uma vez cadastrado, você poderá receber ofertas de renegociação de dívidas. Caso não queira ter acesso às ofertas, você poderá solicitar o cancelamento do recebimento de tais ofertas na plataforma Serasa Limpa Nome a qualquer tempo.
 
-VOCÊ TEM CONHECIMENTO QUE OS PAGAMENTOS DOS ACORDOS REALIZADOS NA PLATAFORMA SERASA LIMPA NOME PODEM SER EXECUTADOS POR MEIO DA CONTA DE PAGAMENTO PRÉ-PAGA (“CONTA DIGITAL”) QUE VOCÊ E/OU O CREDOR SEJAM TITULARES, OU AINDA, POR MEIO DOS SERVIÇOS PRESTADOS PELO GESTOR DE PAGAMENTOS. O SERVIÇO DE GESTOR DE PAGAMENTO OU A CONTA DIGITAL E OS PAGAMENTOS NELA EFETUADOS, SÃO OFERECIDOS PELA **PAGUEVELOZ INSTITUIÇÃO DE PAGAMENTO LTDA.**, INSCRITA NO CNPJ SOB O Nº 03.816.413/0001-37 (“PAGUEVELOZ”), DEVIDAMENTE AUTORIZADA PELO BANCO CENTRAL DO BRASIL E PERTENCENTE AO GRUPO ECONÔMICO DA SERASA.
+VOCÊ TEM CONHECIMENTO QUE OS PAGAMENTOS DOS ACORDOS REALIZADOS NA PLATAFORMA SERASA LIMPA NOME PODEM SER EXECUTADOS POR MEIO DA CONTA DE PAGAMENTO PRÉ-PAGA (“CONTA DIGITAL”) QUE VOCÊ E/OU O CREDOR SEJAM TITULARES, OU AINDA, POR MEIO DOS SERVIÇOS PRESTADOS PELO GESTOR DE PAGAMENTOS. O SERVIÇO DE GESTOR DE PAGAMENTO OU A CONTA DIGITAL E OS PAGAMENTOS NELA EFETUADOS, SÃO OFERECIDOS PELA **PAGUEVELOZ INSTITUIÇÃO DE PAGAMENTO LTDA.**, INSCRITA NO CNPJ SOB O Nº 03.816.413/0001-37 (“PAGUEVELOZ”), DEVIDAMENTE AUTORIZADA PELO BANCO CENTRAL DO BRASIL E PERTENCENTE AO GRUPO ECONÔMICO DA SERASA. ALÉM DISSO, SEMPRE QUE ACORDADO COM O PARCEIRO CREDOR, VOCÊ TAMBÉM PODERÁ PAGAR OS ACORDOS COM CARTÃO DE CRÉDITO E DÉBITO UTILIZANDO OS SERVIÇOS DE CORRESPONDENTE NO PAÍS (“CORBAN”) OFERECIDOS PELA PAGUEVELOZ. A PAGUEVELOZ É UM CORBAN CONTRATADO PARA VIABILIZAR O RECEBIMENTO E PAGAMENTO DE QUALQUER NATUREZA, NOS TERMOS DA RESOLUÇÃO CMN Nº 4.935/2021.
 
 Quando se tratar de uma Dívida Negativada, você reconhece expressamente que a baixa da negativação da dívida devidamente quitada é solicitada diretamente pelo respectivo credor que originalmente incluiu a dívida no Cadastro de Inadimplentes. Não obstante, com o intuito de trazer uma melhor experiência a Você e como parte das atividades desempenhadas pela Serasa em seu benefício, Você reconhece que a Serasa terá acesso as informações de pagamento dos acordo(s) executado(s) no âmbito dos serviços ora contratados, para que a Serasa possa prestar os serviços relacionados ao Serasa Limpa Nome, inclusive, quando for o caso, informar os credores sobre a baixa de acordo(s) quitado(s) e, quando aplicável, executar a baixa da respectiva dívida no Cadastro de Inadimplentes.
 
@@ -194,9 +196,23 @@ Lembramos que a Serasa e/ou o Gestor de Pagamentos não executam ações de cobr
 
 As credenciais que poderão ser compartilhadas, mediante autorização do usuário, incluem: a) Dados básicos: nome, CPF, data de nascimento; b) Contato: nome, e-mail e celular (até 5 opções de celular e 5 opções de email podem ser ativadas); c) Endereço: CEP, logradouro, número, complemento, ponto de referência, país, estado, cidade e bairro (até 5 endereços podem ser ativadas) e d) Cartão de crédito: dados necessários para viabilizar a utilização do cartão em transações com empresas parceiras, mediante inserção expressa do usuário.
 
+**3.11** **Minhas Contas**
+
+Funcionalidade gratuita que reúne e disponibiliza boletos de pagamento em um só lugar, proporcionando maior controle financeiro e ajudando a manter a sua pontuação de Crédito saudável.
+
+Ao aderir ao Minhas Contas e aceitar o Termo de Adesão ao Débito Direto Autorizado, você visualizará todos os boletos registrados em seu CPF para facilitar o processo de identificação e processamento do pagamento.
+
+O Minhas Contas avisará quando um boleto for emitido e vinculado ao seu CPF, apresentará os seus boletos de forma eletrônica, sem a necessidade de tê-los empapel; e permitirá juntar dois ou mais boletos para agilizar o processo de pagamento.
+
+Conte com este assistente de pagamento para manter em dia as contas de condomínio, empréstimo, dívidas ou fatura de cartão e até mesmo realizar o pagamento de acordos celebrados por meio do Serasa Limpa Nome. O Minhas Contas também contará com a apresentação de boletos de contas de consumo, como água, luz e gás, de empresas parceiras.
+
+Além disso, Você também poderá realizar a consulta e o pagamento de débitos veiculares por meio do Minhas Contas. É simples, basta informar os dados da placa do seu veículo e Renavam e autorizar o compartilhamento desses dados com a empresa parceira da Serasa, responsável pela prestação deste serviço.
+
+Os dados informados para a consulta dos débitos veiculares também poderão ser utilizados para facilitar o preenchimento de informações cadastrais e simplificar sua experiência com nossos produtos. Você reconhece que esses dados serão aplicados em soluções internas para apoiar sua jornada, como por exemplo, em caso de pedido de empréstimo com garantia de veículo, seus dados serão automaticamente preenchidos caso Você já nos tenha informado.
+
 **4.** **Cadastro Positivo**
 
-O Cadastro Positivo é um banco de dados que contém o seu histórico de crédito, ou seja, o que Você se comprometeu a pagar a prazo e também o que Você já pagou, conforme previsto na Lei nº 12.414/11 e regulamentado pelo Decreto nº 7.829/12.
+O Cadastro Positivo é um banco de dados que contém o seu histórico de crédito, ou seja, o que Você se comprometeu a pagar a prazo e também o que Você já pagou, conforme previsto na Lei nº 12.414/11.
 
 **A realização de cadastro e criação de sua conta na Serasa não inclui o acesso ou a autorização para a consulta ao Cadastro Positivo.** Caso deseje mais informações sobre o Cadastro Positivo, acesse o Site **https://www.serasa.com.br/cadastro-positivo**.
 
