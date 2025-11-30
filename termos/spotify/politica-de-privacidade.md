@@ -3,12 +3,10 @@ empresa: "Spotify"
 documento: "Política de Privacidade"
 categoria: "Streaming"
 fonte: "https://www.spotify.com/br-pt/legal/privacy-policy/"
-capturado_em: 2025-09-12
-wayback: "https://web.archive.org/web/20250912065422/https://www.spotify.com/br-pt/legal/privacy-policy/"
+capturado_em: 2025-11-30
+wayback: "https://web.archive.org/web/20251130172107/https://www.spotify.com/br-pt/legal/privacy-policy/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/spotify/politica-de-privacidade.md"
 ---
-
-Sua privacidade é importante. Em 27 de agosto de 2025, atualizamos nossa Política de privacidade para incluir mais detalhes sobre nosso processamento de dados.
 
 # **Política de Privacidade do Spotify**
 
