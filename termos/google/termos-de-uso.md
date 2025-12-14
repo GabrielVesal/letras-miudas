@@ -423,3 +423,5 @@ Se você tem uma Conta do Google, ela é associada a um país (ou território) p
 - a versão dos termos que regem nossa relação.
 
 Quando a conta não está conectada, a versão específica é determinada pelo local em que você está usando os Serviços do Google. Se você tem uma conta, faça login e abra estes termos para ver o país associado a ela.
+
+*close*
