@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Termos de Uso"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/terms?hl=pt-BR&gl=BR"
-capturado_em: 2024-06-29
-wayback: "https://web.archive.org/web/20240629000948/https://policies.google.com/terms?hl=pt-BR&gl=BR"
+capturado_em: 2025-12-14
+wayback: "https://web.archive.org/web/20251214235750/https://policies.google.com/terms?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/termos-de-uso.md"
 ---
 
@@ -426,3 +426,5 @@ Se você tem uma Conta do Google, ela é associada a um país (ou território) p
 - a versão dos termos que regem nossa relação.
 
 Quando a conta não está conectada, a versão específica é determinada pelo local em que você está usando os Serviços do Google. Se você tem uma conta, faça login e abra estes termos para ver o país associado a ela.
+
+*close*
