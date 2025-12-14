@@ -3,8 +3,8 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2025-07-18
-wayback: "https://web.archive.org/web/20250718114859/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2025-12-14
+wayback: "https://web.archive.org/web/20251214205431/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -711,3 +711,5 @@ Dependendo das configurações disponíveis, alguns exemplos de como usamos as i
 ### visualizações e interações com conteúdo e anúncios
 
 Por exemplo, coletamos informações sobre visualizações e interações com anúncios para que possamos fornecer relatórios agregados aos anunciantes, como informar se veiculamos o anúncio deles em uma página e se o anúncio provavelmente foi visto por um espectador. Podemos também mensurar outras interações, como o modo que você move o mouse sobre um anúncio ou se você interage com a página em que o anúncio é exibido.
+
+*close*
