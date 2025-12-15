@@ -3,16 +3,10 @@ empresa: "Inter"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://inter.co/politica-de-privacidade/"
-capturado_em: 2025-09-14
-wayback: "https://web.archive.org/web/20250914054006/https://inter.co/politica-de-privacidade/"
+capturado_em: 2025-12-15
+wayback: "https://web.archive.org/web/20251215224620/https://inter.co/politica-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/inter/politica-de-privacidade.md"
 ---
-
-informações ▸ Central de privacidade
-
-# Política de privacidade
-
-No Grupo Inter (“Inter”), buscamos proporcionar a melhor experiência para garantir que você desfrute ao máximo dos nossos serviços. E, para isso, a sua privacidade e a segurança dos seus dados pessoais são e sempre serão muito importantes para nós.
 
 #### 1. Sobre as informações coletadas e tratadas pelo Inter
 
@@ -45,85 +39,3 @@ Quer saber mais? Consulte nossa Política de Privacidade completa acessando esse
 #### 7. Certificação em Privacidade
 
 Nosso InterShop possui certificação em Privacidade emitida pela Bureau Veritas, umas das maiores certificadoras globais, atuante em 140 países. Nossa certificação está de acordo com a Norma Técnica TS-BVCBr0001, baseada na Lei Geral de Proteção a Dados Pessoais no Brasil (LGPD) e na General Data Protection Regulation na União Europeia (GDPR), e em outros 18 normativos e guias de boas práticas.
-
-Sobre nós
-
-- O Inter
-- Portal RI
-- Ética e Compliance
-- Investimentos
-- Blog
-- Newsroom
-
-Precisa de ajuda?
-
-- Central de ajuda
-- Canais de atendimento
-- Ouvidoria
-
-- 2ª via do boleto
-- Saldo devedor
-- Negocie sua dívida
-- Leilões de crédito emergencial
-
-Nossos números
-
-- Capitais e regiões metropolitanas3003 4070
-- Demais localidades0800 940 0007
-- SAC0800 940 9999
-
-- Ouvidoria0800 940 7772
-- Para recebimento de ofícios judiciais e administrativosoficios@bancointer.com.br
-- **Não ligamos para você por estes telefones.** Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
-
-- Atendimento em libras
-
-**Não ligamos para você por estes telefones.** Também não solicitamos dados pessoais, senha da conta, código de transação por telefone. Estes números são apenas para você fazer ligações para o Inter.
-
-Escolha outro país ou região para ver o conteúdo específico da sua localização
-
-Brasil
-
-Idioma da página
-
-Português
-
-Certificação de privacidade
-
-Baixe o App
-
-- Atendimento em libras
-
-Já criou seu @ no Forum? A rede social da vida financeira inteligente.
-
-- Inter
-
- https://blog.inter.co/forum-o-que-e-e-como-funciona-a-rede-social-do-inter/
-- Instagram
-
- @interbr
-- X
-
- /interbr
-
-- Confira Nossas Vagas
-- Cotação do Dólar
-- Tarifas
-- Segurança
-- Privacidade de Dados
-- Política de Privacidade
-- Canal de Ética
-- Política de Segurança da Informação
-- Política de Segurança da Informação para Fornecedores
-
-© 2025 Banco Inter S.A. CNPJ: 00.416.968/0001-01
-
-Belo Horizonte | MG - Av. Barbacena, 1219 - Santo Agostinho. CEP: 30190-131
-
-São Paulo | SP - Avenida Presidente Juscelino Kubitschek, 1.400, 8º andar, CJ 81 - Vila Nova Conceição. CEP: 04543-000
-
-Inter&Co
-
-Baixe o Super App e simplifique sua vida.
-
-Baixar o App
