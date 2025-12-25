@@ -3,8 +3,8 @@ empresa: "Hotmart"
 documento: "Política de Privacidade"
 categoria: "Serviços"
 fonte: "https://hotmart.com/pt-br/legal/privacidade-de-dados"
-capturado_em: 2024-07-31
-wayback: "https://web.archive.org/web/20240731071108/https://hotmart.com/pt-br/legal/privacidade-de-dados"
+capturado_em: 2025-12-25
+wayback: "https://web.archive.org/web/20251225102756/https://hotmart.com/pt-br/legal/privacidade-de-dados"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/hotmart/politica-de-privacidade.md"
 ---
 
@@ -308,4 +308,6 @@ Avenida Paseo de la reforma, número 295,
 
 Piso 8 Oficina A, Cuauhtemoc, Ciudad de México
 
-Para falar com a Data Protection Officer das empresas Hotmart Company, Juliana Salles, entre em contato através deste formulário.
+Encarregado Global pelo Tratamento de Dados Pessoais: Vander Pecequillo Alves Encarregado Global Substituto pelo Tratamento de Dados Pessoais: Felipe Gomes Benjamim Rodrigues
+
+Para falar com o Encarregado pelo tratamento de dados pessoais das empresas Hotmart Company entre em contato através deste deste formulário.
