@@ -14,7 +14,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 1 de julho de 2025 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 11 de dezembro de 2025 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -694,6 +694,9 @@ Essas leis incluem:
 - Tennessee Information Protection Act (TIPA)
 - Minnesota Consumer Data Privacy Act (MNCDPA)
 - Maryland Online Data Privacy Act of 2024 (MDODPA)
+- Lei de Proteção de Dados do Consumidor de Indiana (INCDPA)
+- Lei de Proteção de Dados do Consumidor de Kentucky (KCDPA)
+- Lei de Proteção da Privacidade e Transparência de Dados de Rhode Island (RIDTPPA)
 
 ### Lugares que você marcou como casa e trabalho
 
