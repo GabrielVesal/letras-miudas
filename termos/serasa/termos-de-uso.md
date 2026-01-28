@@ -52,9 +52,11 @@ Caso Você não concorde com os Termos de Uso e/ou queira acessar exclusivamente
 
 **8. Direitos Autorais**
 
-**9. Alterações deste Documento**
+**9. Tratamento de Dados Pessoais**
 
-**10. Canais de Atendimento**
+**10. Alterações deste Documento**
+
+**11. Canais de Atendimento**
 
 **1. Características e qualificação da Serasa**
 
@@ -238,7 +240,15 @@ Todos os textos, imagens, sons e/ou aplicativos exibidos nos nossos Sites e Apli
 
 Tentativas de invasão aos nossos Sites serão consideradas como dano, roubo ou qualquer outra tipificação penal que corresponda às consequências da invasão.
 
-**9.** **Alterações deste Documento**
+**9.** **Tratamento de Dados Pessoais**
+
+Para o fornecimento dos Serviços indicados neste Termo, a Serasa tratará os seus dados pessoais na forma como definido da Política de Privacidade da Serasa adotando recursos avançados visando a proteção das suas informações pessoais e de seus serviços.
+
+Uma vez provida das informações pessoais a seu respeito, a Serasa poderá utilizá-las, inclusive para fins de envio e disponibilização de publicidade, podendo ser direcionadas por e-mail ou por quaisquer outros meios de comunicação, contendo informações sobre os produtos Serasa, bem como poderá compartilhar com empresas do Grupo Experian para oferta de produtos e serviços de seu interesse. Entretanto, fica reservado à Você o direito de informar, a qualquer momento, por meio dos canais indicados abaixo, o não interesse em receber tais anúncios, Você ainda verá anúncios, mas eles não serão baseados em seus interesses.
+
+A Serasa poderá também realizar o monitoramento de possíveis vazamentos dos seus dados na Dark Web. Neste caso Você poderá receber alertas de eventuais dados identificados na Dark Web que estejam atrelados ao seu CPF, tais como e-mail ou telefone.
+
+**10.** **Alterações deste Documento**
 
 Este Documento está sujeito a alterações a qualquer momento. **Toda e qualquer alteração visa a se adequar às eventuais modificações nos Sites e Aplicativo da Serasa, sejam de mudanças para novas tecnologias ou sempre que for necessário, bem como a novos requisitos legais, regulatórios ou contratuais.**
 
@@ -250,7 +260,7 @@ Este Documento está sujeito a alterações a qualquer momento. **Toda e qualq
 
 A Serasa exige dos seus clientes o compromisso de utilizar os serviços contratados em conformidade com a lei, os respectivos regulamentos e Termos de Uso e/ou contratos.
 
-**10.** **Canais de Atendimento**
+**11.** **Canais de Atendimento**
 
 A Serasa não possui atendimento presencial. Porém, oferece canais digitais para Você acessar todos os produtos e serviços com agilidade e segurança de onde Você estiver.
 
