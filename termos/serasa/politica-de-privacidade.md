@@ -3,12 +3,12 @@ empresa: "Serasa"
 documento: "Política de Privacidade"
 categoria: "Serviços"
 fonte: "https://www.serasa.com.br/app/politica-de-privacidade/"
-capturado_em: 2025-11-21
-wayback: "https://web.archive.org/web/20251121232315/https://www.serasa.com.br/app/politica-de-privacidade/"
+capturado_em: 2026-01-28
+wayback: "https://web.archive.org/web/20260128013506/https://www.serasa.com.br/app/politica-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md"
 ---
 
-Atualizado em 04 de novembro de 2025.
+Atualizado em 20 de janeiro de 2026.
 
 Na Serasa S.A. (“Serasa”), privacidade e proteção de dados é nossa prioridade. Temos orgulho em ter a ética no tratamento de dados como valor fundamental.
 
@@ -133,6 +133,8 @@ Os dados de documentos perdidos/roubados e os dados de contato informados por Vo
 Os dados do cartão de crédito que forem cadastrados por Você poderão ser utilizados para a finalidade exclusiva de pagamento dos serviços (pontual ou periodicamente), quando Você assim indicar.
 
 **Para direcionamento de ofertas, tratando seus dados para segmentar audiências e analisar o potencial de mercado, possibilitando o direcionamento de ofertas mais adequadas aos Titulares, tanto pela Serasa quanto pelos Clientes que contratam os serviços oferecidos pela empresa**. Mais informações sobre esse tratamento você pode encontrar aqui: https://www.serasa.com.br/protecao-dados-pessoais/direcionamento-de-ofertas. A qualquer momento Você poderá sinalizar para a Serasa que não tem interesse que seus dados pessoais sejam tratados para essa finalidade, veja como fazê-lo aqui: https://www.serasa.com.br/protecao-dados-pessoais/gerenciar-preferencias. Importante lembrar que nos cenários em que Você for um cliente dos Clientes da Serasa, que possuam uma relação prévia e direta com Você, poderemos tratar os seus dados para as finalidades indicadas nesse item. Também poderemos compartilhas os seus dados pessoais para a presente finalidade, em conformidade com o item 7, abaixo.
+
+A Serasa poderá também realizar o monitoramento de possíveis vazamentos dos seus dados em ambientes como a Dark Web. Neste caso Você poderá receber alertas de eventuais vazamentos que estejam atrelados ao seu CPF, tais como e-mail ou telefone.
 
 **Outros fins, na forma e nos limites do Consentimento correspondente concedido pelo Titular (quando necessário), e no limite do que for permitido ou exigido pela lei.**
 
