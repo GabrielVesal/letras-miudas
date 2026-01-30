@@ -3,12 +3,12 @@ empresa: "Uber"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
-capturado_em: 2025-11-30
-wayback: "https://web.archive.org/web/20251130214813/https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
+capturado_em: 2026-01-30
+wayback: "https://web.archive.org/web/20260130103102/https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/uber/politica-de-privacidade.md"
 ---
 
-**Em vigor a partir de 1º de janeiro de 2026 no mundo todo, exceto a partir de 15 de novembro de 2025 nos Emirados Árabes Unidos.**
+***Última atualização: 20 de janeiro de 2026***
 
 # Aviso de Privacidade da Uber: Passageiros e destinatários de pedidos
 
@@ -108,6 +108,8 @@ Além disso, observe o seguinte se você usar o app da Uber em:
 - Taiwan
 
  Acesse aqui para obter informações sobre as medidas adotadas pela Uber ao realizar transferências internacionais de dados, de acordo com a Lei de Proteção de Dados Pessoais de Taiwan e seus respectivos regulamentos, bem como outras informações relacionadas.
+
+ Acesse aqui para saber mais sobre o Aviso de Privacidade de Dados de Pagamento de Taiwan, que descreve como coletamos, usamos e compartilhamos seus dados pessoais relacionados a pagamentos.
 - Estados Unidos
 
  Acesse este link para saber mais sobre as práticas de privacidade da Uber relacionadas às leis de privacidade estaduais dos EUA, incluindo a Lei de Privacidade do Consumidor da Califórnia (California Consumer Privacy Act). Caso você use o app da Uber nos estados de Nevada ou Washington nos EUA, acesse este link para saber mais sobre as práticas da Uber relacionadas à coleta e ao uso de dados de saúde do usuário de acordo com as leis de privacidade desses estados.
@@ -467,7 +469,7 @@ Você pode encontrar sua avaliação média na seção "Conta" do app da Uber, a
 
 **5. Solicitações de dados do usuário**
 
-A Uber oferece várias formas para você conhecer e controlar os seus dados e enviar dúvidas e comentários sobre o tratamento deles pela Uber. Além dos métodos indicados abaixo, você também pode enviar solicitações de dados por meio do nosso Formulário de Consulta sobre Privacidade por aqui.
+A Uber oferece várias formas para você conhecer e controlar os seus dados e enviar dúvidas e comentários sobre o tratamento deles pela Uber. Além dos métodos indicados abaixo, você também pode enviar solicitações de dados pelo nosso Formulário de Consulta sobre Privacidade aqui, inclusive se você for um Usuário Convidado ou não tiver uma conta da Uber. Você também pode ter direitos adicionais em relação aos seus dados com base na região em que mora. Consulte a seção Visão geral acima para mais informações.
 
 - Acesso e portabilidade de dados
 
@@ -496,14 +498,14 @@ A Uber oferece várias formas para você conhecer e controlar os seus dados e en
 
 **A Uber Technologies, Inc. é a única responsável pelo tratamento dos dados processados pela Uber quando você usa os serviços da Uber globalmente, exceto quando houver o controle conjunto com outras afiliadas da Uber.**
 
-A Uber Technologies, Inc. (“UTI”) é a controladora dos dados processados pela Uber quando você utiliza os serviços da Uber globalmente, exceto nos seguintes casos:
+A Uber Technologies, Inc. ("UTI") é responsável pelo tratamento dos dados processados pela Uber ao usar os serviços dos apps da Uber mundialmente, com a exceção de:
 
-- UTI e UBR Pagos Mexico, S.A. de C.V. são controladoras dos dados dos usuários dos serviços de repasse de ganhos e dinheiro eletrônico da Uber no México.
-- UTI e Uber B.V. são, juntamente com a Uber Payments BV, controladoras conjuntas dos dados dos usuários dos serviços de repasse de ganhos e dinheiro eletrônico da Uber no EEE, e com a Uber Payments UK Ltd. para usuários desses serviços no Reino Unido.
-- UTI e Uber B.V. são controladoras conjuntas dos dados processados em relação a todos os outros usos dos serviços da Uber no EEE, Reino Unido e Suíça.
-- UT LLC é a controladora dos dados processados quando você utiliza os serviços da Uber na Coreia do Sul.
+- A UTI e a UBR Pagos Mexico, a SA de CV são responsáveis pelo tratamento de dados dos usuários referente aos serviços de pagamento e de dinheiro eletrônico da Uber no México.
+- A UTI e a Uber B.V são, juntamente com a Uber Payments BV, responsáveis conjuntas pelo tratamento dos dados dos usuários dos serviços de pagamento e de dinheiro eletrônico da Uber no Espaço Econômico Europeu (EEE) e, juntamente com a Uber Payments UK Ltd., dos usuários desses serviços no Reino Unido.
+- A UTI e a Uber B.V são responsáveis conjuntas pelo tratamento dos dados processados em relação a todos os outros usos dos serviços dos apps da Uber no EEE, no Reino Unido e na Suíça.
+- A UT LLC é a controladora dos dados processados quando você usa os serviços da plataforma da Uber na Coreia do Sul.
 
-Você também pode entrar em contato com o Encarregado de Proteção de Dados da Uber em uber.com/privacy-dpo, ou por correspondência para Uber B.V. (Burgerweeshuispad 301, 1076 HR Amsterdam, Países Baixos) sobre questões relacionadas ao tratamento dos seus dados pessoais pela Uber e aos seus direitos de proteção de dados.
+Você também pode entrar em contato com o Encarregado da Proteção de Dados da Uber pelo site uber.com/privacy-dpo ou por correio para B.V. (Burgerweeshuispad 301, 1076 HR Amsterdã, Países Baixos) em relação ao processamento dos seus dados pessoais pela Uber e seus direitos de proteção de dados.
 
 ### B. Nossas bases legais para usar seus dados
 
@@ -576,11 +578,13 @@ Empresa
 - Investidores
 - Blog
 - Carreiras
+- Uber One
 
 Produtos
 
 - Viajar
 - Dirigir
+- Fazer entregas
 - Fazer um pedido
 - Uber para Empresas
 - Uber Freight
@@ -599,9 +603,9 @@ Viaje
 - Cidades
 
 - Português (Brasil)
-- San Francisco Bay Area
+- Des Moines
 
-© 2025 Uber Technologies Inc.
+© 2026 Uber Technologies Inc.
 
 - Privacidade
 - Acessibilidade
@@ -612,7 +616,7 @@ Viaje
 العربيةбългарски езикবাংলাČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)CastellanoEesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
 
 - Viajar
-- Drive
+- Ganhe Dirija
 - Empresa
 - Uber Eats
 - ### Sobre
@@ -636,7 +640,7 @@ PT-BR
 
 ## Viajar
 
-## Dirija e faça entregas
+## Dirija
 
 ## Uber Eats
 
@@ -667,7 +671,7 @@ PT-BR
 العربيةбългарски езикবাংলাČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)CastellanoEesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
 
 - Viajar
-- Drive
+- Ganhe Dirija
 - Empresa
 - Uber Eats
 - ### Sobre
@@ -691,7 +695,7 @@ PT-BR
 
 ## Viajar
 
-## Dirija e faça entregas
+## Dirija
 
 ## Uber Eats
 
