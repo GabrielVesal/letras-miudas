@@ -3,8 +3,8 @@ empresa: "TIM"
 documento: "Política de Privacidade"
 categoria: "Telefonia"
 fonte: "https://www.tim.com.br/sobre-a-tim/institucional/seguranca/central-de-privacidade"
-capturado_em: 2024-09-30
-wayback: "https://web.archive.org/web/20240930163259/https://www.tim.com.br/sobre-a-tim/institucional/seguranca/central-de-privacidade"
+capturado_em: 2026-01-31
+wayback: "https://web.archive.org/web/20260131165537/https://www.tim.com.br/sobre-a-tim/institucional/seguranca/central-de-privacidade"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/tim/politica-de-privacidade.md"
 ---
 
@@ -16,9 +16,9 @@ Protegemos seus dados e somos transparentes sobre o uso deles
 
 Confira nosso relatório de transparência em privacidade
 
-Você conhece a Política de Dados TIM?
+Na TIM, Transparência e Inovação Andam Juntas
 
-Você conhece a Política de Dados TIM?
+Na TIM, Transparência e Inovação Andam Juntas
 
 A TIM S.A. é uma das maiores empresas de telecomunicação do Brasil, além de fazer parte de um grupo multinacional com presença local há mais de 20 anos.
 
@@ -72,85 +72,63 @@ O não cumprimento das exigências legais pode gerar multas e perda de confianç
 
 Como é feita a gestão com a LGPD?
 
-Como medida de transparência, apresentamos abaixo uma série de medidas que foram conduzidas pela TIM ao longo dos últimos anos buscando uma maturidade maior de seu programa de governança:
+Como medida de transparência, apresentamos abaixo uma série de medidas que foram conduzidas pela TIM ao longo dos últimos anos buscando uma maturidade maior de seu programa de governança. Veja, abaixo, as principais medidas tomadas até 2025:
 
-2018
+Nomeação do cargo de Data Protection Officer (DPO);
 
-Criação do Comitê de Privacidade, coordenado pelo diretor-presidente e composto por diretores da Companhia;
+Designação de equipe dedicada a liderar as ações necessárias ao cumprimento da LGPD e gerenciar as solicitações de direito dos titulares;
 
-Nomeação do Data Protection Officer (DPO).
+Capacitação e treinamento dos colaboradores, informando sobre os impactos a partir da lei, para que sigam as diretrizes de coleta, uso, tratamento e proteção dos dados de clientes, colaboradores, fornecedores e demais stakeholders;
 
-2019
+Plano de comunicação visando à conscientização de nossos colaboradores, por e-mail e outras plataformas organizacionais;
 
-Início da adequação da TIM à LGPD, que foi dividido em 5 fases, sendo elas: preparação; diagnóstico/avaliação; implementação; monitoramento; e Assurance.
+Criação da Central de Privacidade no site da TIM, com atualizações periódicas dos documentos publicados, como: Políticas de Privacidade e de cookies;
 
-2020
+Implementação de banner de cookies, com opções de autorização;
 
-Processo de revisão e adequação dos contratos já existentes e dos novos que foram classificados como de impacto a dados pessoais;
+Atendimento às solicitações de direito dos titulares por meio de ferramenta digital, além da disponibilização de e-mail alternativo com a possibilidade de oposição ao recebimento de mensagens publicitárias;
 
-Criação da Central de Privacidade no site da TIM, com Atualização e disponibilização das Políticas de Privacidade e de Cookies;
+Obtenção da certificação ISO 27001, padrão para o sistema de gestão da segurança da informação, em 2022;
 
-Designação de equipe dedicada a liderar as ações necessárias ao cumprimento da LGPD e gerenciar as solicitações de Direito dos Titulares;
+Adequação dos contratos com previsões específicas de acordo com a posição das partes contratantes, enquanto agentes de tratamento, para proteção dos dados pessoais;
 
-Revisão e atualização de documentos normativos internos para regular e orientar o tratamento de dados pessoais pelos colaboradores;
+Revisão e atualização de documentos normativos internos para regular e orientar a proteção no tratamento de dados pessoais pelos colaboradores;
 
-Atendimento às solicitações de Direito dos Titulares (a lei prevê aos donos dos dados pessoais diversos direitos, entre os quais o de correção, acesso e confirmação do tratamento).
+Criação de um fluxo interno de segurança para tratamento de incidentes ou casos de vazamentos envolvendo dados pessoais;
 
-2021
-
-Revisão e atualização anual de documentos normativos internos para regular e orientar o tratamento de dados pessoais pelos colaboradores;
-
-Criação de um fluxo interno de segurança para incidentes ou casos de vazamentos envolvendo Dados Pessoais;
-
-Realização de uma série de ações contínuas de conscientização de nossos quase 10 mil funcionários, como diversas comunicações internas por e-mail e outras plataformas organizacionais, e adoção de três níveis de treinamentos institucionais:
-
-(i) treinamento e-learning disponível para todos os colaboradores; (ii) treinamento específico para os executivos e colaboradores estratégicos da TIM; (iii) treinamento dos fornecedores e parceiros de venda, conscientizando sobre a lei e os cuidados que estamos tomando para atendê-la.
-
-2022
-
-Atualização das Políticas de Privacidade e de Cookies;
-
-Contratação de ferramenta digital para atendimento e gerenciamento dos Direitos dos Titulares, propiciando melhor experiência para os clientes exercerem seus direitos;
-
-Revisão e atualização anual de documentos normativos internos para regular e orientar o tratamento de dados pessoais pelos colaboradores;
-
-Reestruturação da nossa Central de Privacidade para garantir maior acessibilidade e transparência sobre a forma como tratamos os dados pessoais e quais medidas adotamos para protegê-los;
+Publicação em seu site institucional de informativos de privacidade sobre parcerias para dar transparência aos titulares sobre as atividades praticadas.
 
  O que é o Data Protection Officer?
 
 O que é o Data Protection Officer?
 
-O Data Protection Officer (DPO) da TIM possui como atribuições na condução do programa de governança da TIM:
+**O Data Protection Officer (DPO), função nomeada na TIM desde 2018, é o responsável pela governança da privacidade e proteção de dados pessoais na Companhia, conforme determina a LGPD.**
 
-Manter uma visão integrada do plano estratégico da TIM em proteção de dados, em toda a cadeia de valor da Companhia, com o objetivo de garantir a implementação do Programa;
+**O DPO tem as seguintes funções:**
 
-Reportar ao Comitê de Proteção de Dados sobre os andamentos das diferentes atividades-chave da TIM e que envolvem dados pessoais;
+Manter uma visão integrada do plano estratégico da TIM em proteção de dados em toda a cadeia de valor da Companhia;
 
 Implementar a padronização de políticas, metodologias e ferramentas, desenvolvendo indicadores de monitoramento dos processos de proteção de dados nas diferentes áreas;
 
-Desenvolver treinamentos e orientar projetos de conscientização em proteção de dados;
+Realizar treinamentos e orientar projetos de conscientização em proteção de dados pessoais;
 
-Aceitar reclamações e comunicações dos titulares, prestar esclarecimentos e adotar providências;
+Receber comunicações de titulares de dados e da Autoridade Nacional de Proteção de Dados, prestar esclarecimentos e adotar providências;
 
-Receber comunicações da Autoridade Nacional de Proteção de Dados e adotar providências;
+Estabelecer e manter atualizadas, em conjunto com as diferentes áreas da TIM, as políticas de proteção de dados pessoais e outros processos de governança de dados pessoais;
 
-Estabelecer e ajustar, em conjunto com as diferentes áreas da TIM, as políticas de proteção de dados e outros processos de governança de dados;
+Apoiar a implementação das melhorias e revisões em processos, atividades e controles de privacidade e proteção de dados pessoais da TIM, garantindo o cumprimento das leis aplicáveis à matéria;
 
-Apoiar a implementação das melhorias em processos e controles de privacidade e proteção de dados;
-
-Revisar os processos e atividades de privacidade e proteção de dados da TIM, garantindo o cumprimento com as leis aplicáveis a matéria.
+Orientar colaboradores e terceiros para que sigam as diretrizes da LGPD na coleta, utilização e proteção de dados pessoais de clientes, funcionários, fornecedores e demais públicos.
 
  Quais são os Direitos dos Titulares?
 
 Quais são os Direitos dos Titulares?
 
-Em 2020, consolidamos a nossa Central de Privacidade, um espaço em nosso site em que fornecemos os Canais de contato com o DPO.
+Em 2024, recebemos mais de 600 solicitações de Direitos dos Titulares, principalmente, relacionadas a revogações de consentimento, informações sobre compartilhamento de dados e solicitação de exclusão de dados.
 
-Desde a disponibilização dos canais, mais de 1000 requisições dos titulares de dados pessoais foram recebidas e respondidas pela TIM, sendo:
+Até outubro de 2025, a TIM recebeu 516 solicitações de Direitos dos Titulares, relacionadas à exclusão de dados, revogação de consentimento e acesso a dados pessoais, por meio de seus canais oficiais.
 
-**2021 – 727 (janeiro/dezembro)**
-
-**2022 – 515 (janeiro/outubro)**
+O resultado reforça a maturidade e a consolidação da Central de Privacidade, espaço que disponibiliza os canais de contato com o DPO e reafirma o comprometimento da companhia com a transparência e a proteção dos dados pessoais. Para saber mais sobre seus Direitos dos Titulares acesse nossa Política de Privacidade
 
  Quais medidas de segurança utilizamos?
 
@@ -190,11 +168,11 @@ Treinamento dos fornecedores, conscientizando sobre a lei e os cuidados que esta
 
 O que é o Relatório – InternetLab?
 
-Parte importante do resultado desses esforços está refletida nas avaliações anuais do InternetLab, centro de pesquisa e tecnologia que publica todos os anos o relatório “Quem Defende Seus Dados”. Em 2020, 2021 e 2022, tivemos um grande resultado entre as operadoras brasileiras, fruto de nossa constante evolução.
+Parte importante do resultado desses esforços está refletida nas avaliações anuais do InternetLab, centro de pesquisa e tecnologia que publica todos os anos o relatório “Quem Defende Seus Dados”. Em 2020, 2021, 2022 e 2025, tivemos um grande resultado entre as operadoras brasileiras, fruto de nossa constante evolução.
 
 O InternetLab (centro independente de pesquisa) em parceria com a Electronic Frontier Foundation (EFF) desenvolveu o projeto “Quem Defende seus Dados?” (QDSD?), Versão brasileira da pesquisa americana “Who has your back?“. O projeto avalia como várias empresas de internet protegem os dados de seus usuários.
 
-Em novembro de 2020, dezembro de 2021 e janeiro de 2023 o InternetLab publicou sua pesquisa, na qual a TIM teve sua avaliação mais positiva. Esse resultado é consequência do esforço, das ações realizadas e outras ainda em andamento na TIM para a adequação à Lei Geral de Proteção de Dados.
+Em novembro de 2020, dezembro de 2021, janeiro de 2023 e agosto de 2025 o InternetLab publicou sua pesquisa, na qual a TIM teve sua avaliação mais positiva. Esse resultado é consequência do esforço, das ações realizadas e outras ainda em andamento na TIM para a adequação à Lei Geral de Proteção de Dados.
 
 Para conferir o resultado da avaliação da TIM no Relatório InternetLab – “Quem defende seus dados”, acesse o site Quem Defende seus Dados.
 
@@ -216,7 +194,7 @@ Como uma das maiores empresas de telecomunicações do Brasil, a TIM tem como um
 
 Além da constante busca pelo uso das mais avançadas soluções tecnológicas, visando garantir o mais alto nível de segurança das informações tratadas pela TIM, internamente existem diversos mecanismos que tornam a empresa apta a atender as exigências legais e regulatórias relacionadas à privacidade e proteção de dados, como a Lei Geral de Proteção de Dados Pessoais (“LGPD”), aquelas previstas no Código de Defesa do Consumidor, no Marco Civil da Internet e nas leis e regulamentos aplicáveis ao setor de telecomunicações.
 
-Desde 2018, a TIM vem desenvolvendo um dos maiores programas de adequação em proteção de dados do país, havendo o envolvimento direto e indireto de diversos profissionais na construção de procedimentos, políticas e práticas que são revistas e atualizadas constantemente, de acordo com os mais altos padrões de conformidade exigidos pela legislação brasileira. Esse é um dos fatores que levaram a TIM a ser eleita, em 2020, 2021 e 2022, como uma das operadoras mais bem avaliadas do setor no ranking “Quem Defende seus Dados”, do InternetLab.
+Desde 2018, a TIM vem desenvolvendo um dos maiores programas de adequação em proteção de dados do país, havendo o envolvimento direto e indireto de diversos profissionais na construção de procedimentos, políticas e práticas que são revistas e atualizadas constantemente, de acordo com os mais altos padrões de conformidade exigidos pela legislação brasileira. Esse é um dos fatores que levaram a TIM a ser eleita, em 2020, 2021, 2022 e 2025, como uma das operadoras mais bem avaliadas do setor no ranking “Quem Defende seus Dados”, do InternetLab.
 
 Por fim, esclarecemos que a TIM possui uma estrutura robusta de governança em privacidade e proteção de dados, em linha com as disposições do artigo 50 da LGPD e melhores práticas de mercado. Ainda, a TIM possui Encarregado de Dados constituído desde dezembro de 2018, conforme publicado em sua Política de Privacidade, bem como canal direto para que os titulares possam exercer seus direitos, através de um Formulário de solicitação disponível nesta Central.
 
@@ -276,26 +254,23 @@ Digite sua dúvida
 
 **Principais dúvidas**
 
-Quais dados a TIM coleta de mim? Isso é seguro?
+Tem alguma dúvida? Quer falar com o DPO?
 
-Seus dados são tratados com muita transparência e cuidado aqui na TIM, já que seguimos a Lei Geral de Proteção de Dados (LGPD), uma legislação que foi feita para regulamentar o tratamento de dados pessoais.
+Se a sua dúvida for sobre serviços da TIM, como cobranças, portabilidade numérica e solicitação de contrato, por favor entre em contato nos números \*144 para atendimento ao serviço de telefonia móvel e 10341 para banda larga.
 
-É totalmente seguro. Você pode saber mais detalhes aqui nesta página ou ainda ver a nossa **Política de Privacidade**.
+Caso sua dúvida seja sobre privacidade de dados pessoais e você não encontrou a resposta neste site, mande uma mensagem para **dpo@timbrasil.com.br**
 
-E o que são cookies? A TIM tem uma política de cookies?
+Como posso cancelar o envio de SMS publicitária da TIM?
 
-Cookies são arquivos que transferimos e permitem reconhecer o seu navegador ou dispositivo, além de saber outras informações, como quando nossas páginas e produtos são visitados, quantas pessoas acessam o site, entre outras.
+Para cancelar o envio de mensagens publicitárias da TIM, basta enviar "SAIR" para 4112. Mas, se quiser voltar com o envio e saber de ofertas exclusivas, promoções e descontos, envie "RECEBER" para 4111.
 
-Você pode saber tudo sobre a nossas diretrizes na **página de Política de Cookies da TIM.**
+Você também pode evitar ligações publicitárias de outras empresas. Descubra como na **página Não me Perturbe.**
 
-Como eu deixo meu celular mais seguro?
+O que são os SMS piratas? Posso receber algum da TIM?
 
-Veja algumas medidas simples para auxiliar a segurança:
+SMS Piratas (ou SPAM) são SMS não regulamentados e clandestinos. Alguns podem se passar pela TIM, mas as nossas comunicações não são enviadas por números de 8 ou 9 dígitos e nem pedem para você enviar informações pessoais.
 
- - Mantenha seu aparelho atualizado com as últimas recomendações do fabricante;
- - Instale só apps da loja oficial do dispositivo;
- - Na instalação, verifique se as permissões de acesso solicitadas estão de acordo com a finalidade do aplicativo;
- - Ligue configurações de segurança como: as opções de rastreamento, bloqueio, backup, remoção de arquivos remotamente e etc.
+Já os nossos SMS estão dentro da lei e são seguros. Você mais sobre o tema na **página de SMS Pirata**.
 
 Como posso aumentar a segurança no meu WhatsApp?
 
@@ -310,23 +285,26 @@ Existem muitas dicas para deixar seu WhatsApp mais seguro. Veja algumas:
 
 Você pode conferir mais dicas na **página de dicas de segurança no WhatsApp.**
 
-O que são os SMS piratas? Posso receber algum da TIM?
+Como eu deixo meu celular mais seguro?
 
-SMS Piratas (ou SPAM) são SMS não regulamentados e clandestinos. Alguns podem se passar pela TIM, mas as nossas comunicações não são enviadas por números de 8 ou 9 dígitos e nem pedem para você enviar informações pessoais.
+Veja algumas medidas simples para auxiliar a segurança:
 
-Já os nossos SMS estão dentro da lei e são seguros. Você mais sobre o tema na **página de SMS Pirata**.
+ - Mantenha seu aparelho atualizado com as últimas recomendações do fabricante;
+ - Instale só apps da loja oficial do dispositivo;
+ - Na instalação, verifique se as permissões de acesso solicitadas estão de acordo com a finalidade do aplicativo;
+ - Ligue configurações de segurança como: as opções de rastreamento, bloqueio, backup, remoção de arquivos remotamente e etc.
 
-Como posso cancelar o envio de SMS publicitária da TIM?
+E o que são cookies? A TIM tem uma política de cookies?
 
-Para cancelar o envio de mensagens publicitárias da TIM, basta enviar "SAIR" para 4112. Mas, se quiser voltar com o envio e saber de ofertas exclusivas, promoções e descontos, envie "RECEBER" para 4111.
+Cookies são arquivos que transferimos e permitem reconhecer o seu navegador ou dispositivo, além de saber outras informações, como quando nossas páginas e produtos são visitados, quantas pessoas acessam o site, entre outras.
 
-Você também pode evitar ligações publicitárias de outras empresas. Descubra como na **página Não me Perturbe.**
+Você pode saber tudo sobre a nossas diretrizes na **página de Política de Cookies da TIM.**
 
-Tem alguma dúvida? Quer falar com o DPO?
+Quais dados a TIM coleta de mim? Isso é seguro?
 
-Se a sua dúvida for sobre serviços da TIM, como cobranças, portabilidade numérica e solicitação de contrato, por favor entre em contato nos números \*144 para atendimento ao serviço de telefonia móvel e 10341 para banda larga.
+Seus dados são tratados com muita transparência e cuidado aqui na TIM, já que seguimos a Lei Geral de Proteção de Dados (LGPD), uma legislação que foi feita para regulamentar o tratamento de dados pessoais.
 
-Caso sua dúvida seja sobre privacidade de dados pessoais e você não encontrou a resposta neste site, mande uma mensagem para **dpo@timbrasil.com.br**
+É totalmente seguro. Você pode saber mais detalhes aqui nesta página ou ainda ver a nossa **Política de Privacidade**.
 
 Gestão da TIM com a LGPD
 
