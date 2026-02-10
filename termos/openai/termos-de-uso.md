@@ -2,183 +2,177 @@
      Fonte: https://openai.com/pt-BR/policies/row-terms-of-use/
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-Selecionar idioma
+Em vigor a partir de: 1º de janeiro de 2026 (Versão anterior⁠)
 
-Atualizado em: 11 de dezembro de 2024
+Agradecemos por usar a OpenAI!
 
-# Termos de uso
+Estes Termos de Uso se aplicam ao seu uso do ChatGPT, DALL·E e outros serviços da OpenAI para indivíduos, juntamente com quaisquer aplicativos de software e sites associados (em conjunto, “Serviços”). Estes Termos constituem um acordo entre você e a OpenAI OpCo, LLC, uma empresa de Delaware, e incluem nossos Termos de Serviço⁠ e disposições importantes para a resolução de disputas por meio de arbitragem. Ao utilizar nossos Serviços, você concorda com estes Termos.
 
-Effective: December 11, 2024 (previous version)
+Se você reside no Espaço Econômico Europeu, na Suíça ou no Reino Unido, seu uso dos Serviços é regido por estes termos⁠⁠.
 
-Obrigado por usar a OpenAI!
+Nossos Termos de Uso⁠ regem o uso do ChatGPT Enterprise, nossas APIs e nossos outros serviços para empresas e desenvolvedores.
 
-Estes Termos de Uso se aplicam ao seu uso do ChatGPT, DALL·E e outros serviços da OpenAI para indivíduos, bem como a quaisquer aplicativos de software e sites associados (todos juntos, "Serviços"). Estes Termos constituem um contrato entre você e a OpenAI, L.L.C., uma empresa de Delaware, e incluem nossos Termos de Serviço⁠ e disposições importantes para a resolução de disputas por meio de arbitragem. Ao usar nossos Serviços, você concorda com estes Termos.
-
-Se você reside no Espaço Econômico Europeu, Suíça ou Reino Unido, o uso dos Serviços é regido por estes termos⁠.
-
-Nossos Termos de Serviço para Negócios ⁠regem o uso do ChatGPT Corporativo, nossas APIs e nossos outros serviços para empresas e desenvolvedores.
-
-Nossa Política de Privacidade⁠ explica como coletamos e utilizamos informações pessoais. Embora ela não faça parte destes Termos, é um documento importante que você deve ler.
+Nossa Política de Privacidade⁠ explica como coletamos e usamos informações pessoais. Embora ela não constitua parte integrante dos presentes Termos, é um documento importante que você deve ler.
 
 ## Quem somos
 
-A OpenAI é uma empresa de pesquisa e desenvolvimento de IA. A nossa missão é garantir que a inteligência artificial geral beneficie toda a humanidade. Para mais informações sobre a OpenAI, por favor visite: https://openai.com/about⁠.
+A OpenAI é uma empresa de pesquisa e implementação de inteligência artificial. A nossa missão é garantir que a inteligência artificial beneficie toda a humanidade. Para obter mais informações sobre a OpenAI, visite https://openai.com/about⁠⁠.
 
-## Registro e Acesso
+## Registro e acesso
 
-**Idade mínima**. Você deve ter pelo menos 13 anos de idade, ou a idade mínima exigida em seu país, para consentir com o uso dos Serviços. Se você tiver menos de 18 anos, você deve obter a autorização dos seus pais ou responsável legal para usar os Serviços.
+Idade mínima. Você deve ter pelo menos 13 anos de idade ou a idade mínima exigida em seu país para consentir com o uso dos Serviços. Se você for menor de 18 anos, precisa da permissão de seus pais ou responsável legal para usar os Serviços.
 
-**Registro**. Você deve fornecer informações precisas e completas para se registrar em uma conta e usar nossos Serviços. Você não pode compartilhar suas credenciais de conta ou disponibilizá-la a qualquer outra pessoa. Você é responsável por todas as atividades que ocorrerem em sua conta. Se você criar uma conta ou usar os Serviços em nome de outra pessoa ou entidade, você deve ter autorização para aceitar estes Termos em seu nome.
+Registro. Para se cadastrar e usar nossos Serviços, você deve fornecer informações precisas e completas. Você não pode compartilhar suas credenciais de conta nem disponibilizar sua conta para terceiros e é responsável por todas as atividades que ocorrerem em sua conta. Se você criar uma conta ou usar os Serviços em nome de outra pessoa ou entidade, você deve ter autoridade para aceitar estes Termos em nome dela.
 
-## Uso dos Nossos Serviços
+## Usando nossos Serviços
 
-**O que você pode fazer**. Mediante o cumprimento destes Termos, você pode acessar e usar nossos Serviços. Ao usar nossos Serviços, você deve cumprir todas a legislação aplicável, bem como nossa Política de Compartilhamento e Publicação⁠, Políticas de Uso⁠ e qualquer outra documentação, diretrizes ou políticas que disponibilizamos para você.
+O que você pode fazer. Mediante o cumprimento destes Termos, você poderá acessar e usar nossos Serviços. Ao utilizar nossos Serviços, você deve cumprir todas as leis aplicáveis, bem como nossa Política de Compartilhamento e Publicação⁠, Políticas de Uso⁠ e qualquer outra documentação, diretrizes ou políticas que disponibilizarmos a você.
 
-**O que você não pode fazer**. Você não pode usar nossos Serviços para qualquer atividade ilegal, danosa ou abusiva. Por exemplo, você não pode:
+O que você não pode fazer. Você não poderá usar nossos Serviços para qualquer atividade ilegal, prejudicial ou abusiva. Por exemplo, você não deve:
 
-- Usar nossos Serviços de forma que infrinja, aproprie-se indevidamente ou viole os direitos de qualquer pessoa.
-- Modificar, copiar, licenciar, vender ou distribuir qualquer um de nossos Serviços.
-- Tentar ou auxiliar alguém a praticar engenharia reversa, descompilar ou descobrir o código-fonte ou componentes subjacentes de nossos Serviços, incluindo nossos modelos, algoritmos ou sistemas (exceto na medida em que essa restrição seja proibida pela lei aplicável).
-- Extrair dados ou Resultados (definido abaixo) automaticamente ou programaticamente.
-- Apresentar os Resultados como tendo sido gerados por humanos, quando não o foram.
-- Interferir ou desestabilizar nossos Serviços, incluindo contornar quaisquer limites de taxa ou restrições ou ignorar quaisquer medidas de proteção ou mitigação de segurança que implementamos em nossos Serviços.
-- Usar o Resultados para desenvolver modelos que concorram com a OpenAI.
+- Utilizar nossos Serviços de forma que infrinja, se aproprie indevidamente ou viole os direitos de terceiros.
+- Modificar, copiar, alugar, vender ou distribuir qualquer um de nossos Serviços.
+- Tentar ou auxiliar alguém a realizar engenharia reversa, descompilar ou descobrir o código-fonte ou os componentes subjacentes de nossos Serviços, incluindo nossos modelos, algoritmos ou sistemas (exceto na medida em que essa restrição seja proibida pela legislação aplicável).
+- Extrair dados ou resultados (conforme definido abaixo) de forma automática ou programática.
+- Representar que a saída foi gerada por humanos quando, na verdade, não foi.
+- Interferir ou interromper nossos Serviços, incluindo burlar quaisquer limites ou restrições de taxa ou contornar quaisquer medidas de proteção ou mitigação de segurança que implementamos em nossos Serviços.
+- Use o Output para desenvolver modelos que concorram com os da OpenAI.
 
-**Software**. Os nossos Serviços podem permitir que você baixe softwares, como aplicativos móveis, que podem ser atualizados automaticamente para garantir que você esteja usando a versão mais recente. O nosso software pode incluir software de código aberto que seja regido por suas próprias licenças, as quais disponibilizamos para você.
+Software. Nossos Serviços podem permitir que você baixe softwares, como aplicativos móveis, que podem ser atualizados automaticamente para garantir que você esteja usando a versão mais recente. Nosso software pode incluir software de código aberto, que é regido por suas próprias licenças, as quais disponibilizamos para você.
 
-**Domínios Corporativos**. Se você criar uma conta usando um endereço de e-mail de alguma uma organização (por exemplo, do seu empregador), essa conta pode ser adicionada à conta comercial que a organização tiver conosco, caso em que forneceremos um aviso para que você possa ajudar a facilitar a transferência de sua conta (a menos que sua organização já tenha fornecido um aviso de que pode monitorar e acessar sua conta). Uma vez que sua conta for transferida, o administrador da organização poderá controlar sua conta, incluindo ter acesso ao Conteúdo (definido abaixo) e restringir ou remover seu acesso à conta.
+Domínios corporativos. Se você criar uma conta usando um endereço de e-mail pertencente a uma organização (por exemplo, seu empregador), essa conta poderá ser adicionada à conta comercial da organização conosco. Nesse caso, notificaremos você para que possa facilitar a transferência da sua conta (a menos que sua organização já tenha notificado você de que pode monitorar e controlar sua conta). Após a transferência da sua conta, o administrador da organização poderá controlá-la, incluindo o acesso ao Conteúdo (definido abaixo) e restringir ou remover o seu acesso à conta.
 
-**Serviços de Terceiros**. Nossos serviços podem incluir software, produtos ou serviços de terceiros ("Serviços de Terceiros") e alguns elementos dos nossos Serviços, como a nossa funcionalidade de pesquisa , podem incluir resultados desses serviços ("Resultados de Terceiros"). Os Serviços de Terceiros e o Resultados de Terceiros estão sujeitos aos seus próprios termos, e não somos responsáveis por eles.
+Serviços de terceiros. Nossos serviços podem incluir software, produtos ou serviços de terceiros ("Serviços de Terceiros") e algumas partes de nossos Serviços, como nosso recurso de navegação, podem incluir resultados desses serviços ("Resultados de Terceiros"). Serviços e conteúdo de terceiros estão sujeitos aos seus próprios termos, e não nos responsabilizamos por eles.
 
-**Comentários**. Agradecemos os seus comentários sobre os nossos Serviços, e você concorda que podemos usá-lo sem restrições ou compensação para você.
+Comentários. Agradecemos seu feedback e você concorda que podemos utilizá-lo sem restrições ou qualquer compensação para você.
 
 ## Conteúdo
 
-**Seu Conteúdo**. Você pode fornecer contribuições para os Serviços ("Contribuições") e receber resultados dos Serviços com base nas Contribuições ("Resultados"). Contribuições e Resultados são, coletivamente, "Conteúdo". Você é responsável pelo Conteúdo, inclusive por garantir que ele não viole qualquer legislação aplicável ou estes Termos. Você declara e garante que possui todos os direitos, licenças e permissões necessários para fornecer Contribuições aos nossos Serviços.
+Seu conteúdo. Você pode fornecer informações aos Serviços (“Informações”) e receber resultados dos Serviços com base nas Informações fornecidas (“Resultados”). Entrada e saída são coletivamente chamadas de "Conteúdo". Você é responsável pelo Conteúdo, inclusive por garantir que ele não viole qualquer legislação aplicável ou estes Termos. Você declara e garante que possui todos os direitos, licenças e permissões necessários para fornecer informações aos nossos Serviços.
 
-**Titularidade do Conteúdo**. Entre você e a OpenAI, e na medida permitida pela legislação aplicável, você (a) mantém seus direitos de titularidade sobre as Contribuições e (b) é titular dos Resultados. Por meio deste Termo, cedemos a você todos os nossos direitos, titularidade e interesse, se houver, em relação aos Resultados.
+Propriedade do conteúdo. Entre você e a OpenAI, e na medida permitida pela lei aplicável, você (a) mantém seus direitos de propriedade sobre a Entrada e (b) é proprietário da Saída. Por meio deste instrumento, cedemos a você todos os nossos direitos, títulos e interesses, se houver, relativos à Output.
 
-**Similaridade de Conteúdo**. Devido à natureza de nossos Serviços e da inteligência artificial, o Resultado pode não ser único e outros usuários podem receber resultados semelhantes de nossos Serviços. A cessão acima não se estende aos resultados de outros usuários ou a qualquer Resultados de Terceiros.
+Similaridade de conteúdo. Devido à natureza dos nossos Serviços e da inteligência artificial em geral, os resultados podem não ser exclusivos e outros usuários podem receber resultados semelhantes dos nossos Serviços. A nossa atribuição acima não se estende aos resultados de outros utilizadores nem a quaisquer resultados de terceiros.
 
-**Nosso Uso do Conteúdo**. Podemos usar o seu Conteúdo para fornecer, manter, desenvolver e melhorar nossos Serviços, cumprir com a legislação aplicável, com os nossos termos e políticas e manter nossos Serviços seguros.
+Nosso uso de conteúdo. Podemos usar o Conteúdo para fornecer, manter, desenvolver e aprimorar nossos Serviços, cumprir a legislação aplicável, fazer cumprir nossos termos e políticas e manter nossos Serviços seguros. Se você estiver usando o ChatGPT por meio das integrações da Apple, consulte este artigo da Central de Ajuda⁠(abre em uma nova janela) para saber como lidamos com seu conteúdo.
 
-**Optar por não participar**. Se você não deseja que usemos o seu Conteúdo para treinar nossos modelos, você pode optar por não participar seguindo as instruções neste artigo do Centro de Ajuda⁠(abre em uma nova janela). Por favor note que em determinados casos isso pode limitar a capacidade dos nossos Serviços de responder da forma mais adequada às suas necessidades concretas.
+Cancelar participação. Se você não deseja que usemos seu Conteúdo para treinar nossos modelos, pode optar por não participar seguindo as instruções neste artigo⁠. Observe que, em alguns casos, isso pode limitar a capacidade de nossos Serviços de atender melhor à sua necessidade específica.
 
-**Precisão**. A inteligência artificial e a aprendizagem de máquina (machine learning) são campos de estudo em rápida evolução. Trabalhamos constantemente para melhorar os nossos Serviços para torná-los mais precisos, confiáveis, seguros e benéficos. Dada a natureza probabilística da aprendizagem de máquina, o uso dos nossos Serviços pode, em determinadas situações, gerar Resultados que não refletem com precisão pessoas, locais ou fatos reais.
+Precisão. A inteligência artificial e a aprendizagem automática são campos de estudo em rápida evolução. Estamos constantemente trabalhando para aprimorar nossos Serviços, tornando-os mais precisos, confiáveis, seguros e benéficos. Dada a natureza probabilística da aprendizagem automática, a utilização dos nossos Serviços pode, em algumas situações, resultar em resultados que não reflitam com precisão pessoas, lugares ou fatos reais.
 
-Ao utilizar os nossos Serviços, você entende e concorda com o seguinte:
+Ao utilizar nossos Serviços, você compreende e concorda com o seguinte:
 
-- Os Resultados podem nem sempre ser precisos. Você não deve confiar nos Resultados dos nossos Serviços como fonte única de informações verdadeiras ou de fato, ou como forma de substituir aconselhamento profissional.
+- Os resultados podem nem sempre ser precisos. Você não deve confiar nos resultados dos nossos serviços como única fonte de verdade ou informação factual, nem como substituto para aconselhamento profissional.
 - Você deve avaliar a precisão e adequação dos Resultados em função das suas necessidades concretas, inclusive por meio de verificação humana, se apropriado, antes de utilizar ou compartilhar os Resultados dos Serviços.
-
-Você não deve utilizar quaisquer Resultados relativos a uma pessoa para qualquer finalidade que possa ter um impacto legal ou material sobre ela, tais como a tomada de decisões relacionada a crédito, educação, emprego, habitação, seguros, questões legais, médicas ou outras decisões relevantes.
-
-- Os nossos Serviços podem fornecer Resultados incompletos, incorretos ou ofensivos, que não representam a opinião da OpenAI. Se os Resultados fizerem referência a quaisquer produtos ou serviços de terceiros, isso não significa que esses terceiros apoiem ou sejam afiliados à OpenAI.
+- Você não deve usar nenhuma informação relacionada a uma pessoa para qualquer finalidade que possa ter um impacto legal ou material sobre essa pessoa, como tomar decisões importantes a seu respeito em relação a crédito, educação, emprego, moradia, seguro, questões legais, saúde ou outras.
+- Os nossos Serviços podem fornecer Resultados incompletos, incorretos ou ofensivos, que não representam a opinião da OpenAI. Se os Resultados fizerem referência a produtos ou serviços de terceiros, isso não significa que esses terceiros endossem ou sejam afiliados à OpenAI.
 
 ## Nossos Direitos de Propriedade Intelectual
 
-Nós e nossas afiliadas possuímos todos os direitos, titularidades e interesses relativos aos Serviços. Você só pode utilizar o nosso nome e logotipo de acordo com as nossas Diretrizes de Marca⁠.
+Nós e nossas afiliadas detemos todos os direitos, títulos e interesses relativos aos Serviços. Você só poderá usar nosso nome e logotipo de acordo com nossas Diretrizes de Marca⁠.
 
-## Contas Pagas
+## Contas pagas
 
-**Pagamento**. Se você adquirir quaisquer Serviços, você fornecerá informações de pagamento completas e precisas, incluindo um método de pagamento válido. Para assinaturas pagas, cobraremos automaticamente o seu método de pagamento em cada renovação periódica acordada até o seu cancelamento. Você é responsável por todos os impostos aplicáveis, e cobraremos impostos quando necessário. Se o seu pagamento não puder ser concluído, poderemos fazer a desclassificação da sua conta ou suspender o seu acesso aos nossos Serviços até que o pagamento seja recebido.
+Pagamento. Ao adquirir quaisquer Serviços, você deverá fornecer informações de faturamento completas e precisas, incluindo um método de pagamento válido. Para assinaturas pagas, cobraremos automaticamente o valor no seu método de pagamento a cada renovação periódica acordada, até que você cancele. Você é responsável por todos os impostos aplicáveis, e nós cobraremos os impostos quando necessário. Caso o pagamento não possa ser concluído, poderemos rebaixar o nível da sua conta ou suspender o seu acesso aos nossos Serviços até que o pagamento seja recebido.
 
-**Créditos de Serviço**. Você pode pagar antecipadamente por alguns Serviços comprando créditos de serviço. Todos os créditos de serviço estão sujeitos aos nossos Termos de Crédito de Serviço⁠.
+Créditos de serviço. Você pode pagar por alguns serviços antecipadamente, adquirindo créditos de serviço. Todos os créditos de serviço estão sujeitos aos nossos Termos de crédito de serviço⁠⁠.
 
-**Cancelamento**. Você pode cancelar⁠(abre em uma nova janela) sua assinatura paga a qualquer momento. Os pagamentos não são reembolsáveis, exceto quando exigido por lei. Estes Termos não substituem quaisquer leis locais obrigatórias em relação aos seus direitos de cancelamento.
+Cancelamento. Você pode cancelar⁠⁠(abre em uma nova janela) sua assinatura paga a qualquer momento. Os pagamentos não são reembolsáveis, exceto quando exigido por lei. Estes Termos não se sobrepõem a quaisquer leis locais obrigatórias relativas aos seus direitos de cancelamento.
 
-**Alterações**. Podemos alterar nossos preços de forma periódica. Se aumentarmos nossos preços de assinatura, iremos notificá-lo com pelo menos 30 dias de antecedência e qualquer aumento de preço entrará em vigor na próxima renovação, para que você possa cancelar se não concordar com o aumento de preço.
+Alterações. Nossos preços podem ser alterados periodicamente. Caso aumentemos os preços das nossas assinaturas, avisaremos com pelo menos 30 dias de antecedência e qualquer aumento de preço entrará em vigor na sua próxima renovação, para que possa cancelar caso não concorde com o aumento.
 
-## Rescisão e Suspensão
+## Rescisão e suspensão
 
-**Rescisão**. Você está livre para parar de usar nossos Serviços a qualquer momento. Reservamos o direito de suspender ou encerrar seu acesso aos nossos Serviços ou excluir sua conta se determinarmos que:
+Rescisão. Você tem a liberdade de interromper o uso de nossos Serviços a qualquer momento. Reservamos o direito de suspender ou encerrar seu acesso aos nossos Serviços ou excluir sua conta se determinarmos que:
 
-- Você violou estes Termos ou nossas Políticas de Uso.⁠
-- Precisamos fazê-lo para cumprir a lei.
+- Você violou estes Termos ou nossas Políticas de Uso⁠.
+- Devemos fazer isso para cumprir a lei.
 - Seu uso de nossos Serviços pode causar risco ou dano à OpenAI, nossos usuários ou qualquer outra pessoa.
 
 Também podemos encerrar sua conta se ela estiver inativa por mais de um ano e você não tiver uma conta paga. Se fizermos isso, forneceremos um aviso prévio.
 
-**Recursos**. Se você considerar que suspendemos ou encerramos sua conta por engano, você pode apresentar um recurso, por meio do contato com a equipe de Suporte⁠(abre em uma nova janela).
+Apelações. Se você acredita que suspendemos ou encerramos sua conta por engano, pode apresentar uma contestação entrando em contato com nossa equipe de suporte⁠(abre em uma nova janela).
 
-## Descontinuação dos Serviços
+## Interrupção dos Serviços
 
-Podemos decidir interromper nossos Serviços, mas se o fizermos, forneceremos um aviso prévio e um reembolso para quaisquer Serviços pré-pagos não utilizados.
+Podemos decidir descontinuar nossos Serviços, mas, se o fizermos, avisaremos com antecedência e reembolsaremos quaisquer Serviços pré-pagos e não utilizados.
 
-## Isenção de Garantias
+## Isenção de garantias
 
-NOSSOS SERVIÇOS SÃO FORNECIDOS "NO ESTADO EM QUE SE ENCONTRAM". EXCETO NA MEDIDA PROIBIDA POR LEI, NÓS E NOSSAS AFILIADAS E LICENCIANTES NÃO OFERECEMOS GARANTIAS (EXPRESSAS, IMPLÍCITAS, LEGAIS OU DE OUTRA FORMA) COM RELAÇÃO AOS SERVIÇOS E RENUNCIAMOS A TODAS AS GARANTIAS, INCLUINDO, MAS NÃO SE LIMITANDO A GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA, QUALIDADE SATISFATÓRIA, NÃO VIOLAÇÃO E DESFRUTE TRANQUILO, E QUAISQUER GARANTIAS DECORRENTES DE QUALQUER CURSO DE NEGOCIAÇÃO OU USO COMERCIAL. NÃO GARANTIMOS QUE OS SERVIÇOS IRÃO SER ININTERRUPTOS, PRECISO OU LIVRE DE ERROS, OU QUE QUALQUER CONTEÚDO SERÁ SEGURO OU NÃO PERDIDO OU ALTERADO.
+NOSSOS SERVIÇOS SÃO FORNECIDOS “NO ESTADO EM QUE SE ENCONTRAM”. EXCETO NA MEDIDA EM QUE FOR PROIBIDO POR LEI, NÓS E NOSSAS AFILIADAS E LICENCIADORES NÃO OFERECEMOS GARANTIAS (EXPRESSAS, IMPLÍCITAS, ESTATUTÁRIAS OU DE OUTRA NATUREZA) COM RELAÇÃO AOS SERVIÇOS, E NOS ISENTAMOS DE TODAS AS GARANTIAS, INCLUINDO, ENTRE OUTRAS, AS GARANTIAS DE COMERCIABILIDADE, ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA, QUALIDADE SATISFATÓRIA, NÃO VIOLAÇÃO E POSSE PACÍFICA, BEM COMO QUAISQUER GARANTIAS DECORRENTES DE NEGOCIAÇÕES OU PRÁTICAS COMERCIAIS. NÃO GARANTIMOS QUE OS SERVIÇOS IRÃO SER ININTERRUPTOS, PRECISO OU LIVRE DE ERROS, OU QUE QUALQUER CONTEÚDO SERÁ SEGURO OU NÃO PERDIDO OU ALTERADO.
 
 VOCÊ ACEITA E CONCORDA QUE QUALQUER USO DO RESULTADO DO NOSSO SERVIÇO É POR SUA CONTA E RISCO E VOCÊ NÃO CONFIARÁ NO RESULTADO COMO ÚNICA FONTE DE VERDADE OU INFORMAÇÃO FÁTICA, OU COMO SUBSTITUTO DE CONSELHO PROFISSIONAL.
 
-## Limitação de Responsabilidade
+## Limitação de responsabilidade
 
-NEM NÓS NEM QUALQUER DE NOSSAS AFILIADAS OU LICENCIANTES SERÃO RESPONSÁVEIS POR QUAISQUER DANOS INDIRETOS, INCIDENTAIS, ESPECIAIS, CONSEQUENCIAIS, OU EXEMPLARES, INCLUINDO DANOS POR PERDA DE LUCROS, BOA VONTADE, USO, OU DADOS OU OUTRAS PERDAS, MESMO QUE NÓS TENHAMOS SIDO AVISADOS DA POSSIBILIDADE DE TAIS DANOS. A NOSSA RESPONSABILIDADE AGREGADA NOS TERMOS AQUI NÃO EXCEDERÁ O MONTANTE QUE VOCÊ PAGOU PELO SERVIÇO QUE DEU ORIGEM À RECLAMAÇÃO DURANTE OS 12 MESES ANTERIORES À RESPONSABILIDADE SURGIDA OU CEM DÓLARES ($100). AS LIMITAÇÕES DESTA SEÇÃO SE APLICAM APENAS ATÉ O LIMITE MÁXIMO PERMITIDO PELA LEGISLAÇÃO APLICÁVEL.
+NEM NÓS NEM NENHUM DE NOSSOS AFILIADOS OU LICENCIANTES SEREMOS RESPONSÁVEIS POR QUAISQUER DANOS INDIRETOS, INCIDENTAIS, ESPECIAIS, CONSEQUENCIAIS OU EXEMPLARES, INCLUSIVE DANOS POR PERDA DE LUCROS, DE FUNDO DE COMÉRCIO, DE USO, DE DADOS OU OUTRAS PERDAS, MESMO QUE TENHAMOS SIDO AVISADOS DA POSSIBILIDADE DE TAIS DANOS. NOSSA RESPONSABILIDADE AGREGADA, NOS TERMOS AQUI ESTABELECIDOS, NÃO EXCEDERÁ O VALOR MAIS ELEVADO ENTRE O MONTANTE QUE VOCÊ PAGOU PELO SERVIÇO QUE DEU ORIGEM À RECLAMAÇÃO DURANTE OS 12 MESES ANTERIORES AO SURGIMENTO DA RESPONSABILIDADE OU CEM DÓLARES AMERICANOS (US$ 100). AS LIMITAÇÕES DESTA SEÇÃO SE APLICAM APENAS NO LIMITE MÁXIMO PERMITIDO PELA LEI APLICÁVEL.
 
-Alguns países e estados não permitem a exclusão de certas garantias ou a limitação face a determinados danos, de modo que parte ou o total dos termos acima podem não se aplicar a você e você pode ter direitos adicionais. Nesse caso, estes Termos apenas limitam nossas responsabilidades até ao limite máximo permitido em seu país de residência.
+Alguns países e estados não permitem a exclusão de certas garantias ou a limitação de certos danos, portanto, alguns ou todos os termos acima podem não se aplicar a você, e você pode ter direitos adicionais. Nesse caso, estes Termos limitam as nossas responsabilidades apenas ao máximo permitido pela legislação do seu país de residência.
 
-AS AFILIADAS, FORNECEDORES, LICENCIANTES E DISTRIBUIDORES DA OPENAI SÃO TERCEIROS BENEFICIÁRIOS DESTA SEÇÃO.
+AS AFILIADAS, FORNECEDORES, LICENCIANTES E DISTRIBUIDORES DA OPENAI SÃO TERCEIROS BENEFICIÁRIOS INTENCIONAIS DESTA SEÇÃO.
 
 ## Indenização
 
-Se você for uma empresa ou organização, na medida do que for permitido por lei, você irá indenizar e eximir nossas afiliadas e a nossa equipe de quaisquer custos, perdas, responsabilidades e despesas (incluindo honorários advocatícios) decorrentes de reclamações de terceiros, resultantes ou relacionadas ao seu uso dos Serviços e Conteúdo ou de qualquer violação destes Termos.
+Se você for uma empresa ou organização, na medida permitida por lei, você deverá indenizar e isentar de responsabilidade a nós, nossas afiliadas e nossos funcionários, de quaisquer custos, perdas, responsabilidades e despesas (incluindo honorários advocatícios) decorrentes de reclamações de terceiros relacionadas ao seu uso dos Serviços e Conteúdo ou a qualquer violação destes Termos.
 
-## Resolução de Disputas
+## Resolução de litígios
 
-**VOCÊ E A OPENAI CONCORDAM COM AS SEGUINTES DISPOSIÇÕES OBRIGATÓRIAS DE ARBITRAGEM E RENÚNCIA DE AÇÃO COLETIVA**:
+VOCÊ E A OPENAI CONCORDAM COM AS SEGUINTES CLÁUSULAS DE ARBITRAGEM OBRIGATÓRIA E RENÚNCIA A AÇÕES COLETIVAS:
 
-**ARBITRAGEM OBRIGATÓRIA**. Você e a OpenAI concordam em resolver qualquer reclamação decorrente ou relacionada a estes Termos ou aos nossos Serviços, independentemente de quando a reclamação surgiu, mesmo que tenha sido antes da existência destes Termos (uma "Disputa"), por meio de arbitragem final e vinculativa. Você pode optar por não participar da arbitragem dentro de 30 dias após a criação da conta ou de qualquer atualização desses termos de arbitragem dentro de 30 dias após a entrada em vigor da atualização, preenchendo este formulário⁠(abre em uma nova janela). Se você optar por não participar de uma atualização, os últimos termos de arbitragem acordados serão aplicados.
+Arbitragem obrigatória. Você e a OpenAI concordam em resolver quaisquer disputas decorrentes ou relacionadas a estes Termos ou aos nossos Serviços, independentemente de quando a disputa surgiu, mesmo que tenha sido antes da existência destes Termos (uma “Disputa”), por meio de arbitragem final e vinculativa. Você pode optar por não participar da arbitragem dentro de 30 dias após a criação da conta ou de qualquer atualização destes termos de arbitragem dentro de 30 dias após a entrada em vigor da atualização, preenchendo este formulário⁠. Se você optar por não aceitar uma atualização, os últimos termos de arbitragem acordados serão aplicados.
 
-**Resolução Alternativa de Disputas**. Gostaríamos de entender e tentar resolver suas preocupações antes de tomar medidas legais formais. Antes que qualquer um de nós apresente uma reclamação contra o outro, concordamos em tentar resolver a Disputa de forma alternativa. Você concorda em fazer isso nos enviando um aviso por meio deste formulário⁠(abre em uma nova janela). Faremos isso enviando um aviso para o endereço de e-mail associado à sua conta. Se não conseguirmos resolver uma Disputa dentro de 60 dias, qualquer um de nós tem o direito de iniciar a arbitragem. Também concordamos em participar de uma conferência de acordo individual se qualquer uma das partes solicitar durante esse período. Qualquer prazo de prescrição será suspenso durante esse processo de resolução informal.
+Resolução informal de disputas. Gostaríamos de entender e tentar resolver suas preocupações antes de tomarmos medidas legais formais. Antes que qualquer um de nós apresente uma queixa contra o outro, ambos concordamos em tentar resolver a disputa informalmente. Ao enviar-nos uma notificação através deste formulário⁠, você concorda com isso. Faremos isso enviando um aviso para o endereço de e-mail associado à sua conta. Caso não consigamos resolver uma disputa em 60 dias, qualquer uma das partes terá o direito de iniciar um processo de arbitragem. Ambas as partes concordam em participar de uma audiência de conciliação individual, caso alguma delas a solicite durante esse período. Qualquer prazo prescricional será suspenso durante este processo de resolução informal.
 
-**Foro de Arbitragem**. Se não conseguirmos resolver a Disputa, qualquer um de nós pode iniciar a arbitragem com a National Arbitration and Mediation ("NAM") de acordo com suas Regras e Procedimentos Abrangentes de Resolução de Disputas e/ou Regras Suplementares para Arquivamentos de Arbitragem em Massa, conforme aplicável (disponíveis aqui⁠(abre em uma nova janela)). A OpenAI não buscará honorários advocatícios e custos na arbitragem, a menos que o árbitro determine que sua reclamação não é essencial. As atividades descritas nestes Termos envolvem comércio interestadual e a Lei de Arbitragem Federal regerá a interpretação e aplicação desses termos de arbitragem e qualquer arbitragem.
+Fórum de arbitragem. Caso não consigamos resolver a disputa, qualquer uma das partes poderá iniciar um processo de arbitragem junto à National Arbitration and Mediation (“NAM”), de acordo com suas Regras e Procedimentos Abrangentes de Resolução de Disputas e/ou Regras Suplementares para Processos de Arbitragem em Massa, conforme aplicável (disponíveis aqui⁠(abre em uma nova janela)).
 
-**Procedimentos de Arbitragem**. A arbitragem será conduzida por videoconferência, se possível, mas se o árbitro determinar que uma audiência deve ser realizada pessoalmente, o local será acordado mutuamente, no local onde você reside, ou conforme determinado pelo árbitro, a menos que o processo de arbitragem em lote se aplique. A arbitragem será conduzida por um único árbitro. O árbitro será um juiz aposentado ou um advogado licenciado para exercer a advocacia no estado da Califórnia. O árbitro terá autoridade exclusiva para resolver qualquer Disputa, exceto os tribunais estaduais ou federais de São Francisco, Califórnia, têm a autoridade para determinar qualquer disputa sobre a aplicabilidade, validade da renúncia à ação coletiva ou solicitações de medidas cautelares públicas, conforme estabelecido abaixo. Quaisquer valores de oferta de acordo não serão divulgados ao árbitro por nenhuma das partes até que o árbitro determine a decisão final, se houver. O árbitro tem a autoridade para conceder pedidos que resolvam total ou parcialmente qualquer disputa.
+A OpenAI não buscará o reembolso de honorários advocatícios e custas processuais em arbitragem, a menos que o árbitro determine que sua reclamação é infundada. As atividades descritas nestes Termos envolvem comércio interestadual, e a Lei de Arbitragem Federal regerá a interpretação e a aplicação destes termos de arbitragem e de qualquer arbitragem.
 
-**Exceções**. Esta seção não exige a resolução alternativa de disputas ou arbitragem das seguintes reivindicações: (i) reivindicações individuais apresentadas em tribunal de pequenas causas (juizados especiais cíveis); e (ii) medidas cautelares ou outras medidas equivalentes para interromper o uso não autorizado ou abuso dos Serviços ou violação ou apropriação indevida de propriedade intelectual.
+Procedimentos de arbitragem. A arbitragem será conduzida por videoconferência, se possível, mas se o árbitro determinar que a audiência deve ser realizada presencialmente, o local será acordado mutuamente, no condado onde você reside, ou conforme determinado pelo árbitro, a menos que se aplique o processo de arbitragem em lote. A arbitragem será conduzida por um árbitro único. O árbitro será um juiz aposentado ou um advogado licenciado para exercer a advocacia no estado da Califórnia. O árbitro terá autoridade exclusiva para resolver qualquer Disputa, exceto que os tribunais estaduais ou federais de São Francisco, Califórnia, terão autoridade para determinar qualquer Disputa sobre a aplicabilidade, validade da renúncia à ação coletiva ou pedidos de tutela inibitória pública, conforme estabelecido abaixo. Os valores das propostas de acordo não serão divulgados ao árbitro por nenhuma das partes até que este determine a sentença final, se houver. O árbitro tem autoridade para conceder decisões que resolvam, total ou parcialmente, qualquer disputa.
 
-**RENÚNCIA À AÇÃO COLETIVA E JULGAMENTO POR JÚRI**. Você e a OpenAI concordam que as disputas devem ser apresentadas apenas individualmente e não podem ser apresentadas como autor ou membro de uma suposta ação coletiva, consolidada ou representativa. Arbitragens coletivas, ações coletivas e ações representativas são proibidas. Somente ações individuais serão aceitas. As partes concordam em separar e litigar no tribunal qualquer solicitação de medida cautelar pública após a conclusão da arbitragem para a reivindicação subjacente e todas as outras reivindicações. Isso não impede que qualquer uma das partes participe de um acordo em âmbito coletivo. Você e a OpenAI renunciam consciente e irrevogavelmente a qualquer direito a julgamento por júri em qualquer ação, processo ou reconvenção.
+Exceções. Esta seção não exige resolução informal de disputas ou arbitragem das seguintes reivindicações: (i) reivindicações individuais apresentadas em juizados de pequenas causas; e (ii) medidas cautelares ou outras medidas equitativas para impedir o uso não autorizado ou abuso dos Serviços ou violação ou apropriação indevida de propriedade intelectual.
 
-**Arbitragem em Lote**. Se 25 ou mais reclamantes representados pelo mesmo ou similar advogado apresentarem demandas de arbitragem levantando disputas substancialmente semelhantes dentro de 90 dias um do outro, então você e a OpenAI concordam que a NAM irá administrá-las em lotes de até 50 reclamantes cada ("Lote"), a menos que haja menos de 50 reclamantes no total ou após a formação dos lotes, o que compreenderá um único Lote. A NAM administrará cada Lote como uma única arbitragem consolidada com um único árbitro, uma única taxa de arbitragem e uma única audiência realizada por videoconferência ou em um local decidido pelo árbitro para cada Lote. Se qualquer parte desta seção for considerada inválida ou inexequível em relação a um reclamante ou Lote específico, ela será separada e arbitrada em procedimentos individuais.
+RENÚNCIAS A AÇÕES COLETIVAS E A JULGAMENTOS POR JÚRI. Você e a OpenAI concordam que as disputas devem ser apresentadas apenas em caráter individual e não podem ser apresentadas como demandante ou membro de uma ação coletiva, consolidada ou representativa. Arbitragens coletivas, ações coletivas e ações representativas são proibidas. Apenas o auxílio individual está disponível. As partes concordam em separar e litigar em juízo qualquer pedido de tutela inibitória pública após a conclusão da arbitragem relativa à reclamação subjacente e a todas as demais reclamações. Isso não impede que nenhuma das partes participe de um acordo coletivo. Você e a OpenAI renunciam, de forma consciente e irrevogável, a qualquer direito a julgamento por júri em qualquer ação, processo ou reconvenção.
 
-**Divisibilidade**. Se qualquer parte destes termos de arbitragem for considerada ilegal ou inexequível, o restante permanecerá em vigor, exceto que se uma constatação de ilegalidade ou inexequibilidade parcial permitir a arbitragem coletiva, ação coletiva ou ação representativa, esta seção de resolução de disputas será inaplicável em sua totalidade.
+Arbitragem em lote. Se 25 ou mais requerentes representados pelo mesmo advogado ou por advogados semelhantes apresentarem pedidos de arbitragem que apresentem disputas substancialmente semelhantes dentro de um período de 90 dias, você e a OpenAI concordam que a NAM administrará esses pedidos em lotes de até 50 requerentes cada ("Lote"), a menos que haja menos de 50 requerentes no total ou após o agrupamento, o que constituirá um único Lote. A NAM administrará cada lote como uma única arbitragem consolidada, com um árbitro, um conjunto de taxas de arbitragem e uma audiência realizada por videoconferência ou em um local decidido pelo árbitro para cada lote. Se qualquer parte desta seção for considerada inválida ou inexequível em relação a um reclamante ou Lote específico, ela será separada e arbitrada em procedimentos individuais.
 
-## Reclamações de Direitos Autorais
+Severabilidade. Caso alguma parte destes termos de arbitragem seja considerada ilegal ou inexequível, o restante permanecerá em vigor, exceto se a constatação de ilegalidade ou inexequibilidade parcial permitir arbitragem coletiva, ação coletiva ou ação representativa, caso em que toda esta seção de resolução de disputas será considerada inexequível em sua totalidade.
 
-Se você acredita que seus direitos de propriedade intelectual foram violados, por favor, envie uma notificação para o endereço abaixo ou preencha este formulário. Podemos excluir ou desativar conteúdo que acreditamos violar estes Termos ou que seja alegado como infrator e iremos encerrar contas de infratores reincidentes, quando apropriado.
+## Reclamações de direitos autorais
 
-> OpenAI, L.L.C.
-> 1455 3rd Street
-> San Francisco, California 94158
-> Attn: Conselheiro Geral / Agente de Direitos Autorais
+Se você acredita que seus direitos de propriedade intelectual foram violados, envie uma notificação para o endereço abaixo ou preencha este formulário⁠. Podemos excluir ou desativar conteúdo que acreditamos violar estes Termos ou que seja supostamente infrator, e encerraremos as contas de infratores reincidentes quando apropriado.
 
-As reclamações por escrito relacionadas a violação de direitos autorais devem incluir as seguintes informações:
+*OpenAI OpCo, LLC
+ 1455 3ª Rua
+ São Francisco, CA 94158
+ A/C: Consultor Jurídico / Agente de Direitos Autorais*
 
-- Assinatura física ou eletrônica da pessoa autorizada a agir em nome do titular do direito de autor;
-- Descrição da obra protegida por direito de autor que alega ter sido infringida;
-- Descrição de onde, no nosso website, está localizado o material que alegadamente esteja em infração, para que possamos encontrá-lo;
-- Seu endereço, número de telefone e e-mail;
-- Uma declaração sua de que acredita de boa-fé que o uso contestado não é autorizado pelo titular dos direitos autorais, seu agente ou pela lei; e
-- Uma declaração sua de que as informações acima em sua notificação são precisas e, sob pena de falsificação, que você é o titular dos direitos autorais ou está autorizado a agir em nome do titular dos direitos autorais.
+As notificações por escrito relativas à violação de direitos autorais devem incluir as seguintes informações:
 
-## Termos Gerais
+- Assinatura física ou eletrônica da pessoa autorizada a agir em nome do titular dos direitos autorais.
+- Uma descrição da obra protegida por direitos autorais que você alega ter sido infringida.
+- Uma descrição de onde o material supostamente infrator está localizado em nosso site para que possamos encontrá-lo.
+- Seu endereço, número de telefone e endereço de e-mail.
+- Uma declaração sua de que acredita de boa-fé que o uso contestado não é autorizado pelo proprietário dos direitos autorais, seu agente ou pela lei.
+- Uma declaração sua de que as informações acima contidas em sua notificação são precisas e, sob pena de perjúrio, de que você é o proprietário dos direitos autorais ou está autorizado a agir em nome do proprietário dos direitos autorais.
 
-**Cessão**. Você não pode ceder ou transferir quaisquer direitos ou obrigações sob estes Termos e qualquer tentativa de fazê-lo será nula. Podemos atribuir nossos direitos ou obrigações sob estes Termos a qualquer afiliada, subsidiária ou sucessora de qualquer negócio associado aos nossos Serviços.
+## Termos Gerais.
 
-**Alterações nestes Termos ou em Nossos Serviços**. Estamos constantemente trabalhando para desenvolver e melhorar nossos Serviços. Podemos atualizar estes Termos ou nossos Serviços periodicamente. Por exemplo, poderemos fazer alterações nestes Termos ou nos Serviços devido a:
+Cessão. Você não poderá ceder ou transferir quaisquer direitos ou obrigações decorrentes destes Termos, e qualquer tentativa nesse sentido será considerada nula. Podemos ceder nossos direitos ou obrigações sob estes Termos a qualquer afiliada, subsidiária ou sucessora de qualquer negócio associado aos nossos Serviços.
 
-- Alterações na lei ou nos requisitos regulatórios.
-- Razões de segurança ou precaução.
-- Circunstâncias além do nosso controle razoável.
-- Alterações que fizermos no curso normal de desenvolvimento de nossos Serviços.
-- Adaptações a novas tecnologias.
+Alterações a estes Termos ou aos nossos Serviços. Estamos em constante trabalho para desenvolver e aprimorar nossos serviços. Podemos atualizar estes Termos ou os nossos Serviços periodicamente. Por exemplo, podemos fazer alterações a estes Termos ou aos Serviços devido a:
 
-Nós o avisaremos com pelo menos 30 dias de antecedência sobre as alterações a estes Termos que afetem materialmente você, seja por e-mail ou por uma notificação. Todas as outras alterações entrarão em vigor assim que as publicarmos em nosso site. Caso não concorde com as alterações, você deve deixar de utilizar os nossos Serviços.
+- Alterações na legislação ou nos requisitos regulamentares.
+- Por razões de segurança.
+- Circunstâncias fora do nosso controle razoável.
+- Alterações que fazemos no curso normal do desenvolvimento dos nossos Serviços.
+- Adaptar-se às novas tecnologias.
 
-**Atraso na aplicação destes Termos**. A nossa falta de aplicação de uma disposição não significa uma renúncia ao nosso direito de fazê-lo posteriormente. Exceto conforme previsto na resolução de disputas seção acima, se qualquer parte destes Termos for considerada inválida ou inexequível, essa parte será aplicada na medida máxima permitida e não afetará a aplicabilidade de quaisquer outros termos.
+Iremos notificá-lo com pelo menos 30 dias de antecedência sobre quaisquer alterações a estes Termos que o afetem negativamente de forma significativa, seja por e-mail ou por meio de uma notificação no produto. Todas as demais alterações entrarão em vigor assim que as publicarmos em nosso site. Caso não concorde com as alterações, deverá interromper a utilização dos nossos Serviços.
 
-**Controles Comerciais**. Você deve cumprir todas as leis comerciais aplicáveis, incluindo sanções e leis de controle de exportação. Nossos Serviços não podem ser usados em, ou para benefício de, ou exportado ou reexportado para (a) qualquer país ou território embargado pelos EUA ou (b) qualquer indivíduo ou entidade com quem as negociações sejam proibidas ou restrito pelas leis comerciais aplicáveis. Nossos Serviços não podem ser usados para qualquer finalidade proibida por leis comerciais aplicáveis, e sua Contribuição não pode incluir material ou informações que exijam uma licença governamental para divulgação ou exportação.
+Atraso na aplicação destes Termos. O fato de não termos exigido o cumprimento de uma disposição não constitui uma renúncia ao nosso direito de fazê-lo posteriormente. Exceto conforme previsto na seção de resolução de disputas acima, se qualquer parte destes Termos for considerada inválida ou inexequível, essa parte será aplicada na máxima extensão permitida e não afetará a aplicabilidade de quaisquer outros termos.
 
-**Acordo completo**. Estes Termos contêm o acordo completo entre você e OpenAI em relação aos Serviços e, exceto por quaisquer termos específicos do Serviço, substitui quaisquer acordos anteriores ou contemporâneos entre você e OpenAI.
+Controles comerciais. Você deve cumprir todas as leis comerciais aplicáveis, incluindo as leis de sanções e de controle de exportação. Nossos Serviços não podem ser usados em, nem para benefício de, nem exportados ou reexportados para (a) qualquer país ou território embargado pelos EUA ou (b) qualquer indivíduo ou entidade com quem as negociações sejam proibidas ou restritas pelas leis comerciais aplicáveis. Nossos Serviços não podem ser usados para qualquer finalidade proibida pelas leis comerciais aplicáveis, e suas contribuições não podem incluir material ou informações que exijam uma licença governamental para divulgação ou exportação.
 
-**Lei aplicável**. A lei da Califórnia regerá estes Termos, exceto por seus conflitos de princípios de leis. Exceto conforme previsto na seção de resolução de disputas acima, todas as reivindicações decorrentes ou relacionadas a estes Termos serão apresentadas exclusivamente nos tribunais federais ou estaduais de São Francisco, Califórnia.
+Acordo integral. Estes Termos contêm o acordo integral entre você e a OpenAI em relação aos Serviços e, exceto por quaisquer termos específicos do Serviço, substituem quaisquer acordos anteriores ou contemporâneos entre você e a OpenAI.
+
+Legislação aplicável. A legislação da Califórnia regerá estes Termos, exceto no que diz respeito aos seus princípios de conflito de leis. Exceto conforme disposto na seção de resolução de disputas acima, todas as reivindicações decorrentes ou relacionadas a estes Termos serão apresentadas exclusivamente nos tribunais federais ou estaduais de São Francisco, Califórnia.
