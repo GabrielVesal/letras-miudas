@@ -3,8 +3,8 @@ empresa: "WhatsApp"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
-capturado_em: 2026-01-18
-wayback: "https://web.archive.org/web/20260118165404/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
+capturado_em: 2026-02-11
+wayback: "https://web.archive.org/web/20260211205847/https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/politica-de-privacidade.md"
 ---
 
@@ -148,8 +148,8 @@ WhatsApp LLC
 
 Privacy Policy
 
-1601 Willow Road
+1 Meta Way
 
-Menlo Park, California 94025
+Menlo Park, CA 94025
 
 United States of America
