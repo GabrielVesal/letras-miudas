@@ -3,12 +3,12 @@ empresa: "Roblox"
 documento: "Termos de Uso"
 categoria: "Jogos"
 fonte: "https://en.help.roblox.com/hc/pt-br/articles/115004647846-Termos-de-Uso-da-Roblox"
-capturado_em: 2025-12-20
-wayback: "https://web.archive.org/web/20251220213246/https://en.help.roblox.com/hc/pt-br/articles/115004647846-Termos-de-Uso-da-Roblox"
+capturado_em: 2026-02-17
+wayback: "https://web.archive.org/web/20260217184640/https://en.help.roblox.com/hc/pt-br/articles/115004647846-Termos-de-Uso-da-Roblox"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/termos-de-uso.md"
 ---
 
-Data de entrada em vigor: 19 de dezembro de 2025 Última atualização: 19 de dezembro de 2025
+Data de entrada em vigor: 19 de dezembro de 2025 Última atualização: 7 de janeiro de 2026
 
 A versão em inglês é o documento principal, a menos que seja declarado de forma diferente. Traduções são fornecidas para facilitar a compreensão.
 
@@ -46,6 +46,7 @@ Os Termos da Roblox consistem no seguinte:
  - **Europa.** Estes termos aplicam-se aos Usuários localizados na UE/no EEE.
  - **Reino Unido.** Estes termos aplicam-se aos Usuários localizados no Reino Unido.
  - **Vietnã.** A Parte A destes termos se aplica a Usuários localizados no Vietnã. A Parte B destes termos rege a publicação de CGU de Criador no Vietnã e se aplica a todos os Criadores, estejam eles localizados dentro ou fora do Vietnã.
+ - **Austrália**. Estes termos aplicam-se aos Usuários localizados na Austrália.
 
 Além de outros Termos adicionais, que podem ser aplicáveis, dependendo de como você utiliza os Serviços, podendo exigir consentimento separado. Esses termos incluem, mas não se limitam a:
 
