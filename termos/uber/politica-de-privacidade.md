@@ -2,7 +2,7 @@
      Fonte: https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-***Última atualização: 20 de janeiro de 2026***
+***Última atualização: 11 de fevereiro de 2026***
 
 # Aviso de Privacidade da Uber: Passageiros e destinatários de pedidos
 
@@ -311,7 +311,7 @@ Isso pode incluir o compartilhamento de dados com:
 | --- | --- |
 | **Seu motorista parceiro** | - Conta - Nome - Avaliação - Locais de partida e/ou destino - Configurações (inclusive de acessibilidade) e preferências |
 | **Outros usuários durante viagens compartilhadas ou destinatários de presentes** | - Conta - Nome |
-| **Restaurantes/estabelecimentos onde você faz o pedido e o entregador parceiro** | - Conta - Nome - Informações do pedido - Endereço de entrega (inclusive com restaurantes/estabelecimentos que fazem entregas com os próprios entregadores para atender ao seu pedido) - Itens solicitados (que podem incluir receita médicas) - Instruções especiais, alergias ou preferências alimentares - Conteúdo do usuário - Comentários - Fotos enviadas para fins de atendimento ao usuário - Avaliações |
+| **Restaurantes/estabelecimentos onde você faz o pedido e o entregador parceiro** | - Conta - Nome - Informações do pedido - Endereço de entrega (inclusive em pedidos feitos em restaurantes/comerciantes que utilizam seus próprios entregadores para realizar a entrega) - Itens pedidos (que podem incluir prescrições de medicamentos) - Instruções especiais, alergias ou preferências alimentares - Conteúdo do usuário - Feedback - Fotos enviadas para fins de suporte - Avaliações |
 | **O titular de qualquer conta da Uber que você use.** Isso inclui o uso de uma Conta sênior, de uma Uber conta teens ou de qualquer conta vinculada a um Perfil Familiar. Isso também inclui o caso de você solicitar ou receber um serviço de viagem ou entrega como Usuário Convidado. Além disso, se você criar uma conta usando um endereço de e-mail afiliado a um titular de conta da Uber para Empresas (ou seja, seu empregador), nós poderemos compartilhar os dados da sua conta (como nome e endereço de e-mail) com esse titular para ajudar você com as despesas de viagens ou pedidos dessa conta da Uber para Empresas.\* Também poderemos compartilhar informações com o titular da conta sobre questões relacionadas à sua viagem, como incidentes de segurança ou reclamações. | - Conta - Viagem/pedido |
 | **Outros destinatários no seu pedido em grupo** | - Conta - Nome - Informações do pedido - Itens solicitados - Instruções especiais ou informações sobre alergias |
 | **Pessoas que indicam você para a Uber.** Podemos compartilhar seus dados conforme necessário para determinar o valor promocional deles devido à indicação | - Viagem/pedido - Número de viagens |
@@ -414,25 +414,25 @@ Geralmente, nós excluímos dados até 90 dias depois da solicitação de exclus
 
 **1. Configurações de privacidade**
 
-Você pode definir ou atualizar suas preferências relacionadas à coleta e ao compartilhamento de dados de localização, ao compartilhamento de dados para emergência e a notificações na Central de Privacidade da Uber, que pode ser acessada em Conta > Configurações > Privacidade nos apps da Uber.
+Você pode definir ou atualizar suas preferências sobre coleta e compartilhamento de dados de localização, compartilhamento de dados em situações de emergência e notificações no Centro de Privacidade da Uber, acessível em Conta > Configurações > Privacidade nos apps da Uber.
 
 - Coleta de dados de localização
 
- Você pode habilitar/desabilitar a coleta que a Uber faz dos dados de localização do seu dispositivo móvel nas configurações do dispositivo, que podem ser acessadas no menu Compartilhamento de localização na Central de Privacidade da Uber.
+ Você pode ativar ou desativar a coleta de dados de localização do seu dispositivo móvel pela Uber nas configurações do seu aparelho, acessíveis pelo menu Compartilhamento de localização no Centro de Privacidade da Uber.
 - Compartilhar localização em tempo real
 
- Você pode ativar/desativar o compartilhamento pela Uber dos dados de localização em tempo real do seu dispositivo móvel com os motoristas parceiros ou entregadores parceiros nas configurações do dispositivo, que podem ser acessadas no menu Compartilhamento de localização na Central de Privacidade da Uber.
+ Você pode ativar ou desativar o compartilhamento em tempo real dos dados de localização do seu dispositivo móvel com os motoristas parceiros ou entregadores pelas configurações do seu aparelho, acessíveis pelo menu de Compartilhamento de localização no Centro de Privacidade da Uber.
 - Identidade de gênero
 
- Você pode atualizar suas informações de gênero no menu Identidade de gênero na Central de Privacidade da Uber.
+ Você pode atualizar suas informações de gênero pelo menu Identidade de Gênero no Centro de Privacidade do app da Uber.
 - Compartilhamento de dados em casos de emergência
 
- Você pode permitir que a Uber compartilhe seus dados com serviços de emergência, como polícia, corpo de bombeiros e serviços de ambulância durante uma viagem, se necessário. Se você fizer isso, nós compartilharemos dados como seu nome e número de telefone; localização aproximada no momento em que a chamada de emergência foi feita; marca, modelo, cor e placa do carro; locais de partida e chegada; e o nome do motorista parceiro.
+ Você pode permitir que a Uber compartilhe seus dados com serviços de emergência da polícia, bombeiros e ambulância, se necessário durante uma viagem. Caso faça isso, compartilharemos dados como seu nome e número de telefone; localização aproximada no momento em que a chamada de emergência foi feita; marca, modelo, cor e placa do carro; locais de embarque e desembarque; e o nome do motorista parceiro.
 
- Você pode ativar/desativar esse recurso no menu Compartilhamento de localização na Central de privacidade da Uber.
+ Você pode ativar ou desativar esse recurso pelo menu Compartilhamento de localização no Centro de Privacidade da Uber.
 - Notificações: benefícios e novidades
 
- Você pode permitir que a Uber envie notificações push sobre reduções e novidades aqui ou no menu Anúncios e dados da Central de Privacidade da Uber.
+ Você pode permitir que a Uber envie notificações push sobre promoções e novidades da Uber aqui ou no menu de Anúncios e Dados no app da Uber Central de Privacidade.
 - Acesso a apps de terceiros
 
  Você pode autorizar que aplicativos de terceiros acessem os dados da sua conta da Uber para habilitar recursos adicionais. Você pode revisar/revogar o acesso de apps de terceiros aqui.
@@ -443,17 +443,17 @@ A maioria das plataformas de dispositivos móveis (como iOS e Android) definiu q
 
 **3. Páginas de avaliação no app**
 
-Depois de cada viagem, você e seu motorista parceiro podem avaliar um ao outro em uma escala de 1 a 5. Uma média das avaliações que você recebe é mostrada aos motoristas parceiros.
+Após cada viagem, você e o motorista parceiro podem se avaliar mutuamente em uma escala de 1 a 5. A média das avaliações que você recebe é exibida para os motoristas parceiros.
 
-Você pode encontrar sua avaliação média na seção "Conta" do app da Uber, além de acessar um detalhamento dessa média na Central de privacidade da Uber.
+Você pode encontrar sua média de avaliações na seção Conta do app da Uber e também acessar um detalhamento da sua média de avaliações no Centro de Privacidade da Uber.
 
 **4. Opções de marketing e publicidade**
 
 - Comunicações de marketing personalizadas da Uber
 
- Você pode escolher se a Uber pode personalizar as comunicações de marketing (como e-mails, notificações push e mensagens no app) sobre produtos e serviços da Uber aqui ou no menu Anúncios e dados na Central de Privacidade da Uber.
+ Você pode escolher se a Uber pode personalizar comunicações de marketing (como e-mails, notificações push e mensagens no app) sobre produtos e serviços da Uber aqui ou no menu Anúncios e Dados no Centro de Privacidade da Uber.
 
- Você também pode escolher aqui se quer receber e-mails de marketing ou notificações push da Uber.
+ Você também pode escolher aqui se deseja receber e-mails de marketing ou notificações push da Uber.
 - Anúncios personalizados
 
  Você pode escolher se a Uber usará o seu histórico de viagens, pedidos ou pesquisas da Uber para personalizar os anúncios que você verá nos apps da Uber ou Uber Eats e Postmates.
@@ -479,7 +479,7 @@ A Uber oferece várias formas para você conhecer e controlar os seus dados e en
  Você pode editar seu nome, número de telefone, endereço de e-mail, forma de pagamento e foto do perfil no menu "Configurações" dos apps da Uber.
 - Exclusão de dados
 
- Você pode solicitar a exclusão da sua conta por meio da Central de Privacidade da Uber.
+ Você pode solicitar que a Uber exclua sua conta pelo Centro de Privacidade da Uber.
 - Objeções, restrições e reclamações
 
  Você pode solicitar que paremos ou limitemos o uso de todos os seus dados ou de parte deles. Isso inclui contestar o uso que fazemos dos dados baseado em interesses legítimos da Uber. A Uber pode continuar fazendo o processamento de dados após tal objeção ou solicitação na medida necessária para prestar nossos serviços ou conforme exigido ou permitido por lei.
@@ -597,7 +597,7 @@ Viaje
 - Cidades
 
 - Português (Brasil)
-- Des Moines
+- Wichita
 
 © 2026 Uber Technologies Inc.
 
