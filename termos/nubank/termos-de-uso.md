@@ -3,271 +3,362 @@ empresa: "Nubank"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://nubank.com.br/transparencia/termos-de-uso"
-capturado_em: 2025-11-15
-wayback: "https://web.archive.org/web/20251115060231/https://nubank.com.br/transparencia/termos-de-uso"
+capturado_em: 2026-03-13
+wayback: "https://web.archive.org/web/20260313103249/https://nubank.com.br/transparencia/termos-de-uso"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/nubank/termos-de-uso.md"
 ---
 
-Honrando o nosso compromisso de simplicidade e transparência, fizemos o máximo para oferecer um Termo objetivo em uma linguagem simples e direta.
+Nubank
 
-Este Termos de Uso descreve como Você deve utilizar o aplicativo do Nubank e disposições sobre o uso dos produtos, aplicativo e serviços oferecidos pelo Nubank a Você. Ao se tornar cliente Nubank, Você aceita e concorda com as disposições deste Termo. Por isso, indicamos que Você leia atentamente este Termo antes de usar nossos Produtos, Serviços e Aplicativo.
+# Termos de Uso
 
-**Cláusula 1**: traz a qualificação, características, funcionalidades e contato do Nubank;
+Vigência: 23/12/2025
 
-**Cláusula 2**: fala de como deve ser realizado seu cadastro junto ao Nubank, as formas de acesso, utilização da conta e funcionalidades específicas;
+Estes Termos de Uso explicam como você pode usar o aplicativo, os produtos e os serviços do Nubank. Ao se tornar cliente e usar nossos canais, você concorda com estas regras e com os documentos relacionados a estes Termos de Uso.
 
-**Cláusula 3**: descreve como é o relacionamento entre Você, o Nubank e terceiros;
+## 1. Quem é o Nubank e o que você encontra por aqui?
 
-**Cláusula 4**: traz o compromisso para combater o Spam e Phishing;
+O Nubank (Nu Pagamentos S.A. – Instituição de Pagamento, CNPJ 18.236.120/0001-58), com sede na Rua Capote Valente, 39, Pinheiros, São Paulo/SP, cria e disponibiliza o aplicativo, os produtos e os serviços mencionados nestes Termos de Uso. No aplicativo, você pode fazer transações, acompanhar faturas e extratos, consultar saldos, usar cartão de crédito e débito, investir e acessar outras funcionalidades que vamos apresentar ao longo do documento.
 
-**Cláusula 5**: traz informações, responsabilidades e deveres à terceiros para inserir Hiperlinks aos Produtos, Serviços e Aplicativo Nubank;
+**Onde tirar dúvidas e quais documentos fazem parte destes Termos de Uso?**
 
-**Cláusula 6**: traz detalhes sobre a marca e toda a propriedade intelectual do Nubank e as obrigações a serem observadas por Você;
+Se precisar de ajuda, fale com a gente pelos canais oficiais do Nubank Os telefones e demais contatos ficam reunidos na seção “Fale com a gente”, no fim do documento. Para mais informações, você também pode ver a + Política de Privacidade do Nubank e acessar estes Termos de Uso pelos nossos canais.
 
-**Cláusula 7**: traz informações sobre o prazo de utilização e acesso aos Produtos, Serviços e Aplicativo;
+**Quem pode usar nossos serviços?**
 
-**Cláusula 8**: trata sobre a limitação de responsabilidades e excludentes delas, bem como sanções pelo descumprimento;
+**Maiores de 18 anos:** podem contratar e usar os serviços conforme o disposto nestes Termos de Uso.
 
-**Cláusula 9**: é uma cláusula padrão que vem ao final para tratar de diferentes assuntos relacionados aos Serviços, Produtos e Aplicativo Nubank;
+**Menores de 18 anos:** podem contratar e usar os serviços e produtos destinados a esse público, desde que representados e assistidos pelos seus representantes legais.
 
-**Cláusula 10**: trata dos Procedimentos em caso de verificação de atividades ilícitas no ambiente do Nubank;
+**Restrições**
 
-**Cláusula 11**: traz detalhes de como são feitas as comunicações a Você;
+Produtos sem indicação específica para menores não devem ser usados por esse público. Quando forem destinados exclusivamente para menores de idade, o acesso será feito de acordo com as leis e normas aplicáveis, garantindo segurança ao usuário menor de idade, Nubank e representante legal.
 
-**Cláusula 12**: trata sobre a legislação aplicável a este Termo e o Foro para dirimir controvérsias.
+**Responsabilidade do representante**O representante legal é o responsável e responde pela veracidade dos dados e pelo uso feito pelo menor de idade, conforme a lei e estes Termos de Uso.
 
-### 1. Características e Funcionalidades do Nubank
+## 2. Acesso e criação da conta
 
-**a.** A Nu Pagamentos S.A - Instituição de Pagamento (“Nubank”), é a empresa que disponibiliza sua conta de pagamento no Nubank e que também criou e disponibiliza Serviços, Produtos e o Aplicativo Nubank, possuindo sede na Rua Capote Valente, n.º 39, bairro Pinheiros, São Paulo/SP, CEP 05409-000, devidamente inscrito no CNPJ/ME sob o n.º 18.236.120/0001-58.
+Você não paga nada para baixar e usar o aplicativo do Nubank. Para acessar nossos produtos e serviços, siga estes passos:
 
-**b.** Os Produtos e Serviços, bem como o Aplicativo do Nubank possuem diversas funcionalidades, como por exemplo, transações, acesso a faturas, extratos, saldos, cartão de crédito, cartão na função débito, investimentos, entre diversos outros que convidamos Você a descobrir.
+### Como acessar e criar sua conta?
 
-Em caso de dúvidas, contate o Nubank por meio dos canais de atendimento, através do telefone 4020 0185 (capitais e regiões metropolitanas) e pelo 0800 591 2117 (demais localidades) ou chat disponível no nosso aplicativo para celular. Em todos os canais de atendimento nós estamos disponíveis 24 horas por dia, todos os dias da semana.
+**•** Baixe o aplicativo na loja do seu celular ou acesse o + site do Nubank.
 
-Este Termo está disponível para acesso a qualquer momento por Você, no endereço https://www.nubank.com.br. Ainda, aplica-se, naquilo que for compatível, ao presente Termo e na utilização do Aplicativo, o disposto na Política de Privacidade do Nubank.
+**•** Crie sua conta, informe seus dados de acesso.
 
-### 2. Termos e Condições de Uso Específicos
+**•** Defina uma senha pessoal e intransferível.
 
-**2.1.** Agradecemos por se conectar com o Nubank! Você não pagará qualquer tarifa pela utilização do Aplicativo Nubank. Para ter acesso aos produtos e serviços do Nubank, Você deverá fazer o download do Aplicativo Nubank na loja virtual do seu smartphone ou realizar o login através do site oficial do Nubank https://www.nubank.com.br, criar conta e informar os dados para acesso e uma senha pessoal, sigilosa e intransferível. Você não deve, em hipótese alguma, divulgar essa senha para terceiros e é o único responsável pelo uso não autorizado da senha cadastrada.
+**•** Não compartilhe sua senha com ninguém.
 
-**2.2.** Para além do login e senha, o acesso aos Serviços, Produtos e Aplicativo do Nubank poderá ser acompanhado por, biometria ou por meio de sensor de impressões digitais, reconhecimento facial, cadastradas em seu aparelho celular. Qualquer biometria já cadastrada para uso do aparelho celular poderá permitir o acesso aos Serviços, quando aplicável, sendo de sua responsabilidade a desabilitação dessas funções no seu aparelho, caso seja do seu interesse. A biometria poderá permitir o acesso às informações disponíveis nos Serviços, porém não substituirá a senha, quando requerido, na efetivação das transações financeiras realizadas. O Nubank não terá acesso às informações biométricas e facial cadastradas no aparelho celular para acessar os Serviços, podendo ter acesso, contudo, quando forem necessários e cadastrados diretamente em nossos Serviços, Produtos e/ou Aplicativo.
+Lembre-se que a sua conta é de sua responsabilidade e você é o único responsável por tudo que acontecer com a sua conta, especialmente caso seja usada por terceiros.
 
-**2.3.** Quando requisitado, Você deverá preencher os campos de abertura da Conta com informações completas, recentes, válidas e corretas, sendo de sua exclusiva responsabilidade manter todas as informações fornecidas aos Serviços, Produtos e Aplicativo do Nubank permanentemente atualizadas, de forma a sempre refletir os seus dados reais. O Nubank não se responsabiliza por erros no cadastro da sua Conta. Por isso, o Nubank recomenda que Você preencha os dados necessários para abertura de sua Conta com bastante atenção.
+### Como funciona a biometria (digital e facial)?
 
-**2.4.** Tanto o campo de cadastro relacionado ao nome preferencial escolhido por Você, como os nomes de contato da sua lista de contatos não deverão ser compostos por termos ou expressões ofensivas, violentas, discriminatórias, abusivas, difamatórias, com cunho político, religioso, que faça referência ou apologia à pedofilia, terrorismo, palavras que incitem a violência, palavras de baixo calão, palavrões ou ofensas ao nome ou à moral de qualquer terceiro.
+Além do login e da senha, você pode liberar o acesso ao aplicativo do Nubank usando a biometria já existente e cadastrada no seu celular (impressão digital ou reconhecimento facial). A biometria pode destravar o aplicativo e acessar informações, mas não substitui a senha quando ela for exigida para concluir transações.
 
-**2.5.** A sua Conta no Nubank é pessoal e intransferível, sendo protegida por uma senha criada por Você. Cabe a Você manter essa senha confidencial para evitar qualquer acesso indevido às suas informações pessoais, bem como, ser responsável por todas as atividades realizadas com a sua Conta nos Serviços do Nubank. O Nubank não irá solicitar, em qualquer hipótese, seja por e-mail, telefone, WhatsApp, SMS ou qualquer outro aplicativo de mensagem instantânea, sua senha pessoal. Se Você tomar conhecimento do uso não autorizado da sua senha ou Conta, ou de qualquer incidente de segurança, Você deverá entrar em contato com o Nubank imediatamente através dos dados de contato indicados na seção de “notificações” prevista no item 11 deste termo.
+O Nubank não acessa as biometrias que estão salvas no seu aparelho. Se houver coleta de dados biométricos diretamente nos nossos produtos e serviços, isso ocorrerá só quando necessário e conforme a nossa Política de Privacidade.
 
-**2.6.** A Política de Privacidade estabelece as condições em que o Nubank realiza o tratamento dos seus dados pessoais durante o oferecimento dos Serviços, Produtos e Aplicativo, bem como informações sobre os seus direitos enquanto titular desses dados.
+### Como manter seus dados corretos e atualizados?
 
-**2.7.** Todas as informações enviadas por Você serão tratadas com sigilo, segurança e garantia da confidencialidade, podendo ser utilizadas apenas e tão somente para as finalidades descritas em nossa Política de Privacidade sendo autorizado, com a aceitação desses Termos, o acesso dessas informações pelas empresas do Conglomerado Econômico do Nubank.
+Preencha o cadastro com informações verdadeiras, completas e atualizadas. É sua responsabilidade manter seus dados em dia. O Nubank não se responsabiliza por problemas causados por dados informados de forma errada ou que estejam desatualizados.
 
-**2.8.** Você poderá exercer seus direitos, tais como o de exclusão e o de correção de dados incompletos, inexatos ou desatualizados, para manter toda a informação fornecida ao Nubank permanentemente atualizada, para isso indicamos a leitura da nossa Política de Privacidade.
+### Quais cuidados tomar em relação ao nome preferencial e aos nomes da sua lista de contatos?
 
-**2.9.** Menores de Idade O Nubank possui em seu portfólio alguns Produtos e Serviços que possam ser destinados a pessoas menores de idade. A contratação nestes casos deverá ser realizada pelo representante legal do Usuário Menor de Idade. Demais Serviços e Produtos que não possuam informação de destinação específica à menores de idade, não deverão ser utilizados quando não ofertados exclusivamente para este público.
+O seu nome preferencial e os nomes da sua lista de contatos não deverão ser compostos por termos ou expressões ofensivas, violentas, discriminatórias, abusivas, difamatórias, com cunho político, religioso, que faça referência ou apologia à pedofilia, terrorismo, palavras que incitem a violência, palavras de baixo calão, palavrões ou ofensas ao nome ou à moral de qualquer terceiro.
 
-**2.9.1.** A contratação dos Produtos e Serviços destinados exclusivamente para o público menor de idade será feito de acordo com as Leis e Normas aplicáveis, garantindo segurança ao Usuário Menor de Idade, Nubank e representante legal.
+## 3. Como proteger sua conta?
 
-**2.10.** O(A) representante deverá encaminhar suas informações, bem como do menor de idade que represente, ficando responsável pela veracidade das informações prestadas, isentando o Nubank de qualquer responsabilidade nos casos de envio de informações incorretas ou imprecisas.
+### Cuide da sua senha
 
-### 3. Serviços de terceiros
+Sua conta é pessoal e intransferível, por isso recomendamos que você crie uma senha forte, que não deve ser compartilhada e nem anotada em locais acessíveis. O Nubank nunca, em nenhuma hipótese, pede sua senha por e-mail, telefone, WhatsApp, SMS ou outros aplicativos.
 
-**3.1.** Ao utilizar os Produtos, Serviços e Aplicativo do Nubank, Você poderá ter acesso também a serviços de terceiros. Nesse caso, caberá a Você analisar cuidadosamente os termos de uso desses terceiros, sendo o Nubank não responsável pelos serviços desses terceiros, uma vez que são de responsabilidade dos terceiros que os disponibilizam, e serão regidos única e exclusivamente pelos termos de uso a eles aplicáveis, definidos por cada terceiro responsável.
+### Desconfiou de acesso indevido ou de golpe?
 
-**3.2.** O Nubank sempre busca firmar acordos com parceiros confiáveis, mas sempre recomendamos que Você revise o conteúdo dos termos de uso de serviços de terceiros, para entender e compreender suas responsabilidades, direitos, e limitação da responsabilidade do Nubank.
+Fale com a gente pelos canais oficiais indicados ao final deste documento, para que possamos te ajudar nos próximos passos.
 
-**3.3.** Nos casos em que a aceitação dos termos de uso de terceiros seja necessária para a utilização de determinados Serviços ou Produtos ou Aplicativo do Nubank, a não aceitação destes termos pode limitar o seu acesso a esses Serviços
+## 4. Como tratamos seus dados pessoais?
 
-**3.4.** Alguns dos Serviços, Produtos ou Aplicativos do Nubank permitem que Você compartilhe certas informações em redes sociais através dos seus perfis. Nesses casos, Você se compromete a cumprir todos os termos e políticas das redes sociais aplicáveis, de modo que não cabe ao Nubank se responsabilizar por publicações feitas fora de seu ambiente controlado.
+As regras sobre coleta, uso, compartilhamento e proteção dos seus dados estão na nossa + Política de Privacidade do Nubank.
 
-### 4. Compromisso “Antispam” e “Antiphishing”
+Nela você encontra também seus direitos como titular e como exercê-los.
 
-**4.1.** Atuamos de acordo com as boas práticas do mercado. Por isso, recomendamos que, caso Você receba um e-mail, WhatsApp, SMS ou outras comunicações não oficiais em nosso nome e suspeite de fraude, não abra os arquivos anexos e nem clique em qualquer link ou botão.
+### Sigilo e uso das informações
 
-**4.2.** Importante: este endereço de e-mail somente aceita mensagens referentes a fraudes, denúncias e informações sobre possíveis irregularidades ocorridas. Caso tenha alguma dúvida ou queira obter informações sobre outros assuntos, entre em contato com os canais de atendimento descritos no item 11 “notificações” deste Termo.
+Tratamos suas informações com sigilo e segurança e as usamos somente para as finalidades descritas na Política de Privacidade. Com a aceitação destes Termos de Uso, você autoriza o acesso e compartilhamento dentro do conglomerado econômico do Nubank, quando necessário e conforme a lei e a Política de Privacidade.
 
-**4.3.** Por meio deste Termo, Você se obriga a abster-se de:
+### Quais direitos você tem sobre seus dados?
 
-**4.3.1.** obter dados com finalidade publicitária e remeter publicidade de qualquer classe com finalidade de venda ou outras de natureza comercial sem a prévia solicitação e consentimento do Nubank;
+Você pode solicitar, por exemplo, a exclusão e a correção de dados incompletos, inexatos ou desatualizados, para manter toda a informação fornecida ao Nubank permanentemente atualizada.
 
-**4.3.2.** remeter a grupo de pessoas quaisquer mensagens não solicitadas nem consentidas previamente pelo Nubank;
+## 5. Serviços de terceiros
 
-**4.3.3.** enviar cadeias de mensagens eletrônicas não solicitadas nem previamente consentidas pelo Nubank; e
+Alguns recursos do Nubank se conectam a serviços operados por outras empresas - serviços de terceiros. Esses serviços são oferecidos e regidos exclusivamente pelos termos e políticas dos próprios terceiros. O Nubank não é responsável pela disponibilidade, qualidade, conteúdo, segurança, suporte ou por perdas decorrentes do uso desses serviços, por exemplo. Cada serviço possuir suas particularidades, inclusive permitem que você compartilhe certas informações em redes sociais por meio dos seus perfis. Nesse caso, você se compromete a cumprir todos os termos e políticas das redes sociais aplicáveis, de modo que não cabe ao Nubank se responsabilizar por publicações feitas fora de seu ambiente.
 
-**4.3.4.** disponibilizar a terceiros, com qualquer finalidade, dados captados a partir de listas de distribuição, exceto quando obtido o consentimento livre do titular dos dados para uma finalidade específica.
+## O que você precisa fazer antes de usar serviços de terceiros?
 
-**4.4.** Os prejudicados pela recepção de mensagens não solicitadas, relacionadas aos produtos e serviços do Nubank e dirigidas a uma pluralidade de pessoas poderão efetuar sua reclamação e solicitar a sua exclusão da lista de destinatário comunicando tais fatos ao Nubank por meio dos canais de atendimento, através do telefone 4020 0185 (capitais e regiões metropolitanas) e pelo 0800 591 2117 (demais localidades) ou do chat disponível no nosso aplicativo para celular. Em todos os canais de atendimento nós estamos disponíveis 24 horas por dia, todos os dias da semana.
+### Leitura e aceite
 
-### 5. Introdução de "hiperlinks" que permitam o acesso ao Ambiente do Nubank
+Ler e, quando necessário, aceitar os termos e a política de privacidade de terceiros e das redes sociais aplicáveis, sendo de sua responsabilidade analisar essas condições, sem responsabilidade do Nubank pelos serviços prestados por terceiros.
 
-**5.1.** Caso Você se propuser a estabelecer hiperlink ("Hiperlink") entre seu Aplicativo e/ou web page e os Serviços, Produtos e/ou Ambiente do Nubank **,**após devida autorização do Nubank**,** deverá cumprir as seguintes condições e orientações:
+### Compreensão do conteúdo
 
-**5.1.1.** o Hiperlink permitirá única e exclusivamente o acesso ao Produto, Serviço ou Ambiente do Nubank que foi autorizado;
+Entender cobranças, condições de uso, suporte e limitações de responsabilidade do terceiro.
 
-**5.1.2.** não criar um frame sobre o Produto, Serviço e/ou Ambiente Nubank;
+### Recusa de Termos de Terceiros
 
-**5.1.3.** não realizar manifestações ou indicações falsas, inexatas, inverídicas ou incorretas sobre o Nubank, seus administradores, empregados, clientes, parceiros, produtos, serviços e/ou ou Aplicativos, marcas, logotipos etc.;
+Caso você recuse os termos do terceiro, o recurso relacionado pode ficar limitado ou indisponível.
 
-**5.1.4.** Declarar e fazer entender que o Nubank teria autorizado o Hiperlink e que supervisiona, estando ciente de que, sob qualquer forma, a responsabilidade sobre os serviços oferecidos ou colocados à disposição no Ambiente ou Hiperlink será exclusivamente da parte que solicitou, estando o Nubank isento de qualquer responsabilidade;
+## 6. Antispam, Antiphishing e outros compromissos
 
-**5.1.5.** com exceção dos sinais que formarem parte do Hiperlink, o Seu Aplicativo ou web page em que se estabelecer o Hiperlink não conterá nenhuma marca, nome comercial, logotipo, slogan, look and feel ou quaisquer outros sinais pertencentes ao Nubank, exceto se Você for responsável pelo referido Aplicativo ou web page que será disponibilizado o Hiperlink e obter autorização prévia e específica nesse sentido do Nubank;
+### Orientações sobre segurança
 
-**5.1.6.** O Aplicativo ou web page em que estabelecer o Hiperlink não deverá conter informações ou conteúdos ilícitos, discriminatórios, políticos, contrários à ordem pública, bem como não conterá conteúdos contrários aos direitos de terceiros e ou aos Direitos Humanos.
+Caso você receba um e-mail, WhatsApp, SMS ou outras comunicações não oficiais em nosso nome e suspeite de fraude, faça o seguinte:
 
-**5.2.** A existência de um "Hiperlink" não implica, sob hipótese alguma, a existência de qualquer tipo de relação entre o Nubank e o proprietário do Aplicativo ou web page que o contiver, devendo apenas conter a aceitação ou aprovação do Nubank acerca dos conteúdos ou serviços existentes no referido Aplicativo ou web page.
+**•** não clique em links, botões ou anexos.
 
-### 6. Utilização Correta e Propriedade Intelectual
+**•** não compartilhe senhas, códigos ou dados pessoais.
 
-**6.1.** Ao utilizar os produtos e serviços do Nubank, Você estará de acordo que o uso não deve infringir a legislação brasileira vigente, bem como o disposto neste Termo, nossa Política de Privacidade, bem como eventuais Termos e Condições que tenha contratado.
+**•** verifique no aplicativo do Nubank se há alguma notificação sobre o tema.
 
-**6.2.** Você recebeu uma licença limitada, não transferível, não exclusiva, livre de royalties e revogável para baixar, instalar, executar e utilizar o Aplicativo do Nubank em seu dispositivo. Você reconhece e concorda que o Nubank concede à Você uma licença exclusiva para uso, sem contudo, transferir os nossos direitos sobre o Aplicativo e nossos produtos, devendo o Aplicativo ser utilizado somente por Você.
+**•** denuncie pelos nossos canais (veja “Principais canais de contato” na seção final).
 
-**6.3.** Você entende que todas as marcas, logotipos, nomes comerciais, layouts, gráficos e design de interface, imagens, ilustrações, fotografias, apresentações, vídeos, conteúdos de som e áudio, programas de computador, banco de dados, arquivos de transmissão e quaisquer outras informações ou obras protegidas pela legislação aplicável de qualquer espécie disponibilizados no Ambiente do Nubank, são de propriedade intelectual e/ou industrial do Nubank, ou de terceiros que autorizaram/licenciaram sua utilização, sem que a utilização dos nossos produtos e serviços possa ser entendida como autorização para que Você possa citar tais marcas, nomes comerciais e/ou logotipos, sem a devida autorização.
+### Onde denunciar fraudes ou irregularidades?
 
-**6.4.** Os conteúdos existentes nos Ambientes do Nubank estão protegidos por leis e tratados internacionais, sendo vedada sua cópia, reprodução, ou qualquer outro tipo de utilização sem autorização prévia e expressa do Nubank ou de terceiros que autorizaram/licenciaram sua utilização no Aplicativo, sob risco de infringir a legislação vigente, nos termos das Leis n.º 9.610/98, 9.609/98, 9.279/96 e demais regulamentações aplicáveis.
+Use exclusivamente nosso +Canal de Fraude ou algum dos canais oficiais indicados na seção de “Principais canais de contato” ao final deste documento. Assim garantimos o registro e o tratamento correto do seu caso.
 
-**6.5.** Você deverá se abster de obter, ou de tentar obter, os conteúdos supracitados por meios distintos daqueles que, em cada caso, tenham sido colocados à disposição para propósitos lícitos, bem como copiar, ceder, sublicenciar, vender, dar em locação ou em garantia, reproduzir, doar, alienar de qualquer forma, transferir total ou parcialmente, sob quaisquer modalidades, gratuita ou onerosamente, provisória ou permanentemente, os direitos relativos ao Aplicativo Nubank bem como seus produtos e serviços, quaisquer de seus módulos, partes, manuais ou quaisquer informações relativas ao Aplicativo, seus produtos e serviços; retirar ou alterar, total ou parcialmente, os avisos de reserva de direito existentes no Aplicativo e/ou seus produtos e serviços Nubank e na respectiva documentação; realizar qualquer prática de engenharia reversa, descompilação ou desmontagem do Aplicativo Nubank para fins de determinação de estrutura do projeto, código fonte, conceitos e metodologia relacionados ao Aplicativo, seja para modificar ou criar novas funcionalidades a serem adaptadas ao Aplicativo Nubank, seja para incorporá-los a qualquer produto de sua própria criação que sejam derivados ou similares ao Aplicativo e/ou seus produtos e serviços Nubank; ou acessar ou usar o Aplicativo Nubank a fim de construir um produto ou serviço concorrente, copiar quaisquer ideias, características, funções ou gráficos do Aplicativo Nubank.
+### O que você se compromete a não fazer?
 
-**6.6.** Na hipótese em que Você gere qualquer conteúdo por meio e nos Serviços/Aplicativo do Nubank, Você concede ao Nubank uma licença integral, não exclusiva e não onerosa, irretratável e irrevogável, universal, passível de ser sublicenciada e transferida, pelo prazo total de vigência da proteção dos direitos autorais definido pela legislação aplicável, no Brasil e no exterior, sobre todos os direitos autorais, direitos de marcas e outros direitos de propriedade intelectual relacionados a qualquer conteúdo.
+**•** coletar dados para fins publicitários nem enviar publicidade e comunicações comerciais sem solicitação e consentimento prévios do Nubank.
 
-**6.7.** A licença que Você concede ao Nubank compreende todos os direitos de propriedade intelectual, a fim de, inclusive como parte de outro produto ou funcionalidade e sem qualquer limitação: usar, fruir, dispor, reproduzir, distribuir, exibir, executar publicamente, transmitir, criar trabalhos derivados, imprimir, editar, alterar, atualizar, copiar, indexar, remixar, adaptar, traduzir, incorporar em outra obra, condensar, resumir, reduzir, extrair trechos, compilar, ampliar, ou de qualquer forma utilizar o conteúdo em outras modalidades de uso existentes ou que venham a ser inventadas.
+**•** enviar mensagens em massa não solicitadas a grupos de pessoas em nome do Nubank.
 
-**6.8.** Por meio desta licença, o Nubank poderá utilizar, de qualquer forma e a qualquer tempo, em número ilimitado de vezes, qualquer conteúdo gerado por Você, sem que haja, para tanto, necessidade de aviso prévio, de atribuição, de permissão ou de pagamento a Você ou qualquer pessoa e entidade.
+**•** encaminhar correntes ou cadeias de mensagens eletrônicas não solicitadas em nome do Nubank.
 
-**6.9.** Através desta licença, o Nubank poderá também compartilhar o conteúdo disponibilizado em um determinado Serviço com outros serviços, e com suas afiliadas e demais empresas do grupo econômico.
+**•** divulgar a terceiros dados obtidos de listas de distribuição, salvo se houver consentimento livre do titular e finalidade específica.
 
-**6.10.** A licença mencionada não importa em criação de qualquer vínculo trabalhista, societário, de parceria ou associativo entre Você e o Nubank.
+### O que devo fazer caso receba mensagens não solicitadas relacionadas ao Nubank?
 
-### 7. Duração e Finalização de Acesso ao Ambiente Nubank
+Caso você receba mensagens não solicitadas relacionadas ao Nubank, você pode registrar reclamação e solicitar sua exclusão de listas pelos nossos canais oficiais indicados em “Principais canais de contato”, na seção final.
 
-**7.1.** O acesso aos produtos e serviços, bem como Aplicativo do Nubank é concedido à Você por prazo indeterminado. O Nubank, no entanto, está facultado a dar por terminado, suspender ou interromper unilateralmente, a qualquer momento e sem necessidade de prévio aviso, o acesso ao Ambiente e/ou determinados produtos e serviços do Nubank, sem que seja devida qualquer tipo de indenização ou ressarcimento à Você.
+## 7. Hiperlinks para o ambiente do Nubank
 
-**7.2.** O Nubank, ainda, se reserva o direito de recusar ou retirar o acesso ao Aplicativo e/ou seus produtos e serviços, a qualquer momento e sem necessidade de prévio aviso, por iniciativa própria ou por exigência de um terceiro, àqueles Usuários que descumprirem este Termo, bem como nossas Políticas.
+Qualquer hiperlink do seu site ou aplicativo para páginas, produtos ou serviços do Nubank depende de autorização prévia e específica do Nubank.
 
-### 8. Da Limitação e Excludentes de Responsabilidade
+### Quais condições devo cumprir ao criar o hiperlink?
 
-**8.1.** Por conta de questões técnicas e operacionais, o Nubank não pode garantir a disponibilidade, a infalibilidade e a continuidade do funcionamento do Aplicativo, nem garante a utilidade do Aplicativo para a realização de qualquer atividade em concreto. Do mesmo modo, o Nubank não será, em hipótese alguma, responsável por quaisquer danos decorrentes da interrupção do acesso ao Aplicativo, ou por falhas de funcionamento da mesma, nem se responsabiliza pela defraudação da utilidade que os Usuários possam ter atribuído ao Aplicativo, pela falibilidade das mesmas, nem por qualquer dificuldade de acesso.
+Ao receber autorização, você se compromete a:
 
-**8.2.** O Nubank utiliza as melhores práticas recomendadas de mercado para manter seguros todos seus dados inseridos no Aplicativo e/ou em seus produtos e serviços Nubank, no entanto, não garantem que terceiros não autorizados não farão uso de meios ilícitos para obter indevidamente tais informações.
+**• Direcionamento correto:** criar links que levem única e exclusivamente ao acesso do produto, serviço ou ambiente do Nubank que foi autorizado.
 
-**8.3.** Assim, o Nubank se exime de responsabilidade pelos danos e prejuízos de toda natureza que possam decorrer do conhecimento que terceiros não autorizados possam ter de quaisquer das informações repassadas, em decorrência de falha exclusivamente atribuível à Você ou a terceiros que fujam a qualquer controle razoável do Nubank.
+**• Sem frames:** não criar frame ou mecanismo similar que altere a apresentação ou identidade do ambiente do Nubank.
 
-**8.4.** Você concorda em defender, indenizar e manter indene o Nubank, seus diretores, empregados e agentes, de e contra quaisquer encargos, ações ou demandas, incluindo, exemplificativamente, honorários advocatícios razoáveis, resultantes: (i) da eventual utilização indevida do Aplicativo e/ou dos produtos e serviços Nubank causado exclusivamente por sua conduta; (ii) da violação das condições ora pactuadas; (iii) qualquer atividade da qual Você participe ou por meio dos Serviços; e (iv) a violação de qualquer lei ou dos direitos de terceiro.
+**• Sem declarações enganosas:** não fazer afirmações falsas, inexatas ou enganosas sobre o Nubank, seus times, clientes, parceiros, produtos, serviços, aplicativos ou marcas.
 
-**8.5.** O Nubank declara que não se responsabilizará pelas seguintes situações:
+**• Sem uso indevido de marca:** fora do próprio link, não usar marca, nome, logotipo, slogan, look and feel ou outros sinais do Nubank, salvo se houver autorização prévia e específica e observância às diretrizes de marca.
 
-**8.5.1.** Adequação das funcionalidades disponibilizadas nos Serviços/Aplicativo do Nubank às suas necessidades.
+**• Conteúdo permitido:** o seu site ou aplicativo não pode conter conteúdo ilícito, discriminatório, político-partidário, contrário à ordem pública, a direitos de terceiros ou a Direitos Humanos.
 
-**8.5.2.** Necessidade de aperfeiçoamento ou atualização dos Serviços/Aplicativo do Nubank, ou, por meio deles, fornecimento de qualquer conteúdo específico dentro de seu mercado, que não tenha sido previamente indicado no momento da contratação com Você
+### Posso dizer que o Nubank autoriza, supervisiona ou patrocina meu site?
 
-**8.5.3.** Eventuais erros e/ou inconsistências na transmissão de dados, bem como relacionados à qualidade ou disponibilidade da conexão de internet, capazes de prejudicar o recebimento adequado de informações por Você ou pelo Nubank.
+Não. Você não pode sugerir que o Nubank autoriza, supervisiona, patrocina ou endossa seu site, aplicativo, conteúdos ou serviços, salvo se isso estiver expressamente previsto na autorização concedida.
 
-**8.5.4.** Danos ou prejuízos causados por serviços de terceiros cujo uso se faz necessário para acesso aos Serviços do Nubank (ex.: instituições financeiras, instituições de pagamento e empresas envolvidas em quaisquer transações financeiras e demais operações).
+### O Nubank tem relação com os sites ou aplicativos que contêm links para ele?
 
-**8.5.5.** Conteúdo gerado por Você ou por terceiros, inclusive em áreas de conteúdo aberto dos Serviços/Aplicativo, assim como por conteúdo, produto ou serviço anunciado ou oferecido por terceiros nos Serviços/Aplicativo do Nubank.
+A existência de um link não implica qualquer tipo de relação entre o Nubank e o proprietário do aplicativo ou web page que o contiver. O responsável pelo site e aplicativo que hospeda o link é o próprio titular.
 
-**8.5.6.** Danos e prejuízos causados pelo acesso, interceptação, eliminação, alteração, modificação ou manipulação, por terceiros não autorizados, dos arquivos e comunicações transmitidos através dos Serviços/Aplicativo do Nubank, que sejam causados por Você ou por terceiros.
+### O Nubank pode revogar a autorização do link?
 
-**8.5.7.** Qualquer operação ou relacionamento entre Você e outros usuários, ainda que o Nubank tenha sido alertado para a possibilidade desses danos.
+Sim. O Nubank pode alterar ou revogar a autorização para hiperlinks a qualquer momento, por razões técnicas, legais, regulatórias ou de segurança, sem prejuízo de outras medidas cabíveis.
 
-**8.5.8.** Perda de lucros, perda de receita, perda de dados, perdas financeiras ou por danos indiretos, especiais, consequenciais, exemplares ou punitivos, quando permitido por lei, em decorrência ou associados à utilização dos Serviços/Aplicativo do Nubank, causados por Você ou Terceiros, ainda que o Nubank tenha sido alertada para a possibilidade desses danos, tendo em vista que a ela não cabe deliberar sobre as suas escolhas relacionadas ao uso dos Serviços.
+## 8. Propriedade Intelectual
 
-**8.5.9.** Problemas na disponibilidade, infalibilidade e continuidade do funcionamento dos Serviços/Aplicativo do Nubank, bem como eventuais danos e prejuízos diretos ou indiretos que podem ser decorrentes da indisponibilidade, falha e alteração do funcionamento desses Serviços, caso fortuito ou de força maior, ou outros casos alheios ao controle do Nubank.
+Você utilizará nossos produtos e serviços conforme a lei brasileira, estes Termos de Uso, a Política de Privacidade e, quando houver, conforme termos específicos do produto e serviço.
 
-**8.5.10.** Eventual desatualização e imprecisão de quaisquer informações disponibilizadas nos Serviços/Aplicativo do Nubank.
+### Qual é a licença do aplicativo do Nubank?
 
-**8.6.** Durante o uso dos Serviços do Nubank, Você declara que não irá:
+Você recebe uma licença limitada, não exclusiva, intransferível, gratuita e revogável para baixar, instalar, executar e usar o aplicativo do Nubank no seu dispositivo. Essa licença não transfere a titularidade do aplicativo ou de qualquer direito sobre nossos produtos e serviços, e o aplicativo deve ser usado apenas por você.
 
-**8.6.1.** Utilizar os Serviços/Aplicativo do Nubank de formas distintas do pretendido por meio das funcionalidades previstas para esses Serviços, bem como para o seu uso comercial, e em desconformidade com estes Termos e com as leis e regulamentos aplicáveis.
+### De quem são as marcas, códigos e conteúdos do Nubank?
 
-**8.6.2.** Veicular informações financeiras, de Conta, pessoais, bem como quaisquer outros dados do Nubank, caso esteja proibido(a) por determinação legal e/ou contratual em veiculá-las.
+Todas as marcas e conteúdos do ambiente do Nubank ou com ele relacionados são do Nubank ou de terceiros com ele relacionados, que autorizaram ou licenciaram sua utilização. O uso dos nossos serviços não confere qualquer autorização para essa utilização.
 
-**8.6.3.** Alterar a configuração do seu dispositivo de acesso para utilização dos Serviços/Aplicativo do Nubank, sendo proibido, inclusive, alterar os endereços de IP de rede ou de correio eletrônico, na tentativa de responsabilizar terceiros, ocultar a sua identidade ou a sua localização.
+### Posso copiar ou reutilizar conteúdos do Nubank?
 
-**8.6.4.** Remover, alterar, interferir, evitar ou de qualquer forma modificar marca d’água, copyright, símbolo, marca ou qualquer outro sinal indicativo de propriedade intelectual inserido nos produtos, serviços e Aplicativo do Nubank, ou quaisquer direitos e/ou mecanismos de proteção associados a ao Nubank, incluindo filtros de acesso baseados em território.
+Não. É vedado copiar, reproduzir, distribuir ou reutilizar conteúdos do Nubank sem autorização prévia e expressa do Nubank ou de terceiros titulares, conforme a legislação de direitos autorais, software e propriedade industrial.
 
-**8.6.5.** Fornecer conteúdo ou registro como dados cadastrais em que estejam inseridos: (a) material ofensivo, violento, abusivo, discriminatório, difamatório, pornográfico ou obsceno; e (b) material ilegal, ou destinado a promover ou cometer um ato ilegal de qualquer tipo, incluindo, sem limitação, violação dos direitos de propriedade intelectual, direitos de privacidade ou direitos de propriedade do Nubank ou de terceiros.
+### O que é proibido fazer em relação ao aplicativo do Nubank, produtos e serviços? (1)
 
-**8.6.6.** Comercializar, reproduzir total ou parcialmente, publicar, retransmitir, distribuir, comunicar ao público, transferir a terceiros ou efetuar qualquer modificação, sob qualquer forma, a qualquer conteúdo disponibilizado pelo Nubank nos Serviços, Produtos e/ou Aplicativos, e que não seja expressamente permitido por estes Termos.
+Você não pode:
 
-**8.6.7.** Comercializar ou compartilhar o acesso aos Serviços, Produtos e Aplicativo que são exclusivos do Nubank.
+**Conformidade de uso:** usar os produtos e serviços fora do previsto na lei, nestes Termos de Uso, na Política de Privacidade e nos termos específicos aplicáveis.
 
-**8.6.8.** Distribuir, anunciar ou desenvolver um negócio a partir dos Serviços, Produtos e/ou Aplicativo do Nubank.
+**Acesso e obtenção de conteúdo:** acessar ou obter conteúdos por meios diferentes dos disponibilizados para fins lícitos.
 
-**8.6.9.** Contornar qualquer tecnologia utilizada pelo Nubank, seus licenciadores ou terceiros para proteger o conteúdo acessível através dos Serviços, Produtos e/ou Aplicativo, o que inclui descompilar, desmontar ou realizar engenharia reversa ou de outro modo reduzir o código utilizado em qualquer software a uma forma legível, com a finalidade de examinar a construção desse software e/ou de copiar ou criar outros produtos com base (no todo ou em parte) nele, exceto quando for autorizado pelas licenças que expressamente permitam essas atividades.
+**Propriedade intelectual e engenharia reversa: •** copiar, ceder, sublicenciar, vender, alugar, locar, doar, alienar, onerar ou dar, ceder em garantia, bem como transferir total ou parcialmente, de forma temporária ou permanente, gratuita ou onerosa, o aplicativo, seus módulos, partes, manuais ou informações.
 
-**8.6.10.** Acessar ou coletar dados dos Serviços do Nubank através de meios automatizados e fazer uso de ferramentas de data mining, coleta de dados ou extração de dados, sem prévia autorização do Nubank, ou tentar acessar dados que não tenha permissão para acessar.
+**•** remover, alterar avisos de reserva de direitos, interferir, evitar marca d’água, copyright, símbolo, marca ou filtros de acesso por território do aplicativo do Nubank, serviços e documentação.
 
-**8.6.11.** Praticar quaisquer atos que, direta ou indiretamente, no todo ou em parte, possam causar prejuízo ao Nubank, a outros usuários ou a quaisquer terceiros.
+**•** realizar engenharia reversa, descompilação ou desmontagem para descobrir estrutura, código, conceitos ou metodologias.
 
-**8.7.** O Nubank poderá ser notificado a qualquer momento com relação a conteúdos constantes dos Serviços, Produtos e/ou Aplicativo considerados infringentes de direitos de terceiros e atuará prontamente para promover a tempestiva remoção desses conteúdos, nos termos da Lei Federal n.º 12.965/2014 (“Marco Civil da Internet”), e da jurisprudência consolidada no Brasil a respeito da responsabilidade de websites e intermediários.
+**•** contornar tecnologias de proteção.
 
-**8.8.** Sanções. O uso dos Serviços, Produtos e/ou Aplicativo do Nubank em desacordo com estes Termos implicará na exclusão da sua Conta e na proibição da utilização por Você, observados os limites e os prazos estabelecidos pelas legislações aplicáveis. Seus dados serão preservados para uso das autoridades competentes, conforme legislação vigente, caso o Nubank seja notificado ou acionado por outro usuário ou por terceiro pela violação de direitos de terceiros decorrente do mau uso da plataforma.
+### O que é proibido fazer em relação ao aplicativo do Nubank, produtos e serviços? (2)
 
-**8.9.** Você concorda em indenizar o Nubank, afiliadas e demais empresas do grupo econômico, diretores, administradores, colaboradores, representantes e empregados por qualquer perda, responsabilização, reclamação ou demanda, por quaisquer prejuízos resultantes da sua utilização dos Serviços, Produtos e/ou Aplicativo.
+**Alterações e concorrência: •** modificar o aplicativo do Nubank para criar novas funcionalidades ou incorporá-lo a produtos próprios derivados e similares. **•** acessar e usar o aplicativo do Nubank para construir produto e serviço concorrente ou copiar ideias, funções, características ou gráficos. **Dados e identidade:** **•** divulgar informações financeiras, de conta, pessoais ou dados do Nubank quando houver proibição legal ou contratual.
 
-### 9. Do Procedimento em Caso de Realização de Atividades de Caráter Ilícito em Nossos Ambientes
+**•** mascarar identidade ou localização nem alterar endereços de IP ou e-mail para burlar controles, ocultar autoria ou atribuir culpa a terceiros.
 
-**9.1.** Caso Você ou um terceiro considerar que existam informações, fatos ou circunstâncias que constituam atividade ilícita nos Serviços, Produtos e/ou Aplicativo do Nubank, especialmente em caso de violação de direitos de propriedade intelectual ou industrial, ou outros direitos de terceiros, Você poderá nos comunicar através do site http://www.nubankparker.com.br/ (Sistema Parker, em que a denúncia pode ser feita inclusive de forma anônima), do telefone 4020 0185 (capitais e regiões metropolitanas) e pelo 0800 591 2117 (demais localidades) contendo os seguintes dados:
+**Conteúdo ilícito e direitos de terceiros:** inserir ou enviar conteúdo ou dados cadastrais com material ofensivo, violento, abusivo, discriminatório, difamatório, pornográfico ou obsceno ou ilegal, nem que viole direitos de terceiros (propriedade intelectual, privacidade, imagem etc.).
 
-**9.2.** especificação da suposta atividade ilícita ocorrida nos Serviços, Produtos e/ou Aplicativo Nubank e, em particular, quando se tratar de suposta violação de direitos autorais, indicação precisa e completa dos conteúdos protegidos e supostamente infringidos, se possível, com documentos/print da referida atividade;
+**Comercialização e exploração:** **•** comercializar, revender, alugar ou compartilhar acesso aos serviços, produtos e aplicativo do Nubank.
 
-**9.3.** Fatos ou circunstâncias que revelam o caráter ilícito de tal atividade;
+**•** explorar comercialmente (distribuir, anunciar ou desenvolver negócio) a partir dos serviços, produtos e aplicativo do Nubank sem autorização do Nubank.
 
-**9.4.** Tendo por base a legislação em vigor, a partir da referida notificação o Nubank irá analisar internamente, podendo excluir o conteúdo assinalado como ilícito, assim como acionar autoridades competentes, com a finalidade de viabilizar a apuração e a responsabilização de condutas ilegais.
+**Coleta automatizada e acesso indevido:** acessar e coletar dados por meios automatizados (scraping, data mining, extração) sem autorização, nem tentar acessar dados sem permissão.
 
-### 10. Disposições Gerais
+**Prejuízos a terceiros:** praticar atos que, direta ou indiretamente, possam causar prejuízo ao Nubank, a outros usuários ou a terceiros.
 
-**10.1.** Este Termos de Uso, a Política de Privacidade e os Contratos firmados entre Você e o Nubank constituem a totalidade do acordo sobre as condições de uso dos Serviços, Produtos e Aplicativo Nubank. Você declara ter ciência dos direitos e obrigações decorrentes do presente Termos de Uso e da Política de Privacidade, tendo lido, compreendido e aceito todos os termos e condições neles inseridos.
+### E se eu gerar conteúdo dentro dos serviços do Nubank?
 
-**10.2.** Estes Termos de Uso se aplicam a todas as marcas, produtos e serviços do Nubank, exceto quando possuírem Termos de Uso próprios que declarem expressamente a não aplicação dos presentes Termos.
+Se você criar conteúdo dentro dos nossos serviços (por exemplo, nomes, textos, imagens, avaliações, comentários ou materiais submetidos), você concede ao Nubank uma licença não exclusiva, gratuita, irrevogável, irretratável, mundial, transferível e sublicenciável, pelo prazo de proteção legal, para usar esse conteúdo conforme abaixo.
 
-**10.3.** A versão dos Termos de Uso em vigor será sempre a mais recente, o Nubank se reserva o direito de atualizar e modificar periodicamente quaisquer de seus documentos jurídicos, incluindo este Termos de Uso.
+O Nubank pode usar, reproduzir, distribuir, exibir, transmitir, editar, adaptar, traduzir, compilar e criar obras derivadas do seu conteúdo, inclusive incorporá-lo a produtos, funcionalidades, comunicações ou materiais do Nubank, em qualquer meio ou formato, existente ou futuro.
 
-**10.4.** O Nubank está em constante busca de melhoria para oferecer a Você a melhor experiência possível na utilização dos Produtos, Aplicativo e Serviços. Todos os Serviços do Nubank são oferecidos da forma como se encontram, de modo que o Nubank pode implementar livremente mudanças, alterações, adições, supressões e quaisquer outras formas de modificação nos Serviços, Produtos e Aplicativo, conforme o caso.
+### O que mais preciso saber sobre o uso destes conteúdos?
 
-**10.5.** Os Serviços, Produtos e Aplicativos do Nubank podem ser alterados a qualquer momento, seja em caso de restrições ou proibições contratuais, legais e/ou judiciais, seja a exclusivo critério do Nubank. Por essa razão, o Nubank pode interromper, de maneira temporária ou permanente, o fornecimento de Serviços ou de algumas das suas funcionalidades.
+O Nubank pode usar o conteúdo sem aviso prévio, sem permissão adicional, sem pagamento e sem atribuição a você ou a terceiros. Também pode compartilhar esse conteúdo com outros serviços do Nubank e com empresas do nosso grupo econômico, conforme a legislação aplicável e a Política de Privacidade. Essa licença não cria qualquer vínculo trabalhista, societário, de parceria ou associativo entre você e o Nubank.
 
-**10.6.** Qualquer modificação nestes Termos que acarrete impacto no consentimento previamente fornecido ou implique em ônus financeiro para Você será comunicado(a) pelo Nubank. No entanto, qualquer alteração feita por razões legais ou devido a novas funcionalidades de um Serviço entrará em vigor imediatamente.
+## 9. Prazo, suspensão e encerramento de acesso
 
-**10.7.** Qualquer novo recurso que aprimore os Serviços, Produtos e Aplicativo atuais do Nubank, como a disponibilização de novas ferramentas e recursos, estará sujeito a estes Termos.
+O acesso ao aplicativo do Nubank, produtos e serviços é concedido por prazo indeterminado. O Nubank pode encerrar, suspender ou interromper o acesso ao ambiente e/ou a determinados produtos e serviços a qualquer momento, sem aviso prévio e sem indenização. Sempre que possível, informaremos pelos nossos canais.
 
-**10.8.** Você pode deixar de usar os Serviços, Produtos e Aplicativo do Nubank a qualquer momento. Da mesma forma, o Nubank também poderá deixar de prestar os Serviços a Você a qualquer momento, bem como incluir ou criar novos limites.
+O Nubank pode recusar ou retirar o acesso a qualquer momento, sem aviso prévio, por iniciativa própria ou por exigência de terceiros ou autoridades, quando houver descumprimento destes Termos de Uso ou de nossas políticas.
 
-**10.9.** As cláusulas destes Termos deverão sobreviver a qualquer forma de terminação, ocorrida por qualquer motivo, de modo a continuar a produzir efeitos enquanto houver relações jurídicas subsequentes entre Você e o Nubank em função da prestação dos Serviços.
+## 10. Responsabilidades e limites do serviço
 
-**10.10.** Se qualquer parte destes Termos for considerada inválida, nula ou inexequível, as demais disposições permanecerão em pleno vigor e efeito.
+Buscamos sempre proporcionar a melhor experiência possível aos nossos produtos e serviços, mas não é possível garantir a disponibilidade, a infalibilidade e a continuidade do funcionamento do aplicativo do Nubank, nem a utilidade do aplicativo para a realização de qualquer atividade.
 
-**10.11.** O não-exercício do direito do Nubank em exigir quaisquer direitos ou disposições do presente Termo não importará renúncia, podendo exercer regularmente o seu direito, dentro dos prazos legais e contratuais.
+### Disponibilidade do serviço
 
-**10.12.** Estes Termos de Uso não geram contrato de sociedade, franquia ou relação de trabalho entre Você e o Nubank, seus profissionais, parceiros e/ou anunciantes.
+Interrupções, falhas, lentidão ou indisponibilidades podem ocorrer, mesmo com todos os esforços realizados, e o Nubank não é responsável por danos decorrentes dessas ocorrências.
 
-**10.13.** Caso Você não concorde com alguma das disposições destes Termos, recomendamos que Você não utilize os Serviços do Nubank, tendo em vista que eles só serão acessíveis através da aceitação destes Termos. Além disso, Você não poderá se escusar dos Termos, alegando ignorância sobre as suas condições, inclusive quanto a eventuais modificações nas suas disposições.
+### Segurança e incidentes
 
-**10.14.** Você concorda que o Nubank poderá veicular mensagens promocionais através dos canais de atendimento.
+Adotamos as melhores práticas recomendadas pelo mercado de segurança, mas nenhum ambiente é impenetrável. O Nubank não responde por acessos indevidos quando houver falha exclusivamente sua (ex.: compartilhar senha e código) ou de terceiros fora do controle razoável do Nubank.
 
-### 11. Notificações
+### Situações em que o Nubank não pode ser responsabilizado
 
-**11.1.** Todas as notificações e comunicações ("Notificações") no âmbito deste Termo, por parte de Você ao Nubank deverão ser dirigidas aos seguintes canais de comunicação:
+**•** funcionalidades que não atendem a um objetivo específico seu.
 
-**11.1.1.** telefone 4020 0185 (capitais e regiões metropolitanas)
+**•** necessidade de aperfeiçoamentos e atualizações ou de conteúdos específicos não prometidos na contratação.
 
-**11.1.2.** telefone 0800 591 2117 (demais localidades); ou
+**•** erros e inconsistências de transmissão, qualidade ou disponibilidade da sua conexão de internet.
 
-**11.1.3.** chat disponível no nosso aplicativo para celular.
+**•** danos causados por serviços de terceiros necessários ao uso (ex.: instituições financeiras e de pagamento, processadoras e outros envolvidos nas transações).
 
-**11.2.** Quaisquer Notificações por parte do Nubank a Você serão consideradas eficazes, para todos os efeitos, quando se realizar em uma das seguintes formas:
+**•** conteúdo gerado por você ou por terceiros (inclusive em áreas abertas), e conteúdos, produtos, serviços anunciados e oferecidos por terceiros no nosso ambiente.
 
-**11.2.1.** envio de carta, com aviso de recebimento, no domicílio cadastrado por Você;
+**•** acesso, interceptação, eliminação, alteração ou manipulação de arquivos e comunicações por terceiros não autorizados quando causados por você ou por terceiros fora do nosso controle.
 
-**11.2.2.** envio de mensagem por correio eletrônico, com notificação de leitura, a qualquer dos endereços eletrônicos fornecidos por Você;
+**•** operações ou relacionamentos entre você e outros usuários.
 
-**11.2.3.** comunicação telefônica no número fornecido por Você; e
+**•** perda de lucros, receitas, dados, perdas financeiras ou danos indiretos, especiais, consequenciais, exemplares ou punitivos, quando permitido por lei.
 
-**11.2.4.** mediante a inclusão de mensagens no Aplicativo do Nubank.
+**•** indisponibilidade, falhas ou alterações de funcionamento por caso fortuito, força maior ou outros eventos fora do nosso controle.
 
-**11.3.** Todas as notificações que oNubank realizar serão consideradas válidas quando efetuadas empregando tais dados e meios. Para tanto, Você declara que todos os dados fornecidos são válidos, verdadeiros e corretos, comprometendo-se a comunicar o Nubank todas as mudanças relativas aos dados de notificação.
+**•** eventual desatualização ou imprecisão de informações disponibilizadas no aplicativo do Nubank e serviços.
 
-### 12. Legislação e Foro Aplicáveis
+### Quando você responde por danos causados ao Nubank
 
-**12.1.** Esses Termos serão regidos, interpretados e executados de acordo com as leis da República Federativa do Brasil, independentemente dos conflitos dessas leis com leis de outros estados ou países, sendo competente o foro Central da Cidade de São Paulo, Estado de São Paulo, para dirimir qualquer dúvida decorrente deste instrumento. Você renuncia, neste ato, à competência de qualquer outro foro, por mais privilegiado que seja ou venha a ser.
+Você será responsável e deverá indenizar e manter indene o Nubank, seus diretores, empregados e agentes por perdas, danos, custos e despesas (incluindo honorários advocatícios razoáveis) que decorram de sua ação ou omissão, desde que não sejam causados por culpa exclusiva do Nubank, como nos exemplos abaixo:
+
+**•** uso indevido do aplicativo do Nubank, produtos ou serviços.
+
+**•** descumprimento destes Termos de Uso, de políticas do Nubank ou de termos específicos.
+
+**•** violação de lei ou de direitos de terceiros.
+
+**•** fraude, dolo ou culpa grave.
+
+**•** atividades realizadas por meio dos serviços que causem dano ao Nubank ou a terceiros.
+
+O uso do aplicativo, produtos e serviços do Nubank em desacordo com estes Termos de Uso pode levar à exclusão da sua conta e à proibição de novo uso, observadas as leis aplicáveis. Seus dados poderão ser preservados para atendimento às autoridades se houver notificação e ação por violação de direitos de terceiros.
+
+Você concorda em indenizar o Nubank, suas afiliadas e demais empresas do grupo, bem como administradores, colaboradores, representantes e empregados, pelos prejuízos resultantes do seu uso, nos termos da cláusula de indenização acima (incluindo limites e exceções).
+
+### Remoção de conteúdo que viola direitos
+
+Se formos notificados sobre conteúdo que viole direitos de terceiros, atuaremos de forma tempestiva para remover o material, conforme o Marco Civil da Internet (Lei 12.965/2014) e a jurisprudência brasileira sobre responsabilidade de websites e intermediários.
+
+## 11. Procedimentos para denúncia
+
+01
+
+Canal de Denúncias: Use nossos canais oficiais ou o Canal de Denúncias (Parker), indicados ao final deste documento, e lembre-se que a denúncia pode ser anônima.
+
+02
+
+Descrição da atividade: explique claramente o que aconteceu e onde aconteceu (telas e funcionalidades).
+
+03
+
+Direitos possivelmente violados: por exemplo, propriedade intelectual.
+
+04
+
+Indícios e evidências: fatos e circunstâncias que apontem o caráter ilícito, preferencialmente com prints e documentos e datas e horários.
+
+05
+
+Identificação do conteúdo: indicação precisa e completa do material supostamente infringente (links internos, IDs, nomes de usuário, se existirem).
+
+06
+
+O que o Nubank faz após receber a denúncia? Analisamos o relato com prioridade e, conforme a legislação aplicável, podemos remover ou restringir o conteúdo assinalado, preservar registros e acionar autoridades competentes para apuração e responsabilização das condutas ilegais.
+
+## 12. Disposições finais
+
+Estes Termos de Uso, a + Política de Privacidade do Nubank e os contratos específicos firmados entre você e o Nubank formam o acordo completo sobre o uso do aplicativo, produtos e serviços. Ao utilizar nossos serviços, você declara que leu, entendeu e aceita seus termos.
+
+- **Aplicação a marcas, produtos e serviços**Estes Termos se aplicam a todas as marcas, produtos e serviços do Nubank, salvo quando houver termos próprios que indiquem expressamente que os presentes Termos de Uso não se aplicam a determinado produto e serviço.
+- **Versão vigente e atualizações de documentos** O Nubank pode atualizar e modificar periodicamente seus documentos jurídicos, incluindo estes Termos de Uso. Sempre valerá a versão mais recente destes Termos de Uso.
+- **Mudanças nos serviços** Estamos sempre aprimorando a experiência. Podemos alterar, incluir, excluir ou ajustar funcionalidades, produtos e o aplicativo do Nubank, ou interromper total ou parcial e temporária ou permanentemente determinados serviços, por razões técnicas, legais, regulatórias, contratuais ou por critério do Nubank.
+- **Comunicação de alterações relevantes** Se alguma alteração impactar um consentimento previamente dado ou impuser ônus financeiro a Você, vamos comunicar pelos nossos canais. Alterações exigidas por lei ou decorrentes de novas funcionalidades entram em vigor imediatamente.
+- **Novos recursos** Qualquer novo recurso que aperfeiçoe nossos serviços estará sujeito a estes Termos de Uso. Encerramento pelo usuário ou pelo Nubank Você pode deixar de usar nossos serviços a qualquer momento. O Nubank também pode deixar de prestar serviços a você, bem como definir limites de uso, conforme as leis aplicáveis.
+- **Cláusulas que continuam valendo mesmo após o término** Algumas disposições permanecem válidas mesmo após o encerramento da relação, enquanto houver obrigações ou efeitos jurídicos decorrentes do uso dos serviços (por exemplo, responsabilidade, propriedade intelectual e tratamento de dados conforme a lei).
+- **Independência das disposições** Se alguma disposição destes Termos de Uso for considerada inválida, nula ou inexequível, as demais continuam válidas.
+- **Não renúncia** O fato de o Nubank não exercer algum direito ou exigir o cumprimento de alguma disposição não significa renúncia. Podemos exercer esses direitos dentro dos prazos legais ou contratuais.
+- **Ausência de vínculo**
+
+ Estes Termos de Uso não criam sociedade, franquia, parceria ou relação de trabalho entre você e o Nubank, seus profissionais, parceiros ou anunciantes.
+- **Discordância com os Termos de Uso**Se você não concordar com estes Termos de Uso, recomendamos que você não utilize os serviços do Nubank, tendo em vista que eles só serão acessíveis por meio da aceitação desse Termos de Uso. Além disso, você não poderá alegar desconhecimento de suas condições, inclusive de modificações realizadas.
+- **Mensagens promocionais**O Nubank pode enviar mensagens promocionais pelos seus canais, conforme seus consentimentos e preferências. Você pode gerenciar essas preferências nos canais indicados em Notificações e contatos (seção final), observada a legislação aplicável.
+- **Notificações do Nubank**Avisaremos por mensagens no aplicativo, e-mail, comunicação telefônica nos números informados e, quando necessário, por correspondência física, com aviso de recebimento. As comunicações enviadas por esses meios serão consideradas válidas e eficazes quando encaminhadas aos dados cadastrados e informados por você.
+- **Dados atualizados e validade das comunicações** Você declara que os dados informados são verdadeiros e se compromete a mantê-los atualizados. Até que sejam atualizados, as comunicações feitas aos dados vigentes serão tidas como válidas.
+- **Comprovantes de envio**O Nubank poderá utilizar registros de sistema (logs) do app, confirmações de envio e entrega de provedores de e-mail, SMS e telefonia e, quando aplicável, o AR de correspondência física como evidências de notificação. (Não exigimos “confirmação de leitura” por e-mail.)
+
+## 13. Principais canais de contato
+
+Fale com nossos atendentes pelo chat no app Nubank, disponível 24h por dia, ou se preferir, ligue para a Central de Atendimento de acordo com a sua região. Use os canais de Ouvidoria para situações nas quais você já tenha passado pela Central de Atendimento e ela não tenha solucionado a sua demanda.
+
+Precisa de uma ajuda agora? Entre em contato com nosso atendimento através do chat. Basta abrir o chat no app.
+
+Central de Atendimento
+
+4020 0185
+
+Capitais e Regiões metropolitanas
+
+0800 591 2117
+
+Demais Localidades
+
+0800 887 0463
+
+Ouvidoria
+
+Página da Ouvidoria
+
+Canal de atendimento em libras
+
+Canal de denúncia online (Sistema Parker)
