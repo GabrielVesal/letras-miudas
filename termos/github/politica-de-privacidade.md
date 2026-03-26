@@ -3,8 +3,8 @@ empresa: "GitHub"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://docs.github.com/pt/site-policy/privacy-policies/github-general-privacy-statement"
-capturado_em: 2025-11-15
-wayback: "https://web.archive.org/web/20251115044451/https://docs.github.com/pt/site-policy/privacy-policies/github-general-privacy-statement"
+capturado_em: 2026-03-26
+wayback: "https://web.archive.org/web/20260326002724/https://docs.github.com/pt/site-policy/privacy-policies/github-general-privacy-statement"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/github/politica-de-privacidade.md"
 ---
 
@@ -167,7 +167,7 @@ Entre em contato conosco através do nosso formulário de contato ou enviando um
 
 GitHub BV Prins Bernhardplein 200, Amesterdão 1097JB Países Baixos
 
-GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States
+GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 Estados Unidos
 
 ## Informações para Menores
 
