@@ -3,8 +3,8 @@ empresa: "Steam"
 documento: "Termos de Uso"
 categoria: "Jogos"
 fonte: "https://store.steampowered.com/subscriber_agreement/?l=brazilian"
-capturado_em: 2025-11-12
-wayback: "https://web.archive.org/web/20251112000832/https://store.steampowered.com/subscriber_agreement/?l=brazilian"
+capturado_em: 2026-03-27
+wayback: "https://web.archive.org/web/20260327204556/https://store.steampowered.com/subscriber_agreement/?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/termos-de-uso.md"
 ---
 
@@ -62,7 +62,7 @@ Você aceita receber faturas de vendas de forma eletrônica.
 
 E. Processamento de pagamentos
 
-O processamento de pagamentos relacionado ao Conteúdo e aos Serviços e/ou ao hardware adquirido no Steam é realizado diretamente pela Valve Corporation ou pela subsidiária integral da Valve, a Valve GmbH, em nome da Valve Corporation, dependendo do tipo de método de pagamento utilizado. Se seu cartão foi emitido fora dos Estados Unidos, seu pagamento pode ser processado por um adquirente europeu pela Valve GmbH, em nome da Valve Corporation. Para quaisquer outros tipos de compras, o pagamento será recolhido diretamente pela Valve Corporation. Em todos os casos, a entrega de Conteúdo, Serviços e hardware é realizada pela Valve Corporation.
+O processamento de pagamentos relacionado ao Conteúdo e aos Serviços e/ou ao hardware adquirido no Steam é realizado diretamente pela Valve Corporation ou pela subsidiária integral da Valve, a Valve GmbH i.L., em nome da Valve Corporation, dependendo do tipo de método de pagamento utilizado. Se seu cartão foi emitido fora dos Estados Unidos, seu pagamento pode ser processado por um adquirente europeu pela Valve GmbH i.L., em nome da Valve Corporation. Para quaisquer outros tipos de compras, o pagamento será recolhido diretamente pela Valve Corporation. Em todos os casos, a entrega de Conteúdo, Serviços e hardware é realizada pela Valve Corporation.
 
 2. LICENÇAS ⏶
 
