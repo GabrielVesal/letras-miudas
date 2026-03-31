@@ -3,12 +3,12 @@ empresa: "Uber"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
-capturado_em: 2026-02-27
-wayback: "https://web.archive.org/web/20260227120850/https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
+capturado_em: 2026-03-31
+wayback: "https://web.archive.org/web/20260331081607/https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/uber/politica-de-privacidade.md"
 ---
 
-***Última atualização: 11 de fevereiro de 2026***
+***Última atualização: 26 de março de 2026***
 
 # Aviso de Privacidade da Uber: Passageiros e destinatários de pedidos
 
@@ -184,7 +184,7 @@ A Uber coleta os seguintes dados:
 | --- | --- |
 | a. **Criar e atualizar sua conta** | - Conta - Dados demográficos - Local |
 | b. **Fornecer serviços e recursos.** Isso inclui: - Permitir a navegação para partidas e chegadas, calcular a previsão de chegada e acompanhar o andamento de viagens ou entregas - Encontrar motoristas ou entregadores parceiros disponíveis quando você solicitar transporte ou entregas - Ativar recursos que envolvam o compartilhamento de dados, como compartilhamento da previsão de chegada e divisão do valor da viagem - Ativar recursos de acessibilidade - Ativar recursos que envolvam a vinculação de contas, como a vinculação com programas de fidelidade do Uber Partner - Facilitar e otimizar a reserva, retirada e devolução de carros alugados por meio do Uber Rent | - Conta - Dados de outras fontes - Dados demográficos - Dispositivo - Avaliações |
-| c. **Calcular os preços do usuário/destinatário e os valores do motorista/entregador parceiro**. | - Localização - Viagem/pedido |
+| c. **Como calcular o valor para o usuário e o repasse de ganhos para o motorista parceiro ou entregador**. | - Localização - Viagem/pedido |
 | d. **Processar repasses de ganhos e ativar produtos de repasse de ganhos e dinheiro eletrônico, como o Uber Money.** | - Conta - Dados de outras fontes - Dados demográficos - Viagem/pedido |
 | e. **Personalizar sua conta.** Por exemplo, nós podemos apresentar recomendações personalizadas de restaurantes ou pratos, ou mesmo sugestões de viagens, com base em seus pedidos anteriores, viagens e locais de entrega. | - Conta - Dispositivo - Localização - Viagem/pedido - Uso |
 | f. **Fornecer atualizações de viagens ou entregas e gerar recibos.** | - Conta - Viagem/pedido |
@@ -225,7 +225,7 @@ A Uber coleta os seguintes dados:
 
 | Usos de dados | Os dados usados incluem |
 | --- | --- |
-| Nós usamos os dados para fins de análise, pesquisa e desenvolvimento de produtos, incluindo o treinamento de modelos de aprendizado de máquina. Isso nos ajuda a tornar nossos serviços mais práticos e fáceis de usar, a contribuir para que se tornem mais seguros, bem como desenvolver novos serviços e recursos. | - Conta - Comunicações - Dados de outras fontes - Dados demográficos - Dispositivo - Verificação de identidade - Localização - Uso - Conteúdo do usuário - Viagem/pedido |
+| Nós usamos os dados para fins de análise, pesquisa e desenvolvimento de produtos, incluindo o treinamento de modelos de aprendizado de máquina. Isso nos ajuda a tornar nossos serviços mais práticos e fáceis de usar, a contribuir para que se tornem mais seguros, bem como desenvolver novos serviços e recursos. | - Conta - Comunicações - Dados de outras fontes - Dados demográficos - Dispositivo - Verificação de identidade - Localização - Uso - Conteúdo do usuário - Viagem/pedido - Gravações no veículo |
 
 **7. Para comunicações sem fins de marketing.**
 
@@ -237,7 +237,7 @@ A Uber coleta os seguintes dados:
 
 | Usos de dados | Os dados usados incluem |
 | --- | --- |
-| Nós usamos dados para investigar ou tratar de reclamações ou contestações relacionadas ao uso dos serviços da Uber; para cumprir as exigências de e/ou para fins de conformidade com leis aplicáveis, regulamentos, licenças ou contratos de operação ou apólices de seguro; ou de acordo com um processo legal ou solicitação governamental, inclusive de autoridades policiais/jurídicas. | - Conta - Comunicações - Dados de outras fontes - Dados demográficos - Dispositivo - Verificação de identidade - Localização - Uso - Conteúdo do usuário - Viagem/pedido - Gravações no veículo |
+| Nós usamos dados para investigar ou tratar de reclamações ou contestaç�ões relacionadas ao uso dos serviços da Uber; para cumprir as exigências de e/ou para fins de conformidade com leis aplicáveis, regulamentos, licenças ou contratos de operação ou apólices de seguro; ou de acordo com um processo legal ou solicitação governamental, inclusive de autoridades policiais/jurídicas. | - Conta - Comunicações - Dados de outras fontes - Dados demográficos - Dispositivo - Verificação de identidade - Localização - Uso - Conteúdo do usuário - Viagem/pedido - Gravações no veículo |
 
 ### C. Processos principais automatizados
 
@@ -262,21 +262,21 @@ Você pode entrar em contato com a Uber por aqui se tiver dúvidas sobre esses p
  Há mais informações sobre esse processo da Uber disponíveis aqui.
 - 2. Preço
 
- Quando você solicita uma viagem ou uma entrega, a Uber usa algoritmos para determinar o preço a ser pago com base em vários fatores, incluindo:
+ Quando você solicita um transporte ou uma entrega, a Uber utiliza algoritmos para determinar o valor que você paga com base em diversos fatores, incluindo:
 
- - Informações da viagem ou do pedido, incluindo o tipo de serviço solicitado (por exemplo, UberX, UberXL, Uber Black), nome e localização do restaurante ou estabelecimento e valor do pedido
+ - Informações da viagem/pedido, incluindo o tipo de serviço solicitado (por exemplo, UberX, UberXL, Uber Black), nome e localização do restaurante ou estabelecimento, e valor do pedido
  - Sua localização
- - Estimativa do tempo e da distância até o destino
- - Disponibilidade e proximidade de motoristas/entregadores parceiros
- - Horário
- - Condições de trânsito
- - Dados históricos, como padrões de trânsito e tendências sazonais
+ - Tempo e distância estimados até o destino
+ - Disponibilidade e proximidade de motoristas parceiros ou entregadores
+ - Horário do dia
+ - Condições do trânsito
+ - Dados históricos, como padrões de tráfego e tendências sazonais
 
- O preço também pode variar dependendo da existência de pedágios ou cobranças extras, valores extras, benefícios, promoções, assinaturas e ajustes com base no trajeto.
+ O valor também pode variar de acordo com pedágios ou taxas adicionais, valores extras, promoções, assinaturas e ajustes baseados na rota.
 
- O preço também pode variar conforme o preço dinâmico, que entra em vigor automaticamente quando há mais usuários do que motoristas parceiros disponíveis em uma determinada região. Isso atrai mais motoristas parceiros para a região movimentada e muda a demanda dos usuários para manter a confiabilidade e restaurar o equilíbrio.
+ O valor pode variar ainda devido à precificação dinâmica, que é ativada automaticamente quando há mais pessoas solicitando viagens em uma determinada área do que motoristas parceiros disponíveis. Isso incentiva mais motoristas parceiros a atenderem a região movimentada ao longo do tempo e ajusta a demanda, para manter a confiabilidade e restabelecer o equilíbrio.
 
- Há mais informações sobre o processo de preços da Uber disponíveis aqui.
+ Informações adicionais sobre o processo de precificação da Uber estão disponíveis aqui.
 - 3. Prevenção e detecção de fraudes
 
  A Uber usa algoritmos para prevenir e detectar fraudes contra a Uber ou contra nossos usuários. Isso inclui esforços para verificar se há invasões de contas, comportamentos suspeitos de usuários e tentativas de acesso não autorizadas, inclusive de terceiros.
@@ -317,11 +317,11 @@ Isso pode incluir o compartilhamento de dados com:
 | --- | --- |
 | **Seu motorista parceiro** | - Conta - Nome - Avaliação - Locais de partida e/ou destino - Configurações (inclusive de acessibilidade) e preferências |
 | **Outros usuários durante viagens compartilhadas ou destinatários de presentes** | - Conta - Nome |
-| **Restaurantes/estabelecimentos onde você faz o pedido e o entregador parceiro** | - Conta - Nome - Informações do pedido - Endereço de entrega (inclusive em pedidos feitos em restaurantes/comerciantes que utilizam seus próprios entregadores para realizar a entrega) - Itens pedidos (que podem incluir prescrições de medicamentos) - Instruções especiais, alergias ou preferências alimentares - Conteúdo do usuário - Feedback - Fotos enviadas para fins de suporte - Avaliações |
+| **Restaurantes/estabelecimentos onde você faz o pedido e o entregador parceiro** | - Conta - Nome - Informações do pedido - Endereço de entrega (inclusive com restaurantes/estabelecimentos que fazem entregas com os próprios entregadores para atender ao seu pedido) - Itens solicitados (que podem incluir receita médicas) - Instruções especiais, alergias ou preferências alimentares - Conteúdo do usuário - Comentários - Fotos enviadas para fins de atendimento ao usuário - Avaliações |
 | **O titular de qualquer conta da Uber que você use.** Isso inclui o uso de uma Conta sênior, de uma Uber conta teens ou de qualquer conta vinculada a um Perfil Familiar. Isso também inclui o caso de você solicitar ou receber um serviço de viagem ou entrega como Usuário Convidado. Além disso, se você criar uma conta usando um endereço de e-mail afiliado a um titular de conta da Uber para Empresas (ou seja, seu empregador), nós poderemos compartilhar os dados da sua conta (como nome e endereço de e-mail) com esse titular para ajudar você com as despesas de viagens ou pedidos dessa conta da Uber para Empresas.\* Também poderemos compartilhar informações com o titular da conta sobre questões relacionadas à sua viagem, como incidentes de segurança ou reclamações. | - Conta - Viagem/pedido |
 | **Outros destinatários no seu pedido em grupo** | - Conta - Nome - Informações do pedido - Itens solicitados - Instruções especiais ou informações sobre alergias |
 | **Pessoas que indicam você para a Uber.** Podemos compartilhar seus dados conforme necessário para determinar o valor promocional deles devido à indicação | - Viagem/pedido - Número de viagens |
-| **Outros usuários do Uber Eats.** Nós compartilharemos seus dados se você publicar uma avaliação sobre um restaurante ou criar uma Lista dos seus restaurantes favoritos no Uber Eats e definir o compartilhamento da lista como "Público". | - Conta - Nome - Conteúdo do usuário - Criado pelo usuário Listas ou avaliações |
+| **Outros usuários do Uber Eats.** Nós compartilharemos seus dados se você publicar uma avaliação sobre um restaurante ou criar uma Lista dos seus restaurantes favoritos no Uber Eats e definir o compartilhamento da lista como "Público". | - Conta - Nome - Conteúdo do usuário - Listas ou avaliações criadas pelo usuário |
 
 **2. Mediante solicitação ou com o seu consentimento**
 
@@ -335,28 +335,29 @@ Isso pode incluir o compartilhamento de dados com:
 | **Seguradoras.** Se você se envolver em um incidente, reportar ou enviar um pedido de indenização relacionado aos serviços do app da Uber a uma seguradora, a Uber compartilhará seus dados com essa seguradora para ajustar ou lidar com o pedido de indenização. | Dados necessários para ajustar ou lidar com a solicitação, que podem incluir: - Conta - Comunicações - Dispositivo - Localização - Viagem/pedido - Uso - Conteúdo do usuário |
 | **Estabelecimentos ou restaurantes.** Se você criar ou adicionar à sua conta de usuário um número de assinatura de fidelidade de restaurante ou estabelecimento, nós compartilharemos esses dados com o restaurante/estabelecimento quando você fizer um pedido nesses locais. Nós também permitimos que você compartilhe seu nome, suas informações de contato e informações de pedidos com restaurantes ou estabelecimentos para receber comunicações de marketing deles. | - Conta - Contato - Endereço de entrega - Nome e sobrenome - Informações da assinatura de fidelidade do restaurante/estabelecimento - Pedido |
 
-**3. Com prestadores de serviços e parceiros comerciais da Uber**
+**3. Com prestadores de serviço e parceiros comerciais da Uber**
 
 Aqui estão incluídos os terceiros, ou categorias de terceiros, descritos abaixo.
 
 - Contadores, consultores, advogados e outros prestadores de serviços profissionais.
-- Parceiros e provedores de anúncios e marketing, incluindo editores de anúncios e marketing (como plataformas de redes sociais), redes e anunciantes de anúncios, provedores de dados terceirizados, fornecedores de tecnologia de anúncios, provedores de medição e análise e outros provedores de serviços. A Uber conta com esses fornecedores para alcançar ou entender melhor os usuários atuais e potenciais dos serviços dos apps da Uber ou dos nossos parceiros de publicidade e para medir e melhorar a eficácia dos anúncios. Por exemplo, compartilhamos listas de público com editores de anúncios e marketing nas quais os usuários são identificados por pontos de dados limitados (*por exemplo*, ID de publicidade em dispositivos móveis, e-mail com hash, nome) e agrupados com base em interesses e características inferidos. A Uber instrui os editores de anúncios e marketing a mirar esses grupos ou públicos com anúncios.
-- Intermediários de anúncios, como Criteo, Google, Rokt, The Trade Desk, TripleLift e outros. Compartilhamos dados, incluindo o identificador de publicidade ou de dispositivo, endereço de e-mail com hash, localização aproximada, informações atuais de viagens ou de pedidos e dados de interação com anúncios com esses intermediários para ativar os serviços deles e para outras finalidades divulgadas nos avisos de privacidade deles. Você pode cancelar a adesão à personalização de anúncios aqui. Para obter mais informações sobre as práticas de privacidade desses intermediadores, incluindo como enviar solicitações relacionadas ao tratamento de dados pessoais, acesse os avisos de privacidade acima.
+- Parceiros e prestadores de serviço de publicidade e marketing, incluindo editores de publicidade e marketing (como plataformas de mídia social), redes de publicidade e anunciantes, provedores de dados terceirizados, fornecedores de tecnologia de publicidade, prestadores de serviços de medição e análise e outros prestadores de serviços. A Uber conta com esses fornecedores para alcançar ou entender melhor os usuários atuais e potenciais dos serviços dos apps da Uber ou dos nossos parceiros de publicidade e para medir e melhorar a eficácia dos anúncios. Por exemplo, compartilhamos listas de público-alvo com editores de publicidade e marketing, nas quais os usuários são identificados por pontos de dados limitados (*por exemplo*, ID de publicidade móvel, e-mail criptografado, nome) e agrupados com base em interesses e características inferidos. A Uber instrui os editores de publicidade e marketing a segmentar esses grupos, ou públicos-alvo, com anúncios.
+- Intermediários de anúncios, como Criteo, Google, Rokt, The Trade Desk, TripleLift e outros. Compartilhamos dados — incluindo identificador de publicidade ou dispositivo, endereço de e-mail criptografado, localização aproximada, informações da viagem ou pedido atual e dados de interação com anúncios — com esses intermediários para viabilizar seus serviços e para outros fins divulgados em seus avisos de privacidade. Você pode cancelar a adesão à personalização de anúncios aqui. Para obter mais informações sobre as práticas de privacidade desses intermediadores, incluindo como enviar solicitações relacionadas ao tratamento de dados pessoais, acesse os avisos de privacidade acima.
 - Provedores de armazenamento em nuvem.
-- Plataforma e provedores de serviços de suporte ao usuário.
+- Plataforma e prestadores de serviço de suporte ao usuário.
 - Google, em conexão com o uso do Google Maps nos apps da Uber.
 - Provedores de soluções de risco e de verificação de identidade.
-- Processadores e facilitadores de repasses de ganhos, inclusive PayPal e Hyperwallet.
+- Processadores e facilitadores de pagamentos, inclusive PayPal e Hyperwallet.
 - Parceiros de pesquisa, inclusive os responsáveis por pesquisas ou projetos em parceria com a Uber ou em nome dela.
 - Empresas de redes sociais, inclusive Meta e TikTok, em conexão com o uso que a Uber faz das ferramentas delas nos apps e sites da Uber.
-- Provedores de serviço que ajudam a Uber a melhorar a segurança dos próprios apps e serviços
+- Prestadores de serviço que ajudam a Uber a melhorar a segurança dos próprios apps e serviços
 
  .
-- Provedores de serviço que nos fornecem ferramentas e serviços de inteligência artificial e aprendizado de máquina.
+- Prestadores de serviço que nos fornecem ferramentas e serviços de inteligência artificial e aprendizado de máquina.
 - Parceiros e prestadores de serviços terceirizados que se integram aos apps da Uber, incluindo fornecedores de bicicletas e patinetes, como Lime e Tembici, prestadores de serviços de entrega, como iFood, e fornecedores de aplicativos móveis de terceiros.
-- Fornecedores de veículos, inclusive parceiros gestores de veículos e locadoras.
-- Parceiros de programas de fidelidade que oferecem pontos ou recompensas em viagens e pedidos qualificados pelo Uber Eats, de acordo com os respectivos termos.
+- Fornecedores de veículos terceirizados (parceiros locadores de veículos e locadoras) e operadores de depósitos gestor de veículos.
+- Parceiros de programas de fidelidade que oferecem pontos ou recompensas em viagens e pedidos do Uber Eats elegíveis, de acordo com os respectivos termos.
 - Parceiros de veículos autônomos que oferecem viagens ou serviços de entrega pelos apps da Uber.
+- Operadores de depósitos de veículos autônomos que auxiliam na manutenção e nas operações da frota acessando os dados de localização e status dos veículos.
 
 **4. Com subsidiárias e afiliadas da Uber**
 
@@ -420,25 +421,25 @@ Geralmente, nós excluímos dados até 90 dias depois da solicitação de exclus
 
 **1. Configurações de privacidade**
 
-Você pode definir ou atualizar suas preferências sobre coleta e compartilhamento de dados de localização, compartilhamento de dados em situações de emergência e notificações no Centro de Privacidade da Uber, acessível em Conta > Configurações > Privacidade nos apps da Uber.
+Você pode definir ou atualizar suas preferências relacionadas à coleta e ao compartilhamento de dados de localização, ao compartilhamento de dados para emergência e a notificações na Central de Privacidade da Uber, que pode ser acessada em Conta > Configurações > Privacidade dos apps da Uber.
 
 - Coleta de dados de localização
 
- Você pode ativar ou desativar a coleta de dados de localização do seu dispositivo móvel pela Uber nas configurações do seu aparelho, acessíveis pelo menu Compartilhamento de localização no Centro de Privacidade da Uber.
+ Você pode habilitar/desabilitar a coleta que a Uber faz dos dados de localização do seu dispositivo móvel nas configurações do dispositivo, que podem ser acessadas no menu "Compartilhamento de localização" da Central de Privacidade da Uber.
 - Compartilhar localização em tempo real
 
- Você pode ativar ou desativar o compartilhamento em tempo real dos dados de localização do seu dispositivo móvel com os motoristas parceiros ou entregadores pelas configurações do seu aparelho, acessíveis pelo menu de Compartilhamento de localização no Centro de Privacidade da Uber.
+ Você pode ativar/desativar o compartilhamento pela Uber dos dados de localização em tempo real do seu dispositivo móvel com os motoristas parceiros ou entregadores parceiros nas configurações do dispositivo, que podem ser acessadas no menu "Compartilhamento de localização" da Central de Privacidade da Uber.
 - Identidade de gênero
 
- Você pode atualizar suas informações de gênero pelo menu Identidade de Gênero no Centro de Privacidade do app da Uber.
+ Você pode atualizar suas informações de gênero no menu "Identidade de gênero" da Central de Privacidade da Uber.
 - Compartilhamento de dados em casos de emergência
 
- Você pode permitir que a Uber compartilhe seus dados com serviços de emergência da polícia, bombeiros e ambulância, se necessário durante uma viagem. Caso faça isso, compartilharemos dados como seu nome e número de telefone; localização aproximada no momento em que a chamada de emergência foi feita; marca, modelo, cor e placa do carro; locais de embarque e desembarque; e o nome do motorista parceiro.
+ Você pode permitir que a Uber compartilhe seus dados com serviços de emergência, como polícia, corpo de bombeiros e serviços de ambulância durante uma viagem, se necessário. Se você fizer isso, nós compartilharemos dados como seu nome e número de telefone; localização aproximada no momento em que a chamada de emergência foi feita; marca, modelo, cor e placa do carro; locais de partida e chegada; e o nome do motorista parceiro.
 
- Você pode ativar ou desativar esse recurso pelo menu Compartilhamento de localização no Centro de Privacidade da Uber.
+ Você pode ativar/desativar esse recurso no menu "Compartilhamento de localização" da Central de privacidade da Uber.
 - Notificações: benefícios e novidades
 
- Você pode permitir que a Uber envie notificações push sobre promoções e novidades da Uber aqui ou no menu de Anúncios e Dados no app da Uber Central de Privacidade.
+ Você pode permitir que a Uber envie notificações push sobre promoções e novidades aqui ou no menu "Anúncios e dados" da Central de Privacidade da Uber.
 - Acesso a apps de terceiros
 
  Você pode autorizar que aplicativos de terceiros acessem os dados da sua conta da Uber para habilitar recursos adicionais. Você pode revisar/revogar o acesso de apps de terceiros aqui.
@@ -449,17 +450,17 @@ A maioria das plataformas de dispositivos móveis (como iOS e Android) definiu q
 
 **3. Páginas de avaliação no app**
 
-Após cada viagem, você e o motorista parceiro podem se avaliar mutuamente em uma escala de 1 a 5. A média das avaliações que você recebe é exibida para os motoristas parceiros.
+Depois de cada viagem, você e seu motorista podem avaliar um ao outro em uma escala de 1 a 5. Uma média das avaliações que você recebe é mostrada aos motoristas parceiros.
 
-Você pode encontrar sua média de avaliações na seção Conta do app da Uber e também acessar um detalhamento da sua média de avaliações no Centro de Privacidade da Uber.
+Você pode encontrar sua avaliação média na seção "Conta" do app da Uber, além de acessar um detalhamento dessa média na Central de privacidade da Uber.
 
 **4. Opções de marketing e publicidade**
 
 - Comunicações de marketing personalizadas da Uber
 
- Você pode escolher se a Uber pode personalizar comunicações de marketing (como e-mails, notificações push e mensagens no app) sobre produtos e serviços da Uber aqui ou no menu Anúncios e Dados no Centro de Privacidade da Uber.
+ Você pode escolher se a Uber pode personalizar as comunicações de marketing (como e-mails, notificações push e mensagens no app) sobre produtos e serviços da Uber aqui ou no menu "Anúncios e dados" da Central de Privacidade da Uber.
 
- Você também pode escolher aqui se deseja receber e-mails de marketing ou notificações push da Uber.
+ Você também pode escolher aqui se quer receber e-mails de marketing ou notificações push da Uber.
 - Anúncios personalizados
 
  Você pode escolher se a Uber usará o seu histórico de viagens, pedidos ou pesquisas da Uber para personalizar os anúncios que você verá nos apps da Uber ou Uber Eats e Postmates.
@@ -485,7 +486,7 @@ A Uber oferece várias formas para você conhecer e controlar os seus dados e en
  Você pode editar seu nome, número de telefone, endereço de e-mail, forma de pagamento e foto do perfil no menu "Configurações" dos apps da Uber.
 - Exclusão de dados
 
- Você pode solicitar que a Uber exclua sua conta pelo Centro de Privacidade da Uber.
+ Você pode solicitar a exclusão da sua conta por meio da Central de Privacidade da Uber.
 - Objeções, restrições e reclamações
 
  Você pode solicitar que paremos ou limitemos o uso de todos os seus dados ou de parte deles. Isso inclui contestar o uso que fazemos dos dados baseado em interesses legítimos da Uber. A Uber pode continuar fazendo o processamento de dados após tal objeção ou solicitação na medida necessária para prestar nossos serviços ou conforme exigido ou permitido por lei.
@@ -616,7 +617,7 @@ Viaje
 العربيةбългарски езикবাংলাČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)CastellanoEesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
 
 - Viajar
-- Ganhe Dirija
+- Dirigir
 - Empresa
 - Uber Eats
 - ### Sobre
@@ -671,7 +672,7 @@ PT-BR
 العربيةбългарски езикবাংলাČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)CastellanoEesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
 
 - Viajar
-- Ganhe Dirija
+- Dirigir
 - Empresa
 - Uber Eats
 - ### Sobre
