@@ -3,12 +3,40 @@ empresa: "Roblox"
 documento: "Termos de Uso"
 categoria: "Jogos"
 fonte: "https://en.help.roblox.com/hc/pt-br/articles/115004647846-Termos-de-Uso-da-Roblox"
-capturado_em: 2026-02-17
-wayback: "https://web.archive.org/web/20260217184640/https://en.help.roblox.com/hc/pt-br/articles/115004647846-Termos-de-Uso-da-Roblox"
+capturado_em: 2026-04-10
+wayback: "https://web.archive.org/web/20260410012418/https://en.help.roblox.com/hc/pt-br/articles/115004647846-Termos-de-Uso-da-Roblox"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/termos-de-uso.md"
 ---
 
-Data de entrada em vigor: 19 de dezembro de 2025 Última atualização: 7 de janeiro de 2026
+Data de entrada em vigor: 19 de dezembro de 2025
+
+Atualizaremos os nossos Termos de Uso, com entrada em vigor em 30 de abril de 2026, para refletir certas mudanças feitas na Roblox.
+
+Confira um resumo das mudanças realizadas:
+
+Termos de Uso
+
+- Estamos simplificando nossos Termos de Uso, incluindo esclarecimentos sobre o uso de ferramentas de IA e o uso de dados por parte delas.
+ - Movemos os termos que descrevem os Recursos de IA, que antes eram destinados a um público de Criadores e estavam localizados nos Termos Suplementares e Avisos sobre Ferramentas Baseadas em IA, para os Termos para Criadores e Usuários.
+ - Adicionamos explicações nos Dados Analíticos do Criador, no Fórum de Desenvolvedores e na Central de Talentos.
+ - Adicionamos uma explicação em nossa seção de Segurança Online, descrevendo nossas práticas de moderação.
+ - Adicionamos explicações sobre o papel dos Proprietários de Grupos/Comunidades e fizemos alterações relacionadas aos nossos Termos para Criadores e Usuários.
+- Estamos atualizando nossas políticas para melhorar a transparência em relação aos anúncios na plataforma, esclarecer critérios de elegibilidade para anúncios e fornecer mais informações sobre como a Roblox usa os conteúdos para a publicidade de marcas.
+ - Estamos fazendo alterações em nossos Termos de Uso e Política de Privacidade para moderar melhor o conteúdo comercial nas Experiências e permitir anúncios a todos os usuários da plataforma.
+ - Adicionamos esclarecimentos sobre quem pode ver anúncios personalizados e anúncios não personalizados na Roblox.
+ - Simplificamos e esclarecemos os direitos da Roblox de usar CGU de Criadores em marketing e publicidade.
+ - Esclarecemos questões relativas ao uso das nossas ferramentas de propriedade intelectual e às obras derivadas.
+- Esclarecemos questões relativas aos preços de assinaturas Premium e para Criadores que usam os Serviços Estendidos.
+ - Atualizamos referências à assinatura Premium para abranger todas as assinaturas e incluímos links para os novos Termos de Assinatura independentes.
+ - Adicionamos termos para os Serviços Estendidos da Roblox, descrevendo as cobranças adicionais.
+- Atualizamos os termos que descrevem os requisitos para usar nossas APIs e para solicitações governamentais e de aplicação da lei.
+ - Adicionamos uma descrição de nossas práticas de compartilhamento de informações com as autoridades.
+ - Esclarecemos os termos aplicáveis às APIs da Roblox.
+
+Também estamos alterando outras partes dos Termos da Roblox para alinhamento com essas mudanças. Dedique algum tempo para examiná-los:
+
+- Subscription Terms
+- Terms and Conditions for Gift Cards and Credits
 
 A versão em inglês é o documento principal, a menos que seja declarado de forma diferente. Traduções são fornecidas para facilitar a compreensão.
 
@@ -923,5 +951,3 @@ A Roblox tem como objetivo criar um ambiente online seguro e civilizado para os 
 A Roblox conta com regras e processos para garantir o tratamento e a resolução apropriados de queixas relevantes sob a OSA.
 
 Os Usuários do Reino Unido podem denunciar conteúdo que suspeitem ser ilegal sob as leis do Reino Unido usando a nossa funcionalidade de denúncia disponível aqui e fazer queixas especificamente referentes à OSA por meio de um processo que disponibilizaremos. Os Usuários do Reino Unido também poderão denunciar conteúdo que suspeitem ser prejudicial a crianças usando uma funcionalidade de denúncia que disponibilizaremos. Mais informações estarão disponíveis aqui. Informações sobre como recorrer de decisões estarão disponíveis aqui.
-
-Data de entrada em vigor: 19 de dezembro de 2025 Última atualização: 19 de dezembro de 2025
