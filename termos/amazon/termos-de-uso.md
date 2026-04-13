@@ -53,11 +53,10 @@ Além disso, gráficos, logotipos, títulos de página, ícones, scripts e nomes
 incluídos ou disponibilizados por meio de qualquer Serviço Amazon são marcas registradas
 ou nomes de fantasia da Amazon nos EUA e em outros países. As marcas registradas ou
 nomes de fantasia da Amazon não poderão ser utilizadas em relação a qualquer produto
-ou serviço que não seja da Amazon de forma a causar confusão entre os clientes, ou
-de maneira depreciativa ou difamatória para a Amazon. Todas as demais marcas registradas
-não detidas pela Amazon que apareçam em qualquer dos Serviços Amazon são de propriedade
-de seus respectivos titulares, que poderão ou não ser afiliados da Amazon, relacionados
-a ela ou por ela apoiados.
+ou serviço que não seja da Amazon de forma a causar confusão entre os clientes. Todas
+as demais marcas registradas não detidas pela Amazon que apareçam em qualquer dos
+Serviços Amazon são de propriedade de seus respectivos titulares, que poderão ou não
+ser afiliados da Amazon, relacionados a ela ou por ela apoiados.
 
 **PATENTES**
 
@@ -75,10 +74,12 @@ revenda ou uso comercial de qualquer Serviço Amazon ou de seu conteúdo, (b) a 
 ou uso de quaisquer listas de produtos, descrições ou preços, (c) qualquer uso derivado
 de qualquer Serviço Amazon ou de seu conteúdo; (d) qualquer download ou cópia de informações
 de contas em benefício de outro comerciante; (e) qualquer coleta de dados, robôs ou
-quaisquer outras ferramentas de extração de dados. Todos os direitos não expressamente
-concedidos a você nestas Condições de Uso ou em quaisquer Termos de Serviço são reservados
-e retidos pela Amazon ou pelos respectivos licenciadores, fornecedores, detentores
-de direitos ou outros fornecedores de conteúdo. Nenhum Serviço Amazon poderá ser reproduzido,
+quaisquer outras ferramentas de extração de dados. Você não poderá usar os Serviços
+da Amazon para infringir, apropriar-se indevidamente ou violar a propriedade intelectual
+ou outros direitos. Todos os direitos não expressamente concedidos a você nestas Condições
+de Uso ou em quaisquer Termos de Serviço são reservados e retidos pela Amazon ou pelos
+respectivos licenciadores, fornecedores, detentores de direitos ou outros fornecedores
+de conteúdo. Nenhum Serviço Amazon ou seu respectivo conteúdo poderá ser reproduzido,
 duplicado, copiado, vendido, revendido, visitado ou de outro modo explorado para qualquer
 finalidade comercial sem o consentimento expresso e escrito da Amazon. Você não poderá
 utilizar “framing” ou outras técnicas “framing” incorporando qualquer marca registrada,
@@ -86,10 +87,13 @@ logotipo ou outra informação exclusiva (inclusive imagens, textos, layout de p
 ou formulário) da Amazon sem o consentimento expresso e escrito da Amazon. Você não
 poderá utilizar quaisquer meta tags ou qualquer outro "texto oculto" utilizando o
 nome ou marcas registradas da Amazon sem o consentimento expresso e escrito da Amazon.
-Você não poderá utilizar os Serviços Amazon de forma inapropriada. Você poderá utilizar
-os Serviços Amazon somente na extensão permitida por lei. As licenças ou autorizações
-concedidas pela Amazon serão revogadas em caso de descumprimento destas Condições
-de Uso ou de quaisquer Termos de Serviço.
+Você não usará nem tampouco permitirá que terceiros usem conteúdo gerado por inteligência
+artificial dos Serviços da Amazon para, direta ou indiretamente, desenvolver ou aprimorar
+modelos multimodais ou de linguagem ampla, modelos de aprendizado de máquina ou tecnologia
+relacionada. Você não poderá utilizar os Serviços Amazon de forma inapropriada. Você
+poderá utilizar os Serviços Amazon somente na extensão permitida por lei. As licenças
+ou autorizações concedidas pela Amazon serão revogadas em caso de descumprimento destas
+Condições de Uso ou de quaisquer Termos de Serviço.
 
 **SUA CONTA**
 
@@ -183,6 +187,10 @@ Nos casos de produtos vendidos por terceiros que não a Amazon.com.br (fabricant
 ou outros varejistas), os preços serão determinados pelos terceiros, e qualquer questionamento
 em relação aos preços dispostos deverá ser feito diretamente a tais terceiros.
 
+Além do preço informado, podem ser indicados outros preços a título de referência
+ou comparação para ajudar na sua decisão de compra. Clique aqui para mais informações
+sobre preços de referência e indicadores de descontos.
+
 **COMPRA DE UM VENDEDOR INDEPENDENTE**
 
 Nas transações entre você e um vendedor independente pelo site Amazon.com.br, o vendedor
@@ -219,6 +227,14 @@ Não somos responsáveis por examinar ou avaliar e não garantimos as ofertas de
 dessas empresas, ou o conteúdo de seus sites. A Amazon não assume qualquer responsabilidade
 pelas ações, produtos e conteúdo desses e de quaisquer terceiros. Você deve analisar
 cuidadosamente as políticas de privacidade e demais Condições de Uso destes terceiros.
+
+**SANÇÕES E POLÍTICA DE EXPORTAÇÃO**
+
+Você não pode usar nenhum Serviço da Amazon se estiver sujeito a sanções dos EUA ou
+a sanções consistentes com a lei dos EUA imposta pelos governos do país em que você
+está usando os Serviços da Amazon. Você deve cumprir todas as restrições de exportação
+e reexportação dos EUA ou de outros países que possam se aplicar a produtos, software
+(incluindo o Amazon Software), tecnologia e serviços.
 
 **RENÚNCIA DE GARANTIAS E LIMITE DE RESPONSABILIDADE**
 
@@ -278,6 +294,13 @@ meio do site Amazon.com.br. Se qualquer dessas condições for considerada invá
 nula ou por qualquer motivo inexequível, essa condição será considerada uma cláusula
 separada e independente e não afetará a validade e exequibilidade de qualquer condição
 remanescente.
+
+**IDIOMA DE REGÊNCIA**
+
+As partes concordam que estas Condições de Uso sejam redigidas em Português (BR).
+No caso de qualquer inconsistência, discrepância ou conflito entre a versão em Português
+(BR) destas Condições de Uso e sua tradução em outro idioma, a versão em Português
+prevalecerá.
 
 **NOSSO ENDEREÇO**
 
@@ -353,8 +376,46 @@ A/C: Departamento Jurídico
  móvel. Seu uso desses serviços de terceiros pode estar sujeito a políticas, termos
  de uso e cobrança por esses terceiros.
 3. **Nenhuma Engenharia Reversa.** Você não poderá e não incentivará, auxiliará ou autorizará qualquer outra pessoa
- a copiar, modificar, realizar engenharia reversa, descompilar ou desmontar, ou de
- outro modo corromper o Software Amazon no todo ou em parte, ou criar quaisquer trabalhos
+ a copiar, modificar, realizar engenharia reversa, descompilar ou desmontar, aplicar
+ qualquer outro processo ou procedimento para derivar o código-fonte ou outros componentes
+ subjacentes (como um modelo, parâmetros de modelo ou pesos de modelo) ou de outro
+ modo corromper o Software Amazon no todo ou em parte, ou criar quaisquer trabalhos
  derivados a partir do Software Amazon.
 4. **Atualizações.** Para manter o Software Amazon atualizado, poderemos oferecer atualizações manuais
  ou automáticas a qualquer momento sem notificar você.
+
+**AGENTES**
+
+Os termos desta seção ("Termos de Agente") se aplicam se você usar, permitir, habilitar
+ou causar a implantação de um Agente para acessar, usar ou interagir com quaisquer
+Serviços da Amazon. Para os fins destes Termos de Agente, "Agente" significa qualquer
+software ou serviço que tome ações autônomas ou semi-autônomas em nome de, ou sob
+instrução de, qualquer pessoa ou entidade.
+
+**1. Transparência e Consentimento.** Nenhum Agente pode acessar, usar ou interagir com os Serviços da Amazon, a menos
+que, em todos os momentos, se identifique e opere em estrita conformidade com os requisitos
+da seção 3 destes Termos de Agente. Além disso, nenhum Agente pode acessar, usar ou
+interagir com os Serviços da Amazon se tivermos solicitado que o Agente se abstenha
+de acessar, usar ou interagir com qualquer Serviço da Amazon.
+
+**2. Limitação de Acesso.** A nosso exclusivo critério, podemos limitar, inclusive por medidas técnicas, se e
+como qualquer Agente acessa, utiliza e interage com os Serviços da Amazon.
+
+**3. Requisitos Técnicos.** Os Agentes devem:
+
+Em todas as solicitações HTTP/HTTPS, identificar que a solicitação é de um Agente
+e divulgar o nome do Agente incluindo o seguinte na string do user agent da solicitação:
+
+“Agent/[nome do agente]” (por exemplo, Agent/AmazonAgent)
+
+Não ocultar ou ofuscar que qualquer acesso, uso ou interações são de um Agente, como
+por (a) imitar a velocidade ou padrão de digitação humana, navegação de página ou
+outras interações ou (b) completar ou contornar CAPTCHAs ou outras medidas destinadas
+a distinguir computadores de humanos.
+
+Responder de forma verdadeira a qualquer pergunta ou solicitação que busque determinar
+se as interações estão vindo de um humano ou de um computador.
+
+Não contornar ou de qualquer forma evitar qualquer medida destinada a bloquear, limitar,
+modificar ou controlar se e como os Agentes acessam, usam ou interagem com um Serviço
+da Amazon.
