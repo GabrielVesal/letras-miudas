@@ -598,7 +598,6 @@ Viaje
 - Cidades
 
 - Português (Brasil)
-- Wichita
 
 © 2026 Uber Technologies Inc.
 
