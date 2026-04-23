@@ -3,8 +3,8 @@ empresa: "Uber"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
-capturado_em: 2026-03-31
-wayback: "https://web.archive.org/web/20260331081607/https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
+capturado_em: 2026-04-23
+wayback: "https://web.archive.org/web/20260423054155/https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/uber/politica-de-privacidade.md"
 ---
 
@@ -604,7 +604,6 @@ Viaje
 - Cidades
 
 - Português (Brasil)
-- Wichita
 
 © 2026 Uber Technologies Inc.
 
