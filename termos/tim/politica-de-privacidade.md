@@ -3,8 +3,8 @@ empresa: "TIM"
 documento: "Política de Privacidade"
 categoria: "Telefonia"
 fonte: "https://www.tim.com.br/sobre-a-tim/institucional/seguranca/central-de-privacidade"
-capturado_em: 2026-01-31
-wayback: "https://web.archive.org/web/20260131165537/https://www.tim.com.br/sobre-a-tim/institucional/seguranca/central-de-privacidade"
+capturado_em: 2026-04-30
+wayback: "https://web.archive.org/web/20260430003221/https://www.tim.com.br/sobre-a-tim/institucional/seguranca/central-de-privacidade"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/tim/politica-de-privacidade.md"
 ---
 
@@ -254,23 +254,17 @@ Digite sua dúvida
 
 **Principais dúvidas**
 
-Tem alguma dúvida? Quer falar com o DPO?
+Quais dados a TIM coleta de mim? Isso é seguro?
 
-Se a sua dúvida for sobre serviços da TIM, como cobranças, portabilidade numérica e solicitação de contrato, por favor entre em contato nos números \*144 para atendimento ao serviço de telefonia móvel e 10341 para banda larga.
+Seus dados são tratados com muita transparência e cuidado aqui na TIM, já que seguimos a Lei Geral de Proteção de Dados (LGPD), uma legislação que foi feita para regulamentar o tratamento de dados pessoais.
 
-Caso sua dúvida seja sobre privacidade de dados pessoais e você não encontrou a resposta neste site, mande uma mensagem para **dpo@timbrasil.com.br**
+É totalmente seguro. Você pode saber mais detalhes aqui nesta página ou ainda ver a nossa **Política de Privacidade**.
 
-Como posso cancelar o envio de SMS publicitária da TIM?
+E o que são cookies? A TIM tem uma política de cookies?
 
-Para cancelar o envio de mensagens publicitárias da TIM, basta enviar "SAIR" para 4112. Mas, se quiser voltar com o envio e saber de ofertas exclusivas, promoções e descontos, envie "RECEBER" para 4111.
+Cookies são arquivos que transferimos e permitem reconhecer o seu navegador ou dispositivo, além de saber outras informações, como quando nossas páginas e produtos são visitados, quantas pessoas acessam o site, entre outras.
 
-Você também pode evitar ligações publicitárias de outras empresas. Descubra como na **página Não me Perturbe.**
-
-O que são os SMS piratas? Posso receber algum da TIM?
-
-SMS Piratas (ou SPAM) são SMS não regulamentados e clandestinos. Alguns podem se passar pela TIM, mas as nossas comunicações não são enviadas por números de 8 ou 9 dígitos e nem pedem para você enviar informações pessoais.
-
-Já os nossos SMS estão dentro da lei e são seguros. Você mais sobre o tema na **página de SMS Pirata**.
+Você pode saber tudo sobre a nossas diretrizes na **página de Política de Cookies da TIM.**
 
 Como posso aumentar a segurança no meu WhatsApp?
 
@@ -294,17 +288,23 @@ Veja algumas medidas simples para auxiliar a segurança:
  - Na instalação, verifique se as permissões de acesso solicitadas estão de acordo com a finalidade do aplicativo;
  - Ligue configurações de segurança como: as opções de rastreamento, bloqueio, backup, remoção de arquivos remotamente e etc.
 
-E o que são cookies? A TIM tem uma política de cookies?
+O que são os SMS piratas? Posso receber algum da TIM?
 
-Cookies são arquivos que transferimos e permitem reconhecer o seu navegador ou dispositivo, além de saber outras informações, como quando nossas páginas e produtos são visitados, quantas pessoas acessam o site, entre outras.
+SMS Piratas (ou SPAM) são SMS não regulamentados e clandestinos. Alguns podem se passar pela TIM, mas as nossas comunicações não são enviadas por números de 8 ou 9 dígitos e nem pedem para você enviar informações pessoais.
 
-Você pode saber tudo sobre a nossas diretrizes na **página de Política de Cookies da TIM.**
+Já os nossos SMS estão dentro da lei e são seguros. Você mais sobre o tema na **página de SMS Pirata**.
 
-Quais dados a TIM coleta de mim? Isso é seguro?
+Como posso cancelar o envio de SMS publicitária da TIM?
 
-Seus dados são tratados com muita transparência e cuidado aqui na TIM, já que seguimos a Lei Geral de Proteção de Dados (LGPD), uma legislação que foi feita para regulamentar o tratamento de dados pessoais.
+Para cancelar o envio de mensagens publicitárias da TIM, basta enviar "SAIR" para 4112. Mas, se quiser voltar com o envio e saber de ofertas exclusivas, promoções e descontos, envie "RECEBER" para 4111.
 
-É totalmente seguro. Você pode saber mais detalhes aqui nesta página ou ainda ver a nossa **Política de Privacidade**.
+Você também pode evitar ligações publicitárias de outras empresas. Descubra como na **página Não me Perturbe.**
+
+Tem alguma dúvida? Quer falar com o DPO?
+
+Se a sua dúvida for sobre serviços da TIM, como cobranças, portabilidade numérica e solicitação de contrato, por favor entre em contato nos números \*144 para atendimento ao serviço de telefonia móvel e 10341 para banda larga.
+
+Caso sua dúvida seja sobre privacidade de dados pessoais e você não encontrou a resposta neste site, mande uma mensagem para **dpo@timbrasil.com.br**
 
 Gestão da TIM com a LGPD
 
