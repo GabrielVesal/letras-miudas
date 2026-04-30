@@ -14,7 +14,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 11 de dezembro de 2025 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 2 de abril de 2026 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -91,7 +91,7 @@ Coletamos informações sobre sua atividade em nossos serviços e usamos tal inf
 
 Se você usa nossos serviços para fazer e receber chamadas ou enviar e receber mensagens, podemos coletar informações de registro de chamadas e mensagens, como o número do seu telefone, número de quem chama, número de quem recebe, números de encaminhamento, endereço de e-mail do remetente e destinatário, horário e data de chamadas e mensagens, duração das chamadas, informações de roteamento e tipos e volumes de chamadas e mensagens.
 
-Visite sua Conta do Google para encontrar e gerenciar informações de atividades salvas na conta.
+Acesse sua Conta do Google para encontrar e gerenciar as informações de atividade salvas pelos seus controles de atividade.
 
 Ir para a Conta do Google
 
@@ -146,7 +146,7 @@ Acessar a Minha central de anúncios
 
 ### Avaliar o desempenho
 
-Usamos dados para análise e avaliação a fim de entender como nossos serviços são usados. Por exemplo, analisamos dados sobre suas visitas aos nossos sites para otimizar o design do produto. Também usamos dados sobre os anúncios com os quais você interage, incluindo sua atividade relacionada na Pesquisa Google, para ajudar os anunciantes a entender a performance das campanhas publicitárias. Usamos diversas ferramentas para fazer isso, incluindo o Google Analytics. Quando você visita sites ou usa apps que utilizam o Google Analytics, um cliente do Google Analytics desse site pode ativar o Google para vincular informações sobre sua atividade naquele site ou app com atividades de outros sites e apps que usam nossos serviços de anúncios.
+Usamos dados para análise e avaliação a fim de entender como nossos serviços são usados. Por exemplo, analisamos dados sobre seus acessos aos nossos sites para otimizar o design do produto. Também usamos dados sobre os anúncios com os quais você interage, incluindo sua atividade relacionada na Pesquisa Google, para ajudar os anunciantes a entender a performance das campanhas publicitárias. Para isso, usamos diversas ferramentas, incluindo serviços de publicidade e análise. Quando você acessa sites ou usa apps que utilizam os serviços de anúncios ou de análise do Google, esses serviços podem vincular informações sobre sua atividade naquele site ou app com atividades de outros sites e apps que usam nossos serviços.
 
 ### Entrar em contato com você
 
@@ -184,7 +184,7 @@ Também criamos um local para você analisar e controlar as informações salvas
 
 ### Controles de atividade
 
-Você pode decidir que tipos de atividade quer salvar na sua conta. Por exemplo, se o "Histórico do YouTube" estiver ativado, os vídeos que você assistir e as pesquisa que fizer serão salvos na sua conta para que você se lembre de onde parou e receba recomendações melhores. E se a opção "Atividade na Web e de apps" estiver ativada, suas pesquisas e atividade em outros Serviços do Google serão salvas na sua conta para que você possa ter experiências personalizadas, como pesquisas mais rápidas e apps mais úteis, além de recomendações de conteúdo. O recurso "Atividade na Web e de apps" tem também uma configuração que permite controlar se informações sobre sua atividade em outros sites, apps e dispositivos que usam os Serviços do Google, como apps instalados e usados no Android, são salvos na sua Conta do Google e usados para melhorar os Serviços do Google.
+Você pode decidir que tipos de atividade quer salvar na sua conta. Por exemplo, se o Histórico do YouTube estiver ativado, os vídeos que você assistir e as pesquisa que fizer serão salvos na sua conta para que você se lembre de onde parou e receba recomendações melhores. E se a opção Atividade na Web e de Apps estiver ativada, suas pesquisas e atividades em outros Serviços do Google serão salvas na sua conta para que você possa ter experiências personalizadas, por exemplo, pesquisas mais rápidas e apps mais úteis, além de recomendações de conteúdo. O recurso Atividade na Web e de Apps tem também uma configuração que permite controlar se algumas informações sobre sua atividade em outros sites, apps e dispositivos que usam os Serviços do Google, como apps instalados e usados no Android, são salvas na sua Conta do Google e usadas para melhorar os Serviços do Google.
 
 Acessar os Controles de atividade
 
@@ -374,7 +374,7 @@ Esta Política de Privacidade é feita para ajudar você a entender como o Googl
 
 As Leis Estaduais de Privacidade dos EUA dão o direito de pedir informações sobre como o Google coleta, usa e divulga seus dados. Elas também permitem a você acessar (às vezes em formato que possa ser exportado) e corrigir seus dados, além de solicitar ao Google que sejam excluídos. Muitas dessas legislações também permitem recusar determinadas formas de criação de perfil e publicidade segmentada. Elas também garantem o direito de que não haja discriminação por você exercer seus direitos de privacidade. Além disso, a CCPA trata determinados tipos de informações (por exemplo, dados de saúde) como sensíveis. O Google só pode usar essas informações fornecidas pelos usuários para os fins permitidos pela CCPA; por exemplo, para prestar os serviços solicitados e esperados pelos nossos usuários.
 
-A Lei My Health My Data de Washington e o Projeto 370 do Senado de Nevada concedem direitos específicos, além dos acima, que se aplicam a informações de saúde. Quando você fornece essas informações, o Google só as processa com seu consentimento, e você pode excluir seu consentimento se quiser.
+A Lei Minha Saúde, Meus Dados (MHMD) de Washington e o Projeto 370 do Senado de Nevada concedem direitos específicos, além dos acima, que se aplicam a informações de saúde. Quando você fornece informações de saúde sujeitas a essas leis, o Google trata esses dados com seu consentimento, que pode ser retirado, ou conforme permitido por essas leis.
 
 Em Seus controles de privacidade, descrevemos as opções disponíveis para gerenciar seus dados e sua privacidade nos serviços do Google. Essas ferramentas permitem que você acesse, revise, atualize e exclua seus dados, bem como exporte ou faça o download de uma cópia deles. Você também pode controlar quais informações usamos para mostrar publicidade ou desativar os anúncios personalizados na Minha central de anúncios.
 
@@ -603,7 +603,7 @@ Você pode conferir e controlar sua Atividade na Web e de apps na página Minha 
 
 Sites e apps que integram Serviços do Google, como anúncios e análises de dados, compartilham informações conosco.
 
-Essas informações são coletadas independente do navegador ou do modo de navegação usado. Por exemplo, embora o modo de navegação anônima do Chrome possa ajudar a proteger sua navegação de outras pessoas que usam o dispositivo, sites e apps de terceiros que integram nossos serviços ainda podem compartilhar informações com o Google quando você os visita.
+Essas informações são compartilhadas independente do navegador ou do modo de navegação usado. Por exemplo, embora o modo de navegação anônima do Chrome possa ajudar a proteger sua navegação contra outras pessoas que usam o dispositivo, ainda é possível que sites e apps de terceiros que integram nossos serviços compartilhem informações com o Google quando você os visita.
 
 Saiba mais sobre algumas maneiras de controlar as informações compartilhadas ao visitar ou interagir com sites e apps que usam Serviços do Google.
 
@@ -734,7 +734,7 @@ Saiba mais sobre as tecnologias usadas na publicidade.
 
 ### podem vincular informações
 
-O Google Analytics faz uso de cookies primários, o que significa que os cookies são configurados pelo cliente do Analytics. Usando nossos sistemas, os dados gerados pelo Google Analytics podem ser vinculados pelo cliente do Analytics e pelo Google a cookies de terceiros relacionados a visitas a outros sites. Por exemplo, pode acontecer de um anunciante usar os dados do Google Analytics para criar anúncios mais relevantes ou analisar melhor o tráfego. Saiba mais
+Por exemplo, um cliente pode querer usar os dados do Google Analytics para criar anúncios mais relevantes ou analisar melhor o tráfego. Com os nossos sistemas, os dados gerados pelo Google Analytics podem ser vinculados pelo cliente e pelo Google a cookies e outras tecnologias relacionadas a visitas a outros sites e apps. Saiba mais
 
 ### proteção contra abuso
 
