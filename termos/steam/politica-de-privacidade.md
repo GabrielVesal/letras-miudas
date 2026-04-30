@@ -3,8 +3,8 @@ empresa: "Steam"
 documento: "Política de Privacidade"
 categoria: "Jogos"
 fonte: "https://store.steampowered.com/privacy_agreement/?l=brazilian"
-capturado_em: 2026-03-22
-wayback: "https://web.archive.org/web/20260322072545/https://store.steampowered.com/privacy_agreement/?l=brazilian"
+capturado_em: 2026-04-30
+wayback: "https://web.archive.org/web/20260430075637/https://store.steampowered.com/privacy_agreement/?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/politica-de-privacidade.md"
 ---
 
@@ -169,7 +169,7 @@ A CCPA concede aos residentes da Califórnia determinados direitos de privacidad
 
 **Outros direitos.** A CCPA também concede aos residentes da Califórnia o direito de não participar da venda de seus Dados Pessoais. Conforme descrito na seção 5, não vendemos Dados Pessoais e não o fizemos nos últimos 12 meses. Você também tem o direito de receber um aviso de nossas práticas na coleta de seus Dados Pessoais ou antes dela. Finalmente, você tem o direito de não ser discriminado por exercer seus direitos sob os termos da CCPA.
 
-**Exercício de seus direitos.** O principal meio de acessar, gerenciar ou excluir seus Dados Pessoais é através do Painel de Privacidade, conforme descrito na seção 6 desta Política. Os clientes também podem excluir sua Conta do Steam e os Dados Pessoais associados, conforme descrito na seção 6.3 desta Política de Privacidade. Se você não conseguir acessar ou excluir dados por meio do Painel de Privacidade, também poderá entrar em contato conosco com uma solicitação para exercer esses direitos usando o formulário em https://help.steampowered.com/en/wizard/HelpAccountDataQuestion. Para verificar sua identidade, você precisará fazer login com sua Conta de Usuário do Steam para usar o formulário. Por fim, você pode entrar em contato conosco com uma solicitação pelo e-mail questions@valvesoftware.com, no entanto, antes de fornecer acesso ou excluir quaisquer Dados Pessoais, com base em uma solicitação recebida por e-mail, precisaremos verificar sua identidade utilizando o processo de "Comprovação de Titularidade" descrito em https://support.steampowered.com/kb\_article.php?ref=2268-EAFZ-9762.
+**Exercício de seus direitos.** O principal meio de acessar, gerenciar ou excluir seus Dados Pessoais é através do Painel de Privacidade, conforme descrito na seção 6 desta Política. Os clientes também podem excluir sua Conta do Steam e os Dados Pessoais associados, conforme descrito na seção 6.3 desta Política de Privacidade. Se você não conseguir acessar ou excluir dados por meio do Painel de Privacidade, também poderá entrar em contato conosco com uma solicitação para exercer esses direitos usando o formulário em https://help.steampowered.com/wizard/HelpAccountDataQuestion. Para verificar sua identidade, você precisará fazer login com sua Conta de Usuário do Steam para usar o formulário. Por fim, você pode entrar em contato conosco com uma solicitação pelo e-mail questions@valvesoftware.com, no entanto, antes de fornecer acesso ou excluir quaisquer Dados Pessoais, com base em uma solicitação recebida por e-mail, precisaremos verificar sua identidade utilizando o processo de "Comprovação de Titularidade" descrito em https://support.steampowered.com/kb\_article.php?ref=2268-EAFZ-9762.
 
 Você pode designar, por escrito ou por meio de um procurador, um agente autorizado a fazer solicitações em seu nome para exercer seus direitos sob os termos da CCPA. Antes de aceitar tal solicitação de um agente, exigiremos que o mesmo forneça a comprovação de que você o autorizou a agir em seu nome, e talvez seja necessário que você confirme sua identidade diretamente conosco.
 
