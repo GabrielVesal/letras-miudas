@@ -2,7 +2,7 @@
      Fonte: https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-Última atualização: 29 de junho de 2022.
+Última atualização: 25 de setembro de 2025
 
 Para ver um resumo da Notificação de Privacidade anterior, clique aqui.
 
@@ -29,10 +29,10 @@ fazem referência a esta Notificação de Privacidade (em conjunto, os "Serviço
 
 ## Controladores de informações pessoais
 
-A Serviços de Varejo do Brasil Ltda. e a Amazon Logística do Brasil Ltda., ambas com
-endereço na Avenida Presidente Juscelino Kubitschek, 2.041, Torre E, 18º andar, São
-Paulo/SP ("Amazon") são as controladoras dos dados pessoais coletados e tratados pelos
-Serviços da Amazon. Mais informações podem ser encontradas aqui.
+A Amazon Serviços de Varejo do Brasil Ltda. e a Amazon Logística do Brasil Ltda.,
+ambas com endereço na Avenida Presidente Juscelino Kubitschek, 2.041, Torre E, 18º
+andar, São Paulo/SP ("Amazon") são as controladoras dos dados pessoais coletados e
+tratados pelos Serviços da Amazon. Mais informações podem ser encontradas aqui.
 
 ## Quais informações pessoais sobre clientes a Amazon coleta?
 
@@ -145,7 +145,7 @@ das informações.
 **Transferências para fora do Brasil.** Quando transferirmos informações pessoais para outros países ao compartilharmos informações
 conforme previsto acima, nós nos certificaremos de que essas informações sejam transferidas
 de acordo com esta Notificação de Privacidade e conforme permitido pelas leis aplicáveis
-sobre proteção de dados.
+sobre proteção de dados. Consulte a página sobre Transferência Internacional de Dados Pessoais para obter mais informações.
 
 ## Quão seguras são as informações sobre mim?
 
@@ -163,8 +163,9 @@ Desenvolvemos nossos sistemas sempre pensando em sua segurança e privacidade.
  autorizado e perda de dados. Você pode controlar esses recursos e configurá-los de
  acordo com suas necessidades. Clique aqui .
 - É importante que você se proteja contra acessos não autorizados à sua senha e aos
- seus computadores, dispositivos e aplicativos. Certifique-se de encerrar a sessão
- sempre que terminar de usar um computador compartilhado. Clique aqui .
+ seus computadores, dispositivos e aplicativos. Recomendamos usar uma senha única para
+ sua conta Amazon que não seja utilizada em outras contas online. Certifique-se de
+ encerrar a sessão sempre que terminar de usar um computador compartilhado. Clique aqui .
 
 ## E a publicidade?
 
@@ -173,17 +174,21 @@ Desenvolvemos nossos sistemas sempre pensando em sua segurança e privacidade.
  você quando você interage com o conteúdo, publicidade e serviços oferecidos por eles.
  Para mais informações sobre anúncios de terceiros na Amazon, incluindo anúncios baseados
  em interesse, leia nossa Notificação de Anúncios Baseados em Interesse . Para ajustar suas preferências de anúncios, acesse a página Preferências de Anúncios .
-- **Uso de serviços de publicidade de terceiros:** fornecemos às empresas de publicidade informações que lhes permitem veicular anúncios
+- **Uso de serviços de publicidade de terceiros:** Fornecemos às empresas de publicidade informações que lhes permitem veicular anúncios
  da Amazon mais úteis e relevantes e medir sua eficácia. Nunca compartilhamos seu nome
  ou outras informações que o identifiquem diretamente quando fazemos isso. Em vez disso,
- usamos um identificador de publicidade, como um cookie, um identificador de dispositivo
+ usamos um identificador publicitário como um cookie, um identificador de dispositivo
  ou um código derivado da aplicação de criptografia irreversível a outras informações,
  como um endereço de e-mail. Por exemplo, se você já baixou um de nossos aplicativos,
  compartilharemos seu identificador de publicidade e dados sobre esse evento para que
- você não seja veiculado um anúncio para baixar o aplicativo novamente. Algumas empresas
- de publicidade também usam essas informações para veicular anúncios relevantes de
- outros anunciantes. Você pode saber mais sobre como cancelar a publicidade baseada
- em interesses acessando a página Preferências de Anúncios .
+ você não seja veiculado um anúncio para baixar o aplicativo novamente. Embora não
+ compartilhemos suas ações específicas de consumo, como compras, visualizações de produtos
+ ou pesquisas com empresas de publicidade, podemos compartilhar um identificador publicitário
+ e uma estimativa do valor dos anúncios que elas exibem em nosso nome para que possam
+ apresentar anúncios mais eficazes da Amazon para você. Algumas empresas de publicidade
+ também usam essas informações para veicular anúncios relevantes de outros anunciantes.
+ Você pode saber mais sobre como cancelar a publicidade baseada em interesses acessando
+ a página Preferências de Anúncios .
 
 ## Quais informações posso acessar?
 
