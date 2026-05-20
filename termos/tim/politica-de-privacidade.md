@@ -197,17 +197,16 @@ Por fim, esclarecemos que a TIM possui uma estrutura robusta de governança em p
 
 ## Conheça melhor nossas políticas
 
-### Política de privacidade TIM
+- ### Política de privacidade TIM
 
-Saiba quais informações são coletadas em nossas plataformas.
+ Saiba quais informações são coletadas em nossas plataformas.
 
-- Ler Política de Privacidade
+ - Ler Política de Privacidade
+- ### Política de cookies TIM
 
-### Política de cookies TIM
+ Usamos Cookies para saber sua navegação, conhecer você e oferecer produtos específicos
 
-Usamos Cookies para saber sua navegação, conhecer você e oferecer produtos específicos
-
-- Ler Política de Cookies
+ - Ler Política de Cookies
 
 Conheça nossas dicas
 
