@@ -3,8 +3,8 @@ empresa: "Uber"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
-capturado_em: 2026-04-23
-wayback: "https://web.archive.org/web/20260423054155/https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
+capturado_em: 2026-05-24
+wayback: "https://web.archive.org/web/20260524120445/https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/uber/politica-de-privacidade.md"
 ---
 
@@ -44,7 +44,7 @@ Versão anterior do Aviso de Privacidade
 
 #### B. Nossas bases legais para usar seus dados
 
-#### C. Estrutura legal para a transferências de dados
+#### C. Estrutura legal para as transferências de dados
 
 #### D. Atualizações deste Aviso de Privacidade
 
@@ -60,7 +60,7 @@ Este aviso se aplica especificamente se você:
 
 - Solicitar ou receber serviços de mobilidade, incluindo viagens, pela sua conta da Uber ("Usuário").
 - Solicitar ou obter refeições, itens ou outros produtos e serviços para entrega, retirada ou devolução, inclusive por meio do Uber Envios, da sua conta do Uber Eats ou Postmates ou por meio dos recursos de pagamento como convidado, que permitem acessar serviços de entrega ou retirada sem criar e/ou fazer login na sua conta ("Destinatário do pedido").
-- Receber serviços por meio de apps ou sites da Uber solicitados por outras pessoas ("Usuário convidado"). Isso inclui usuários que recebem serviços de viagem ou entrega solicitados por usuários do Uber Health, Uber Central, Uber Direct ou Uber para Empresas (coletivamente, "Clientes corporativos") ou por amigos, membros da família ou outros titulares de conta individuais, inclusive por meio do Uber Flash. Isso também inclui pessoas que recebem Gift Cards da Uber.
+- Receber serviços por meio de apps ou sites da Uber solicitados por outras pessoas ("Usuário convidado"). Isso inclui usuários que recebem serviços de viagem ou entrega solicitados por usuários do Uber Health, Uber Central, Uber Direct ou Uber para Empresas (coletivamente, "Clientes corporativos") ou por amigos, membros da família ou outros titulares de conta individuais, inclusive por meio do Uber Envios. Isso também inclui pessoas que recebem Gift Cards da Uber.
 
 Este aviso **não** descreve a coleta e o uso que a Uber faz dos seus dados se você usar os apps da Uber para fornecer (em vez de solicitar ou obter) serviços por meio dos apps ou sites da Uber, inclusive como motorista/entregador parceiro. O aviso da Uber que descreve nossa coleta e uso desses dados está disponível aqui. Aqueles que usam os apps da Uber para solicitar, obter ou fornecer serviços são chamados de "usuários" neste aviso.
 
@@ -157,7 +157,7 @@ A Uber coleta os seguintes dados:
 | Categoria dos dados | Tipos de dados |
 | --- | --- |
 | a. **Autoridades policiais/jurídicas, autoridades de saúde e outras autoridades governamentais.** | - Nome - Informações de contato - Informações relacionadas a autoridades policiais/jurídicas, saúde ou outras investigações |
-| b. **Parceiros de marketing, anunciantes e prestadores de serviços.** Estão incluídos bancos em conexão com programas de Cash Back\*e revendedores de dados.\* | - Dados de uso, incluindo seu envolvimento com campanhas de marketing e publicidade - Contato - Dispositivo - Dados adicionais, como dados demográficos (faixa etária, faixa de renda familiar, gênero), interesses gerais e estilo de vida, comportamento geral de compra, preferências de visualização e hábitos de streaming.\* |
+| b. **Parceiros de marketing, anunciantes e prestadores de serviços.** Estão incluídos bancos em conexão com programas de Cash Back\* e revendedores de dados.\* | - Dados de uso, incluindo seu envolvimento com campanhas de marketing e publicidade - Contato - Dispositivo - Dados adicionais, como dados demográficos (faixa etária, faixa de renda familiar, gênero), interesses gerais e estilo de vida, comportamento geral de compra, preferências de visualização e hábitos de streaming.\* |
 | c. **Prestadores de serviços que nos ajudam a verificar sua identidade ou detectar fraudes.** | - Confirmação sobre se as informações da sua conta estão relacionadas a pessoas conhecidas - Nome - Informações de contato - Data de nascimento - Informações relacionadas à operadora de telefonia móvel associada ao seu telefone, como nome da operadora e tipo de rede - Documentos de identificação oficiais, como carteira de habilitação ou passaporte, e informações relacionadas (como números de identificação, data de validade e dados demográficos) |
 | d. **Proprietários de contas da Uber.** Isso se refere a proprietários de contas da Uber que solicitam serviços para você (como amigos ou membros da família) ou que permitem que você solicite serviços por meio das contas deles (como clientes de empresas). | - Nome - Informações de contato - Localização - Informações da viagem/pedido |
 | e. **Parceiros comerciais da Uber (criação e acesso à conta e APIs).** A Uber pode receber seus dados de parceiros comerciais por meio dos quais você cria ou acessa sua conta da Uber, como provedores de serviços de pagamento, serviços de redes sociais, parceiros de programas de fidelidade ou apps e sites que usam as APIs da Uber ou cujas APIs a Uber usa. | Varia de acordo com o parceiro de negócios que você usa para criar ou acessar sua conta da Uber ou da API usada. |
@@ -195,7 +195,7 @@ A Uber coleta os seguintes dados:
 
 | Usos de dados | Os dados usados incluem |
 | --- | --- |
-| a. **Confirmar sua conta, identidade ou conformidade com os requisitos de segurança.** Isso inclui: - Verificar que você é quem diz ser usando as informações da conta fornecidas por você durante o cadastro (como nome, informações de contato, data de nascimento ou informações de pagamento), além de informações de bancos de dados de terceiros para prevenção de fraudes e identidade - Verificar a sua idade e verificar que a sua conta esteja sendo usada por você e não por outra pessoa: - coletando seu número de identificação e/ou uma foto do seu documento de identificação e efetuando uma verificação para confirmar que ele seja válido, esteja inalterado e que nenhuma outra conta esteja associada a ele\* - Coletar uma selfie em tempo real que nós comparamos com a foto do seu documento de identificação ou do seu perfil para confirmar que as fotos sejam da mesma pessoa\* - Verificar sua identidade e/ou idade coletando uma foto do seu documento de identidade quando você aluga uma bicicleta ou um patinete, obtém a entrega de itens restritos por idade, como bebidas alcoólicas, tabaco ou cannabis, ou ao usar produtos como o Uber Rent e o Uber Flash - Confirmar, ao alugar uma bicicleta ou patinete pelos apps da Uber, que você está usando capacete ou outros equipamentos de segurança obrigatório, coletando uma selfie em tempo real e usando a tecnologia de confirmação de objetos - Confirmar sua qualificação para fazer a assinatura do Uber One para Estudantes | - Conta - Dados de outras fontes (bancos de dados de terceiros) - Dados demográficos - Confirmação de identidade - Gravações no veículo - Conteúdo do usuário |
+| a. **Confirmar sua conta, identidade ou conformidade com os requisitos de segurança.** Isso inclui: - Verificar que você é quem diz ser usando as informações da conta fornecidas por você durante o cadastro (como nome, informações de contato, data de nascimento ou informações de pagamento), além de informações de bancos de dados de terceiros para prevenção de fraudes e identidade - Verificar a sua idade e verificar que a sua conta esteja sendo usada por você e não por outra pessoa: - coletando seu número de identificação e/ou uma foto do seu documento de identificação e efetuando uma verificação para confirmar que ele seja válido, esteja inalterado e que nenhuma outra conta esteja associada a ele\* - Coletar uma selfie em tempo real que nós comparamos com a foto do seu documento de identificação ou do seu perfil para confirmar que as fotos sejam da mesma pessoa\* Verificar sua identidade e/ou idade coletando uma foto do seu documento de identidade quando você aluga uma bicicleta ou um patinete, obtém a entrega de itens restritos por idade, como bebidas alcoólicas, tabaco ou cannabis, ou ao usar produtos como o Uber Rent e o Uber Envios- Confirmar, ao alugar uma bicicleta ou patinete pelos apps da Uber, que você está usando capacete ou outros equipamentos de segurança obrigatório, coletando uma selfie em tempo real e usando a tecnologia de confirmação de objetos - Confirmar sua qualificação para fazer a assinatura do Uber One para Estudantes | - Conta - Dados de outras fontes (bancos de dados de terceiros) - Dados demográficos - Confirmação de identidade - Gravações no veículo - Conteúdo do usuário |
 | b. **Evitar, detectar e combater fraudes, inclusive por usuários convidados.** | - Conta - Comunicações entre usuários - Dados de outras fontes (dados do motorista parceiro) - Dados demográficos - Dispositivo - Verificação de identidade - Localização - Viagem/pedido - Uso |
 | c. **Prever e ajudar a evitar pareamentos de usuários que possam resultar em um risco maior de conflito,**\* **ou em que um usuário tenha deixado uma avaliação baixa para o outro (por exemplo, uma estrela).** | - Conta - Viagem/pedido (inclusive taxas de cancelamentos) - Uso - Conteúdo do usuário (avaliações e incidentes reportados) |
 | d. **Oferecer suporte em tempo real de especialistas em segurança durante viagens ou entregas.** | - Conta (telefone, nome do usuário, informações do veículo) - Localização - Viagem/pedido - Conteúdo do usuário |
@@ -205,7 +205,7 @@ A Uber coleta os seguintes dados:
 
 | Usos de dados | Os dados usados incluem |
 | --- | --- |
-| a. **Personalizar marketing e anúncios relacionados aos produtos e serviços da Uber e àqueles oferecidos por outras empresas.** Por exemplo, a Uber pode: - Usar seus dados pessoais para apurar seus interesses, preferências ou características e personalizar os anúncios que mostramos a você. - Enviar notificações push sugerindo seus destinos ou estabelecimentos favoritos ou enviar mensagens no app com reduções ou promoções de produtos ou estabelecimentos similares aos que você já pediu. - Exibir anúncios personalizados nos apps da Uber ou em apps ou sites de outras empresa. Para isso, a Uber cria grupos ou públicos com base nos seus interesses, preferências ou características e prioriza os anúncios a serem mostrados a você com base no público que nossos anunciantes desejam alcançar. - Personalizar listas patrocinadas, benefícios ou promoções para restaurantes e estabelecimentos disponíveis na Uber. | - Conta - Dados de outras fontes - Dados demográficos (inclusive gênero deduzido) - Dispositivo - Localização - Viagem/pedido - Uso |
+| a. **Personalizar marketing e anúncios relacionados aos produtos e serviços da Uber e àqueles oferecidos por outras empresas.** Por exemplo, a Uber pode: - Usar seus dados pessoais para apurar seus interesses, preferências ou características e personalizar os anúncios que mostramos a você. - Enviar notificações push sugerindo seus destinos ou estabelecimentos favoritos ou enviar mensagens no app com reduções ou promoções de produtos ou estabelecimentos similares aos que você já pediu. - Exibir anúncios personalizados nos apps da Uber ou em apps ou sites de outras empresas. Para isso, a Uber cria grupos ou públicos com base nos seus interesses, preferências ou características e prioriza os anúncios a serem mostrados a você com base no público que nossos anunciantes desejam alcançar. - Personalizar listas patrocinadas, benefícios ou promoções para restaurantes e estabelecimentos disponíveis na Uber. | - Conta - Dados de outras fontes - Dados demográficos (inclusive gênero deduzido) - Dispositivo - Localização - Viagem/pedido - Uso |
 | b. **Exibição de anúncios que são segmentados com base em dados sobre sua solicitação de viagem ou pedido de entrega atuais, incluindo o horário da solicitação ou do pedido e os serviços solicitados.** Por exemplo, se você solicitar uma viagem até um supermercado, poderemos exibir anúncios no app de produtos de terceiros que possam estar disponíveis nesse supermercado. | - Conta - Dados de outras fontes - Dados demográficos (inclusive gênero deduzido) - Dispositivo - Local - Informações da viagem/pedido - Uso |
 | c. **Medir a eficácia do marketing e dos anúncios e otimizar nossas campanhas de marketing e publicidade.** Por exemplo, a Uber pode: - usar seus dados para determinar se o seu uso dos nossos apps e sites pode ser atribuído a campanhas de marketing específicas sobre produtos e serviços da Uber. - usar os dados da sua interação com os anúncios para ajudar nossos anunciantes a apurar o desempenho das respectivas campanhas publicitárias veiculadas pela Uber. | - Conta - Dispositivo - Uso |
 
@@ -245,7 +245,7 @@ A Uber coleta os seguintes dados:
 
 A Uber conta com processos automatizados para possibilitar partes essenciais de nossos serviços, incluindo encontrar conexões (pareando usuários que solicitam e oferecem serviços de transporte e/ou entregas), preços (calculando o valor devido por esses serviços) e detecção e prevenção de fraudes. Esses processos permitem que a Uber ofereça uma experiência integrada e segura para milhões de usuários todos os dias ao redor do mundo.
 
-Esta seção descreve como funcionam os processos automatizados de conexão entre usuários, preços e prevenção e detecção de fraudes, incluindo o impacto deles na sua experiência com os apps da Uber e os dados pessoais e não pessoais são usados para habilitar esses processos.
+Esta seção descreve como funcionam os processos automatizados de conexão entre usuários, preços e prevenção e detecção de fraudes, incluindo o impacto deles na sua experiência com os apps da Uber e os dados pessoais e não pessoais usados para habilitar esses processos.
 
 Você pode entrar em contato com a Uber por aqui se tiver dúvidas sobre esses processos.
 
@@ -331,7 +331,7 @@ Isso pode incluir o compartilhamento de dados com:
 | --- | --- |
 | **Usuários com quem você usa os recursos de compartilhamento de dados.** Isso inclui recursos que permitem que você compartilhe a previsão de chegada e a localização ou divisão do valor. | Dependendo do recurso usado, podem incluir: - Conta - Localização - Viagem/pedido |
 | **Parceiros comerciais da Uber.** Nós compartilhamos dados com empresas cujos apps ou sites você acessa por meio da Uber, inclusive para fins de promoções, concursos ou serviços especializados. | Dependendo do app ou site que você acessar pela Uber e da respectiva finalidade, essas informações poderão incluir: - Conta - Dispositivo - Viagem/pedido |
-| **Serviços de emergência.** Nós permitimos que você compartilhe seus dados com a polícia, corpo de bombeiros e os serviços de ambulância em caso de emergência ou após determinados incidentes. Para obter mais informações, acesse as seções **"Opções e transparência"** e **"Compartilhamento de dados para emergência"** abaixo. | - Conta - Nome - Número de telefone - Localização - Viagem/pedido - Solicitou embarque/retirada ou desembarque/entrega |
+| **Serviços de emergência.** Nós permitimos que você compartilhe seus dados com a polícia, corpo de bombeiros e os serviços de ambulância em caso de emergência ou após determinados incidentes. Para obter mais informações, acesse as seções **"Opções e transparência"** e **"Compartilhamento de dados para emergência"** abaixo. | - Conta - Nome - Número de telefone - Localização - Viagem/pedido - Embarque/retirada ou desembarque/entrega solicitados |
 | **Seguradoras.** Se você se envolver em um incidente, reportar ou enviar um pedido de indenização relacionado aos serviços do app da Uber a uma seguradora, a Uber compartilhará seus dados com essa seguradora para ajustar ou lidar com o pedido de indenização. | Dados necessários para ajustar ou lidar com a solicitação, que podem incluir: - Conta - Comunicações - Dispositivo - Localização - Viagem/pedido - Uso - Conteúdo do usuário |
 | **Estabelecimentos ou restaurantes.** Se você criar ou adicionar à sua conta de usuário um número de assinatura de fidelidade de restaurante ou estabelecimento, nós compartilharemos esses dados com o restaurante/estabelecimento quando você fizer um pedido nesses locais. Nós também permitimos que você compartilhe seu nome, suas informações de contato e informações de pedidos com restaurantes ou estabelecimentos para receber comunicações de marketing deles. | - Conta - Contato - Endereço de entrega - Nome e sobrenome - Informações da assinatura de fidelidade do restaurante/estabelecimento - Pedido |
 
@@ -354,7 +354,7 @@ Aqui estão incluídos os terceiros, ou categorias de terceiros, descritos abaix
  .
 - Prestadores de serviço que nos fornecem ferramentas e serviços de inteligência artificial e aprendizado de máquina.
 - Parceiros e prestadores de serviços terceirizados que se integram aos apps da Uber, incluindo fornecedores de bicicletas e patinetes, como Lime e Tembici, prestadores de serviços de entrega, como iFood, e fornecedores de aplicativos móveis de terceiros.
-- Fornecedores de veículos terceirizados (parceiros locadores de veículos e locadoras) e operadores de depósitos gestor de veículos.
+- Fornecedores de veículos terceirizados (parceiros locadores de veículos e locadoras) e operadores de depósitos gestores de veículos.
 - Parceiros de programas de fidelidade que oferecem pontos ou recompensas em viagens e pedidos do Uber Eats elegíveis, de acordo com os respectivos termos.
 - Parceiros de veículos autônomos que oferecem viagens ou serviços de entrega pelos apps da Uber.
 - Operadores de depósitos de veículos autônomos que auxiliam na manutenção e nas operações da frota acessando os dados de localização e status dos veículos.
@@ -402,7 +402,7 @@ Caso a plataforma da Uber não precise reter seus dados para prestar serviços o
 
 Você pode solicitar a exclusão da sua conta por meio dos menus de privacidade no app da Uber ou pelo site da Uber (Passageiros e destinatários de pedidos aqui; Usuários convidados aqui).
 
-Após uma solicitação de exclusão, nós excluímos sua conta e dados, exceto se for necessário mantê-los por motivos de segurança, prevenção de fraudes ou conformidade com exigências legais, ou devido a questões relacionadas à sua conta (como créditos pendentes ou pedidos de indenização ou contestações não resolvidos). Por exemplo, se você for banido dos serviços da plataforma da Uber devido a comportamento fraudulento ou inseguro, a plataforma da Uber reterá seus dados após uma solicitação de exclusão da conta para impedir que você obtenha acesso novamente à ela.
+Após uma solicitação de exclusão, nós excluímos sua conta e dados, exceto se for necessário mantê-los por motivos de segurança, prevenção de fraudes ou conformidade com exigências legais, ou devido a questões relacionadas à sua conta (como créditos pendentes ou pedidos de indenização ou contestações não resolvidos). Por exemplo, se você for banido dos serviços da plataforma da Uber devido ao comportamento fraudulento ou inseguro, a plataforma da Uber reterá seus dados após uma solicitação de exclusão da conta para impedir que você obtenha acesso novamente a ela.
 
 Os dados que retemos nessas situações variam conforme a finalidade da retenção. Por exemplo, se retermos seus dados devido a comportamento fraudulento, reteremos os dados relacionados a tal comportamento e os dados que precisamos para impedir que você acesse a plataforma da Uber, que podem incluir informações da sua conta, informações de verificação de identidade, dados de transações e dados de conteúdo e de comunicações do usuário. Da mesma forma, se você se envolver em um incidente enquanto usa o app da Uber que possa levar a um litígio ou pedido de indenização de seguro, nós reteremos os dados possivelmente relevantes para tal litígio ou pedido de indenização de seguro.
 
@@ -501,7 +501,7 @@ A Uber oferece várias formas para você conhecer e controlar os seus dados e en
 
 A Uber Technologies, Inc. ("UTI") é responsável pelo tratamento dos dados processados pela Uber ao usar os serviços dos apps da Uber mundialmente, com a exceção de:
 
-- A UTI e a UBR Pagos Mexico, a SA de CV são responsáveis pelo tratamento de dados dos usuários referente aos serviços de pagamento e de dinheiro eletrônico da Uber no México.
+- A UTI e a UBR Pagos Mexico, SA de CV são responsáveis pelo tratamento de dados dos usuários referente aos serviços de pagamento e de dinheiro eletrônico da Uber no México.
 - A UTI e a Uber B.V são, juntamente com a Uber Payments BV, responsáveis conjuntas pelo tratamento dos dados dos usuários dos serviços de pagamento e de dinheiro eletrônico da Uber no Espaço Econômico Europeu (EEE) e, juntamente com a Uber Payments UK Ltd., dos usuários desses serviços no Reino Unido.
 - A UTI e a Uber B.V são responsáveis conjuntas pelo tratamento dos dados processados em relação a todos os outros usos dos serviços dos apps da Uber no EEE, no Reino Unido e na Suíça.
 - A UT LLC é a controladora dos dados processados quando você usa os serviços da plataforma da Uber na Coreia do Sul.
@@ -517,7 +517,7 @@ Você também pode entrar em contato com o Encarregado da Proteção de Dados da
 - **Interesses legítimos da Uber**
 - **Obrigação legal**
 
-As leis de proteção de dados de alguns países e regiões, incluindo EEE, Reino Unido, Suíça, Brasil e Nigéria, só permitem que a Uber use seus dados em determinadas circunstâncias definidas por essas leis. Isso é o que chamamos de ter uma "base legal" para usar os seus dados. A aplicabilidade dessas bases legais pode depender da sua localização. O gráfico abaixo indica as bases legais que a Uber tem de acordo com essas leis quando elas se aplicam, além da forma de uso dos seus dados para os fins descritos neste aviso.
+As leis de proteção de dados de alguns países e regiões, incluindo EEE, Reino Unido, Suíça, Brasil e Nigéria, só permitem que a Uber use seus dados em determinadas circunstâncias definidas por essas leis. Isso é o que chamamos de ter uma "base legal" para usar os seus dados. A aplicabilidade dessas bases legais pode depender da sua localização. O quadro abaixo indica as bases legais que a Uber tem de acordo com essas leis quando elas se aplicam, além da forma de uso dos seus dados para os fins descritos neste aviso.
 
 | Base legal | Descrição | Usos de dados |
 | --- | --- | --- |
@@ -571,7 +571,7 @@ Uber
 
 Acesse a Central de Ajuda
 
-Empresa
+## Empresa
 
 - Quem somos
 - O que oferecemos
@@ -581,7 +581,7 @@ Empresa
 - Carreiras
 - Uber One
 
-Produtos
+## Produtos
 
 - Viajar
 - Dirigir
@@ -592,12 +592,12 @@ Produtos
 - Gift cards
 - Uber Health
 
-Cidadania global
+## Cidadania global
 
 - Segurança
 - Sustentabilidade
 
-Viaje
+## Viaje
 
 - Reservar
 - Aeroportos
@@ -613,7 +613,7 @@ Viaje
 
 ## Selecione o idioma de sua preferência
 
-العربيةбългарски езикবাংলাČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)CastellanoEesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
+العربيةБългарскиবাংলাČeštinaDanskDeutschΕλληνικάEnglishEspañol (Internacional)CastellanoEestiSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeУкраїнськаاردو简体中文香港中文繁體中文
 
 - Viajar
 - Dirigir
@@ -636,7 +636,7 @@ PT-BR
 
 ## Selecione o idioma de sua preferência
 
-العربيةбългарски езикবাংলাČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)CastellanoEesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
+العربيةБългарскиবাংলাČeštinaDanskDeutschΕλληνικάEnglishEspañol (Internacional)CastellanoEestiSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeУкраїнськаاردو简体中文香港中文繁體中文
 
 ## Viajar
 
@@ -668,7 +668,7 @@ PT-BR
 
 ## Selecione o idioma de sua preferência
 
-العربيةбългарски езикবাংলাČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)CastellanoEesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
+العربيةБългарскиবাংলাČeštinaDanskDeutschΕλληνικάEnglishEspañol (Internacional)CastellanoEestiSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeУкраїнськаاردو简体中文香港中文繁體中文
 
 - Viajar
 - Dirigir
@@ -691,7 +691,7 @@ PT-BR
 
 ## Selecione o idioma de sua preferência
 
-العربيةбългарски езикবাংলাČeštinaDanskDeutschελληνικάEnglishEspañol (Internacional)CastellanoEesti KeelSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăPусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeукраїнська моваاردو简体中文香港中文版繁體中文
+العربيةБългарскиবাংলাČeštinaDanskDeutschΕλληνικάEnglishEspañol (Internacional)CastellanoEestiSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeУкраїнськаاردو简体中文香港中文繁體中文
 
 ## Viajar
 
