@@ -14,7 +14,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 2 de abril de 2026 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 26 de maio de 2026 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -46,7 +46,7 @@ Criamos uma gama de serviços que ajudam diariamente milhões de pessoas a desco
 - plataformas, como o navegador Chrome e o sistema operacional Android;
 - produtos integrados a apps e sites de terceiros, como anúncios, análises e Google Maps incorporados.
 
-É possível usar nossos serviços de diversas maneiras para gerenciar a sua privacidade. Por exemplo, você pode se inscrever em uma Conta do Google se quiser criar e gerenciar conteúdo, como e-mails e fotos, ou receber resultados de pesquisa mais relevantes. É possível também usar muitos Serviços do Google sem fazer login ou sem criar uma conta, como pesquisar no Google ou assistir vídeos do YouTube. Além disso, existe a opção de navegar na Web de forma particular usando o Chrome no modo de navegação anônima, que ajuda a proteger sua navegação de outras pessoas que usam o dispositivo. Em todos os nossos serviços, é possível ajustar as configurações de privacidade para controlar os tipos específicos de dados que coletamos e como eles são usados.
+É possível usar nossos serviços de diversas maneiras para gerenciar a sua privacidade. Por exemplo, você pode se inscrever em uma Conta do Google se quiser criar e gerenciar conteúdo, como e-mails e fotos, ou receber resultados de pesquisa mais relevantes. É possível também usar muitos Serviços do Google sem fazer login ou sem criar uma conta, como pesquisar no Google ou assistir vídeos do YouTube. Além disso, existe a opção de navegar na web de forma particular usando o Chrome no modo de navegação anônima, que ajuda a proteger sua navegação contra outras pessoas que usam o dispositivo. Em todos os nossos serviços, é possível ajustar as configurações de privacidade (como controles de histórico e personalização) para escolher se salvamos alguns tipos específicos de dados na sua Conta do Google e como eles são usados.
 
 Para ajudar a explicar as coisas da forma mais clara possível, adicionamos exemplos, vídeos explicativos e definições para os termos-chave. Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco.
 
@@ -56,7 +56,7 @@ Para ajudar a explicar as coisas da forma mais clara possível, adicionamos exem
 
 Coletamos informações para fornecer serviços melhores a todos os nossos usuários, o que inclui descobrir coisas básicas, como o idioma que você fala, até coisas mais complexas, como anúncios que você pode considerar mais úteis, as pessoas on-line que são mais importantes para você ou os vídeos do YouTube de que você poderá gostar. As informações coletadas pelo Google e como essas informações são usadas dependem de como você usa nossos serviços e de como gerencia os controles de privacidade.
 
-Quando você não está conectado a uma Conta do Google, armazenamos as informações que coletamos com identificadores exclusivos vinculados ao navegador, aplicativo ou dispositivo que você está usando. Isso nos permite manter suas preferências em todas as sessões de navegação; por exemplo, o idioma ou a exibição ou não de resultados relevantes da pesquisa ou anúncios baseados na sua atividade.
+O Google também coleta e usa dados que não estão associados à sua conta. Por exemplo, quando você não tiver se conectado com uma Conta do Google, armazenaremos as informações coletadas com identificadores exclusivos vinculados ao navegador, aplicativo ou dispositivo que você está usando. Isso nos permite manter suas preferências em todas as sessões de navegação; por exemplo, o idioma ou a exibição ou não de resultados relevantes da pesquisa ou anúncios baseados na sua atividade.
 
 Quando você está conectado, também coletamos informações que armazenamos com sua Conta do Google e que tratamos como informações pessoais.
 
@@ -83,7 +83,7 @@ Coletamos informações sobre sua atividade em nossos serviços e usamos tal inf
 - termos que você pesquisa
 - vídeos que você assiste
 - visualizações e interações com conteúdo e anúncios
-- Informações de voz e áudio
+- Mídia (como imagens, arquivos, áudio e vídeo) das suas interações
 - atividade de compra
 - pessoas com quem você se comunica ou compartilha conteúdo
 - atividades em sites e apps de terceiros que usam nossos serviços
@@ -91,7 +91,7 @@ Coletamos informações sobre sua atividade em nossos serviços e usamos tal inf
 
 Se você usa nossos serviços para fazer e receber chamadas ou enviar e receber mensagens, podemos coletar informações de registro de chamadas e mensagens, como o número do seu telefone, número de quem chama, número de quem recebe, números de encaminhamento, endereço de e-mail do remetente e destinatário, horário e data de chamadas e mensagens, duração das chamadas, informações de roteamento e tipos e volumes de chamadas e mensagens.
 
-Acesse sua Conta do Google para encontrar e gerenciar as informações de atividade salvas pelos seus controles de atividade.
+Visite sua Conta do Google para encontrar e gerenciar informações de atividades salvas no histórico.
 
 Ir para a Conta do Google
 
@@ -106,7 +106,7 @@ Dependendo dos produtos que você usa e das configurações escolhidas, o Google
 - atividade nos Serviços do Google, como pesquisas ou lugares identificados como casa ou trabalho
 - informações de itens próximos do dispositivo, como pontos de acesso Wi-Fi, torres de celular e dispositivos com Bluetooth ativado
 
-Os tipos de dados de localização que coletamos e por quanto tempo os armazenamos dependem, em parte, do dispositivo e das configurações da conta. Por exemplo, é possível ativar ou desativar a localização do dispositivo Android usando o app de configurações do dispositivo. Também é possível ativar a Linha do tempo caso você queira criar um mapa particular dos lugares que visita com seus dispositivos conectados. E, se a configuração "Atividade na Web e de apps" estiver ativada, suas pesquisas e outras atividades dos Serviços do Google, que podem também incluir informações de localização, serão salvas na sua Conta do Google. Saiba mais sobre como usamos as informações de localização.
+Os tipos de dados de localização que coletamos e por quanto tempo os armazenamos dependem, em parte, do dispositivo e das configurações da conta. Por exemplo, é possível ativar ou desativar a localização do dispositivo Android usando o app de configurações do dispositivo. Também é possível ativar a Linha do tempo caso você queira criar um mapa particular dos lugares que visita com seus dispositivos conectados. Dependendo das configurações, vamos salvar como histórico na sua Conta do Google as suas pesquisas e outras atividades dos Serviços do Google, que também podem incluir informações de localização. Por exemplo, a atividade de serviços como a Pesquisa, o Maps e o Shopping é salva no Histórico dos Serviços da Pesquisa, e sua atividade em alguns outros sites e apps do Google é salva na Atividade na Web e de Apps. Saiba mais sobre como usamos as informações de localização.
 
 ---
 
@@ -134,7 +134,7 @@ Usamos as informações que coletamos nos serviços existentes no desenvolviment
 
 ### Fornecer serviços personalizados, incluindo conteúdo e anúncios
 
-Usamos as informações que coletamos para personalizar nossos serviços, inclusive para fornecer recomendações, conteúdo e resultados de pesquisa personalizados. Por exemplo, a Verificação de segurança fornece dicas de segurança adaptadas à forma como você usa os produtos do Google. Além disso, dependendo das configurações disponíveis, o Google Play pode usar informações como apps já instalados e vídeos assistidos no YouTube para sugerir novos apps que você pode gostar.
+Usamos as informações que coletamos para personalizar nossos serviços, inclusive para fornecer experiências e recomendações personalizadas, como resultados da pesquisa e outro conteúdo. Por exemplo, a Verificação de segurança fornece dicas de segurança adaptadas à forma como você usa os produtos do Google. Além disso, dependendo das configurações disponíveis, o Google Play usa informações, como apps já instalados e vídeos assistidos no YouTube, para sugerir novos apps que você pode gostar.
 
 Dependendo das suas configurações, também podemos mostrar anúncios personalizados com base nos seus interesses e atividades nos Serviços do Google. Por exemplo, se você pesquisar "mountain bikes", poderá encontrar um anúncio sobre equipamentos esportivos no YouTube. É possível controlar quais informações usamos para mostrar anúncios nas configurações da Minha central de anúncios.
 
@@ -158,7 +158,7 @@ Usamos informações para ajudar a melhorar a segurança e a confiabilidade dos 
 
 ---
 
-Usamos diferentes tecnologias para processar suas informações para esses fins. Usamos sistemas automatizados que analisam o conteúdo para fornecer a você resultados de pesquisa personalizados, anúncios personalizados ou outros recursos adaptados à maneira como você usa nossos serviços. Também analisamos seu conteúdo para nos ajudar a detectar abuso como spam, malware e conteúdo ilegal. Além disso, usamos algoritmos para reconhecer padrões nos dados. Por exemplo, o Google Tradutor ajuda na comunicação das pessoas entre os idiomas, pela detecção de padrões de linguagem comuns em frases que você pede para traduzir.
+Usamos diferentes tecnologias para processar suas informações para esses fins. Usamos sistemas automatizados que analisam o conteúdo para fornecer a você resultados de pesquisa personalizados, anúncios personalizados ou outros recursos adaptados à maneira como você usa nossos serviços. Também analisamos seu conteúdo para nos ajudar a detectar abuso como spam, malware e conteúdo ilegal. Além disso, usamos algoritmos para reconhecer padrões nos dados. Por exemplo, o Google Tradutor ajuda pessoas de diferentes idiomas a se comunicarem, detectando padrões de linguagem comuns em frases que você pede para traduzir.
 
 Podemos usar as informações coletadas nos nossos serviços e nos seus dispositivos para as finalidades descritas acima. Por exemplo, dependendo das configurações disponíveis, se você assistir vídeos de guitarristas no YouTube, poderá receber um anúncio de aulas de violão em um site que usa nossos produtos de anúncios. Dependendo das configurações da conta, sua atividade em outros sites e apps pode ser associada às suas informações pessoais para melhorar os serviços e os anúncios fornecidos pelo Google.
 
@@ -182,11 +182,11 @@ Também criamos um local para você analisar e controlar as informações salvas
 
 ### Controles de privacidade
 
-### Controles de atividade
+### Personalização e controles de atividade
 
-Você pode decidir que tipos de atividade quer salvar na sua conta. Por exemplo, se o Histórico do YouTube estiver ativado, os vídeos que você assistir e as pesquisa que fizer serão salvos na sua conta para que você se lembre de onde parou e receba recomendações melhores. E se a opção Atividade na Web e de Apps estiver ativada, suas pesquisas e atividades em outros Serviços do Google serão salvas na sua conta para que você possa ter experiências personalizadas, por exemplo, pesquisas mais rápidas e apps mais úteis, além de recomendações de conteúdo. O recurso Atividade na Web e de Apps tem também uma configuração que permite controlar se algumas informações sobre sua atividade em outros sites, apps e dispositivos que usam os Serviços do Google, como apps instalados e usados no Android, são salvas na sua Conta do Google e usadas para melhorar os Serviços do Google.
+Em muitos dos nossos serviços, é possível ajustar os controles de histórico e personalização para escolher se salvamos alguns tipos específicos de dados na sua Conta do Google e como os usamos para personalizar sua experiência. Por exemplo, se o Histórico do YouTube estiver ativado, os vídeos que você assistir e as pesquisas que fizer serão salvos na sua conta para que você se lembre de onde parou e receba recomendações melhores. Ao salvar atividades de serviços como a Pesquisa, o Maps e o Shopping no Histórico dos Serviços da Pesquisa, você pode retomar uma interação do Modo IA de onde parou ou ver pesquisas anteriores como sugestões do preenchimento automático. Quando as Recomendações Personalizadas nos Serviços da Pesquisa estão ativadas, esses serviços podem fornecer resultados, feeds selecionados e respostas de IA personalizadas para você com base nas informações da sua Conta do Google, incluindo o Histórico dos Serviços da Pesquisa. Se a Atividade na Web e de Apps estiver ativada, sua atividade em outros Serviços do Google será salva na sua conta para que você possa ter experiências mais personalizadas. O recurso Atividade na Web e de Apps tem também uma configuração que permite controlar se informações sobre sua atividade em outros sites, apps e dispositivos que usam os Serviços do Google são salvas na sua Conta do Google e usadas para melhorar os Serviços do Google.
 
-Acessar os Controles de atividade
+Acesse Minha atividade e Configurações de personalização
 
 ### Configurações de anúncios
 
@@ -234,7 +234,7 @@ Ir para Informações pessoais
 
 Quando você está desconectado, pode gerenciar informações associadas ao seu navegador ou dispositivo, o que inclui os itens descritos abaixo.
 
-- Personalização de pesquisa de usuário desconectado: Escolha se a sua atividade de pesquisa será usada para oferecer resultados e recomendações mais relevantes.
+- Customização da pesquisa para usuários desconectados: defina se a atividade de pesquisa será usada para oferecer recomendações e resultados mais relevantes.
 - Configurações do YouTube: Pause e exclua seu Histórico de pesquisa e Histórico de visualização do YouTube.
 - Configurações de anúncios: Gerencie suas preferências sobre os anúncios exibidos no Google e nos sites e apps que são parceiros do Google para mostrar anúncios.
 
@@ -398,7 +398,7 @@ Algumas Leis Estaduais de Privacidade dos EUA também exigem que uma descrição
 
 **Dados de geolocalização**, como os determinados por GPS, endereço IP e outros dados de sensores do seu dispositivo ou próximos dele, dependendo em parte do dispositivo e das configurações da conta. Dependendo dessas configurações, isso pode incluir **dados de local exato**. Por exemplo, dados de GPS para recursos do Android, como trajetos ou localização do smartphone. Saiba mais sobre Como o Google usa os dados de localização.
 
-**Informações de áudio, eletrônicas, visuais e semelhantes**, como informações de áudio e voz.
+**Informações de áudio, eletrônicas, visuais e semelhantes**, incluindo mídia (como imagens, arquivos, áudio e vídeo) das suas interações
 
 **Dados de comunicação**, como e-mails, se você usa nossos serviços para enviar e receber mensagens.
 
@@ -593,11 +593,11 @@ Saiba mais sobre como a Google usa dados quando o usuário utiliza sites ou apps
 
 ### Atividade nos Serviços do Google
 
-Se a sua Conta do Google estiver conectada e a Atividade na Web e de apps ativada, seus dados de atividade em sites, apps e Serviços do Google poderão ser salvos na Atividade na Web e de apps da sua conta. Algumas atividades podem incluir informações sobre a área geral em que você estava quando usou o serviço do Google. Quando você pesquisa algo usando uma área geral, essa área tem pelo menos 3 km² ou é ampliada até que inclua a localização de pelo menos 1.000 pessoas. Isso ajuda a proteger sua privacidade.
+Por exemplo, se você fez login na sua Conta do Google e ativou o Histórico dos Serviços da Pesquisa ou a Atividade na Web e de Apps, seus dados de atividade em sites, apps e serviços do Google que usam essas configurações podem ser salvos no histórico da sua Conta do Google. Algumas atividades podem incluir informações sobre a área geral em que você estava quando usou o serviço do Google. Quando você pesquisa algo usando uma área geral, essa área tem pelo menos 3 km² ou é ampliada até que inclua a localização de pelo menos 1.000 pessoas. Isso ajuda a proteger sua privacidade.
 
-Em alguns casos, áreas que você pesquisou no passado podem ser usadas para estimar um local relevante para sua pesquisa. Por exemplo, se você pesquisar cafés enquanto estiver em Curitiba, o Google poderá mostrar resultados para essa cidade em pesquisas futuras.
+Em alguns casos, dependendo das suas configurações de personalização, como as Recomendações Personalizadas nos Serviços da Pesquisa, as áreas em que você fez pesquisas no passado podem ser usadas para estimar um local relevante para sua pesquisa. Por exemplo, se você pesquisar cafés enquanto estiver em Curitiba, o Google poderá mostrar resultados para essa cidade em pesquisas futuras.
 
-Você pode conferir e controlar sua Atividade na Web e de apps na página Minha atividade.
+Você pode conferir e controlar seu Histórico dos Serviços da Pesquisa e sua Atividade na Web e de Apps na página Minha atividade.
 
 ### atividades em sites e apps de terceiros que usam nossos serviços
 
@@ -659,10 +659,6 @@ Por exemplo, se você adicionar um cartão de crédito ou outra forma de pagamen
 
 Também podemos usar as informações de pagamento para verificar se você atende aos requisitos de idade se, por exemplo, você inserir uma data de nascimento incorreta indicando que não tem idade suficiente para ter uma Conta do Google. Saiba mais
 
-### Informações de voz e áudio
-
-Você pode escolher, por exemplo, se quer que o Google salve uma gravação de áudio na sua Conta do Google durante suas interações com a Pesquisa, o Assistente e o Maps. Quando o dispositivo detecta um comando de ativação de áudio, por exemplo, "Ok Google", o Google grava sua voz e o áudio alguns segundos antes da ativação. Saiba mais
-
 ### informações semelhantes relacionadas à sua saúde física ou mental
 
 Se você usa os produtos e apps fitness que oferecemos, como o Fitbit, Pixel Watch, Nest ou Google Fit, coletamos os dados fornecidos por você, como sua altura e seu peso. Também coletamos informações desses apps e dispositivos, como seus padrões de sono, frequência cardíaca, temperatura da pele, calorias queimadas e passos dados.
@@ -704,6 +700,10 @@ Você pode salvar lugares importantes na sua Conta do Google, como sua casa ou s
 
 Você pode editar ou excluir seus endereços de casa e do trabalho a qualquer momento na sua Conta do Google.
 
+### Mídia (como imagens, arquivos, áudio e vídeo) das suas interações
+
+Por exemplo, você pode interagir com vários Serviços do Google usando o microfone ou a câmera do seu dispositivo ou fazendo upload de multimídia, como arquivos, imagens, capturas de tela, áudio e vídeo. Quando o dispositivo detecta um comando de ativação de áudio, por exemplo, "Ok Google", o Google grava sua voz e o áudio alguns segundos antes da ativação
+
 ### mostrar tendências
 
 Quando muitas pessoas começam a pesquisar algo, isso pode fornecer informações úteis sobre as tendências específicas naquele momento. O Google Trends analisa as pesquisas do Google na Web para fazer uma estimativa da popularidade das pesquisas durante determinado período e compartilha esses resultados publicamente em termos agregados. Saiba mais
@@ -740,9 +740,9 @@ Por exemplo, um cliente pode querer usar os dados do Google Analytics para criar
 
 Por exemplo, informações sobre ameaças de segurança podem nos ajudar a notificar você se acreditarmos que sua conta foi comprometida, e, então, podemos ajudar com as medidas para proteger sua conta.
 
-### resultados de pesquisa personalizados
+### resultados da pesquisa
 
-Por exemplo, quando você está conectado à sua Conta do Google e está com a Atividade na Web e de apps ativada, pode receber resultados de pesquisa mais relevantes com base nas pesquisas e atividades anteriores em outros serviços do Google. Saiba mais aqui. Você também pode receber resultados de pesquisa personalizados quando estiver desconectado. Caso você não queira esse nível de personalização de pesquisa, pode pesquisar e navegar de modo particular ou desativar a personalização de pesquisa de usuário desconectado.
+Por exemplo, se a sua Conta do Google estiver conectada e o controle de Recomendações Personalizadas nos Serviços da Pesquisa estiver ativado, poderemos mostrar resultados mais relevantes com base nas suas pesquisas e atividades anteriores em outros Serviços do Google. Saiba mais sobre as Recomendações Personalizadas nos Serviços da Pesquisa. Você também pode receber resultados de pesquisa personalizados com a conta desconectada. Se não quiser esse nível de personalização, pesquise e navegue em modo anônimo ou desative a customização da pesquisa para usuários desconectados.
 
 ### segurança e confiabilidade
 
@@ -790,9 +790,9 @@ Por exemplo, processamos suas informações para informar estatísticas de uso a
 
 Dependendo das configurações disponíveis, alguns exemplos de como usamos as informações que coletamos nos nossos serviços são descritos a seguir:
 
-- Quando você está conectado à sua Conta do Google e faz uma pesquisa no Google, pode ver os resultados de pesquisa da Web pública, junto com informações relevantes e relacionadas ao seu conteúdo em outros produtos do Google, como Gmail ou Google Agenda. Isso pode incluir itens como o status dos próximos voos, reservas de restaurantes e hotéis ou fotos. Saiba mais
+- Quando você está conectado à sua Conta do Google e faz uma pesquisa no Google, pode ver os resultados de pesquisa da Web pública, junto com informações relevantes e relacionadas ao seu conteúdo em outros produtos do Google, como Gmail ou Google Agenda. Isso pode incluir itens como o status dos próximos voos, reservas de restaurantes e hotéis ou fotos.
 - Se você se comunicou com alguém pelo Gmail e quer adicionar essa pessoa a um Documento Google ou a um evento no Google Agenda, o Google facilita isso ao completar automaticamente o endereço de e-mail quando você começa a digitar o nome dela. Esse recurso facilita o compartilhamento de itens com pessoas que você conhece. Saiba mais
-- O Google app pode usar dados que você armazenou em outros produtos do Google para mostrar conteúdo personalizado, dependendo das suas configurações. Por exemplo, se você tiver pesquisas armazenadas na Atividade na Web e de apps, o Google app poderá mostrar notícias e outras informações sobre seus interesses, como resultados de jogos, com base nas atividades realizadas.
+- O app do Google pode usar dados que você armazenou em outros produtos do Google para mostrar conteúdo personalizado, dependendo das suas configurações. Por exemplo, se você tiver pesquisas armazenadas no Histórico dos Serviços da Pesquisa e tiver ativado as recomendações personalizadas nas configurações desses serviços, o app do Google poderá mostrar notícias e outras informações sobre seus interesses, como resultados de jogos, com base nas suas atividades realizadas.
 - Se você conectar sua Conta do Google ao Google Home, poderá gerenciar informações e realizar tarefas com o Google Assistente. Por exemplo, é possível adicionar eventos ao Google Agenda ou receber a programação do dia, pedir atualizações de status sobre o próximo voo ou enviar informações como rotas de carro para o smartphone. Saiba mais
 - Caso você esteja na UE, as decisões que tomar sobre a vinculação dos serviços vão afetar a forma como determinados Serviços do Google podem usar os dados neles.
 
