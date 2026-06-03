@@ -3,8 +3,8 @@ empresa: "Nubank"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade"
-capturado_em: 2024-12-20
-wayback: "https://web.archive.org/web/20241220200340/https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade"
+capturado_em: 2026-06-03
+wayback: "https://web.archive.org/web/20260603055803/https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/nubank/politica-de-privacidade.md"
 ---
 
@@ -328,7 +328,7 @@ Você pode solicitar a revisão de decisões tomadas unicamente com base em trat
 
 Quando regulamentado o direito de portabilidade pela Autoridade Nacional de Proteção de Dados (ANPD), você poderá solicitar ao Nu a portabilidade dos seus dados pessoais a outro prestador de serviços. Além disso, você tem o direito de peticionar perante a ANPD em relação aos seus dados pessoais.
 
-Caso você deseje exercer qualquer um desses direitos, entre em contato conosco por meio do canal “Me Ajuda” no app ou diretamente com o nosso encarregado (DPO) pelo e-mail dpo@nubank.com.br. Para efetivarmos os seus direitos, podemos solicitar comprovação da sua identidade, como medida de segurança e prevenção à fraude.
+Caso você deseje exercer qualquer um desses direitos, entre em contato conosco por meio do canal “Me Ajuda” no app ou diretamente com o nosso encarregado (DPO) por meio deste formulário. Para efetivarmos os seus direitos, podemos solicitar comprovação da sua identidade, como medida de segurança e prevenção à fraude.
 
 ## Transferência internacional de dados pessoais
 
@@ -425,6 +425,6 @@ Segundo a LGPD, o Nu é considerado o “Controlador” dos seus dados pessoais.
 
 Abra o aplicativo Nu - no topo da tela, toque no seu nome - clique na seção "Me ajuda" - escolha a opção "LGPD - Privacidade" e, após clicar no campo "Contato", você pode falar conosco por chat ou e-mail.
 
-- Encarregado (DPO): E-mail: dpo@nubank.com.br
+- Encarregado (DPO): Envie uma solicitação clicando aqui.
 
 Estamos sempre à disposição para esclarecer suas dúvidas e colocar você no controle dos seus dados pessoais.
