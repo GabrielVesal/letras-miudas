@@ -162,6 +162,16 @@ Nesta consulta você poderá ter acesso às seguintes informações: dívidas ne
 
 Diversas opções de seguros e assistências que podem ser contratados por Você junto aos nossos parceiros.
 
+Seguro Auto
+
+O Serasa Seguro Auto tem como objetivo facilitar a contratação de seguros para veículos, conectando consumidores a seguradoras e parceiros do setor. A partir das informações fornecidas pelo usuário e da análise de perfil, o marketplace apresenta opções de seguros alinhadas às necessidades e ao perfil de cada consumidor.
+
+Integrado a diversas seguradoras, o ambiente permite comparar coberturas, preços, benefícios e condições de contratação, possibilitando uma visão clara das alternativas disponíveis. Em um só lugar, o consumidor pode simular e encontrar ofertas personalizadas de seguro auto, tornando o processo mais simples, transparente e conveniente.
+
+As condições e ofertas apresentadas podem variar conforme a análise realizada pelas seguradoras, sendo que a decisão final sobre a aceitação da proposta e emissão da apólice é de responsabilidade da seguradora. O usuário será informado sobre cada etapa do processo.
+
+As informações fornecidas poderão ser utilizadas conforme descrito na Política de Privacidade da Serasa, inclusive para viabilizar a apresentação de ofertas personalizadas, validação de identidade e compartilhamento com parceiros do marketplace, sempre com a finalidade de possibilitar a contratação do seguro auto mais adequado ao perfil do consumidor.
+
 **3.8** **Conta Digital**
 
 Sempre que você desejar realizar o cadastro de chaves Pix, executar o aporte de valores como saldo na Conta Digital ou, ainda, executar pagamentos mediante débito de recursos previamente aportados (inclusive para fins de recarga de celular, pagamento de acordos do Limpa Nome por meio do Pix, entre outros), Você poderá, realizar a abertura da Conta Digital junto à PagueVeloz, por meio do aplicativo da Serasa , declarando estar ciente e de acordo com os termos do Contrato da Conta Digital Pague Veloz.
@@ -188,9 +198,11 @@ Lembramos que a Serasa e/ou o Gestor de Pagamentos não executam ações de cobr
 
 **3.10** **Carteira de Dados - SerasaPass**
 
-É uma solução digital que oferece um identificador reutilizável. Com ele, Você pode preencher automaticamente seus dados em cadastros e compras online de empresas parceiras da Serasa, ativando suas credenciais digitais, para se identificar sem preencher formulários ou repetir etapas de validações.
+É uma solução digital que oferece um identificador reutilizável. Com ele, você pode preencher automaticamente seus dados em cadastros e compras online de empresas parceiras da Serasa, ativando suas credenciais digitais, para se identificar sem preencher formulários ou repetir etapas de validações.
 
-As credenciais que poderão ser compartilhadas, mediante autorização do usuário, incluem: a) Dados básicos: nome, CPF, data de nascimento; b) Contato: nome, e-mail e celular (até 5 opções de celular e 5 opções de email podem ser ativadas); c) Endereço: CEP, logradouro, número, complemento, ponto de referência, país, estado, cidade e bairro (até 5 endereços podem ser ativadas) e d) Cartão de crédito: dados necessários para viabilizar a utilização do cartão em transações com empresas parceiras, mediante inserção expressa do usuário.
+Os dados utilizados para tal finalidade são extraídos de bases oficiais, bases públicas, empresas integrantes do grupo Serasa e parceiros comerciais, sendo submetidos a tratamento específico com vistas à mitigação de imprecisões e incorreções, visando à melhoria da experiência e da jornada digital do usuário, mantendo a segurança como prioridade. Tais operações têm como finalidade adicional a proteção ao crédito e a prevenção a fraudes.
+
+As credenciais que poderão ser compartilhadas, mediante autorização do usuário, incluem: a) Dados básicos: nome, CPF, data de nascimento; b) E-mail: e-mail (até 5 e-mails podem ser ativados) ; c) Celular: celular (até 5 números de celular podem ser ativados); d) Endereço: CEP, logradouro, número, complemento, ponto de referência, país, estado, cidade e bairro (até 5 endereços podem ser ativadas) e e) Cartão de crédito: dados necessários para viabilizar a utilização do cartão em transações com empresas parceiras, mediante inserção expressa do usuário.
 
 **3.11** **Minhas Contas**
 
