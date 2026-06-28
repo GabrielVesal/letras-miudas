@@ -2,11 +2,9 @@
      Fonte: https://www.spotify.com/br-pt/legal/privacy-policy/
      Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->
 
-Sua privacidade é importante. Em 20 de abril de 2026, atualizamos nossa Política de privacidade para incluir mais detalhes sobre nosso tratamento de dados.
-
 # **Política de Privacidade do Spotify**
 
-Em vigor a partir de 20 de abril de 2026
+Em vigor a partir de 12 de junho de 2026
 
 1. Sobre esta Política
 
@@ -26,9 +24,11 @@ Em vigor a partir de 20 de abril de 2026
 
 9. Crianças
 
-10. Mudanças nesta Política
+10. Links de terceiros
 
-11. Como entrar em contato com a gente
+11. Mudanças nesta Política
+
+12. Como entrar em contato com a gente
 
 ## **1. Sobre esta Política**
 
@@ -41,7 +41,7 @@ Ela se aplica ao seu uso de:
  - A personalização da sua experiência de usuário
  - A infraestrutura necessária para prestação dos nossos serviços
  - A conexão da sua conta Spotify com outro aplicativo
- - Nossas opções de stream gratuito ou pago (cada uma delas uma “**Opção de Serviço**”)
+ - nossas opções de streaming gratuitas ou pagas (cada uma denominada “**Opção de Serviço**”)
 - Outros serviços do Spotify que incluem um link para esta Política. Estes serviços incluem os sites do Spotify, o atendimento ao cliente e o Site da comunidade.
 
 De agora em diante, vamos chamá-los coletivamente de “**Serviço Spotify**”.
@@ -50,14 +50,14 @@ Ocasionalmente, podemos desenvolver novos serviços ou oferecer serviços adicio
 
 **Esta Política *não* está relacionada…**
 
-- aos Termos de Uso do Spotify, que é um documento separado. Os Termos de Uso delineiam o contrato legal entre você e o Spotify para usar o Serviço Spotify. Eles também descrevem as regras do Spotify e seus direitos de usuário;
+- aos Termos de Uso do Spotify, que constituem um documento separado. Os Termos de Uso estabelecem o contrato legal entre você e o Spotify para a utilização do Serviço Spotify. Eles também descrevem as regras do Spotify e os seus direitos nos termos do acordo.
 - informações sobre o seu uso de outros serviços do Spotify que possuem sua própria política de privacidade, como o Megaphone.
 
 **Outros recursos e configurações**
 
 As informações‑chave sobre seus dados pessoais estão aqui nesta Política. Entretanto, você pode querer dar uma olhada em nossos outros recursos e controles de privacidade:
 
-- Centro de privacidade e segurança: um hub fácil de usar com resumos de tópicos-chave.
+- Centro de privacidade e segurança: um hub fácil de usar com resumos de tópicos-chave
 - Privacidade da Conta: controla o tratamento de determinados dados pessoais.
 - Configurações de Notificação: ajustam quais comunicações de marketing você recebe do Spotify.
 - Configurações (encontradas nas versões para Computador e Dispositivos móveis do Spotify): controlam certos aspectos do Serviço Spotify, como “Redes sociais” ou “Conteúdo explícito”. Nas configurações de “Redes sociais”, você pode:
@@ -85,7 +85,7 @@ A tabela abaixo explica:
 | **É seu direito…** | | **Como?** |
 | --- | --- | --- |
 | **Informação** | **Receber informações relacionadas aos dados pessoais que tratamos sobre você e como fazemos isso.** | Nós informamos você: - Através desta Política - Por informações fornecidas quando você usa o Serviço Spotify - Respondendo às suas perguntas e solicitações específicas quando você fala com a gente |
-| **Acesso** | **Solicitar acesso aos dados pessoais que tratamos sobre você.** | Para solicitar uma cópia dos seus dados pessoais do Spotify: - use a ferramenta “Baixe seus dados” na página de Privacidade da Conta ou - fale com a gente Ao baixar seus dados, você vai receber as informações sobre os dados que o Spotify deve fornecer nos termos do Artigo 15 do GDPR. Se quiser mais informações sobre como tratamos seus dados pessoais, fale com a gente. |
+| **Acesso** | **Solicitar acesso aos dados pessoais que tratamos sobre você.** | Para solicitar uma cópia dos seus dados pessoais do Spotify: - use a ferramenta “Baixe seus dados” na página de Privacidade da Conta ou - fale com a gente Ao baixar seus dados, você vai receber as informações sobre os dados que o Spotify deve fornecer nos termos do Artigo 15 do Regulamento Geral de Proteção de Dados. Se quiser mais informações sobre como tratamos seus dados pessoais, fale com a gente. |
 | **Retificação** | **Pedir a mudança ou atualização dos seus dados pessoais quando estiverem incorretos ou incompletos.** | Você pode editar seus Dados de Usuário em “Editar perfil” em sua conta ou falando com a gente. |
 | **Exclusão** | **Pedir a exclusão de alguns dos seus dados pessoais.** Por exemplo, você pode nos solicitar a exclusão de dados pessoais: - que não são mais necessários para o propósito que justificava a coleta; - que foram tratados segundo a base legal de um consentimento que você retirou; - quando você se opõe (consulte a seção “Oposição” abaixo) e - você faz uma oposição justificada; ou - você se opõe ao marketing direto. Há situações em que o Spotify não pode excluir seus dados, entre elas: - Quando ainda é necessário tratar os dados para a finalidade para a qual os coletamos. - Quando o interesse do Spotify no uso dos dados se sobrepõe ao seu interesse em que sejam excluídos. Por exemplo, se precisamos dos dados para proteger nossos serviços contra fraudes. - Quando o Spotify tem obrigação legal de manter os dados. - Quando o Spotify precisa dos dados para estabelecer, exercer ou se defender de reclamações judiciais. Por exemplo, se houver uma questão não resolvida relacionada à sua conta. | Há várias maneiras de excluir os dados pessoais do Spotify: - para remover conteúdo de áudio que você tenha salvo, selecione o conteúdo relevante e escolha a opção de removê-lo. Por exemplo, você pode remover uma faixa da sua playlist ou remover um artista que tenha salvo na sua biblioteca - para solicitar a exclusão dos dados da sua conta do Spotify, siga as etapas indicadas em nossa página de suporte. Esses dados incluem seus Dados de Usuário, Dados de Uso e outros dados listados na Seção 3 "Dados pessoais que coletamos sobre você" - para quaisquer outras solicitações de exclusão, fale com a gente |
 | **Restrição** | **Solicitar que paremos de tratar todos ou alguns de seus dados pessoais.** Você pode fazer isso nos seguintes casos: - Se seus dados pessoais estiverem inexatos - Se o tratamento que estivermos fazendo for ilegal - Se não precisarmos de suas informações para uma finalidade específica - Se você se opôs a nosso tratamento e estivermos avaliando seu pedido de objeção. Veja a seção “Objeção” abaixo Você pode solicitar que paremos esse tratamento temporária ou permanentemente. | Para exercer seu direito de restrição, entre em contato conosco. |
@@ -100,24 +100,24 @@ A tabela abaixo explica:
 
 O que é publicidade personalizada?
 
-- É o uso de suas informações para que os anúncios sejam personalizados e fiquem mais relevantes para você. Isso também é conhecido como publicidade baseada em interesses.
-- Um exemplo de publicidade personalizada é quando um parceiro publicitário tem informações que sugerem que você gosta de carros. Isso poderia nos permitir mostrar a você anúncios sobre carros.
+- Isso ocorre quando utilizamos informações sobre você para personalizar anúncios, de modo que sejam mais relevantes. Isso também é conhecido como publicidade baseada em interesses.
+- Um exemplo de publicidade personalizada é quando um parceiro publicitário nos fornece informações sobre temas que podem ser do seu interesse, como sugerir que você possa gostar de cozinhar. Isso pode permitir exibirmos anúncios sobre liquidificadores.
 
 Como controlar publicidade personalizada:
 
 - Você pode controlar publicidade personalizada na configuração "Anúncios personalizados".
 - Você também pode controlar publicidade personalizada para alguns podcasts usando o link que fica na descrição do programa no episódio. Isso se aplica quando o criador de conteúdo monetiza o podcast com publicidade. O provedor de hospedagem, que pode não ser o Spotify, gerencia esses controles do podcast.
 
-Se você optar por não receber publicidade personalizada, receberá anúncios menos relevantes em nossa Opção de Serviço gratuita, bem como em nossa Opção de Serviço paga, quando aplicável (por exemplo, anúncios em podcasts). Esse tipo de publicidade é baseado em suas informações de registro e no que você está ouvindo atualmente em nossos serviços. Por exemplo, se você estiver ouvindo um podcast de culinária, poderá ouvir um anúncio de processador de alimentos.
+Se você optar por não receber publicidade personalizada, receberá anúncios menos relevantes em nossa Opção de Serviço gratuita, bem como em nossa Opção de Serviço paga, quando aplicável (por exemplo, anúncios em podcasts). Esse tipo de publicidade se baseia nas suas informações de cadastro e nas informações sobre o seu uso do Spotify em tempo real, como o que você está ouvindo no momento em nossos serviços. Por exemplo, se você estiver ouvindo um podcast de culinária, poderá ouvir um anúncio de processador de alimentos.
 
 ## **3. Dados pessoais que coletamos sobre você**
 
 As tabelas descrevem as categorias de dados pessoais coletados.
 
-| **Dados coletados quando você se inscreve no Serviço Spotify ou atualiza sua conta** | |
+| **Dados coletados quando você se inscreve no Serviço Spotify** **ou quando você atualiza sua conta** | |
 | --- | --- |
 | **Categoria** | **Descrição** |
-| Dados do Usuário | Dados pessoais que precisamos para criar sua conta Spotify e que permitem que você utilize o Serviço Spotify. O tipo de dados coletados e usados depende do tipo de Opção de Serviço que você tem. Ele depende também de como você cria sua conta, do país em que você está e se você usa serviços de terceiros para fazer login. Isso pode incluir: - nome de exibição - endereço de e‑mail - senha - número de telefone - data de nascimento - gênero - endereço (veja mais detalhes abaixo) - país - universidade/faculdade (no Spotify Premium Universitário). - a idade estimada ou confirmada com base na Verificação de Idade feita por um serviço terceirizado Recebemos esses dados de você, por exemplo, a partir do formulário de inscrição ou da página da conta. Também coletamos alguns desses dados do seu dispositivo, como país ou região. Para mais informações sobre como coletamos e usamos esses dados, confira “Sua localização geral (não precisa)” na categoria Dados de Uso. |
+| Dados do Usuário | Dados pessoais que precisamos para criar sua conta Spotify e que permitem que você utilize o Serviço Spotify. O tipo de dados coletados e usados depende do tipo de Opção de Serviço que você tem. Ele depende também de como você cria sua conta, do país em que você está e se você usa serviços de terceiros para fazer login. Isso pode incluir: - nome de exibição - endereço de e‑mail - senha - número de telefone - data de nascimento - gênero - endereço (veja mais detalhes abaixo) - país - universidade/faculdade (no Spotify Premium Universitário). - a idade estimada ou confirmada com base na Verificação de Idade feita por um serviço terceirizado Recebemos esses dados de você, por exemplo, a partir do formulário de inscrição ou da página da conta. Também coletamos alguns desses dados do seu dispositivo, como país ou região. Para mais informações sobre como coletamos e usamos esses dados, confira Sua localização geral (imprecisa) na categoria Dados de Uso. |
 | Dados de Endereço | Podemos solicitar e tratar seu endereço pelas seguintes razões: - Verificar a elegibilidade de uma Opção de Serviço - Entregar avisos necessários por lei - Entregar opções de suporte - Faturamento e administração fiscal - para entregar produtos físicos ou presentes que você tenha comprado ou solicitado Em alguns casos, podemos usar um aplicativo de terceiros para ajudar você a verificar seu endereço, como o Google Maps. |
 
 | **Dados coletados quando você usa o Serviço Spotify** | |
@@ -131,8 +131,10 @@ As tabelas descrevem as categorias de dados pessoais coletados.
 | Dados de Voz | Se os recursos de voz estiverem disponíveis em seu mercado e você optar por utilizá-los, coletaremos e processaremos dados de voz. Dados de voz são gravações de áudio da sua voz. |
 | Dados da mensagem | Se a troca de mensagens estiver disponível em seu mercado e você tiver optado por usá-la, nós coletaremos e trataremos dados de mensagens. Dados da mensagem são textos ou outros conteúdos que você envia diretamente para outro usuário. |
 | Dados da Verificação de Idade | Dados de verificação de idade são os dados que você fornece se (i) optar por utilizar um recurso sujeito à verificação de idade ou (ii) for um pai, mãe ou responsável legal que fornece consentimento parental para uma Conta Monitorada (“Verificação de Idade”). Exemplos de métodos de verificação de idade que utilizamos, fornecidos por um prestador de serviços terceirizado, incluem: - verificação de documento de identidade: uma foto do seu documento de identidade é utilizada para confirmar sua idade. Em alguns casos, também poderemos utilizar uma foto do seu rosto para verificar se o documento de identidade pertence a você - estimativa de idade por reconhecimento facial: uma foto do seu rosto é utilizada para estimar sua idade Todos os dados da Verificação de Idade são excluídos logo após a verificação. |
-| Dados sobre Pagamentos e Compras | Se você fizer qualquer compra no Spotify ou inscrever-se em determinadas Opções de serviço ou em um teste, precisaremos processar seus dados de pagamento. Os dados pessoais exatos coletados e utilizados variam dependendo da forma de pagamento. Isso incluirá informações como: - nome - data de nascimento - forma de pagamento (por exemplo, cartões de crédito ou débito) - se utilizar cartão de débito ou crédito, o tipo de cartão, a data de validade e alguns dígitos do número do cartão. Observação: por motivos de segurança, o Spotify nunca armazena o número completo do seu cartão - CEP - número do celular - detalhes do seu histórico de compras e pagamentos |
+| Dados sobre Pagamentos e Compras | Se você fizer qualquer compra no Spotify ou se inscrever em determinadas Opções de serviço ou em um teste, precisaremos processar seus dados de pagamento. Os dados pessoais exatos coletados e utilizados variam dependendo da forma de pagamento. Isso incluirá informações como: - nome - data de nascimento - forma de pagamento (por exemplo, cartões de crédito ou débito) - se utilizar cartão de débito ou crédito, o tipo de cartão, a data de validade e alguns dígitos do número do cartão. Observação: por motivos de segurança, o Spotify nunca armazena o número completo do seu cartão - CEP - número do celular - detalhes do seu histórico de compras e pagamentos |
+| Dados Precisos de Localização | O Spotify só utilizará seus dados de localização precisa com a sua permissão. Você pode conceder esse acesso pela janela pop-up no app nas configurações do dispositivo. Essas informações permitem que o Spotify ofereça diversos recursos, como recomendações mais relevantes de shows e eventos próximos. |
 | Dados sobre Pesquisas e Estudos | Quando você responde uma pesquisa ou participa de um estudo de usuário, nós coletamos e usamos os dados pessoais que você fornece. |
+| Dados de Atendimento ao Cliente | Informações sobre seus contatos com nosso Atendimento ao Cliente, como conversas por chat e correspondências por e-mail. |
 
 Recebemos alguns dados acima de terceiros. A tabela a seguir descreve as categorias dos terceiros.
 
@@ -140,9 +142,9 @@ Recebemos alguns dados acima de terceiros. A tabela a seguir descreve as categor
 | --- | --- | --- |
 | **Categorias de terceiros** | **Descrição** | **Categorias de dados** |
 | Parceiros de autenticação | Se você se cadastrar ou acessar o Serviço Spotify usando outro serviço, receberemos suas informações desse terceiro. Isso nos ajudará a criar sua conta. | Dados do Usuário |
-| Aplicativos, serviços e dispositivos de terceiros que você conecta à sua conta Spotify | Se você conectar sua conta Spotify a um aplicativo, serviço ou dispositivo de terceiros, poderemos coletar e usar as informações deles. Isso serve para tornar a integração possível. Esses apps, serviços ou dispositivos de terceiros podem incluir: - Redes sociais - Dispositivos, como: - de áudio (por exemplo, alto‑falantes e fones de ouvido) - smartwatches - Televisões - celulares e tablets - automotivos (por exemplo, carros) - consoles de videogame - Serviços ou plataformas, tais como assistentes de voz ou plataformas de conteúdo Pediremos sua permissão antes de coletarmos suas informações de certos terceiros. | Dados do Usuário Dados de Uso |
-| Parceiros de serviços técnicos | Trabalhamos com parceiros de serviços técnicos que nos fornecem certos dados. Isso inclui mapeamento de endereços IP para dados de localização não precisos (por exemplo, país ou região, cidade, estado). Isso possibilita ao Spotify fornecer o Serviço Spotify, conteúdos e recursos. Também trabalhamos com prestadores de serviços de segurança que nos ajudam a proteger as contas dos usuários. | Dados do Usuário Dados de Uso |
-| Parceiros de pagamento e Comerciantes | Se você escolher pagar por um terceiro (por exemplo, operadoras de telecomunicações) ou por fatura, podemos receber os dados dos nossos parceiros de pagamento. Isso nos permite: - enviar faturas para você; - processar seu pagamento; - fornecer o que você comprou. Se encaminhamos você para um comerciante, recebemos dados do comerciante relacionados à sua compra. Por exemplo, podemos direcionar você a uma loja de mercadorias de um artista em uma plataforma de terceiros ou a um site de venda de ingressos de terceiros. O recebimento desses dados nos permite: - calcular quaisquer comissões devidas a nós; - analisar a eficácia de nossa parceria com esses parceiros comerciais; - entender seus interesses. | Dados sobre Pagamentos e Compras |
+| Aplicativos, serviços e dispositivos de terceiros que você conecta à sua conta Spotify | Se você conectar sua conta Spotify a um aplicativo, serviço ou dispositivo de terceiros, poderemos coletar e usar as informações deles. Isso serve para tornar a integração possível. Esses apps, serviços ou dispositivos de terceiros podem incluir: - Redes sociais - Dispositivos, como: - de áudio (por exemplo, alto‑falantes e fones de ouvido) - wearables (ex.: smartwatches) - Televisões - celulares e tablets - automotivos (por exemplo, carros) - consoles de videogame - Serviços ou plataformas, tais como assistentes de voz ou plataformas de conteúdo Pediremos sua permissão antes de coletarmos suas informações de certos terceiros. | Dados do Usuário Dados de Uso |
+| Parceiros de serviços técnicos | Trabalhamos com parceiros de serviços técnicos que nos fornecem certos dados. Isso inclui mapeamento de endereços IP para dados de localização não precisos (por exemplo, país ou região, cidade, estado). Isso possibilita ao Spotify fornecer o Serviço Spotify, conteúdos e recursos. Também trabalhamos com parceiros de serviços técnicos que nos ajudam a proteger as contas dos usuários. | Dados do Usuário Dados de Uso |
+| Parceiros de pagamento e Comerciantes | Se você optar por pagar por meio de terceiros ou por fatura, poderemos receber dados de nossos parceiros de pagamento. Isso nos permite: - enviar faturas para você; - processar seu pagamento; - fornecer o que você comprou. Se encaminhamos você para um comerciante, recebemos dados do comerciante relacionados à sua compra. Por exemplo, podemos direcionar você a uma loja de mercadorias de um artista em uma plataforma de terceiros ou a um site de venda de ingressos de terceiros. O recebimento desses dados nos permite: - calcular quaisquer comissões devidas a nós; - analisar a eficácia de nossa parceria com esses parceiros comerciais; - entender seus interesses. | Dados sobre Pagamentos e Compras |
 | Parceiros de publicidade e marketing | Recebemos seus dados de determinados parceiros de publicidade ou marketing, incluindo identificadores de dispositivo, como informações de contato com hash. Esses parceiros também nos fornecem inferências, que são o entendimento desses parceiros sobre seus interesses e preferências. Isso nos permite fornecer anúncios e marketing mais relevantes e medir seu desempenho. | Dados de Uso |
 | Empresas adquiridas | Podemos receber seus dados de empresas adquiridas por nós. Isso visa melhorar nossos serviços, produtos e ofertas. | Dados do Usuário Dados de Uso |
 
@@ -158,7 +160,7 @@ A tabela abaixo estabelece:
 
 Aqui está uma explicação geral de cada “base legal” para ajudar você a entender a tabela:
 
-- **Execução de um Contrato**: quando for necessário que o Spotify (ou terceiros) trate seus dados pessoais para:
+- **Execução de um Contrato**: quando for necessário que o Spotify trate seus dados pessoais para:
  - cumprir as obrigações previstas em um contrato com você.Isso inclui obrigações do Spotify previstas nos Termos de Uso para fornecer o Serviço Spotify para você, ou
  - verificar informações antes que um novo contrato com você comece.
 - **Interesse Legítimo:** quando o Spotify ou um terceiro tiver interesse em utilizar seus dados pessoais de certa forma, que seja necessária e justificada considerando quaisquer possíveis riscos para você e outros usuários do Spotify. Por exemplo, usar seus Dados de Uso para melhorar o Serviço Spotify para todos os usuários. Fale com a gente se você quiser entender uma justificativa específica.
@@ -168,21 +170,24 @@ Aqui está uma explicação geral de cada “base legal” para ajudar você a e
 | **Finalidade do tratamento dos seus dados** | **Base legal que permite a finalidade** | **Categorias de dados pessoais usadas para a finalidade** |
 | --- | --- | --- |
 | Prestar o Serviço Spotify de acordo com nosso contrato com você. Por exemplo, quando usamos seus dados pessoais para: - Criar uma conta para você; - personalizar sua conta, incluindo recomendações de conteúdo, ou - Fornecer o app Spotify após você baixá-lo no seu dispositivo. | Execução de um Contrato | - Dados do Usuário - Dados de Endereço - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras |
-| Fornecer outras partes do Serviço Spotify. Por exemplo, quando usamos seus dados pessoais para que você possa compartilhar um link para um conteúdo no Spotify com outra pessoa. | Interesse Legítimo Nossos interesses legítimos incluem: - Manter o funcionamento do Serviço Spotify - Permitir que os usuários acessem e usem o Serviço Spotify. | - Dados do Usuário - Dados de Endereço - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras |
-| Fornecer recursos voluntários adicionais do Serviço Spotify. Se aplicável, solicitaremos o seu consentimento. | Consentimento | - Dados do Usuário - Dados de Uso - Dados sobre Pesquisas e Estudos - Dados sobre Pagamentos e Compras - Dados da Verificação de Idade |
-| Diagnosticar e solucionar problemas com o Serviço Spotify. | Execução de um Contrato | - Dados do Usuário - Dados de Uso - Dados de Voz - Dados da mensagem |
-| Avaliar e desenvolver novos recursos, tecnologias e melhorias para o Serviço Spotify. Isso inclui o desenvolvimento e treinamento de modelos algorítmicos e de aprendizado de máquina, que nos ajudam a manter nosso serviço seguro e a aprimorar a experiência dos usuários. Por exemplo: - Para nos ajudar a desenvolver e melhorar nossas recomendações personalizadas. - Para nos ajudar a analisar como os usuários reagem a um novo recurso e verificar se devemos fazer alguma mudança. - Para criarmos recursos de IA, como o DJ e a playlist de IA. - Para nos ajudar a implementar nossas Diretrizes do usuário, Regras da plataforma Spotify e Diretrizes da comunidade do Spotify for Creators | Interesse Legítimo Nossos interesses legítimos incluem o desenvolvimento e aprimoramento dos produtos e recursos para os usuários. | - Dados do Usuário - Dados de Uso - Dados de Voz - Dados sobre Pesquisas e Estudos |
+| Fornecer partes adicionais do Serviço Spotify. Por exemplo, quando usamos seus dados pessoais para que você possa compartilhar um link para um conteúdo no Spotify com outra pessoa. | Interesse Legítimo Nossos interesses legítimos incluem: - Manter o funcionamento do Serviço Spotify - Permitir que os usuários acessem e usem o Serviço Spotify. - fornecer atendimento ao cliente | - Dados do Usuário - Dados de Endereço - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras - Dados de Atendimento ao Cliente |
+| Fornecer determinados recursos e funcionalidades adicionais e voluntários do Serviço Spotify. Se aplicável, solicitaremos o seu consentimento. | Consentimento | - Dados do Usuário - Dados de Uso - Dados sobre Pesquisas e Estudos - Dados sobre Pagamentos e Compras - Dados da Verificação de Idade |
+| Para melhorar nossas recomendações personalizadas e aprimorar a experiência do Spotify para todos os usuários, com base em dados de localização precisa (quando disponíveis e expressamente autorizados por você). Por exemplo, podemos fornecer recomendações mais personalizadas de shows e eventos ou informar o que está em alta em sua localização específica. O que aprendemos com seu streaming em um determinado local pode ser usado para sugerir conteúdo semelhante a outros usuários próximos desse local. | Consentimento | - Dados Precisos de Localização |
+| Diagnosticar, solucionar problemas e corrigir falhas no Serviço Spotify. | Execução de um Contrato | - Dados do Usuário - Dados de Uso - Dados de Voz - Dados da mensagem - Dados de Atendimento ao Cliente |
+| Avaliar e desenvolver novos recursos, tecnologias e aprimoramentos para o Serviço Spotify. Isso inclui o desenvolvimento e treinamento de modelos algorítmicos e de aprendizado de máquina, que nos ajudam a manter nosso serviço seguro e a aprimorar a experiência dos usuários. Por exemplo: - Para nos ajudar a desenvolver e melhorar nossas recomendações personalizadas. - Para nos ajudar a analisar como os usuários reagem a um novo recurso e verificar se devemos fazer alguma mudança. - Para que possamos criar e oferecer recursos, como DJ de IA e Playlists de IA - Para nos ajudar a implementar nossas Diretrizes do usuário, Regras da plataforma Spotify e Diretrizes da comunidade do Spotify for Creators | Interesse Legítimo Nossos interesses legítimos incluem o desenvolvimento e aprimoramento dos produtos e recursos para os usuários. | - Dados do Usuário - Dados de Uso - Dados de Voz - Dados sobre Pesquisas e Estudos - Dados de Atendimento ao Cliente |
 | Marketing ou publicidade caso a lei exija que coletemos seu consentimento. Por exemplo, quando usamos cookies para entender seus interesses ou a lei exige consentimento para marketing de e-mail. | Consentimento | - Dados do Usuário - Dados de Uso - Dados sobre Pesquisas e Estudos |
-| Outros fins de marketing, promoção e publicidade caso a lei não exija consentimento. Por exemplo, quando usamos seus dados pessoais para personalizar a publicidade de acordo com seus interesses. | Interesse Legítimo Nossos interesses legítimos, nesse caso, incluem o uso de publicidade para financiar o Serviço Spotify, de modo que possamos oferecer grande parte dele gratuitamente e tornar os anúncios mais interessantes e relevantes para o usuário. | - Dados do Usuário - Dados de Uso - Dados sobre Pesquisas e Estudos |
-| Cumprir uma obrigação legal a que estejamos sujeitos. Exemplos: - uma obrigação nos termos da lei do país/região em que você está - A lei sueca (devido à nossa sede na Suécia) - A lei da UE aplicável a nós Por exemplo, quando utilizamos sua data de nascimento quando necessário para fins de verificação de idade. | Cumprimento de obrigações legais | - Dados do Usuário - Dados de Endereço - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras - Dados sobre Pesquisas e Estudos |
+| Outros fins de marketing, promoção e publicidade caso a lei não exija consentimento. Por exemplo, quando usamos seus dados pessoais para personalizar a publicidade de acordo com seus interesses. | Interesse Legítimo Nossos interesses legítimos, nesse caso, incluem o uso de publicidade para financiar o Serviço Spotify, de modo que possamos oferecer grande parte dele gratuitamente e tornar os anúncios mais interessantes e relevantes para o usuário. | - Dados do Usuário - Dados de Uso |
+| Cumprir uma obrigação legal a que estejamos sujeitos. Exemplos: - uma obrigação nos termos da lei do país/região em que você está - A lei sueca (devido à nossa sede na Suécia) - A lei da UE aplicável a nós Por exemplo, quando utilizamos sua data de nascimento quando necessário para fins de verificação de idade. | Cumprimento de obrigações legais | - Dados do Usuário - Dados de Endereço - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras - Dados sobre Pesquisas e Estudos - Dados Precisos de Localização - Dados de Atendimento ao Cliente |
+
+| | | |
+| --- | --- | --- |
 | Cumprir obrigações contratuais com terceiros. Por exemplo, quando fornecemos dados pseudonimizados sobre o que os usuários estão escutando, em decorrência de um acordo com um titular de direitos do Spotify. Dados pseudonimizados são identificados por um código em vez do seu nome ou de outras informações que permitam sua identificação. | Interesse Legítimo Nossos interesses legítimos incluem: - Manter relações com os artistas para que possamos prestar o Serviço Spotify; - Manter o relacionamento com terceiros pelo mesmo motivo. | - Dados do Usuário - Dados de Uso - Dados de Voz - Dados sobre Pagamentos e Compras |
-| Tomar ação apropriada acerca de denúncias de infração de propriedade intelectual e conteúdo inadequado. | Interesse Legítimo - Nossos interesses legítimos incluem a proteção da propriedade intelectual - buscar oferecer uma experiência do Spotify segura e apropriada para a idade - avaliar a qualificação para utilizar o Serviço Spotify | - Dados do Usuário - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras |
-| Estabelecer, exercer ou defender ações judiciais. Por exemplo, se estivermos envolvidos em litígios e precisarmos fornecer informações a nossos advogados em relação a esse processo judicial. | Interesse Legítimo Nossos interesses legítimos incluem: - Buscar assistência jurídica - Buscar proteção para nós e nossos usuários ou terceiros em processos judiciais | - Dados do Usuário - Dados de Endereço - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras - Dados sobre Pesquisas e Estudos |
+| Detectar, investigar e tomar as medidas apropriadas em relação a denúncias de conteúdo inadequado ou violações de nossos Termos de Uso ou de outros termos, políticas, regras ou diretrizes do Spotify. | Interesse Legítimo Nossos interesses legítimos incluem: - proteção de propriedade intelectual - buscar oferecer uma experiência do Spotify segura e apropriada para a idade - avaliar a qualificação para utilizar o Serviço Spotify. | - Dados do Usuário - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras - Dados de Atendimento ao Cliente |
+| Estabelecer, exercer ou defender ações judiciais. Por exemplo, se estivermos envolvidos em litígios e precisarmos fornecer informações a nossos advogados em relação a esse processo judicial. | Interesse Legítimo Nossos interesses legítimos incluem: - Buscar assistência jurídica - Buscar proteção para nós e nossos usuários ou terceiros em processos judiciais | - Dados do Usuário - Dados de Endereço - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras - Dados sobre Pesquisas e Estudos - Dados de Atendimento ao Cliente |
 | Realizar planejamentos, previsões e relatórios relativos a negócios. Por exemplo, quando analisamos os dados agregados dos usuários, como o número de novas inscrições em um país, para planejar novos locais onde lançar produtos e recursos. | Interesse Legítimo Nossos interesses legítimos incluem a pesquisa e o planejamento para continuarmos administrando nossos negócios com sucesso. | - Dados do Usuário - Dados de Uso - Dados sobre Pagamentos e Compras |
 | Processar seus pagamentos. Por exemplo, quando usamos seus dados pessoais para que você possa comprar uma assinatura do Spotify. | Execução de um Contrato Consentimento, quando armazenamos dados de cartão de pagamento para compras futuras | - Dados do Usuário - Dados sobre Pagamentos e Compras - Dados de Endereço |
-| Manter o Serviço Spotify seguro, além de detectar e prevenir fraudes. Por exemplo, quando analisamos os Dados de Uso para verificar a ocorrência de uso fraudulento do Serviço Spotify. | Interesse Legítimo Nossos interesses legítimos incluem a proteção do Serviço Spotify e dos usuários contra fraudes e outras atividades ilegais. | - Dados do Usuário - Dados de Endereço - Dados da mensagem - Dados de Uso - Dados sobre Pagamentos e Compras |
-| Conduzir pesquisas e estudos. Por exemplo, quando entramos em contato com os usuários para solicitar feedback. | Interesse Legítimo Nossos interesses legítimos incluem conhecer a opinião dos usuários e saber como eles usam o Serviço Spotify. | - Dados do Usuário - Dados de Uso - Dados de Voz - Dados sobre Pesquisas e Estudos |
-
+| Manter o Serviço Spotify seguro, além de detectar e prevenir fraudes. Por exemplo, quando analisamos os Dados de Uso para verificar a ocorrência de uso fraudulento do Serviço Spotify. | Interesse Legítimo Nossos interesses legítimos incluem a proteção do Serviço Spotify e dos usuários contra fraudes e outras atividades ilegais. | - Dados do Usuário - Dados de Endereço - Dados da mensagem - Dados de Uso - Dados sobre Pagamentos e Compras - Dados de Atendimento ao Cliente |
+| Conduzir pesquisas e estudos. Por exemplo, quando entramos em contato com os usuários para solicitar feedback. | Interesse Legítimo Nossos interesses legítimos, nesse caso, incluem entender melhor o comportamento e as percepções dos usuários em relação ao Serviço Spotify. | - Dados do Usuário - Dados de Uso - Dados de Voz - Dados sobre Pesquisas e Estudos |
 
 Em jurisdições onde o interesse legítimo não é reconhecido como base legal, nos baseamos na necessidade ou consentimento contratual.
 
@@ -190,14 +195,15 @@ Em jurisdições onde o interesse legítimo não é reconhecido como base legal,
 
 Esta seção define quem recebe os dados pessoais coletados ou gerados com seu uso do Serviço Spotify.
 
-**Informações publicamente disponíveis**
+**Informações disponíveis para outros usuários do Spotify**
 
-Os dados pessoais a seguir estarão sempre disponíveis publicamente no Serviço Spotify (exceto para os usuários bloqueados por você)
+Os seguintes dados pessoais ficam disponíveis para outros usuários do Spotify:
 
 - Seu nome do perfil
-- Sua foto do perfil
-- Suas playlists públicas
+- sua foto do perfil, caso você opte por enviar uma
+- suas playlists públicas e quaisquer títulos, descrições e imagens associados
 - Outros conteúdos que você postar no Serviço Spotify e quaisquer títulos, descrições e imagens associadas
+- o número de pessoas que você segue e o número de pessoas que seguem você no Serviço Spotify (os perfis dessas pessoas podem ser visíveis dependendo das suas configurações)
 
 Você ou outro usuário pode compartilhar certas informações em serviços de terceiros, como mídias sociais ou plataformas de mensagens. Isso inclui:
 
@@ -227,20 +233,20 @@ Veja esta tabela para mais detalhes sobre com quem compartilhamos seus dados e p
 
 | **Categorias de destinatários** | **Categorias de dados** | **Razão para o compartilhamento** |
 | --- | --- | --- |
-| Prestadores de serviço | - Dados do Usuário - Dados de Endereço - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras - Dados sobre Pesquisas e Estudos - Dados da Verificação de Idade | Oferecer os serviços deles ao Spotify. Contratamos esses prestadores de serviço para, entre outros: - dar atendimento ao cliente; - operar a infraestrutura técnica necessária para a prestação do Serviço Spotify; - ajudar a proteger e garantir nossos sistemas e serviços (por exemplo, reCAPTCHA do Google); - ajudar a comercializar produtos, serviços, eventos e promoções do Spotify (e de nossos parceiros). |
+| Prestadores de serviço | - Dados do Usuário - Dados de Endereço - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras - Dados sobre Pesquisas e Estudos - Dados da Verificação de Idade | Oferecer os serviços deles ao Spotify. Exemplos desses prestadores de serviços incluem aqueles que contratamos para: - dar atendimento ao cliente; - operar a infraestrutura técnica necessária para a prestação do Serviço Spotify; - ajudar a proteger e garantir nossos sistemas e serviços (por exemplo, reCAPTCHA do Google); - ajudar a comercializar produtos, serviços, eventos e promoções do Spotify (e de nossos parceiros). |
 | Parceiros de pagamento | - Dados do Usuário - Dados sobre Pagamentos e Compras | Processar seus pagamentos e para fins antifraude. |
 | Parceiros publicitários | - Dados do Usuário - Dados de Uso | Ajudar a veicular publicidade mais relevante para você no Serviço Spotify e a medir a eficácia dos anúncios. Por exemplo, nossos parceiros de anúncios nos ajudam a viabilizar publicidade personalizada. |
 | Parceiros de marketing | - Dados do Usuário - Dados de Uso | Promover o Spotify com nossos parceiros. Compartilhamos certos Dados de Usuário e Dados de Uso com esses parceiros, quando necessário, pelos seguintes motivos: - Permitir que você participe de promoções do Spotify, incluindo testes ou outros pacotes de ofertas - Promover o Spotify na mídia e em publicidade veiculada em outros serviços online - Ajudar nossos parceiros e o Spotify a avaliar a eficácia das promoções do Spotify Exemplos de parceiros incluem: - Parceiros de marketing ou de patrocínio - Sites e apps de celular que nos vendem espaço publicitário em seus serviços - Parceiros de dispositivos, apps e celulares que também oferecem promoções do Spotify Nossos parceiros também podem combinar os dados pessoais que compartilhamos com eles com outros dados que eles coletam sobre você, como seu uso dos serviços deles. Nós e nossos parceiros podemos usar essas informações para apresentar ofertas, promoções ou outras atividades de marketing que acreditamos ser relevantes. |
 | Podcast Plataformas de hospedagem | - Dados de Uso | Plataformas de hospedagem hospedam podcasts para que eles possam ser entregues a você. Compartilhamos certos dados, como seu endereço IP, com as plataformas de hospedagem quando você escuta um podcast. Também permitimos que você ouça podcasts de outras plataformas de hospedagem que não pertencem ao Spotify. Criadores de podcasts devem explicar na descrição do programa ou episódio qual plataforma está hospedando o podcast. Consulte a política de privacidade da própria plataforma de hospedagem para saber como são usados os dados compartilhados com ela. |
 | Pesquisadores acadêmicos | - Dados do Usuário - Dados de Uso | Atividades como análise estatística e estudo acadêmico, mas somente em formato pseudonimizado. |
 | Outras empresas do grupo Spotify, incluindo aquelas adquiridas pelo Spotify | - Dados do Usuário - Dados de Endereço - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras - Dados sobre Pesquisas e Estudos | Realizar nossas operações comerciais diárias e de modo que possamos manter, aprimorar e prestar o Serviço Spotify e os serviços das empresas adquiridas para você. Por exemplo: - Permitir que nossos funcionários que trabalham para diferentes empresas do grupo desenvolvam e aprimorem os recursos do Serviço Spotify; - Compartilhar dados com as seguintes empresas do Spotify para medir a eficácia de campanhas de anúncios que são veiculadas no Serviço Spotify; - Compartilhar dados com nossas empresas de podcast para saber o que está em alta entre os usuários. |
-| Compradores da empresa | - Dados do Usuário - Dados de Endereço - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras - Dados sobre Pesquisas e Estudos | Se vendermos ou negociarmos a venda de nossa empresa a um comprador ou possível comprador. Nesse caso, podemos transferir seus dados pessoais para um sucessor ou coligado como parte dessa transação. |
+| Compradores da empresa | - Dados do Usuário - Dados de Endereço - Dados de Uso - Dados de Voz - Dados da mensagem - Dados sobre Pagamentos e Compras - Dados sobre Pesquisas e Estudos | Se vendermos ou negociarmos a venda de qualquer parte do nosso negócio a um comprador ou comprador potencial. Nesse caso, podemos transferir seus dados pessoais para um sucessor ou coligado como parte dessa transação. |
 
 **Tribunais e autoridades**: podemos tratar e compartilhar seus dados pessoais para cumprir solicitações de tribunais, autoridades, partes relacionadas a litígios ou outros terceiros autorizados. Faremos isso quando acreditarmos, de boa-fé, que é necessário, incluindo:
 
 - Cumprir uma obrigação legal
 - Responder a um processo legal válido (como mandado de busca, ordem judicial ou intimação)
-- Para atender a interesses legítimos nossos ou de terceiros, como investigações criminais, litígios, proteção da segurança de alguém ou prevenção de morte ou de dano físico iminente
+- Para atender a interesses legítimos nossos ou de terceiros, como investigações criminais, litígios, proteção da segurança de alguém ou prevenção de morte ou de dano físico iminente.
 
 As categorias de dados pessoais tratados ou compartilhados dependerão da natureza da solicitação específica. A base legal para esse tratamento é o cumprimento de obrigações legais, o interesse legítimo ou conforme previsto na legislação nacional.
 
@@ -257,8 +263,8 @@ Confira abaixo algumas categorias dos períodos de retenção e os critérios qu
 
 - **Dados retidos até que você os remova**Você tem o direito de pedir a exclusão de alguns dos seus dados pessoais. Consulte a seção “Exclusão” na Seção 2: Direitos e controles dos seus dados pessoais para saber mais informações e as circunstâncias em que podemos atender à sua solicitação.
  Você também pode excluir e editar certos dados pessoais diretamente no Serviço Spotify, como sua foto de perfil, por exemplo. Mantemos os dados pessoais que você pode ver e atualizar pelo tempo que escolher, a não ser que um dos fins limitados descritos abaixo se aplique.
-- **Dados que expiram após um período específico**Estabelecemos prazos de retenção para que alguns dados expirem após um período específico. Por exemplo, os dados pessoais que você insere para fazer consultas geralmente são excluídos após 90 dias.
-- **Dados retidos até que sua conta do Spotify seja excluída**Guardamos alguns dados até que sua conta do Spotify seja excluída. Alguns exemplos são seu nome de usuário e as informações do seu perfil no Spotify. Normalmente, também mantemos o histórico de streaming por toda a duração da conta para, por exemplo, oferecer playlists retrospectivas que os usuários gostam de ouvir e recomendações personalizadas que consideram os hábitos desses ouvintes (como A Máquina do Tempo ou Pra lembrar das férias). Quando a conta do Spotify é excluída, essa categoria de dados é excluída ou desidentificada.
+- **Dados que expiram após um período específico**Sujeito a outras regras de retenção aplicáveis listadas nesta Seção 6, estabelecemos determinados períodos de retenção para que os dados expirem após um período específico de tempo. Por exemplo, dados pessoais que você possa inserir em consultas de busca são excluídos após 90 dias.
+- **Dados retidos até que sua conta do Spotify seja excluída**Guardamos alguns dados até que sua conta do Spotify seja excluída. Alguns exemplos são seu nome de usuário e as informações do seu perfil no Spotify. Também mantemos o histórico de streaming por toda a duração da conta para, por exemplo, oferecer playlists retrospectivas que os usuários gostam de ouvir e recomendações personalizadas que consideram os hábitos desses ouvintes (como A Máquina do Tempo ou Pra lembrar das férias). Quando a conta do Spotify é excluída, essa categoria de dados é excluída ou desidentificada.
 - **Dados retidos por períodos longos para fins limitados**Após a exclusão da conta, guardamos alguns dados por um prazo maior, mas para fins muito limitados. Por exemplo, podemos estar sujeitos a obrigações legais ou contratuais que necessitam dessas informações. Alguns exemplos são leis de retenção obrigatória de dados, decisões governamentais de preservação de dados relacionados a uma investigação ou dados mantidos para fins judiciais. Também podemos guardar os dados que foram removidos do Serviço do Spotify por tempo indeterminado. Isso é feito para:
  - ajudar a garantir a segurança do usuário;
  - proteger contra conteúdos nocivos na nossa plataforma.
@@ -294,9 +300,7 @@ Para proteger sua conta de usuário, nós incentivamos você a:
 
 Você pode fazer logout do Spotify em vários dispositivos ao mesmo tempo usando a função “Sair de todos os dispositivos” na página da sua conta.
 
-Se outros indivíduos tiverem acesso à sua conta Spotify, eles poderão acessar dados pessoais, controles e o Serviço Spotify disponível em sua conta. Por exemplo, você pode ter dado permissão a alguém para usar sua conta em um dispositivo compartilhado.
-
-Você é responsável por permitir o uso da sua conta apenas por pessoas com quem se sinta à vontade para compartilhar seus dados pessoais. O uso da sua conta do Spotify por outras pessoas pode afetar suas recomendações personalizadas.
+Se outros indivíduos tiverem acesso à sua conta Spotify, eles poderão acessar dados pessoais, controles e o Serviço Spotify disponível em sua conta. Por exemplo, alguém pode usar sua conta em um dispositivo compartilhado. É sua responsabilidade permitir que isso aconteça apenas se você estiver confortável em compartilhar seus dados pessoais com essas pessoas. O uso da sua conta do Spotify por outras pessoas pode afetar suas recomendações personalizadas.
 
 ## **9. Crianças**
 
@@ -308,18 +312,22 @@ Não coletamos nem utilizamos conscientemente dados pessoais de crianças abaixo
 
 Ao utilizar um dispositivo compartilhado no Serviço Spotify, tenha cuidado ao reproduzir ou recomendar conteúdo que possa ser inadequado para Menores de Idade.
 
-## **10. Mudanças nesta Política**
+## **10. Links de terceiros**
+
+O Serviço Spotify pode incluir links para sites, plug-ins e aplicativos de terceiros. Ao clicar nesses links, terceiros poderão coletar ou compartilhar dados sobre você. O Spotify não controla esses sites de terceiros e não é responsável pelas práticas de privacidade deles.
+
+## **11. Mudanças nesta Política**
 
 Podemos, ocasionalmente, fazer mudanças nesta Política.
 
 Quando fizermos mudanças relevantes nesta Política, avisaremos você de forma visível, conforme apropriado diante das circunstâncias. Por exemplo, podemos mostrar um aviso em destaque no Serviço Spotify, enviar um e‑mail ou uma notificação no seu dispositivo.
 
-## **11. Como entrar em contato com a gente**
+## **12. Como entrar em contato com a gente**
 
 Se tiver dúvidas ou preocupações sobre esta Política, fale com nosso Responsável pela Proteção de Dados:
 
-- Envie um e‑mail para privacy@spotify.com.
-- Envie uma carta para Spotify AB, Regeringsgatan 19, 111 53 Estocolmo, Suécia.
+- envie um e-mail para: privacy@spotify.com
+- escreva para Spotify AB, Regeringsgatan 19, 111 53 Estocolmo, Suécia, a/c: Encarregado de Proteção de Dados
 
 Spotify AB é o controlador dos dados pessoais tratados de acordo com esta Política.
 
