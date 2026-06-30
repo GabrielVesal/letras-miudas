@@ -799,5 +799,3 @@ Dependendo das configurações disponíveis, alguns exemplos de como usamos as i
 ### visualizações e interações com conteúdo e anúncios
 
 Por exemplo, coletamos informações sobre visualizações e interações com anúncios para que possamos fornecer relatórios agregados aos anunciantes, como informar se veiculamos o anúncio deles em uma página e se o anúncio provavelmente foi visto por um espectador. Podemos também mensurar outras interações, como o modo que você move o mouse sobre um anúncio ou se você interage com a página em que o anúncio é exibido.
-
-*close*
