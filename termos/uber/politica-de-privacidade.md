@@ -231,7 +231,7 @@ A Uber coleta os seguintes dados:
 
 | Usos de dados | Os dados usados incluem |
 | --- | --- |
-| Nós usamos dados para investigar ou tratar de reclamações ou contestaç�ões relacionadas ao uso dos serviços da Uber; para cumprir as exigências de e/ou para fins de conformidade com leis aplicáveis, regulamentos, licenças ou contratos de operação ou apólices de seguro; ou de acordo com um processo legal ou solicitação governamental, inclusive de autoridades policiais/jurídicas. | - Conta - Comunicações - Dados de outras fontes - Dados demográficos - Dispositivo - Verificação de identidade - Localização - Uso - Conteúdo do usuário - Viagem/pedido - Gravações no veículo |
+| Nós usamos dados para investigar ou tratar de reclamações ou contestações relacionadas ao uso dos serviços da Uber; para cumprir as exigências de e/ou para fins de conformidade com leis aplicáveis, regulamentos, licenças ou contratos de operação ou apólices de seguro; ou de acordo com um processo legal ou solicitação governamental, inclusive de autoridades policiais/jurídicas. | - Conta - Comunicações - Dados de outras fontes - Dados demográficos - Dispositivo - Verificação de identidade - Localização - Uso - Conteúdo do usuário - Viagem/pedido - Gravações no veículo |
 
 ### C. Processos principais automatizados
 
@@ -553,7 +553,7 @@ Caso resida no EEE, no Reino Unido ou na Suíça, observe o seguinte:
 - **Investigação e aplicação da lei.** A Uber está sujeita aos poderes de investigação e fiscalização da Comissão Federal de Comércio dos EUA.
 - **Dúvidas e contestações.** Em conformidade com o DPF UE-EUA, a Extensão do Reino Unido ao DPF UE-EUA e o DPF Suíça-EUA, a Uber se compromete a cooperar e cumprir, respectivamente, com a orientação do painel estabelecido pelas autoridades de proteção de dados da UE e o Gabinete do Comissário para a Informação do Reino Unido (ICO, na sigla em inglês) e o Comissário Federal de Proteção de Dados e Informação da Suíça (FDPIC, na sigla em inglês) com relação a reclamações não resolvidas relativas ao nosso tratamento de dados pessoais recebidos com base no DPF UE-EUA e na Extensão do Reino Unido ao DPF UE-EUA e no DPF Suíça-EUA. Você pode entrar em contato com a Uber aqui para tirar dúvidas sobre a nossa conformidade com esses Princípios. Você também pode encaminhar uma reclamação à autoridade local de proteção de dados, e a Uber trabalhará em conjunto com essa autoridade para resolver a reclamação. Em certas circunstâncias, o DPF confere o direito de recorrer a arbitragem vinculante para tratar de reclamações não resolvidas por outros meios, conforme descrito no Anexo I dos Princípios do DPF.
 
-Saiba mais sobre o DPF UE-EUA e o DPF Suíça-EUA aquie veja a certificação da Uber, incluindo o escopo dos dados sujeitos à nossa certificação, aqui.
+Saiba mais sobre o DPF UE-EUA e o DPF Suíça-EUA aqui e veja a certificação da Uber, incluindo o escopo dos dados sujeitos à nossa certificação, aqui.
 
 ### D. Atualizações deste Aviso de Privacidade
 
@@ -607,7 +607,7 @@ Acesse a Central de Ajuda
 
 ## Selecione o idioma de sua preferência
 
-العربيةБългарскиবাংলাČeštinaDanskDeutschΕλληνικάEnglishEspañol (Internacional)CastellanoEestiSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeУкраїнськаاردو简体中文香港中文繁體中文
+árabe, العربيةbúlgaro, Българскиbengali, বাংলাtcheco, Češtinadinamarquês, Danskalemão, Deutschgrego, Ελληνικάinglês, Englishespanhol, Español (Internacional)espanhol (Espanha), Castellanoestoniano, Eestifinlandês, Suomifrancês (Canadá), Français (Canada)francês, Français (France)hebraico, עבריתhíndi, हिन्दीcroata, Hrvatskihúngaro, Magyaritaliano, Italianojaponês, 日本語canarim, ಕನ್ನಡcoreano, 한국어lituano, Lietuviųmarati, मराठीbokmål norueguês, Norsk Bokmålholandês, Nederlandspolonês, Polskiportuguês (Brasil), Português (Brasil)português (Portugal), Português (Portugal)romeno, Românărusso, Русскийcingalês (Sri Lanka), සිංහලeslovaco, Slovenčinaesloveno (Eslovênia), Slovenščinasueco, Svenskasuaíli, Kiswahilitâmil, தமிழ்télugo, తెలుగుturco, Türkçeucraniano, Українськаurdu, اردوchinês, 简体中文chinês (Hong Kong, RAE da China), 香港中文chinês (Taiwan), 繁體中文
 
 - Viajar
 - Dirigir
@@ -630,7 +630,7 @@ PT-BR
 
 ## Selecione o idioma de sua preferência
 
-العربيةБългарскиবাংলাČeštinaDanskDeutschΕλληνικάEnglishEspañol (Internacional)CastellanoEestiSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeУкраїнськаاردو简体中文香港中文繁體中文
+árabe, العربيةbúlgaro, Българскиbengali, বাংলাtcheco, Češtinadinamarquês, Danskalemão, Deutschgrego, Ελληνικάinglês, Englishespanhol, Español (Internacional)espanhol (Espanha), Castellanoestoniano, Eestifinlandês, Suomifrancês (Canadá), Français (Canada)francês, Français (France)hebraico, עבריתhíndi, हिन्दीcroata, Hrvatskihúngaro, Magyaritaliano, Italianojaponês, 日本語canarim, ಕನ್ನಡcoreano, 한국어lituano, Lietuviųmarati, मराठीbokmål norueguês, Norsk Bokmålholandês, Nederlandspolonês, Polskiportuguês (Brasil), Português (Brasil)português (Portugal), Português (Portugal)romeno, Românărusso, Русскийcingalês (Sri Lanka), සිංහලeslovaco, Slovenčinaesloveno (Eslovênia), Slovenščinasueco, Svenskasuaíli, Kiswahilitâmil, தமிழ்télugo, తెలుగుturco, Türkçeucraniano, Українськаurdu, اردوchinês, 简体中文chinês (Hong Kong, RAE da China), 香港中文chinês (Taiwan), 繁體中文
 
 ## Viajar
 
@@ -662,7 +662,7 @@ PT-BR
 
 ## Selecione o idioma de sua preferência
 
-العربيةБългарскиবাংলাČeštinaDanskDeutschΕλληνικάEnglishEspañol (Internacional)CastellanoEestiSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeУкраїнськаاردو简体中文香港中文繁體中文
+árabe, العربيةbúlgaro, Българскиbengali, বাংলাtcheco, Češtinadinamarquês, Danskalemão, Deutschgrego, Ελληνικάinglês, Englishespanhol, Español (Internacional)espanhol (Espanha), Castellanoestoniano, Eestifinlandês, Suomifrancês (Canadá), Français (Canada)francês, Français (France)hebraico, עבריתhíndi, हिन्दीcroata, Hrvatskihúngaro, Magyaritaliano, Italianojaponês, 日本語canarim, ಕನ್ನಡcoreano, 한국어lituano, Lietuviųmarati, मराठीbokmål norueguês, Norsk Bokmålholandês, Nederlandspolonês, Polskiportuguês (Brasil), Português (Brasil)português (Portugal), Português (Portugal)romeno, Românărusso, Русскийcingalês (Sri Lanka), සිංහලeslovaco, Slovenčinaesloveno (Eslovênia), Slovenščinasueco, Svenskasuaíli, Kiswahilitâmil, தமிழ்télugo, తెలుగుturco, Türkçeucraniano, Українськаurdu, اردوchinês, 简体中文chinês (Hong Kong, RAE da China), 香港中文chinês (Taiwan), 繁體中文
 
 - Viajar
 - Dirigir
@@ -685,7 +685,7 @@ PT-BR
 
 ## Selecione o idioma de sua preferência
 
-العربيةБългарскиবাংলাČeštinaDanskDeutschΕλληνικάEnglishEspañol (Internacional)CastellanoEestiSuomiFrançais (Canada)Français (France)עבריתहिन्दीHrvatskiMagyarItaliano日本語ಕನ್ನಡ한국어LietuviųमराठीNorsk BokmålNederlandsPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийසිංහලSlovenčinaSlovenščinaSvenskaKiswahiliதமிழ்తెలుగుTürkçeУкраїнськаاردو简体中文香港中文繁體中文
+árabe, العربيةbúlgaro, Българскиbengali, বাংলাtcheco, Češtinadinamarquês, Danskalemão, Deutschgrego, Ελληνικάinglês, Englishespanhol, Español (Internacional)espanhol (Espanha), Castellanoestoniano, Eestifinlandês, Suomifrancês (Canadá), Français (Canada)francês, Français (France)hebraico, עבריתhíndi, हिन्दीcroata, Hrvatskihúngaro, Magyaritaliano, Italianojaponês, 日本語canarim, ಕನ್ನಡcoreano, 한국어lituano, Lietuviųmarati, मराठीbokmål norueguês, Norsk Bokmålholandês, Nederlandspolonês, Polskiportuguês (Brasil), Português (Brasil)português (Portugal), Português (Portugal)romeno, Românărusso, Русскийcingalês (Sri Lanka), සිංහලeslovaco, Slovenčinaesloveno (Eslovênia), Slovenščinasueco, Svenskasuaíli, Kiswahilitâmil, தமிழ்télugo, తెలుగుturco, Türkçeucraniano, Українськаurdu, اردوchinês, 简体中文chinês (Hong Kong, RAE da China), 香港中文chinês (Taiwan), 繁體中文
 
 ## Viajar
 
