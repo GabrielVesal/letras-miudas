@@ -3,18 +3,18 @@ empresa: "Epic Games (Fortnite)"
 documento: "Política de Privacidade"
 categoria: "Jogos"
 fonte: "https://legal.epicgames.com/epicgames/privacy-policy?lang=pt-BR"
-capturado_em: 2026-04-16
-wayback: "https://web.archive.org/web/20260416165958/https://legal.epicgames.com/epicgames/privacy-policy?lang=pt-BR"
+capturado_em: 2026-07-12
+wayback: "https://web.archive.org/web/20260712032442/https://legal.epicgames.com/epicgames/privacy-policy?lang=pt-BR"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/epic-games/politica-de-privacidade.md"
 ---
 
-Atualizada pela última vez em: 28 de novembro de 2025
+Atualizada pela última vez em: 22 de abril de 2026
 
 Bem-vindo(a) à Epic!
 
-Se você for um usuário menor de idade, consulte nossas Informações de privacidade para jovens jogadores.
+Se você for menor de idade, consulte nossas Informações de privacidade para jovens jogadores.
 
-Se você for pai/mãe/responsável de um usuário menor de idade, consulte a Seção 2 (Como processamos informações pertencentes a menores de idade?).
+Se você for pai/mãe/responsável de um menor de idade, consulte a Seção 2 (Como processamos informações relacionadas a menores de idade?).
 
 A sede da Epic Games, Inc. fica em Cary, Carolina do Norte, EUA. Nós e nossas subsidiárias temos operações e escritórios localizados ao redor do mundo que ajudam a criar e entregar alguns dos seus produtos e serviços favoritos, inclusive jogos, como o Fortnite e ferramentas de desenvolvimento, como a Unreal Engine.
 
@@ -30,7 +30,7 @@ Usamos o termo “***Serviços da Epic***” para descrever produtos ou serviço
 
 - nossos jogos (por exemplo, Fortnite, Rocket League, Fall Guys e Horizon Chase 2);
 - nossas lojas (por exemplo, Epic Games Store e Fab);
-- nossas ferramentas de desenvolvimento (por exemplo, Unreal Engine, MetaHuman e Unreal Editor para Fortnite);
+- nossas ferramentas de desenvolvimento (por exemplo, Unreal Engine, MetaHuman e Unreal Editor For Fortnite);
 - nossos aplicativos (por exemplo, Postparty);
 - nossos sites e seus respectivos subdomínios (por exemplo, www.epicgames.com, www.fortnite.com, www.rocketleague.com, e www.fallguys.com); e
 - eventos ao vivo para os quais esta Política é publicada.
@@ -41,28 +41,40 @@ Observe que o uso dos Serviços da Epic também está sujeito a termos e condiç
 
 Estamos desenvolvendo os Serviços da Epic para acolher usuários de todas as idades, em todo o mundo. Isso significa que coletamos informações de idade dos usuários para que alguns dos nossos Serviços da Epic ofereçam uma experiência diferente com base no que sabemos a respeito da idade e local de residência do usuário. As informações abaixo são para que os pais e responsáveis legais entendam nossas práticas de privacidade no que diz respeito a menores de idade (menores de 13 anos de idade ou a idade de consentimento digital na região do usuário, o que for superior).
 
-Quando o usuário indicar que é menor de idade, será colocado em uma “***Conta Limitada***” até que deixe de ser considerado menor de idade, conforme definido acima, ou até que sua mãe ou seu pai ou responsável legal forneça permissão de privacidade adicional e habilite os controles parentais. As Contas Limitadas podem jogar os jogos da Epic (por exemplo, Fortnite, Rocket League ou Fall Guys), mas recursos como bate-papo por voz e compras em dinheiro real estarão desativados. A Epic coleta informações pessoais limitadas de Contas Limitadas para operá-las, em cada caso, de acordo com as leis aplicáveis de privacidade e proteção juvenil:
+Quando o usuário indicar que é menor de idade, será colocado em uma “***Conta controlada***” até que deixe de ser considerado menor de idade, conforme definido acima, ou até que sua mãe ou seu pai ou responsável legal forneça permissão de privacidade adicional e habilite os controles parentais. As Contas controladas podem jogar os jogos da Epic (por exemplo, Fortnite, Rocket League ou Fall Guys), mas recursos como bate-papo por voz e compras em dinheiro real estarão desativados. A Epic coleta informações pessoais limitadas de Contas controladas para operá-las, em cada caso, de acordo com as leis aplicáveis de privacidade e proteção juvenil:
 
-- data de nascimento do usuário e país para determinar a idade e aplicar as configurações adequadas;
-- e-mail do usuário para login (que é armazenado somente em formato “hash and salt” ilegível)
-- identificadores persistentes do usuário, como endereço IP, identificadores de conta de plataforma de jogos, identificadores de dispositivos e dados semelhantes coletados com tecnologias de rastreio de site para fornecer e manter os Serviços da Epic (inclusive análise, para aprimorá-los), proteger a segurança e a integridade dos usuários, cumprir requisitos jurídicos e regulatórios, assim como facilitar a personalização no jogo para manter as preferências do usuário (por exemplo, avanço do jogo e escolha de avatar); e
-- e-mail da mãe, do pai ou do responsável legal para enviar notificações e buscar consentimento para recursos adicionais [que será excluído se o(a) pai/mãe ou responsável legal não responder em até 14 dias];
+- data de nascimento do menor de idade e país para determinar a idade e aplicar as configurações adequadas;
+- e-mail do menor de idade para log-in (que é armazenado somente em formato “hash and salt” ilegível)
+- endereço de e-mail do pai/da mãe/responsável legal para fornecer aviso e buscar seu consentimento para recursos adicionais; e
+- identificadores persistentes do menor de idade, como endereço IP, ID de conta da Epic, identificadores de conta de plataforma de jogos, identificadores de dispositivos e dados semelhantes coletados com tecnologias de rastreamento de sites para fornecer e manter os Serviços da Epic (inclusive analíticos para aprimorá-los), autenticar os usuários, proteger a segurança e a integridade dos usuários e dos Serviços da Epic, estar em conformidade com requisitos jurídicos e regulatórios, facilitar a personalização e manter as preferências do usuário (por exemplo, avanço do jogo e escolha de avatar). Usamos meios técnicos e organizacionais projetados para assegurar que esses identificadores persistentes de Contas controladas não sejam usados para outros objetivos.
 
-Se o usuário com a Conta Limitada entrar em contato conosco com alguma dúvida ou solicitação, qualquer informação pessoal fornecida será excluída após a consulta ser resolvida. Se divulgarmos informações pessoais de nossas Contas Limitadas externamente, isso será feito para que possamos realizar esses objetivos limitados (por exemplo, compartilhamento com consoles para ajudar a executar o seu jogo ou com o nossos provedores de armazenamento em nuvem). Saiba mais sobre Contas Limitadas.
+Se divulgarmos informações pessoais de nossas Contas controladas externamente, isso será feito para que possamos realizar esses objetivos limitados (por exemplo, compartilhamento com consoles de jogos para ajudar a executar o seu jogo ou com o nossos provedores de armazenamento em nuvem). Saiba mais sobre Contas controladas.
 
 ***A. Notificação, consentimento e controles parentais***
 
-Coletamos o e-mail do(a) pai/mãe ou responsável legal do usuário menor de idade para enviarmos a esse(a) pai/mãe ou responsável legal uma notificação por e-mail de que o menor de idade criou uma Conta controlada. Esta notificação também permite que o(a) pai/mãe ou responsável legal revise nossas práticas de privacidade para Contas liberadas, isto é, contas que não sejam Contas controladas, forneçam consentimento para uma Conta liberada para o menor de idade, para habilitar recursos adicionais, e configurem controles parentais. Observe que o(a) pai/mãe/responsável legal precisa concluir nosso processo de verificação parental para fornecer consentimento para uma Conta liberada.
+Coletamos o e-mail do(a) pai/mãe ou responsável legal do menor de idade para enviarmos a esse(a) pai/mãe ou responsável legal uma notificação por e-mail de que o menor de idade criou uma Conta controlada. Esta notificação também permite que o(a) pai/mãe ou responsável legal revise nossas práticas de privacidade para Contas liberadas, isto é, contas que não sejam Contas controladas, forneçam consentimento para uma Conta liberada para o menor de idade, para habilitar recursos adicionais, e configurem controles parentais. Observe que o(a) pai/mãe/responsável legal precisa concluir nosso processo de verificação parental para fornecer consentimento para uma Conta liberada.
 
 Usamos o Kids Web Services (“***KWS***”), um serviço oferecido pela nossa subsidiária Kids Web Services Ltd, para fins de verificação da idade do(a) pai/mãe/responsável legal e do usuário. Saiba mais sobre o consentimento verificável dos pais. Assim que um endereço de e-mail for verificado, o KWS o reconhecerá em outros jogos ou serviços que usam a tecnologia KWS, portanto, não haverá necessidade de confirmá-lo novamente. Saiba mais sobre o KWS.
 
 Quando um(a) pai/mãe ou responsável legal dá seu consentimento para uma Conta liberada para o menor de idade, os controles parentais são ativados automaticamente. Os controles parentais podem então ser acessados usando um código PIN e permitir que os pais/responsáveis consultem e alterem as configurações de recursos selecionadas durante o fluxo de permissão e personalizem ainda mais a experiência de seus filhos. Saiba mais sobre Controles parentais.
 
-Se o(a) pai/mãe ou responsável legal autorizar uma Conta liberada para o menor de idade, as práticas de privacidade descritas em outras partes desta Política se aplicarão de modo geral, mas os usuários mais jovens talvez não tenham acesso a todo o conteúdo ou recursos (devido às nossas configurações de privacidade padrão, exigências de idade para determinados serviços e recursos e/ou controles parentais em vigor). Por exemplo, dependendo das configurações de controle parental e da idade do usuário, os usuários poderão acessar recursos de comunicações (como bate-papo por voz e texto) e interagir livremente com a maioria dos Serviços da Epic (inclusive baixar outros jogos ou aplicativos da Epic Games Store). Quando o usuário acessa jogos ou aplicativos de terceiros por meio da Epic Games Store, algumas informações da conta são divulgados ao editor e desenvolvedor desse jogo ou aplicativo para habilitar recursos de operação e produto. As informações do desenvolvedor e do editor estão disponíveis na lista de produtos ou em nossoíndice. Para obter mais detalhes sobre nossas práticas de privacidade, consulte as Seções 3 (Quais informações coletamos e como?), 4 (Por que processamos informações?) e 5 (Para quem divulgamos as informações?). Se você tiver alguma dúvida sobre a divulgação de informações pessoais pela Epic, entre em contato conosco usando as informações de contato listadas na Seção 12 (Como entrar em contato conosco?).
+Se o(a) pai/mãe ou responsável legal autorizar uma Conta liberada para o menor de idade, as práticas de privacidade descritas em outras partes desta Política se aplicarão de modo geral, mas os usuários mais jovens talvez não tenham acesso a todo o conteúdo ou recursos (devido às nossas configurações de privacidade padrão, exigências de idade para determinados serviços e recursos e/ou controles parentais em vigor). Por exemplo, dependendo das configurações de controle parental e da idade do menor, um menor poderá acessar recursos de comunicações (como bate-papo por voz e texto) e interagir livremente com a maioria dos Serviços da Epic (inclusive para fazer download de outros jogos ou aplicativos da Epic Games Store). Para obter mais informações, consulte as Seções 3 (Quais informações coletamos e como?) e 4 (Por que processamos informações?).
 
-***B. Direitos de privacidade dos menores de idade e da mãe/do pai ou responsável legal***
+Divulgamos as informações da conta de um menor de idade a terceiros: (1) para objetivos inerentes à operação e proteção dos nossos Serviços da Epic (por exemplo, para consoles de jogos, editores de jogos ou aplicativos adquiridos por meio da Epic Games Store, consultores profissionais e agentes de aplicação da lei) ou (2) com a permissão do pai/da mãe/responsável legal (por exemplo, para vincular contas e fazer log-in em serviços de terceiros). Para obter mais informações, consulte a Seção 5 (Para quem divulgamos as informações?). Em caso de dúvidas, entre em contato conosco usando as informações de contato disponíveis na Seção 12 (Como entrar em contato conosco?).
 
-Além dos controles parentais que permitem que os pais/responsáveis alterem as escolhas que fizeram sobre o uso de recursos específicos de seus filhos, como bate-papo por voz e texto, os usuários menores de idade e seus pais/responsáveis podem exercer seus direitos de privacidade individuais, conforme descrito na Seção 9 (Que escolhas e controles você tem?). Esses direitos incluem o direito de analisar as informações pessoais de seu(ua) filho(a) mantidas pela Epic e excluir a conta da Epic de seu(ua) filho(a) (que exclui suas informações pessoais e interrompe a coleta adicional). Para exercer esses direitos ou fazer perguntas sobre como tratamos as informações pessoais de menores de idade, use as informações de contato disponíveis na Seção 12 (Como entrar em contato conosco?), abaixo, ou acesse diretamente nosso Formulário de solicitação de atendimento parental.
+***B. Retenção de Informações pessoais***
+
+Em geral, retemos informações pessoais coletadas de um menor de idade apenas pelo tempo que for razoavelmente necessário para os objetivos para os quais foram coletadas. Por exemplo:
+
+- Se o menor de idade com a Conta controlada entrar em contato conosco com alguma dúvida ou solicitação, qualquer informação pessoal fornecida será excluída após a consulta ser resolvida.
+- Se um menor fornecer o endereço de e-mail de seu pai/sua mãe/responsável legal para receber e enviar notificações e buscar consentimento para recursos adicionais, seu endereço de e-mail será excluído se o(a) pai/mãe ou responsável legal não responder em até 14 dias.
+- A partir de abril de 2026, se a conta de um menor de idade permanecer inativa por 18 meses, as informações pessoais associadas à conta serão excluídas (conforme definido pela Regra de Proteção e Privacidade On-line Infantil, 16 CFR 312.2).
+
+Para obter mais informações, consulte a Seção 7 (Como processamos as informações?).
+
+***C. Direitos de privacidade dos menores de idade e da mãe/do pai ou responsável legal***
+
+Além dos controles parentais que permitem que os pais/responsáveis alterem as escolhas que fizeram sobre o uso de recursos específicos de seus filhos, como bate-papo por voz e texto, os menores de idade e seus pais/responsáveis podem exercer seus direitos de privacidade individuais, conforme descrito na Seção 9 (Que escolhas e controles você tem?). Esses direitos incluem o direito de analisar as informações pessoais de seu(ua) filho(a) mantidas pela Epic e excluir a conta da Epic de seu(ua) filho(a) (que exclui suas informações pessoais e interrompe a coleta adicional). Para exercer esses direitos ou fazer perguntas sobre como tratamos as informações pessoais de menores de idade, use as informações de contato disponíveis na Seção 12 (Como entrar em contato conosco?), abaixo, ou acesse diretamente nosso Formulário de solicitação de atendimento parental.
 
 ### 3. QUAIS INFORMAÇÕES COLETAMOS E COMO?
 
@@ -74,16 +86,16 @@ Esta Política foi elaborada para ajudar você a entender como lidamos com infor
 
 Você pode optar por nos fornecer diferentes tipos de informações dependendo de como usa os Serviços da Epic. Em alguns casos, solicitaremos informações específicas porque precisamos delas para os Serviços da Epic ou para seus respectivos recursos. Se você optar por não fornecer as informações solicitadas, talvez você não consiga acessar esses Serviços da Epic, ou os recursos podem não funcionar adequadamente. Por exemplo:
 
-- Quando você acessa os Serviços da Epic, podemos coletar sua data de nascimento para determinar a idade e aplicar as configurações apropriadas, e se você indicar que é um usuário menor de idade, também coletamos o endereço de e-mail de seus pais/responsável para fornecer aviso e buscar o consentimento deles para recursos adicionais.
+- Quando você acessa os Serviços da Epic, podemos coletar sua data de nascimento para determinar a idade e aplicar as configurações adequadas, e se você indicar que é um menor de idade, também coletamos o endereço de e-mail de seus pais/responsável legal para fornecer avisos e buscar o consentimento deles para recursos adicionais.
 - Quando você cria uma conta da Epic, podemos coletar informações básicas de registro (por exemplo, nome, nome de exibição pública, senha, país e endereço de e-mail) para criar e manter sua conta, fornecer os Serviços da Epic que você solicitou, aplicar quaisquer termos ou políticas que se apliquem e rejam seu uso dos Serviços da Epic e manter registros apropriados para refletir como fornecemos os Serviços da Epic a você.
 - Quando você faz uma compra na Epic Games Store, dependendo do método de pagamento que você usa, podemos coletar suas informações de pagamento (por exemplo, número do cartão de crédito e data de validade, nome e informações da região) para realizar a transação.
 - Quando você se cadastra para receber alertas por e-mail, coletamos seu endereço de e-mail para manter você informado sobre as atualizações que você optou por receber.
 - Quando você ativa a autenticação por dois fatores, dependendo do método de autenticação que você usa, podemos coletar seu número de telefone e endereço de e-mail para ajudar a proteger sua conta.
-- Quando você usa recursos sociais como nossos fóruns ou bate-papo, podemos coletar as informações que você opte por compartilhar neles ou por meio deles (por exemplo, as publicações que você compartilha em nossos fóruns). Quando você usa o nosso recurso de bate-papo por voz e as denúncias por voz estiverem ativadas no canal de voz, trechos de dados de áudio serão armazenados no seu dispositivo e nos dispositivos dos participantes do canal de voz. Caso seja relatada uma violação de nossos termos ou de nossas políticas (por exemplo, Regras da comunidade), esses trechos podem ser transmitidos à Epic para analisar essa violação relatada e aplicar nossos termos e políticas.
-- Quando você usa recursos baseados em IA (por exemplo, Epic Developer Assistant), usamos suas contribuições (por exemplo, informações que você envia que podem identificar você) para gerar resultados (por exemplo, respostas).
-- Quando você usa o serviço MetaHuman para criar personagens no jogo, coletamos imagens do seu rosto para gerar uma malha facial exclusivamente para fornecer a funcionalidade solicitada, não para identificar você.
-- Quando você usa nossas outras ferramentas de desenvolvimento, coletamos informações, incluindo qualquer conteúdo que você crie e publique.
-- Quando você participar de algum concurso ou evento competitivo, ou participar dos nossos programas Support-A-Creator [Apoie-um-Criador] ou Island Creator [Criadores de Ilhas], podemos coletar suas informações de aplicativo e outras informações que você fornecer para nós para confirmar a sua elegibilidade e processar pagamentos.
+- Quando você usa recursos sociais como nossos fóruns ou bate-papo, podemos coletar as informações que você opte por compartilhar neles ou por meio deles (por exemplo, as publicações que você compartilha em nossos fóruns). Quando você usa o nosso recurso de bate-papo por voz e as denúncias por voz estiverem ativadas no canal de voz, trechos de dados de áudio serão armazenados no seu dispositivo e nos dispositivos dos participantes do canal de voz. Caso seja relatada uma violação de nossos termos ou de nossas políticas (por exemplo, Regras da comunidade), esses trechos podem ser transmitidos à Epic para analisar essa violação relatada e aplicar nossos termos e políticas. Para obter mais informações sobre a retenção de histórico de suas conversas por voz e por escrito, consulte nossas Perguntas frequentes.
+- Quando você usa recursos baseados em IA (por exemplo, Epic Developer Assistant), usamos suas contribuições (por exemplo, informações que você envia que podem identificar você) para gerar resultados (por exemplo, respostas que possam identificar você).
+- Quando você usa o serviço MetaHuman para criar personagens no jogo, coletamos imagens suas para gerar uma malha exclusivamente para fornecer a funcionalidade solicitada, não para identificar você.
+- Quando você usa nossas outras ferramentas de desenvolvimento, coletamos informações, inclusive qualquer conteúdo que você crie e publique.
+- Quando você participar de algum concurso ou evento competitivo, ou participar dos nossos programas Support-A-Creator [Apoie um criador] ou Fortnite Developer [Desenvolvedor Fortnite], podemos coletar suas informações de aplicativo e outras informações que você fornecer para nós para confirmar a sua elegibilidade e processar pagamentos.
 - Quando você se cadastra em nossos eventos ou acesso antecipado aos nossos jogos, coletamos suas informações de cadastro.
 - Quando você envia uma solicitação de remoção, coletamos as informações que você fornece (por exemplo, nome, informações de contato, assinatura e evidências que corroboram sua reivindicação para avaliar e responder a essas solicitações).
 - Quando você preenche nossas pesquisas ou nossos questionários, poderemos coletar suas respostas e feedback.
@@ -109,7 +121,7 @@ Em alguns casos, poderemos receber informações sobre você de terceiros em con
 - Quando você vincula sua conta da Epic à sua conta em uma rede social de terceiros (por exemplo, Facebook), jogos (por exemplo, Steam) ou plataforma semelhante, podemos receber informações dessa plataforma (por exemplo, seu nome de exibição no serviço de terceiros, ID de usuário, informações do dispositivo, nome e endereço de e-mail).
 - Quando você usa sua conta da Epic para fazer login em um produto ou serviço de um desenvolvedor terceirizado, podemos receber suas informações desse desenvolvedor (por exemplo, informações sobre suas interações no jogo, incluindo realizações para ajudar a rastrear, exibir e desbloquear realizações na Epic Games Store).
 - Quando você interage com um anúncio dos Serviços da Epic em um site ou serviço de terceiros, podemos receber informações relacionadas a essa interação da empresa que opera esse site ou serviço.
-- Se outro usuário fizer uma denúncia de que você violou nossos termos ou políticas, poderemos receber informações sobre você desse usuário. Se você for pai/mãe/responsável de um usuário menor de idade, podemos receber seu endereço de e-mail diretamente de seu(ua) filho(a) para entrar em contato com você para obter o consentimento verificável dos pais.
+- Se outro usuário fizer uma denúncia de que você violou nossos termos ou políticas, poderemos receber informações sobre você desse usuário. Se você for pai/mãe/responsável de um menor de idade, podemos receber seu endereço de e-mail diretamente de seu(ua) filho(a) para entrar em contato com você para obter o consentimento verificável dos pais.
 
 Suas configurações de privacidade em plataformas, sites e serviços de terceiros normalmente controlam quais informações eles divulgam para a Epic, por isso incentivamos você a analisar e atualizar essas configurações regularmente. Embora cumpramos esta Política ao usar informações fornecidas por terceiros, não controlamos como terceiros coletam ou usam suas informações. Para obter mais detalhes, consulte os avisos e as políticas de privacidade.
 
@@ -117,45 +129,46 @@ Suas configurações de privacidade em plataformas, sites e serviços de terceir
 
 Processamos as informações que coletamos, individualmente ou em combinação com outras informações, conforme descrito nesta Política, para as finalidades descritas abaixo. Se você estiver localizado no Espaço Econômico Europeu, no Reino Unido ou na Suíça, as bases legais relevantes serão informadas entre parênteses abaixo. Para obter mais informações sobre bases legais, consulte a Seção 11 (Aviso adicional para indivíduos localizados no Espaço Econômico Europeu, no Reino Unido ou na Suíça).
 
-- ***Para fornecer e operar os Serviços da Epic*** (necessidade contratual ou interesses legítimos): por exemplo, podemos usar suas informações para criar e manter sua conta da Epic, conceder a você acesso aos Serviços da Epic, incluindo verificar sua identidade, habilitar recursos dos Serviços da Epic, incluindo recursos de progressão cruzada que permitem jogabilidade entre plataformas e recursos com tecnologia de IA, concluir e gerenciar suas transações, salvar suas preferências, aplicar nossos termos e políticas, notificá-lo sobre alterações em nossos termos e políticas, e entrar em contato com você sobre sua conta da Epic, transações, e outras mensagens relacionadas ao serviço necessárias para a operação dos Serviços da Epic.
-- ***Para apoiar e monitorar os Serviços da Epic*** (interesses legítimos ou necessidade contratual): por exemplo, podemos usar suas informações para responder a solicitações de suporte e dúvidas gerais enviadas por você, e detectar e relatar falhas.
-- ***Para garantir e proteger os Serviços da Epic e de terceiros*** (interesses legítimos, necessidade contratual ou obrigações legais): por exemplo, podemos usar suas informações para detectar e prevenir fraudes, trapaças, hackers, roubo de contas, uso indevido e outras atividades não autorizadas nos Serviços da Epic, e proteger os direitos, a propriedade e a segurança da Epic, de nossos usuários e de terceiros.
+- ***Para fornecer e operar os Serviços da Epic*** (necessidade contratual ou interesses legítimos): Por exemplo, podemos usar suas informações para criar e manter sua conta da Epic, conceder a você acesso aos Serviços da Epic, incluindo verificar sua identidade, habilitar recursos dos Serviços da Epic, incluindo recursos de progressão cruzada que permitem jogabilidade entre plataformas e recursos com tecnologia de IA, concluir e gerenciar suas transações, salvar suas preferências, aplicar nossos termos e políticas, notificá-lo sobre alterações em nossos termos e políticas, e entrar em contato com você sobre sua conta da Epic, transações, e outras mensagens relacionadas ao serviço necessárias para a operação dos Serviços da Epic.
+- ***Para apoiar e monitorar os Serviços da Epic*** (interesses legítimos ou necessidade contratual): Por exemplo, podemos usar suas informações para responder a solicitações de suporte e dúvidas gerais enviadas por você, e detectar e relatar falhas.
+- ***Para assegurar e proteger os Serviços da Epic e de terceiros*** (interesses legítimos, necessidade contratual ou obrigações legais): por exemplo, podemos usar suas informações para detectar e prevenir fraudes, trapaças, hackers, roubo de contas, uso indevido e outras atividades não autorizadas nos Serviços da Epic, e proteger os direitos, a propriedade e a segurança da Epic, de nossos usuários e de terceiros.
 - ***Para moderar os Serviços da Epic*** (interesses legítimos, obrigações legais ou necessidade contratual): por exemplo, podemos usar suas informações para detectar, moderar e responder a conteúdo e conduta ilegais, prejudiciais, tóxicos e fraudulentos relatados que violem as leis aplicáveis ou os nossos termos e as políticas.
-- ***Desenvolver os Serviços da Epic*** (interesses legítimos): por exemplo, podemos usar suas informações para gerenciar testes alfa, beta e de acesso antecipado e coletar feedback.
+- ***Para desenvolver os Serviços da Epic*** (interesses legítimos): por exemplo, podemos usar suas informações para gerenciar testes alfa, beta e de acesso antecipado e coletar feedback.
 - ***Para entender e melhorar os Serviços da Epic*** (interesses legítimos): por exemplo, podemos usar suas informações para analisar seu uso dos Serviços da Epic, apoiar a auditoria e melhorar recursos, tecnologias e processos, inclusive treinando tecnologias de aprendizado de máquina para detectar e moderar condutas e conteúdos ilegais, prejudiciais, tóxicos e fraudulentos que violem as leis aplicáveis ou os nossos termos e as nossas políticas.
-- ***Personalizar os Serviços da Epic*** (interesses legítimos): por exemplo, podemos usar suas informações para apresentar conteúdo, recursos e recomendações personalizados para você ou inferidos a partir de sua atividade, inclusive sugerindo jogos de gêneros que você compra com frequência e apresentando níveis de jogo e ilhas com base em seu histórico de jogo, e para melhorar as tecnologias de machine learning que ajudam a fornecer essas recomendações personalizadas.
+- ***Para personalizar os Serviços da Epic*** (com seu consentimento ou por interesses legítimos): por exemplo, podemos usar suas informações para apresentar conteúdo, recursos e recomendações personalizados para você ou inferidos a partir de sua atividade, inclusive sugerindo jogos, ilhas, itens e níveis do jogo e para melhorar as tecnologias de aprendizado de máquina que ajudam a fornecer essas recomendações personalizadas. Para obter mais informações sobre essas recomendações, acesse aqui.
 - ***Para promover os Serviços da Epic*** (consentimento ou interesses legítimos): por exemplo, podemos usar suas informações para gerenciar, personalizar e medir a eficácia de nossos anúncios, ofertas promocionais, pesquisas e eventos.
 - ***Para facilitar transações corporativas*** (interesses legítimos): por exemplo, podemos transferir suas informações dentro do nosso grupo corporativo no caso de uma reestruturação da empresa e para outra empresa em conexão com, ou durante negociações para, uma venda, fusão, alienação, reestruturação, reorganização, dissolução, falência, liquidação ou outra transferência de alguns ou todos os nossos ativos, ou outra atividade corporativa semelhante.
 - ***Para estabelecer e defender reivindicações legais*** (interesses legítimos ou obrigações legais): por exemplo, se você apresentar uma reivindicação legal contra nós, poderemos usar suas informações para investigar e responder a essa reivindicação e nos defendermos; e quando detectarmos o uso indevido dos Serviços da Epic, poderemos usar suas informações para estabelecer e buscar nossas reivindicações legais.
 - ***Para cumprir as leis, os regulamentos e processos legais aplicáveis*** (obrigações legais): por exemplo, podemos usar suas informações para responder a solicitações válidas de autoridades de aplicação da lei e governamentais, incluindo intimações, ordens judiciais e mandados de busca; e podemos usar sua data de nascimento para facilitar a conformidade com as leis de proteção juvenil.
-- ***Para fins com os quais você consentiu*** (consentimento):por exemplo, com seu consentimento, podemos usar suas informações para enviar comunicações de marketing. Você não tem a obrigação de fornecer seu consentimento e pode retirá-lo a qualquer momento.
+- ***Para fins com os quais você consentiu*** (consentimento): por exemplo, com seu consentimento, podemos usar suas informações para enviar comunicações de marketing. Você não tem a obrigação de fornecer seu consentimento e pode retirá-lo a qualquer momento.
 
 Também podemos processar suas informações para fins adicionais no futuro, compatíveis com os itens descritos acima, e podemos explicar a finalidade a você no momento da coleta. Além disso, podemos usar informações que não identifiquem você individualmente, como informações desidentificadas ou agregadas, para fins comerciais, operacionais ou outros fins permitidos pela lei aplicável.
 
 ### 5. PARA QUEM DIVULGAMOS AS INFORMAÇÕES?
 
-Podemos divulgar algumas de suas informações para nossas subsidiárias e afiliadas, nossos prestadores de serviços e terceiros para os fins informados acima.
+Podemos divulgar algumas de suas informações para nossas subsidiárias e afiliadas, nossos provedores de serviços e terceiros para os objetivos informados acima.
 
-Quando divulgamos informações aos nossos prestadores de serviços, esforçamo-nos para garantir que esses prestadores de serviços forneçam proteções que sejam iguais ou substancialmente semelhantes às descritas nesta Política (por exemplo, limitando o uso de suas informações aos serviços prestados). Nossos prestadores de serviços incluem:
+Quando divulgamos informações aos nossos provedores de serviços, nos esforçamos para assegurar que esses provedores de serviços forneçam proteções que sejam iguais ou substancialmente semelhantes às descritas nesta Política (por exemplo, limitando o uso de suas informações aos serviços prestados). Nossos provedores de serviços incluem:
 
 - provedores de hospedagem e armazenamento de banco de dados;
 - ferramentas de gestão de relacionamento com o cliente;
 - provedores de serviços de e-mail;
 - provedores de tecnologia antitrapaça e prevenção de fraudes;
 - processadores de pagamento;
-- provedores de grandes modelos de linguagem (large language model) porte para habilitar recursos de IA; e
+- provedores de grandes modelos de linguagem (large language model) porte para habilitar recursos fornecidos por IA; e
 - parceiros de marketing e publicidade.
 
 Dependendo dos Serviços da Epic que você usa e de como você interage com eles, terceiros incluem:
 
-- desenvolvedores de jogos que você compra ou joga por meio da Epic Games Store e criadores que publicam ilhas no Fortnite (por exemplo, para ajudar com solicitações de login ou suporte);
-- consoles de jogos (por exemplo, PlayStation®, Microsoft Xbox e Nintendo Switch);
-- plataformas de mídia social (por exemplo, Facebook) e lojas de jogos (por exemplo, Steam) se você vincular sua conta da Epic a uma plataforma de terceiros;
+- editores de jogos que você compra ou joga por meio da Epic Games Store para habilitar a transação e os recursos do produto (as informações do editor estão disponíveis na lista de produtos na Epic Games Store, em nosso Índice de Editores e no menu da sua Biblioteca no Epic Games Launcher);
+- desenvolvedores para autenticar você e habilitar recursos como listas de amigos e crossplay se você entrar em seus jogos ou aplicativos usando sua conta da Epic (as informações do desenvolvedor estão disponíveis em nosso Índice de Desenvolvedores EAS, e essas conexões podem ser visualizadas e gerenciadas nas configurações de sua conta da Epic em “Contas vinculadas”) ou desenvolvedores que publicam as Ilhas no Fortnite (por exemplo, para ajudar com solicitações de log-in ou suporte);
+- plataformas móveis ou consoles de jogos para ajudar na execução de nossos jogos (por exemplo, PlayStation®, Microsoft Xbox e Nintendo Switch);
+- plataformas de mídia social (por exemplo, Facebook) e lojas de jogos (por exemplo, Steam) se você vincular sua conta da Epic a uma plataforma de terceiros (esses links podem ser visualizados e gerenciados nas configurações da sua conta da Epic em “Contas vinculadas”);
 - outros usuários (por exemplo, quando você usa recursos sociais como bate-papo) ou o público em geral (por exemplo, quando você joga nossos jogos ou usa nossas ferramentas de desenvolvimento, informações como seu nome de exibição, estatísticas de jogos e conteúdo criado ou compartilhado podem ser acessíveis ao público);
 - nossos advogados, consultores, contadores, consultores de negócios e terceiros semelhantes que estão sujeitos aos nossos deveres de confidencialidade;
 - um comprador ou outro sucessor no caso de uma venda, fusão, alienação, reestruturação, reorganização, dissolução ou outra transferência de alguns ou todos os nossos ativos, seja como uma preocupação contínua ou como parte de processo de falência, liquidação ou semelhante, no qual as informações retidas por nós relativas aos usuários dos Serviços da Epic estejam entre os ativos transferidos;
 - autoridades policiais, autoridades governamentais ou terceiros, conforme exigido para cumprir as leis, regulamentos ou processos legais aplicáveis, ou se acreditarmos que a divulgação é necessária para proteger os direitos, a propriedade ou a segurança da Epic, de nossos usuários ou de terceiros (por exemplo, para investigar fraude ou outras atividades ilegais, aplicar nossos termos e políticas ou proteger nossos usuários ou outras pessoas contra morte ou danos graves); e
-- outras pessoas com sua permissão (por exemplo, se você usar sua conta da Epic para acessar produtos ou serviços de terceiros, participar de eventos promocionais cruzados ou usar determinados métodos de pagamento).
+- outras pessoas com a sua permissão (por exemplo, se você participar de eventos promocionais cruzados ou usar determinadas formas de pagamento).
 
 Nenhum número de celular fornecido à Epic para fins de segurança será compartilhado com terceiros ou com afiliadas para fins de marketing ou promocionais.
 
@@ -169,7 +182,7 @@ Quando permitido por lei, seu uso dos Serviços da Epic nos autoriza a processar
 
 ### 7. COMO PROCESSAMOS AS INFORMAÇÕES?
 
-***A. Retenção***
+***A.*** ***Retenção***
 
 Como os dados específicos que processamos e nossos motivos para fazê-lo, muitas vezes, variam dependendo de como você usa os Serviços da Epic, o período pelo qual preservamos suas informações também pode variar. Geralmente, retemos informações pelo tempo que for razoavelmente necessário para os fins descritos na Seção 4 (Por que processamos informações?), a menos que um período de retenção superior seja exigido ou permitido por lei. Por exemplo, se você criar uma conta da Epic, de modo geral, mantemos os dados pessoais associados à sua conta (por exemplo, nome, nome de exibição pública, senha, país e endereço de e-mail) pelo tempo que for necessário para manter sua conta, fornecer os Serviços da Epic solicitados por você, fazer valer os termos e políticas que regem o seu uso dos Serviços da Epic e registrar como fornecemos os Serviços da Epic para você.
 
@@ -177,9 +190,9 @@ Os principais critérios que consideramos na determinação de períodos de rete
 
 Você pode solicitar que a Epic exclua suas informações. Consulte as Seções 9 (Que escolhas e controles você tem?), 10 (Aviso adicional para residentes de certos estados dos EUA) e 11 (Aviso adicional para indivíduos localizados no Espaço Econômico Europeu, no Reino Unido ou na Suíça) para obter mais informações sobre como solicitar a exclusão de suas informações.
 
-***B. Segurança***
+***B.*** ***Segurança***
 
-Mantemos proteções administrativas, técnicas, contratuais e físicas adequadas para proteger suas informações contra destruição, perda, alteração, acesso, divulgação, uso ou outra ação acidental, ilegal ou não autorizado e outras formas ilegais de processamento. Em alguns casos, suas informações podem estar acessíveis quando você usa os Serviços da Epic. Para ajudar a manter suas informações seguras, você deve manter a confidencialidade de suas informações de login. Se tomarmos conhecimento da divulgação não autorizada das suas informações, notificaremos você conforme exigido por lei e tomaremos medidas apropriadas para ajudar a proteger suas informações.
+Mantemos proteções administrativas, técnicas, contratuais e físicas adequadas para proteger suas informações contra destruição, perda, alteração, acesso, divulgação, uso ou outra ação acidental, ilegal ou não autorizado e outras formas ilegais de processamento. Em alguns casos, suas informações podem estar acessíveis quando você usa os Serviços da Epic. Para ajudar a manter suas informações seguras, você deve manter a confidencialidade de suas informações de log-in. Se tomarmos conhecimento da divulgação não autorizada das suas informações, notificaremos você conforme exigido por lei e tomaremos medidas apropriadas para ajudar a proteger suas informações.
 
 ### 8. ESTA POLÍTICA SERÁ ATUALIZADA?
 
@@ -217,7 +230,7 @@ Se você for residente da Califórnia, tem o direito de:
 Excluiremos suas informações pessoais, a menos que a retenção seja necessária por motivos operacionais ou judiciais, inclusive para:
 
 - fornecer os Serviços da Epic solicitados por você, concluir operações ou executar nosso contrato com você;
-- garantir a segurança ou integridade dos Serviços da Epic ou depurar os Serviços da Epic;
+- assegurar a segurança ou integridade dos Serviços da Epic ou depurar os Serviços da Epic;
 - exercer direitos em nosso nome ou em nome de terceiros;
 - permitir usos internos alinhados com as expectativas do usuário; ou
 - cumprir a Lei de Privacidade de Comunicações Eletrônicas da Califórnia (California Electronic Communications Privacy Act) ou outra obrigação legal.
@@ -233,7 +246,7 @@ Conforme descrito em mais detalhes na Seção 3 (Quais informações coletamos e
 - identificadores (por exemplo, nome, nome de exibição, ID da conta, ID do dispositivo, endereço IP, número de telefone ou endereço de e-mail);
 - informações comerciais (p. ex., direitos ou histórico de compras);
 - informações de atividade na internet ou outra rede eletrônica (p. ex., informações de jogos ou uso do site);
-- informações de áudio, eletrônicas, visuais ou semelhantes (p. ex., conversa por voz ou imagem facial);
+- informações de áudio, eletrônicas, visuais ou semelhantes (p. ex., conversa por voz ou imagem sua);
 - informações de geolocalização (conforme possam ser extraídas do seu endereço IP ou incluídas nas suas informações de pagamento);
 - características de classificação protegidas de acordo com a lei federal ou da Califórnia (p. ex., idade);
 - informações pessoais descritas na seção 1798.80(e) do Código Civil da Califórnia (p. ex., informações de nome, assinatura, número de telefone ou cartão de crédito ou débito);
@@ -242,17 +255,19 @@ Conforme descrito em mais detalhes na Seção 3 (Quais informações coletamos e
 
 A Epic não usa ou divulga informações pessoais confidenciais para fins diferentes dos necessários para oferecimento dos Serviços da Epic ou permitidos pela CCPA. A Epic também não vende as informações pessoais que coleta. Isso inclui informações de usuários que saibamos concretamente que são menores de 16 anos.
 
-Para mais informações sobre (1) as categorias de fontes das quais suas informações pessoais são coletadas, consulte a Seção 3 (Quais informações coletamos e como?); (2) os objetivos comerciais para coletar suas informações pessoais, incluindo informações pessoais confidenciais, consulte a Seção 4 (Por que processamos informações?); e (3) as categorias de terceiros para quem divulgamos suas informações pessoais, consulte a Seção 5 (Para quem divulgamos as informações?).
+***Lei Shine the light***: Também não divulgamos suas informações pessoais a terceiros para os próprios objetivos de marketing direto deles, a menos que você aceite essa divulgação (conforme definido pela Lei Shine the Light da Califórnia).
+
+Para obter mais informações sobre (1) as categorias de fontes das quais suas informações pessoais são coletadas, consulte a Seção 3 (Quais informações coletamos e como?); (2) os objetivos comerciais para coletar suas informações pessoais, incluindo informações pessoais confidenciais, consulte a Seção 4 (Por que processamos informações?); e (3) as categorias de terceiros para quem divulgamos suas informações pessoais, consulte a Seção 5 (Para quem divulgamos as informações?).
 
 ***B. Para residentes de outros estados dos EUA***
 
-Colorado, Connecticut, Delaware, Iowa, Maryland, Minnesota, Montana, Nebraska, New Hampshire, Nova Jersey, Oregon, Tennessee, Texas, Utah, e Virgínia promulgaram uma lei de privacidade abrangente que nos exija fornecer aos residentes desses estados informações sobre os dados pessoais delas em um formato diferente. Os termos utilizados nesta subseção são definidos pela lei de privacidade aplicável do seu estado de residência.
+Alguns estados dos EUA, inclusive Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, Nova Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah e Virgínia, promulgaram uma lei de privacidade abrangente, que está em vigor na data desta Política. Outros estados podem promulgar leis de privacidade abrangentes no futuro. Essas leis exigem que forneçamos aos residentes desses estados informações sobre seus dados pessoais em formato diferente. Os termos utilizados nesta subseção são definidos pela lei de privacidade aplicável do seu estado de residência.
 
 Se você for residente desses estados, você tem o direito de:
 
 - saber se estamos processando seus dados pessoais;
 - acessar e obter uma cópia dos seus dados pessoais;
-- corrigir seus dados pessoais (exceto para residentes de Utah e Iowa); e
+- corrigir seus dados pessoais (exceto para residentes de Iowa); e
 - solicitar a exclusão dos seus dados pessoais.
 
 Certas obrigações legais e necessidades operacionais podem limitar a forma como respondemos às suas solicitações. Essas exceções podem incluir:
@@ -300,8 +315,8 @@ Podemos solicitar informações adicionais para confirmar sua identidade antes d
 Você também tem o direito de registrar uma reclamação junto à sua autoridade fiscalizadora local de proteção de dados (consulte os links abaixo) ou entrar em contato conosco diretamente com qualquer reclamação (consulte a Seção 12 (Como entrar em contato conosco?)). Gostaríamos de ter a oportunidade de abordar seus problemas primeiro.
 
 - EEE: autoridades europeias de proteção de dados
-- Reino Unido:gabinete do comissário de informações
-- Suíça:comissário federal de informações e proteção de dados
+- Reino Unido: gabinete do comissário de informações
+- Suíça: comissário federal de informações e proteção de dados
 
 As fundamentações legais com as quais contamos para processar seus dados pessoais dependem dos Serviços da Epic que você usa e de como você interage com esses serviços. Essas bases legais são:
 
@@ -310,67 +325,67 @@ As fundamentações legais com as quais contamos para processar seus dados pesso
 - Obrigações legais: quando processamos seus dados pessoais para cumprir nossas obrigações legais.
 - Consentimento: quando você nos dá seu consentimento para processar seus dados pessoais. Você não tem a obrigação de fornecer seu consentimento e pode retirá-lo a qualquer momento.
 
-Para mais informações sobre como essas bases legais se aplicam a diferentes finalidades de processamento, consulte a Seção 4 (Por que processamos informações?).
+Para obter mais informações sobre como essas bases legais se aplicam a diferentes objetivos de processamento, consulte a Seção 4 (Por que processamos informações?).
 
 ### 12. Como entrar em contato conosco?
 
-***A. Pedidos de suporte***
+***A.*** ***Pedidos de suporte***
 
 Em caso de dúvidas ou preocupações sobre os Serviços da Epic (por exemplo, problemas relacionados a um jogo, acesso à sua conta da Epic, bugs, pagamentos, conteúdo ou direitos), entre em contato com o canal de suporte relevante por meio dos links fornecidos abaixo.
 
 ***•*** Fortnite ***•*** Rocket League ***•*** Fall Guys ***•*** Epic Games Store ***•*** Fab ***•*** Unreal Engine
 
-***B. Solicitações de privacidade***
+***B.*** ***Solicitações de privacidade***
 
-Para mais informações sobre nossas práticas de privacidade ou esta Política, ou exercer seus direitos de titular de dados, envie um e-mail para [email protected] ou [email protected]. Você também pode entrar em contato conosco por e-mail ou por correspondência (colocando como assunto “Attn: Legal Department” [Aos cuidados do departamento jurídico]) usando as informações de contato disponíveis abaixo para a entidade responsável por fornecer os Serviços da Epic aplicáveis.
+Para obter mais informações sobre nossas práticas de privacidade ou esta Política, ou exercer seus direitos de titular de dados, envie um e-mail para privacy@support.epicgames.com ou dpo@support.epicgames.com. Você também pode entrar em contato conosco por e-mail ou por correspondência (colocando como assunto “Attn: Legal Department” [Aos cuidados do departamento jurídico]) usando as informações de contato disponíveis abaixo para a entidade responsável por fornecer os Serviços da Epic aplicáveis.
 
-***• Fortnite***: Epic Games, Inc. (para residentes nos EUA) ou Epic Games Entertainment International GmbH (para residentes de fora dos EUA) ***• Rocket League***: Psyonix LLC ***• Fall Guys***: Epic Games, Inc. ***• Horizon Chase 2***: Aquiris Game Studio LLC ***• Rock Band***: Harmonix Music Systems, Inc. ***• Epic Games Store e*** ***Fab***: Epic Games, Inc. (para residentes nos EUA) ou Epic Games Commerce GmbH (para residentes de fora dos EUA) ***• Unreal Engine e MetaHuman***: Epic Games, Inc. (para residentes nos EUA) ou Epic Games Commerce GmbH (para residentes de fora dos EUA) ***• Unreal Editor para Fortnite***: Epic Games, Inc. (para residentes nos EUA) ou Epic Games Entertainment International GmbH (para residentes de fora dos EUA) ***• Postparty***: Life on Air Inc. ***• Nossos sites e seus respectivos subdomínios vinculados a esta Política***: Epic Games, Inc. ***• Outros serviços da Epic***: Consulte os termos e condições aplicáveis para a instituição de licenciamento listada em sua região
+***• Fortnite***: Epic Games, Inc. (para residentes nos EUA) ou Epic Games Entertainment International GmbH (para residentes de fora dos EUA) ***• Rocket League***: Psyonix LLC ***• Fall Guys***: Epic Games, Inc. ***• Horizon Chase 2***: Aquiris Game Studio LLC ***• Rock Band***: Harmonix Music Systems, Inc. ***• Epic Games Store e*** ***Fab***: Epic Games, Inc. (para residentes nos EUA) ou Epic Games Commerce GmbH (para residentes de fora dos EUA) ***• Unreal Engine e MetaHuman***: Epic Games, Inc. (para residentes nos EUA) ou Epic Games Commerce GmbH (para residentes de fora dos EUA) ***• Unreal Editor For Fortnite***: Epic Games, Inc. (para residentes nos EUA) ou Epic Games Entertainment International GmbH (para residentes de fora dos EUA) ***• Postparty***: Life on Air Inc. ***• Nossos sites e seus respectivos subdomínios vinculados a esta Política***: Epic Games, Inc. ***• Outros serviços da Epic***: Consulte os termos e condições aplicáveis para a instituição de licenciamento listada em sua região
 
 ***Informações de contato***
 
 Aquiris Game Studio LLC
 
 - Endereço: C/O C T Corporation System, 1200 South Pine Island Road, Plantation, Florida 33324, EUA
-- Representante da UE/do Reino Unido: Mishcon de Reya ([email protected])
-- Encarregado de proteção de dados no Brasil: Henrique Fabretti, da Opice Blum, Bruno Advogados Associados ([email protected])
+- Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com)
+- Encarregado de proteção de dados no Brasil: Henrique Fabretti, da Opice Blum, Bruno Advogados Associados (dpo@support.epicgames.com)
 
 Epic Games Commerce GmbH
 
 - Endereço: Platz 10, 6039 Root D4, Suíça
-- Representante da UE/do Reino Unido: Mishcon de Reya ([email protected])
-- Encarregado de proteção de dados da União Europeia/do Reino Unido: [email protected]
-- Encarregado de proteção de dados no Brasil: Henrique Fabretti, da Opice Blum, Bruno Advogados Associados ([email protected])
+- Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com)
+- Encarregado de proteção de dados da União Europeia/do Reino Unido: dpo@support.epicgames.com
+- Encarregado de proteção de dados no Brasil: Henrique Fabretti, da Opice Blum, Bruno Advogados Associados (dpo@support.epicgames.com)
 
 Epic Games Entertainment International GmbH
 
 - Endereço: Platz 10, 6039 Root D4, Suíça
-- Representante da UE/do Reino Unido: Mishcon de Reya ([email protected])
-- Encarregado de proteção de dados da União Europeia/do Reino Unido: [email protected]
-- Encarregado de proteção de dados no Brasil: Henrique Fabretti, da Opice Blum, Bruno Advogados Associados ([email protected])
+- Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com)
+- Encarregado de proteção de dados da União Europeia/do Reino Unido: dpo@support.epicgames.com
+- Encarregado de proteção de dados no Brasil: Henrique Fabretti, da Opice Blum, Bruno Advogados Associados (dpo@support.epicgames.com)
 
 Epic Games, Inc.
 
 - Endereço: 620 Crossroads Boulevard, Cary, North Carolina 27518, EUA
-- Representante da UE/do Reino Unido: Mishcon de Reya ([email protected])
-- Encarregado de proteção de dados da União Europeia/do Reino Unido: [email protected]
-- Encarregado de proteção de dados no Brasil: Henrique Fabretti, da Opice Blum, Bruno Advogados Associados ([email protected])
+- Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com)
+- Encarregado de proteção de dados da União Europeia/do Reino Unido: dpo@support.epicgames.com
+- Encarregado de proteção de dados no Brasil: Henrique Fabretti, da Opice Blum, Bruno Advogados Associados (dpo@support.epicgames.com)
 
 Harmonix Music Systems, Inc.
 
 - Endereço: 40 Broad Street, Floor 7, Boston, Massachusetts 02109, EUA
-- Contato: [email protected]
-- Representante da UE/do Reino Unido: Mishcon de Reya ([email protected])
+- Contato: privacy@harmonixmusic.com
+- Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com)
 
 Life on Air Inc.
 
 - Endereço: 620 Crossroads Boulevard, Cary, North Carolina 27518, EUA
-- Contato: [email protected]
-- Representante da UE/do Reino Unido: Mishcon de Reya ([email protected])
-- Encarregado de proteção de dados no Brasil: Henrique Fabretti, da Opice Blum, Bruno Advogados Associados ([email protected])
+- Contato: privacy@support.epicgames.com
+- Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com)
+- Encarregado de proteção de dados no Brasil: Henrique Fabretti, da Opice Blum, Bruno Advogados Associados (dpo@support.epicgames.com)
 
 Psyonix LLC
 
 - Endereço: 401 West A. Street, Suite 2400, San Diego, California 92101, EUA
-- Contato: [email protected]
-- Representante da UE/do Reino Unido: Mishcon de Reya ([email protected])
-- Encarregado de proteção de dados no Brasil: Henrique Fabretti, da Opice Blum, Bruno Advogados Associados ([email protected])
+- Contato: privacy@support.epicgames.com
+- Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com)
+- Encarregado de proteção de dados no Brasil: Henrique Fabretti, da Opice Blum, Bruno Advogados Associados (dpo@support.epicgames.com)
