@@ -3,8 +3,8 @@ empresa: "QuintoAndar"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://mkt.quintoandar.com.br/aviso-de-privacidade/"
-capturado_em: 2026-03-30
-wayback: "https://web.archive.org/web/20260330050355/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
+capturado_em: 2026-07-14
+wayback: "https://web.archive.org/web/20260714090841/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/quintoandar/politica-de-privacidade.md"
 ---
 
@@ -28,17 +28,17 @@ Somos o Grupo QuintoAndar, a plataforma imobiliária líder na América Latina c
 
 No Brasil, atuamos por meio de diferentes marcas, que talvez lhe sejam mais familiares. São elas:
 
-QuintoAndar
+QuintoAndar Benvi
 
-**Seção A - QuintoAndar**
+**Seção A - Marketplace e Administração de Imóveis**
 
 ImovelWeb WImoveis Casa Mineira
 
 **Seção B - Classificados no Brasil**
 
-Union Software
+Univen
 
-**Seção C - Union Software**
+**Seção C — QuintoAndar for Business**
 
 As atividades de tratamento de dados pessoais relacionadas a cada uma delas são detalhadas nas Seções A, B e C deste Aviso, conforme suas finalidades específicas. Na Seção D, incluímos o Glossário para detalhar quais são os tipos de dados pessoais que podem estar inseridos em cada categoria indicada nas respectivas Seções.
 
@@ -126,11 +126,11 @@ Caso você seja candidato a oportunidades de emprego ou estágio no Grupo Quinto
 
 16. Encarregado pelo Tratamento de Dados Pessoais
 
-Seção A - QuintoAndar
+Seção A - Marketplace e Administração de Imóveis
 
 Seção B - Classificados no Brasil
 
-Seção C - Union Softwares
+Seção C - QuintoAndar for Business
 
 Seção D - Glossário
 
@@ -294,9 +294,9 @@ Para contatos realizados pelas autoridades de proteção de dados, disponibiliza
 
 O QuintoAndar é a maior plataforma digital de moradia da América Latina e faz parte do Grupo QuintoAndar. Esta seção é parte e deve ser lida em conjunto com o Aviso de Privacidade do Grupo QuintoAndar.
 
-Abaixo, você encontra a lista das atividades desempenhadas pela **Plataforma QuintoAndar** divididas por titular de dados, categoria de dados pessoais e principais finalidades de tratamento de dados pessoais.
+Abaixo, você encontra a lista das atividades desempenhadas pela **Plataforma QuintoAndar**e pela **Benvi** divididas por titular de dados, categoria de dados pessoais e principais finalidades de tratamento de dados pessoais.
 
-### Seção A - QuintoAndar
+### Seção A - Marketplace e Administração de Imóveis
 
 ****Categorias de dados pessoais:**** Informações cadastrais, Educação e competências, Identificadores governamentais, Informações de contas em plataformas digitais e/ou redes sociais, Informações comerciais, Informações de emprego, Informações de navegação, Informações familiares e Informações financeiras.
 
@@ -371,15 +371,15 @@ Para garantir que estamos sendo transparentes com você, destacamos abaixo algum
 - Fornecimento e aprimoramento de soluções de inteligência artificial, conforme detalhado nos Termos e Condições de Uso da plataforma QuintoAndar.
 - Investigação de fraudes e descumprimento contratual para garantir a integridade de nossa plataforma e o cumprimento dos termos e condições de uso das plataformas e serviços prestados pelo QuintoAndar. Podemos utilizar soluções próprias ou de terceiros para realizar investigações sobre possíveis fraudes e situações em que transações imobiliárias são concluídas fora de nossa plataforma após a aproximação inicial ter ocorrido por meio de nossos serviços. Essas investigações podem envolver a consulta a bases públicas de dados imobiliários, tanto de forma manual quanto automatizada, para identificar padrões suspeitos ou transações que possam configurar descumprimento contratual.
 
-Além disso, existem situações específicas em que a Plataforma QuintoAndar compartilha os seus dados pessoais com os seguintes terceiros, garantindo, sempre que possível, que estejam aptos a proteger os seus dados pessoais da mesma forma que nós, atendendo a padrões de segurança e confidencialidade adequados e à legislação aplicável:
+Além disso, existem situações específicas em que a **Plataforma QuintoAndar** compartilha os seus dados pessoais com os seguintes terceiros, garantindo, sempre que possível, que estejam aptos a proteger os seus dados pessoais da mesma forma que nós, atendendo a padrões de segurança e confidencialidade adequados e à legislação aplicável:
 
 - **Prestadores de serviços**, contratados para a execução de atividades de suporte técnico ou operacional, incluindo vistoriadores e fotógrafos, e serviços especializados, tais como seguradoras, consultorias e empresas de cobrança.
 - **Bureaus de crédito, provedores de meios de pagamento, instituições financeiras e empresas de cartões de crédito**, para processar pagamentos realizados em decorrência do uso de nossos serviços ou produtos, cumprir com obrigações contratuais, obter uma definição mais precisa e embasada do seu perfil de crédito, prevenir atividades ilegais, suspeitas ou fraudulentas e garantir a prevenção à fraude e/ou a segurança dos nossos usuários.
 - **Conselhos Regionais de Corretores de Imóveis (CRECI)**, para cumprimento de obrigações regulatórias e fiscalizações conduzidas pela entidade.
 
-A ImovelWeb, a WImoveis e a Casa Mineira fazem parte do **Grupo QuintoAndar** e têm como objetivo comum a publicação de anúncios de imóveis à venda no Brasil. Esta seção é parte e deve ser lida em conjunto com o Aviso de Privacidade do Grupo QuintoAndar.
+O **Grupo QuintoAndar** oferece, por meio das marcas ImovelWeb, WImoveis e Casa Mineira, soluções que têm como objetivo comum a publicação de anúncios de imóveis no Brasil. Esta seção é parte integrante e deve ser lida em conjunto com o Aviso de Privacidade do Grupo QuintoAndar.
 
-Abaixo, você encontra a lista das atividades desempenhadas pelas **Plataformas ImovelWeb, WImoveis e Casa Mineira** divididas por categoria de titular de dados, categoria de dados pessoais e principais finalidades de tratamento de dados pessoais.
+Abaixo, você encontra a lista das atividades desempenhadas pelas**Plataformas ImovelWeb, WImoveis e Casa Mineira** divididas por categoria de titular de dados, categoria de dados pessoais e principais finalidades de tratamento de dados pessoais.
 
 ### Seção B - Classificados no Brasil
 
@@ -413,13 +413,17 @@ Para garantir que estamos sendo transparentes com você, destacamos abaixo algum
 
 Além disso, existem situações específicas em que ImovelWeb, WImoveis e Casa Mineira compartilham os seus dados pessoais com os seguintes terceiros:
 
-- Interessados nos imóveis anunciados, caso você seja um anunciante.
+Interessados nos imóveis anunciados, caso você seja um anunciante.
 
-A Union Softwares faz parte do **Grupo QuintoAndar** e tem como objetivo oferecer softwares para gestão de imobiliárias. Esta seção é parte e deve ser lido em conjunto com o Aviso de Privacidade do Grupo QuintoAndar.
+O **QuintoAndar for Business**, reúne soluções voltadas ao mercado imobiliário com o objetivo de digitalizar e impulsionar os negócios das imobiliárias parceiras no Brasil, como softwares de gestão para imobiliárias como a Univen e soluções próprias de inteligência artificial voltadas às imobiliárias. Esta seção é parte integrante e deve ser lida em conjunto com o Aviso de Privacidade do Grupo QuintoAndar.
 
-Aqui você encontra a lista das atividades desempenhadas pela **Union Softwares** divididas por categoria de titular de dados, categoria de dados pessoais e principais finalidades de tratamento de dados pessoais.
+Em algumas dessas soluções, como o assistente de IA do Grupo QuintoAndar para imobiliárias, atuamos como operadores dos seus dados pessoais: tratamos as informações em nome e de acordo com as instruções, finalidades e limites definidos pelas imobiliárias que contratam os nossos produtos e que lhe oferecem serviços diretamente. Recomendamos consultar a política ou o aviso de privacidade da imobiliária que lhe atende para saber mais sobre os dados tratados, as finalidades e outras informações relevantes.
 
-### Seção C - Union Softwares
+Nessas soluções, são desempenhadas atividades de tratamento de dados relacionadas ao atendimento automatizado de interessados em imóveis pelo WhatsApp, à qualificação de potenciais clientes e ao apoio ao agendamento de visitas.
+
+Aqui você encontra a lista das atividades desempenhadas pela **Univen** divididas por categoria de titular de dados, categoria de dados pessoais e principais finalidades de tratamento de dados pessoais.
+
+### Seção C - QuintoAndar for Business
 
 ********Categorias de dados pessoais:******** Informações cadastrais e Informações comerciais.
 
@@ -535,4 +539,4 @@ Plusvalia
 
 Tokko
 
-Union
+Univen
