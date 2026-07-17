@@ -3,8 +3,8 @@ empresa: "Steam"
 documento: "Termos de Uso"
 categoria: "Jogos"
 fonte: "https://store.steampowered.com/subscriber_agreement/?l=brazilian"
-capturado_em: 2026-03-27
-wayback: "https://web.archive.org/web/20260327204556/https://store.steampowered.com/subscriber_agreement/?l=brazilian"
+capturado_em: 2026-07-17
+wayback: "https://web.archive.org/web/20260717092656/https://store.steampowered.com/subscriber_agreement/?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/termos-de-uso.md"
 ---
 
@@ -137,6 +137,10 @@ O Steam pode disponibilizar um saldo de conta associado à sua Conta (a “Carte
 Você será notificado por e-mail sobre qualquer alteração no saldo da Carteira Steam e sobre limites de uso em 60 (sessenta) dias corridos antes de a alteração entrar em vigor. Seu uso contínuo da Conta Steam há mais de 30 (trinta) dias corridos antes das alterações entrarem em vigor constituirá sua aceitação das alterações. Se você não concordar com as alterações, seu único recurso será encerrar sua Conta Steam ou cessar o uso da sua Carteira Steam. Neste caso, a Valve não deverá ter nenhuma obrigação de reembolsar quaisquer créditos remanescentes em sua Carteira Steam.
 
 Você poderá usar fundos da Carteira Steam para pedir Assinaturas, incluindo fazer pedidos no jogo, no qual as transações da Carteira Steam estiverem ativas, ou pedidos de Hardware. Sujeito à Seção 3.I, os fundos adicionados à Carteira Steam não são reembolsáveis nem transferíveis. Os fundos da Carteira Steam não constituem um direito de propriedade pessoal, não têm qualquer valor fora do Steam e podem ser usados apenas para pedir Assinaturas e conteúdo relacionado por meio do Steam (incluindo, entre outros, jogos e outros aplicativos disponibilizados pela Loja Steam ou em um Mercado de Assinaturas Steam) e Hardware. Os fundos da Carteira Steam não têm valor monetário e não podem ser trocados por dinheiro. Os fundos da Carteira Steam que forem considerados propriedade não reclamada podem ser entregues à autoridade aplicável.
+
+Para Assinantes do Japão:
+
+Quaisquer fundos adicionados à sua Carteira Steam que você não tenha usado dentro de seis (6) meses após a data de adição perderão a validade, conforme exigido pela legislação japonesa. Você pode revisar os seus fundos, bem como a data de validade deles, na sua Carteira Steam na sua conta Steam.
 
 D. Trocas e transações de Assinaturas entre Assinantes
 
@@ -328,4 +332,4 @@ As obrigações da Valve estão sujeitas às leis e processos legais existentes,
 
 Você concorda agir de acordo com todas as leis e regulamentos de importação/exportação. Você concorda em não exportar o Conteúdo, os Serviços ou o Hardware nem autorizar o uso de sua Conta por indivíduos de quaisquer países que apoiem atividades terroristas, para os quais as exportações de criptografia são restritas no momento pelo Bureau of Export Administration dos EUA. Você declara e garante que não se encontra em um país proibido, não está sob controle de indivíduos desses países e não é cidadão nem residente em nenhum desses países.
 
-Este Acordo foi atualizado pela última vez em 18 de setembro de 2025 ("Data de Revisão"). Se você assinou este Acordo antes da Data de Revisão, ele substitui e sucede o acordo existente com a Valve ou a Valve SARL no dia que entrar em vigor de acordo com a Seção 8 acima.
+Este Acordo foi atualizado pela última vez em 20 de abril de 2026 ("Data de Revisão"). Se você assinou este Acordo antes da Data de Revisão, ele substitui e sucede o acordo existente com a Valve ou a Valve SARL no dia que entrar em vigor de acordo com a Seção 8 acima.
