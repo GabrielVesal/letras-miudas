@@ -3,8 +3,8 @@ empresa: "Nubank"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade"
-capturado_em: 2026-06-03
-wayback: "https://web.archive.org/web/20260603055803/https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade"
+capturado_em: 2026-07-29
+wayback: "https://web.archive.org/web/20260729171838/https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/nubank/politica-de-privacidade.md"
 ---
 
@@ -328,7 +328,7 @@ Você pode solicitar a revisão de decisões tomadas unicamente com base em trat
 
 Quando regulamentado o direito de portabilidade pela Autoridade Nacional de Proteção de Dados (ANPD), você poderá solicitar ao Nu a portabilidade dos seus dados pessoais a outro prestador de serviços. Além disso, você tem o direito de peticionar perante a ANPD em relação aos seus dados pessoais.
 
-Caso você deseje exercer qualquer um desses direitos, entre em contato conosco por meio do canal “Me Ajuda” no app ou diretamente com o nosso encarregado (DPO) por meio deste formulário. Para efetivarmos os seus direitos, podemos solicitar comprovação da sua identidade, como medida de segurança e prevenção à fraude.
+Caso você deseje exercer qualquer um desses direitos, entre em contato conosco por meio da "Central de Ajuda" no app ou diretamente com a nossa encarregada (DPO) por meio deste formulário. Para efetivarmos os seus direitos, podemos solicitar comprovação da sua identidade, como medida de segurança e prevenção à fraude.
 
 ## Transferência internacional de dados pessoais
 
@@ -419,12 +419,11 @@ Prezamos sempre pela transparência: toda vez que uma alteração relevante for 
 
 ## Fale Conosco
 
-Segundo a LGPD, o Nu é considerado o “Controlador” dos seus dados pessoais. Se após a leitura deste Aviso de Privacidade você ainda tiver qualquer dúvida, ou por qualquer razão precisar se comunicar conosco para assuntos envolvendo os seus dados pessoais, você pode entrar em contato pelos canais abaixo:
+Segundo a LGPD, o Nu é considerado o "Controlador" dos seus dados pessoais. Se, após a leitura deste Aviso de Privacidade, você ainda tiver qualquer dúvida, ou por qualquer razão precisar se comunicar conosco para assuntos envolvendo os seus dados pessoais, ou para exercer seus direitos previstos na LGPD (Lei Geral de Proteção de Dados), você pode entrar em contato pelos canais abaixo:
 
-- Seção **"Me ajuda"** do App do Nu seguindo estes passos:
+- Envie uma solicitação clicando aqui; ou
+- Seção "Central de ajuda" do App do Nu: abra o aplicativo Nu — no topo da tela ou após tocar em seu nome, identifique o ícone com o formato ⍰ e clique nele — em seguida, toque em "Entrar em contato" e acesse o chat. Mencione a LGPD na sua primeira mensagem.
 
-Abra o aplicativo Nu - no topo da tela, toque no seu nome - clique na seção "Me ajuda" - escolha a opção "LGPD - Privacidade" e, após clicar no campo "Contato", você pode falar conosco por chat ou e-mail.
-
-- Encarregado (DPO): Envie uma solicitação clicando aqui.
+Encarregada (DPO): Raíssa Moura Ferreira.
 
 Estamos sempre à disposição para esclarecer suas dúvidas e colocar você no controle dos seus dados pessoais.
