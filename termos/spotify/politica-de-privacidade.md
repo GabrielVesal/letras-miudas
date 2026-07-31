@@ -324,7 +324,7 @@ Quando fizermos mudanças relevantes nesta Política, avisaremos você de forma 
 
 ## **12. Como entrar em contato com a gente**
 
-Se tiver dúvidas ou preocupações sobre esta Política, fale com nosso Responsável pela Proteção de Dados:
+Se tiver dúvidas ou preocupações sobre esta Política, fale com nosso encarregado:
 
 - envie um e-mail para: privacy@spotify.com
 - escreva para Spotify AB, Regeringsgatan 19, 111 53 Estocolmo, Suécia, a/c: Encarregado de Proteção de Dados
