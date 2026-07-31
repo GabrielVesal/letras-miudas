@@ -3,8 +3,8 @@ empresa: "Spotify"
 documento: "Política de Privacidade"
 categoria: "Streaming"
 fonte: "https://www.spotify.com/br-pt/legal/privacy-policy/"
-capturado_em: 2026-06-28
-wayback: "https://web.archive.org/web/20260628210534/https://www.spotify.com/br-pt/legal/privacy-policy/"
+capturado_em: 2026-07-31
+wayback: "https://web.archive.org/web/20260731185817/https://www.spotify.com/br-pt/legal/privacy-policy/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/spotify/politica-de-privacidade.md"
 ---
 
@@ -328,7 +328,7 @@ Quando fizermos mudanças relevantes nesta Política, avisaremos você de forma 
 
 ## **12. Como entrar em contato com a gente**
 
-Se tiver dúvidas ou preocupações sobre esta Política, fale com nosso Responsável pela Proteção de Dados:
+Se tiver dúvidas ou preocupações sobre esta Política, fale com nosso encarregado:
 
 - envie um e-mail para: privacy@spotify.com
 - escreva para Spotify AB, Regeringsgatan 19, 111 53 Estocolmo, Suécia, a/c: Encarregado de Proteção de Dados
