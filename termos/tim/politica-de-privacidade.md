@@ -258,6 +258,8 @@ Seus dados são tratados com muita transparência e cuidado aqui na TIM, já que
 
 ## Você achou essa informação útil?
 
+5 pessoas acharam esta informação útil.
+
 ## Obrigado!
 
 Seu feedback ajuda a melhorar a informação passada para todos
@@ -269,6 +271,8 @@ Cookies são arquivos que transferimos e permitem reconhecer o seu navegador ou 
 Você pode saber tudo sobre a nossas diretrizes na **página de Política de Cookies da TIM.**
 
 ## Você achou essa informação útil?
+
+2 pessoas acharam esta informação útil.
 
 ## Obrigado!
 
@@ -289,6 +293,8 @@ Você pode conferir mais dicas na **página de dicas de segurança no WhatsApp.*
 
 ## Você achou essa informação útil?
 
+6 pessoas acharam esta informação útil.
+
 ## Obrigado!
 
 Seu feedback ajuda a melhorar a informação passada para todos
@@ -304,6 +310,8 @@ Veja algumas medidas simples para auxiliar a segurança:
 
 ## Você achou essa informação útil?
 
+3 pessoas acharam esta informação útil.
+
 ## Obrigado!
 
 Seu feedback ajuda a melhorar a informação passada para todos
@@ -315,6 +323,8 @@ SMS Piratas (ou SPAM) são SMS não regulamentados e clandestinos. Alguns podem 
 Já os nossos SMS estão dentro da lei e são seguros. Você mais sobre o tema na **página de SMS Pirata**.
 
 ## Você achou essa informação útil?
+
+2 pessoas acharam esta informação útil.
 
 ## Obrigado!
 
@@ -328,6 +338,8 @@ Você também pode evitar ligações publicitárias de outras empresas. Descubra
 
 ## Você achou essa informação útil?
 
+5 pessoas acharam esta informação útil.
+
 ## Obrigado!
 
 Seu feedback ajuda a melhorar a informação passada para todos
@@ -339,6 +351,8 @@ Se a sua dúvida for sobre serviços da TIM, como cobranças, portabilidade num�
 Caso sua dúvida seja sobre privacidade de dados pessoais e você não encontrou a resposta neste site, mande uma mensagem para **dpo@timbrasil.com.br**
 
 ## Você achou essa informação útil?
+
+5 pessoas acharam esta informação útil.
 
 ## Obrigado!
 
