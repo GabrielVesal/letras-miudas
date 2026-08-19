@@ -3,14 +3,14 @@ empresa: "QuintoAndar"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://mkt.quintoandar.com.br/aviso-de-privacidade/"
-capturado_em: 2026-07-14
-wayback: "https://web.archive.org/web/20260714090841/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
+capturado_em: 2026-08-19
+wayback: "https://web.archive.org/web/20260819154609/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/quintoandar/politica-de-privacidade.md"
 ---
 
 Somos o Grupo QuintoAndar, a plataforma imobiliária líder na América Latina com o objetivo de ajudar as pessoas a amarem o lugar onde moram.
 
-****GRPQA Ltda.**** **16.788.643/0001-81 Rua Girassol, nº 555, Torre B, Vila Madalena, São Paulo/SP - CEP 05.433-001**
+****GRPQA Ltda.**** **16.788.643/0001-81 Avenida Mofarrej, nº 971, Edifício Arquipeo, Conjuntos 21, 22, 23 e 24, Sala A, Vila Leopoldina, CEP 05311-000, São Paulo - SP.**
 
 ******GRPQA - For Sale******16.788.643/0021-25 Av. Getúlio Vargas, n. 1245, Andares 3,4,5,6,7,9,10, Savassi, Belo Horizonte/MG - CEP 30.112-024
 
@@ -36,7 +36,7 @@ ImovelWeb WImoveis Casa Mineira
 
 **Seção B - Classificados no Brasil**
 
-Univen
+Univen Domi
 
 **Seção C — QuintoAndar for Business**
 
@@ -88,7 +88,7 @@ Aproveite para ler também os Termos e Condições de Uso específicos de cada m
 
 ### 4. A quem este Aviso de Privacidade se aplica
 
-Este Aviso de Privacidade se aplica aos titulares de dados que sejam de alguma forma relacionados ao Grupo QuintoAndar, como usuários, clientes, moradores, potenciais clientes, ex-clientes, parceiros, prestadores de serviços ou eventuais partes relacionadas.
+Este Aviso de Privacidade se aplica aos titulares de dados que sejam de alguma forma relacionados ao Grupo QuintoAndar, como Usuários, Clientes, Moradores, Potenciais Clientes, Ex-clientes, Parceiros, Prestadores de Serviço ou eventuais partes relacionadas.
 
 Caso você seja candidato a oportunidades de emprego ou estágio no Grupo QuintoAndar no Brasil, confira o **Aviso de Privacidade para Pessoas Candidatas****.**
 
@@ -148,9 +148,9 @@ Os seus dados pessoais podem ser coletados por nós das seguintes formas:
 
 **Fornecimento diretamente por você,** quando se cadastra em nossas plataformas, contrata nossos serviços ou produtos, preenche nossos formulários ou entra em contato conosco por diferentes canais de comunicação e para diferentes fins. Você é responsável por nos fornecer apenas dados pessoais verdadeiros, atuais e precisos, responsabilizando-se pelos danos diretos e indiretos causados ao Grupo QuintoAndar ou a terceiros pelo fornecimento de informações falsas.
 
-**Coleta automática,**a partir da sua navegação e interações em nossas plataformas e sites, por meio de ferramentas do seu navegador e de outras tecnologias, como, por exemplo, ferramentas de mapeamento de uso. Para mais informações, consulte nossas políticas e avisos de cookies referentes a cada uma de nossas marcas.
+**Coleta automática,**a partir da sua navegação e interações em nossas plataformas e sites, por meio de ferramentas do seu navegador e de outras tecnologias, como, por exemplo, ferramentas de mapeamento de usabilidade da Plataforma. Isso inclui a gravação amostral de sessões no aplicativo, com o mascaramento de dados, visando à melhoria da experiência do usuário. Para mais informações, consulte nossas políticas e avisos de cookies referentes a cada uma de nossas marcas.
 
-**Obtenção por meio de terceiros,** quando recebemos informações a seu respeito de prestadores de serviços, bureaus de crédito, clientes, afiliados de nossos programas de indicação ou parceiros (como corretores associados, assessores imobiliários e imobiliárias parceiras). Exigimos contratualmente destes terceiros que a coleta dos dados compartilhados por eles seja realizada de acordo com a legislação de proteção de dados aplicável.
+**Obtenção por meio de terceiros,** quando recebemos informações a seu respeito de prestadores de serviços, bureaus de crédito, clientes, afiliados de nossos programas de indicação ou Parceiros. Exigimos contratualmente destes terceiros que os dados tenham sido coletados de acordo com a legislação de proteção de dados aplicável.
 
 **Obtenção por meio de fontes públicas,** de forma manual ou automatizada.
 
@@ -158,11 +158,11 @@ Os seus dados pessoais podem ser coletados por nós das seguintes formas:
 
 ### 6.2 Finalidades do tratamento
 
-Para que possamos atuar com qualidade, atingir os propósitos que justificam a contratação dos nossos serviços e produtos e desempenhar as atividades necessárias para a continuidade de nossas operações, nós tratamos apenas os dados pessoais necessários e adequados ao atingimento de finalidades legítimas.
+Para que possamos atuar com qualidade, atingir os propósitos que justificam a contratação dos nossos serviços e produtos e desempenhar as atividades necessárias para a continuidade de nossas operações, nós tratamos os dados pessoais necessários e adequados ao atingimento de finalidades legítimas.
 
 As finalidades dos tratamentos de dados pessoais que realizamos no Grupo QuintoAndar estão listadas detalhadamente em cada Seção deste Aviso e nos Avisos Específicos.
 
-Há determinação expressa, em nossos Termos e Condições de Uso, de que os serviços do Grupo QuintoAndar se destinam exclusivamente a pessoas capazes de exercer atos da vida civil. Deste modo, **como regra, não tratamos dados pessoais de crianças e adolescentes no contexto de aplicação deste Aviso de Privacidade. As exceções ocorrem em caso de: (i) cessação da incapacidade, (ii) emancipação; (iii) casamento; (iv) representação ou assistência legal; ou (v) determinação judicial.**
+Há determinação expressa, em nossos Termos e Condições de Uso, de que os serviços do Grupo QuintoAndar se destinam exclusivamente a pessoas capazes de exercer atos da vida civil. Deste modo,**como regra, não tratamos dados pessoais de crianças e adolescentes no contexto de aplicação deste Aviso de Privacidade. As exceções ocorrem em caso de: (i) cessação da incapacidade, (ii) emancipação; (iii) casamento; (iv) representação ou assistência legal; ou (v) determinação judicial.**
 
 ### 6.3 Compartilhamento
 
@@ -178,7 +178,7 @@ Se você excluir sua conta das plataformas de nossas marcas, excluiremos suas in
 
 Existem situações em que compartilhamos os seus dados pessoais com os seguintes terceiros:
 
-Queremos te tranquilizar de que **qualquer compartilhamento de dados realizado pelo Grupo QuintoAndar ocorre em estrita observância à Lei nº 13.709/2018, nomeada Lei Geral de Proteção de Dados Pessoais (LGPD), e demais regulações de proteção de dados aplicáveis.** Além disso, quando aplicável, exigimos dos agentes de tratamento envolvidos que estejam aptos a proteger os seus dados pessoais da mesma forma que nós, atendendo aos nossos padrões de segurança e confidencialidade.
+Queremos te tranquilizar de que o Grupo QuintoAndar se compromete com o cumprimento da **Lei nº 13.709/2018 (LGPD)****, e demais regulações de proteção de dados aplicáveis.** Além disso, quando aplicável, exigimos dos agentes de tratamento envolvidos que estejam aptos a proteger os seus dados pessoais da mesma forma que nós, atendendo aos nossos padrões de segurança e confidencialidade.
 
 - Cumprimento de obrigação legal ou regulatória;
 
@@ -196,7 +196,7 @@ Queremos te tranquilizar de que **qualquer compartilhamento de dados realizado p
 
 Para os tratamentos de dados realizados pelo Grupo QuintoAndar que estejam sujeitos à legislação brasileira, as bases legais utilizadas para justificá-los são:
 
-Caso a base legal da atividade de tratamento seja o consentimento, entraremos em contato com você para obter sua manifestação expressa para o tratamento de seus dados pessoais, por escrito ou por outro meio, fornecendo neste momento todas as informações sobre os dados pessoais de que necessitamos e o propósito para o qual precisamos deles. Assim, você poderá analisar, cuidadosamente, se deseja consentir com o tratamento específico. Também informaremos caso o fornecimento de seu consentimento seja uma condição para a manutenção de seu contrato conosco, esclarecendo as consequências da eventual negativa e lhe garantindo o direito de não consentir ou de, a qualquer momento, revogar tal autorização.
+Caso a base legal da atividade de tratamento seja o consentimento, entraremos em contato com você para obter sua manifestação para o tratamento de seus dados pessoais, por escrito ou por outro meio, fornecendo neste momento todas as informações sobre os dados pessoais de que necessitamos e o propósito para o qual precisamos deles. Assim, você poderá analisar, cuidadosamente, se deseja consentir com o tratamento específico. Também informaremos sobre as consequências da eventual negativa do consentimento e lhe garantiremos o direito de não consentir ou de, a qualquer momento, revogar tal autorização.
 
 Para as marcas do Grupo QuintoAndar sujeitas à legislação de outros países, as bases legais utilizadas para tratar seus dados pessoais tomarão como referência as respectivas legislações, nos termos dos Avisos Específicos.
 
@@ -224,7 +224,7 @@ Todas as pessoas colaboradoras do Grupo são submetidas a treinamentos periódic
 
 Os seus dados pessoais podem ser objeto de transferência internacional quando, por exemplo, compartilhados entre empresas do Grupo QuintoAndar localizadas em países distintos ou armazenados em servidores de computação em nuvem.
 
-Em todas as hipóteses, observamos as diretrizes estabelecidas pelas legislações vigentes e adotamos práticas de segurança e privacidade adequadas para garantir a integridade e confidencialidade dos seus dados pessoais.
+Observamos as diretrizes observamos as diretrizes estabelecidas pelas legislações vigentes e adotamos práticas de segurança e privacidade adequadas para garantir a integridade e confidencialidade dos seus dados pessoais.
 
 Para mais detalhes sobre as **transferências internacionais de dados pessoais realizadas sob a jurisdição brasileira,** acesse esta página.
 
@@ -238,13 +238,11 @@ Para os tratamentos de dados realizados pelo Grupo QuintoAndar que estejam sujei
 
 **Acesso aos dados pessoais** que tratamos relacionados a você.
 
-**Correção de dados pessoais** que estejam incompletos, inexatos ou desatualizados. Para exercer este direito, pode ser necessário que você apresente um documento comprovando a veracidade dos novos dados informados.
+**Correção de dados pessoais**incompletos, inexatos ou desatualizados. Para exercer este direito, pode ser necessário que você apresente um documento comprovando a veracidade dos novos dados informados.
 
 **Anonimização, bloqueio ou eliminação** caso os seus dados estejam sendo tratados de forma desnecessária, em excesso para a finalidade pretendida ou em desconformidade com as disposições legais. Para isso, deverá restar comprovado de fato que houve excesso, ausência de necessidade ou desconformidade com a legislação nas nossas atividades de tratamento. Quando aplicável, a eliminação de dados essenciais para o uso da plataforma implicará o término de seu cadastro junto ao Grupo QuintoAndar.
 
 **Eliminação dos dados pessoais tratados com base no seu consentimento,** quando os dados não forem utilizados para outras finalidades necessárias à prestação dos nossos serviços ou produtos, ou para o cumprimento de obrigações legais ou regulatórias.
-
-**Informação sobre o compartilhamento de dados pessoais** com entidades públicas e privadas.
 
 **Informação sobre a possibilidade de não fornecer o consentimento,** quando esta for a base aplicável. Também serão informadas as consequências decorrentes desta decisão, caso você prossiga com ela.
 
@@ -252,7 +250,7 @@ Para os tratamentos de dados realizados pelo Grupo QuintoAndar que estejam sujei
 
 **Revisão de decisões automatizadas,** quando tomadas unicamente com base no tratamento automatizado de dados pessoais, ou a indicação dos critérios e procedimentos utilizados nestas decisões, desde que respeitados nossos segredos comercial e industrial.
 
-**Portabilidade de dados pessoais** a outro fornecedor de serviço ou produto. Destacamos que este direito ainda não foi regulamentado pela Agência Nacional de Proteção de Dados (ANPD) e, por isso, pode ser que não consigamos cumpri-lo.
+**Portabilidade de dados pessoais**a outro fornecedor de serviço ou produto. Destacamos que este direito ainda está pendente de regulamentação pela Agência Nacional de Proteção de Dados (ANPD).
 
 Para as marcas do Grupo QuintoAndar sujeitas à legislação de outros países, as bases legais utilizadas para tratar seus dados pessoais tomarão como referência tais legislações, conforme Avisos Específicos.
 
@@ -266,7 +264,7 @@ Durante o processo de atendimento aos seus direitos, poderá ser necessário sol
 
 ### 13. Gerenciamento de mensagens
 
-Caso você não queira mais receber nossas comunicações de marketing, basta clicar nos links de descadastramento disponíveis nas comunicações ou gerenciar as mensagens através das configurações do seu aplicativo. Lembre-se de que, mesmo desativando o recebimento dessas comunicações, continuaremos enviando comunicações referentes aos nossos produtos ou serviços que você utilizar ou a hipóteses previstas nos Termos e Condições de Uso específicos de cada marca do Grupo QuintoAndar.
+Caso você não queira mais receber nossas comunicações de marketing, basta clicar nos links de descadastramento disponíveis nas comunicações ou gerenciar as mensagens através das configurações do seu aplicativo. Lembre-se de que, mesmo desativando o recebimento dessas comunicações, continuaremos enviando comunicações essenciais para manutenção do nosso relacionamento, referentes aos nossos produtos ou serviços que você utilizar ou de acordo com as hipóteses previstas nos Termos e Condições de Uso específicos de cada marca do Grupo QuintoAndar.
 
 ### 14. Alterações em nossos Avisos de Privacidade
 
@@ -282,7 +280,7 @@ O presente Aviso de Privacidade do Grupo QuintoAndar e os Avisos Específicos se
 
 ****************Portugal****Regulation (EU) 2016/679 (General Data Protection Regulation - GDPR), no idioma inglês.************ ********Uruguai****Ley º 18.331/2008 (Ley de Protección de Datos Personales), no idioma espanhol.****
 
-A Encarregada pelo Tratamento de Dados Pessoais, também conhecida como “DPO”, é a pessoa indicada pelo Grupo QuintoAndar para atuar como canal de comunicação entre o Grupo QuintoAndar, os titulares dos dados (você) e a Autoridade de Proteção de Dados de cada um dos países em que as marcas do Grupo operam.
+A Encarregada pelo Tratamento de Dados Pessoais, também conhecida como “DPO”, é a pessoa indicada pelo Grupo QuintoAndar para atuar como canal de comunicação entre o Grupo QuintoAndar, os titulares dos dados (você) e as Autoridades de Proteção de Dados de cada um dos países em que as marcas do Grupo operam.
 
 São funções da Encarregada: (i) aceitar reclamações e comunicações dos titulares, prestar esclarecimentos e adotar providências; (ii) receber comunicações das autoridades de proteção de dados, como é o caso da ANPD no Brasil, e adotar providências; (iii) orientar os funcionários e os contratados do Grupo QuintoAndar a respeito das práticas a serem tomadas em relação à proteção de dados pessoais; e (iv) executar as demais atribuições determinadas nos documentos internos relacionados ao nosso Programa de Privacidade ou em normas complementares, como por exemplo a Resolução CD/ANPD nº 18, de 16 de julho de 2024, aplicável ao Brasil.
 
@@ -300,7 +298,7 @@ Abaixo, você encontra a lista das atividades desempenhadas pela **Plataforma Qu
 
 ****Categorias de dados pessoais:**** Informações cadastrais, Educação e competências, Identificadores governamentais, Informações de contas em plataformas digitais e/ou redes sociais, Informações comerciais, Informações de emprego, Informações de navegação, Informações familiares e Informações financeiras.
 
-****************Finalidades de tratamento:**************** **Gestão de relacionamento e contratos******: administrar o relacionamento, confeccionar e fechar contratos de aluguel e de compra e venda.**** **Marketing e desenvolvimento******: enviar comunicações de marketing e utilizar os dados para o desenvolvimento de novos produtos e funcionalidades.**** **Segurança e conformidade********:** prevenir fraudes, proteger os ativos da empresa e dar andamento a processos judiciais, quando necessário.****
+****************Finalidades de tratamento:**************** **Gestão de relacionamento e contratos******: administrar o relacionamento, melhoria contínua dos serviços, confeccionar e fechar contratos de aluguel e de compra**** ****e venda.**** **Marketing e desenvolvimento******: enviar comunicações de marketing e utilizar os dados para o desenvolvimento de novos produtos e funcionalidades.**** **Segurança e conformidade********:** prevenir fraudes, proteger os ativos da empresa e dar andamento a processos judiciais, quando necessário.****
 
 ### Usuário da plataforma
 
@@ -308,7 +306,9 @@ Abaixo, você encontra a lista das atividades desempenhadas pela **Plataforma Qu
 
 **Dados pessoais sensíveis:** Dados biométricos.
 
-********Finalidades de tratamento:******** **Atendimento e relacionamento:**prestar suporte, resolver problemas, administrar visitas e gerenciar o relacionamento, monitoramento de qualidade do atendimento e melhoria contínua dos serviços. Neste processo, podemos coletar **dados biométricos**, como a voz para analisar a satisfação com o atendimento. **Gestão contratual e financeira:**elaborar e gerenciar contratos de compra, venda e locação, processar pagamentos e formalizar acordos. **Marketing e melhoria da experiência:**enviar comunicações sobre imóveis, realizar pesquisas, captar imóveis e utilizar os dados para o desenvolvimento de novos produtos e aprimoramento da plataforma e serviços. **Obrigações legais e segurança:** cumprir com requisitos regulatórios, conduzir due diligence de atividades suspeitas e garantir a segurança das transações. **Prevenção à fraude e segurança:**Para garantir a segurança de nossa plataforma e prevenir fraudes de identidade, realizamos a validação de identidade. Neste processo, podemos coletar **dados biométricos**, como o reconhecimento facial por meio de uma foto (selfie).
+********Finalidades de tratamento:******** **Atendimento e relacionamento:**prestar suporte, resolver problemas, administrar visitas e gerenciar o relacionamento, monitoramento de qualidade do atendimento e melhoria contínua dos serviços. Neste processo, podemos coletar **dados biométricos**, como a voz para analisar a satisfação com o atendimento e o reconhecimento facial para verificar a sua identidade.
+
+**Análise de crédito:**qualificar o interesse do cliente e avaliar sua capacidade financeira para ofertar soluções e serviços adequados. **Gestão contratual e financeira:**elaborar e gerenciar contratos de compra, venda e locação, processar pagamentos e formalizar acordos. **Marketing e melhoria da experiência:**enviar comunicações sobre imóveis, realizar pesquisas, captar imóveis e utilizar os dados para o desenvolvimento de novos produtos e aprimoramento da plataforma e serviços. **Obrigações legais e segurança:** cumprir com requisitos regulatórios, conduzir due diligence de atividades suspeitas e garantir a segurança das transações e proteger os ativos da empresa. **Prevenção à fraude e segurança:**Para garantir a segurança de nossa plataforma e prevenir fraudes de identidade, realizamos a validação de identidade. Neste processo, podemos coletar **dados biométricos**, como o reconhecimento facial por meio de uma foto (selfie).
 
 ### Cliente
 
@@ -322,7 +322,7 @@ Abaixo, você encontra a lista das atividades desempenhadas pela **Plataforma Qu
 
 **Dados pessoais sensíveis:** Dados biométricos.
 
-********Finalidades de tratamento:******** **Captação e relacionamento:**coletar informações para a captação de leads e gerenciar o relacionamento para guiar o potencial cliente.
+********Finalidades de tratamento:******** **Captação e relacionamento:**coletar informações para a captação de leads e gerenciar o relacionamento para guiar o potencial cliente e melhoria contínua dos serviços.
 
 **Análise de crédito:** realizar análise de crédito para qualificar o interesse na aprovação de crédito. **Marketing e desenvolvimento:**enviar comunicações de marketing, captar imóveis e utilizar os dados para o desenvolvimento de novos produtos e aprimoramento da plataforma e serviços, inclusive com o uso de inteligência artificial, conforme detalhado nos Termos e Condições de Uso da plataforma QuintoAndar. **Prevenção à fraude e segurança:**Para garantir a segurança de nossa plataforma e prevenir fraudes de identidade, realizamos a validação de identidade. Neste processo, podemos coletar dados biométricos, como o reconhecimento facial por meio de uma foto (selfie).
 
@@ -358,7 +358,7 @@ Abaixo, você encontra a lista das atividades desempenhadas pela **Plataforma Qu
 
 ****Categorias de dados pessoais:**** Informações cadastrais, Identificadores governamentais, Informações comerciais, Informações sobre contas dos usuários, Informações de atendimento, Informações de Imagem ou Som, Informações de contato, Informações de emprego, Informações de navegação, Informações familiares, Informações financeiras, e Informações sobre seguro.
 
-Para garantir que estamos sendo transparentes com você, destacamos abaixo algumas finalidades que podem não ser inicialmente esperadas, reforçando que todas são realizadas em estrita observância à legislação aplicável:
+Para garantir que estamos sendo transparentes, listamos abaixo algumas finalidades de uso de dados que podem não ser imediatamente óbvias para você. Nós usamos dados pessoais com base na lei e adotamos medidas de governança e segurança para proteger essas informações.
 
 - Ações para prevenção e combate ao crime de “lavagem” ou ocultação de bens, direitos e valores (Lei nº 9.613/98 - PLD) e de responsabilização administrativa e civil de pessoas jurídicas pela prática de atos contra a administração pública, nacional ou estrangeira (Lei nº 12.846/2013 - Anticorrupção).
 - Consultas ao Sistema de Informações de Crédito do Banco Central do Brasil (SCR), para fins de análise de crédito, mediante sua autorização expressa nos termos da Resolução CMN n° 5.037/2022.
@@ -366,7 +366,7 @@ Para garantir que estamos sendo transparentes com você, destacamos abaixo algum
 - Análise de crédito, para definição do seu perfil de crédito e oferecimento de condições de contratação mais adequadas a você.
 - Análise de perfil de busca, filtros utilizados, imóveis favoritos e visualizações, para gerar recomendações de acordo com o seu perfil.
 - Consumo e disponibilização em nossa plataforma de dados de bases públicas relacionadas a imóveis (por exemplo, ITBI e IPTU), incluindo endereço completo, para realização de análises de mercado e oferta e disponibilização de informações de inteligência mercadológica, mesmo para imóveis não anunciados no Grupo QuintoAndar.
-- Avaliação sistemática dos históricos de busca e quaisquer outras interações do usuário com a plataforma do QuintoAndar, com o objetivo de sugerir, por solicitação ou proativamente, imóveis compatíveis com suas preferências.
+- Interações prévias ao login na plataforma são associadas a um token desvinculado da sua conta. Para garantir a continuidade da sua jornada e proporcionar uma experiência fluida, é necessário que você realize a autenticação na plataforma, ocasião em que você passa a ser identificado e seu histórico de interações é automaticamente incorporado à sua conta.
 - Ações de cobrança e negociação de débitos, internamente ou por meio de empresas de cobrança contratadas, com o objetivo de minimizar índices de inadimplência. **Quando necessário, as ações incluirão o enriquecimento de dados, a fim de obter formas alternativas de contato com o usuário inadimplente. Isso pode incluir, mas não se limita à utilização de dados de fontes públicas ou de terceiros, com o intuito de identificar meios mais eficazes de realizar a cobrança de valores pendentes.**
 - Fornecimento e aprimoramento de soluções de inteligência artificial, conforme detalhado nos Termos e Condições de Uso da plataforma QuintoAndar.
 - Investigação de fraudes e descumprimento contratual para garantir a integridade de nossa plataforma e o cumprimento dos termos e condições de uso das plataformas e serviços prestados pelo QuintoAndar. Podemos utilizar soluções próprias ou de terceiros para realizar investigações sobre possíveis fraudes e situações em que transações imobiliárias são concluídas fora de nossa plataforma após a aproximação inicial ter ocorrido por meio de nossos serviços. Essas investigações podem envolver a consulta a bases públicas de dados imobiliários, tanto de forma manual quanto automatizada, para identificar padrões suspeitos ou transações que possam configurar descumprimento contratual.
@@ -401,27 +401,25 @@ Abaixo, você encontra a lista das atividades desempenhadas pelas**Plataformas I
 
 ********Categorias de dados pessoais:******** Informações cadastrais, Geolocalização, Identificadores governamentais e Informações de emprego.
 
-****************Finalidades de tratamento:**************** **Gestão e financeiro:** administrar o relacionamento com o parceiro, prestar atendimento e gerenciar finanças. **Marketing e vendas:**realizar a captação de leads, promover a marca e criar campanhas promocionais.
+****************Finalidades de tratamento:**************** **Gestão e financeiro:** administrar o relacionamento com o Parceiro, prestar atendimento e gerenciar finanças. **Marketing e vendas:**realizar a captação de leads, promover a marca e criar campanhas promocionais.
 
 ### Parceiro
 
 ****Categorias de dados pessoais:**** Informações cadastrais, Identificadores governamentais, Informações de emprego e Informações de navegação.
 
-Para garantir que estamos sendo transparentes com você, destacamos abaixo algumas finalidades que podem não ser inicialmente esperadas, reforçando que todas são realizadas em estrita observância à legislação aplicável:
+Para garantir que estamos sendo transparentes, listamos abaixo algumas finalidades de uso de dados que podem não ser imediatamente óbvias para você:
 
 - Ações para prevenção e combate ao crime de “lavagem” ou ocultação de bens, direitos e valores (Lei nº 9.613/98 - PLD) e de responsabilização administrativa e civil de pessoas jurídicas pela prática de atos contra a administração pública, nacional ou estrangeira (Lei nº 12.846/2013 - Anticorrupção).
+- Fornecimento e aprimoramento de soluções de inteligência artificial.
 
 Além disso, existem situações específicas em que ImovelWeb, WImoveis e Casa Mineira compartilham os seus dados pessoais com os seguintes terceiros:
 
-Interessados nos imóveis anunciados, caso você seja um anunciante.
+- Interessados nos imóveis anunciados, caso você seja um anunciante.
+- Anunciantes de classificados, caso você demonstre interesse em um anúncio.
 
-O **QuintoAndar for Business**, reúne soluções voltadas ao mercado imobiliário com o objetivo de digitalizar e impulsionar os negócios das imobiliárias parceiras no Brasil, como softwares de gestão para imobiliárias como a Univen e soluções próprias de inteligência artificial voltadas às imobiliárias. Esta seção é parte integrante e deve ser lida em conjunto com o Aviso de Privacidade do Grupo QuintoAndar.
+O QuintoAndar for Business reúne soluções voltadas ao mercado imobiliário com o objetivo de digitalizar e impulsionar os negócios das imobiliárias parceiras no Brasil, como softwares de gestão de imobiliárias, como a **Univen**, e soluções próprias de inteligência artificial voltadas às imobiliárias, como **Domi**. Esta seção é parte e deve ser lido em conjunto com o Aviso de Privacidade do Grupo QuintoAndar.
 
-Em algumas dessas soluções, como o assistente de IA do Grupo QuintoAndar para imobiliárias, atuamos como operadores dos seus dados pessoais: tratamos as informações em nome e de acordo com as instruções, finalidades e limites definidos pelas imobiliárias que contratam os nossos produtos e que lhe oferecem serviços diretamente. Recomendamos consultar a política ou o aviso de privacidade da imobiliária que lhe atende para saber mais sobre os dados tratados, as finalidades e outras informações relevantes.
-
-Nessas soluções, são desempenhadas atividades de tratamento de dados relacionadas ao atendimento automatizado de interessados em imóveis pelo WhatsApp, à qualificação de potenciais clientes e ao apoio ao agendamento de visitas.
-
-Aqui você encontra a lista das atividades desempenhadas pela **Univen** divididas por categoria de titular de dados, categoria de dados pessoais e principais finalidades de tratamento de dados pessoais.
+Abaixo, você encontra a lista das atividades desempenhadas pela **Univen** e **Domi** divididas em subseções, considerando as categorias por titular de dados, dados pessoais e principais finalidades de tratamento de dados pessoais.
 
 ### Seção C - QuintoAndar for Business
 
@@ -449,49 +447,61 @@ Aqui você encontra a lista das atividades desempenhadas pela **Univen** dividid
 
 ********Categorias de dados pessoais:******** Informações cadastrais e Informações de contas em plataformas digitais e/ou redes sociais.
 
-********Finalidades de tratamento:******** **Gestão de contratos:**gerenciar, renovar e encerrar contratos; administrar o relacionamento com o parceiro. **Atendimento:**prestar suporte e atendimento.
+********Finalidades de tratamento:******** **Gestão de contratos:**gerenciar, renovar e encerrar contratos; administrar o relacionamento com o Parceiro. **Atendimento:**prestar suporte e atendimento.
 
 ### Parceiro
 
 ********Categorias de dados pessoais:******** Informações cadastrais, Identificadores governamentais e Informações comerciais.
 
-Para garantir que estamos sendo transparentes com você, destacamos abaixo algumas finalidades que podem não ser inicialmente esperadas, reforçando que todas são realizadas em estrita observância à legislação aplicável:
+Para garantir que estamos sendo transparentes, listamos abaixo algumas finalidades de uso de dados que podem não ser imediatamente óbvias para você:
 
-- Fornecimento e aprimoramento de soluções de inteligência artificial
+- Fornecimento e aprimoramento de soluções de inteligência artificial.
+
+**Anunciantes de classificados** Responsáveis pela divulgação do imóvel, como imobiliárias, corretores ou proprietários diretos.
+
+**Cliente** Pessoa que utiliza produtos ou serviços do Grupo QuintoAndar.
+
+**Ex-cliente** Pessoa que já utilizou produtos ou serviços do Grupo QuintoAndar.
+
+**Informações biométricas** Imagem de vídeo, voz ou foto vinculada a pessoa natural, quando tratada para identificação, autenticação ou singularização da pessoa.
 
 **Informações cadastrais** Idade, e-mail, data de nascimento, nome completo, foto de documento, gênero, endereço, nome social, endereço anterior, assinatura, número do contrato, telefone, informações de contato de emergência, foto de perfil (selfie), ID, estado civil, nacionalidade, naturalidade.
 
-**Identificadores governamentais** Cadastro Nacional de Pessoas Físicas (CPF), CRECI, demais entidades de classe (ex: OAB, CREA e CRM), RG, título de eleitor, CNH, CTPS, RNE, número do passaporte.
-
-**Informações financeiras** Agência e conta bancária, extrato bancário, histórico de crédito, extrato de benefício do INSS, chave PIX, código de identificação do banco, número do cartão de crédito, número do cartão de débito, informações sobre seguros, código de identificação do banco.
-
-**Informações sobre seguro** Atestado de óbito, histórico de contestações, cadastros e pedidos, número de identificação do segurado, registros de recursos.
-
-**Informações familiares** Nome dos filhos, nome dos pais, grau de parentesco, tipo de regime de bens.
-
-**Informações de emprego** Data de admissão, área/linha, pagamento de bônus, tipo de contrato, número do cartão de débito ou crédito da empresa, sanções e ações disciplinares, entrevista final e comentários, informações e comentários de candidatura, organograma/gestor, localização do escritório, registro de ausência, salário/remuneração, motivo da rescisão, registros de férias anuais, dados dos benefícios e direitos, empresa/entidade, endereço corporativo, currículo, data da rescisão, queixas e reclamações, função/cargo, nome do gestor, classificação de desempenho, filiação em associações profissionais, número de registro de colaborador (matrícula), pedidos de indenização dos trabalhadores.
-
-**Informações de educação e competências** Formação acadêmica e educação, idiomas, publicações, classe, experiência profissional.
-
 **Informações comerciais** Tendências de compra, registros de bens pessoais.
-
-**Informações de navegação** Tempo de navegação, informação eletrônica, histórico de sites, informações de cookies, endereço de IP, ID da sessão, dados do dispositivo e ações de navegação.
-
-**Informações de contas em plataformas digitais e/ou redes sociais** Número da conta/ID, informações sobre redes sociais, senha da conta, localização do post.
-
-**Informações sobre contas dos usuários** Número de contas e informações.
-
-**Viagens e despesas** Histórico e detalhes de viagens.
-
-**Informações biométricas** Imagem de vídeo, voz, foto da pessoa com documento de identificação.
-
-**Geolocalização** Geolocalização.
 
 **Informações de Atendimento** Dados relacionados ao suporte ou assistência oferecida ao cliente.
 
+**Informações de contas em plataformas digitais e/ou redes sociais** Número da conta/ID, informações sobre redes sociais, senha da conta, localização do post.
+
+**Informações de educação e competências** Formação acadêmica e educação, idiomas, publicações, classe, experiência profissional.
+
+**Informações de emprego** Data de admissão, área/linha, pagamento de bônus, tipo de contrato, número do cartão de débito ou crédito da empresa, sanções e ações disciplinares, entrevista final e comentários, informações e comentários de candidatura, organograma/gestor, localização do escritório, registro de ausência, salário/remuneração, motivo da rescisão, registros de férias anuais, dados dos benefícios e direitos, empresa/entidade, endereço corporativo, currículo, data da rescisão, queixas e reclamações, função/cargo, nome do gestor, classificação de desempenho, filiação em associações profissionais, número de registro de colaborador (matrícula), pedidos de indenização dos trabalhadores.
+
 **Informações de Imagem ou Som** Conteúdos transmitidos por meio de imagens, gráficos, vídeos, áudio ou qualquer forma de mídia.
 
-**Verificações de Antecedentes, processos e referências** Processos civis, multas e citações de trânsito, informações de bens pessoais no IRPF, verificação de referências (verificação de antecedentes ou referências), exame toxicológico, histórico criminal (antecedentes criminais), resultados dos testes de droga, processos trabalhistas, processos tributários.
+**Informações de navegação** Tempo de navegação, informação eletrônica, histórico de sites, informações de cookies, endereço de IP, ID da sessão, tokens de identificação, dados do dispositivo e ações de navegação.
+
+**Informações familiares** Nome dos filhos, nome dos pais, grau de parentesco, tipo de regime de bens.
+
+**Informações financeiras** Agência e conta bancária, extrato bancário, histórico de crédito, extrato de benefício do INSS, chave PIX, código de identificação do banco, número do cartão de crédito, número do cartão de débito, informações sobre seguros, código de identificação do banco.
+
+**Identificadores governamentais** Cadastro Nacional de Pessoas Físicas (CPF), CRECI, demais entidades de classe (ex: OAB, CREA e CRM), RG, título de eleitor, CNH, CTPS, RNE, número do passaporte.
+
+**Informações sobre contas dos usuários** Número de contas e informações.
+
+**Informações sobre seguro** Atestado de óbito, histórico de contestações, cadastros e pedidos, número de identificação do segurado, registros de recursos.
+
+**Geolocalização** Tecnologia utilizada para encontrar o local de um aparelho ou de uma pessoa.
+
+**Parceiro** Pessoas físicas ou jurídicas que atuam em parceria com o Grupo QuintoAndar, tais como corretores, despachantes, assessores imobiliários, intermediadores, franqueados, imobiliárias parceiras e incorporadoras.
+
+**Potencial cliente** Pessoa potencialmente interessada em se tornar Cliente do Grupo QuintoAndar.
+
+**Prestador de serviço** Pessoas que realizam atividades de suporte técnico ou operacional, incluindo vistoriadores e fotógrafos, e serviços especializados, tais como seguradoras, consultorias e empresas de cobrança.
+
+**Usuário** Qualquer pessoa que utiliza a Plataforma ou soluções do Grupo QuintoAndar, incluindo, mas não limitado a, Clientes, Potenciais Clientes e Parceiros.
+
+**Verificações de Antecedentes, processos e referências** Processos civis, multas e citações de trânsito, informações de bens pessoais no IRPF, verificação de referências (verificação de antecedentes ou referências), exame toxicológico, histórico criminal (antecedentes criminais), resultados dos testes de droga, processos trabalhistas, processos tributários. **Viagens e despesas** Histórico e detalhes de viagens.
 
 ### Seção D - Glossário
 
@@ -503,7 +513,7 @@ Entre em contato conosco
 
 ****Empresas do Grupo QuintoAndar,** para fins de eficiência organizacional, análises estatísticas, desenvolvimento de novos produtos e serviços, bem como transações e alterações societárias envolvendo as empresas do Grupo QuintoAndar.**
 
-******Parceiros de negócio,** para oferecer serviços, produtos e funcionalidades que entendemos que podem ser do seu interesse, bem como ampliar e desenvolver nossos negócios.****
+******Parceiros,****** para viabilizar a intermediação imobiliária, prestar suporte no atendimento de suas solicitações, desenvolver nossos negócios criando mais oportunidades para você e oferecer serviços, produtos e funcionalidades que entendemos que podem ser do seu interesse. Na prática, isso significa que nossos parceiros poderão entrar em contato com você, por exemplo, para validar a disponibilidade de imóveis,confirmar visitas e aproximar potenciais compradores.
 
 ********Autoridades governamentais,** para cumprir com obrigações legais ou regulatórias, para execução de contratos, para contribuir com a persecução do interesse público, para o exercício de direitos em processos judiciais, administrativos ou arbitrais e para garantir a prevenção à fraude.******
 
@@ -540,3 +550,25 @@ Plusvalia
 Tokko
 
 Univen
+
+********Anunciantes de classificados** para viabilizar a sua jornada em imóveis de classificados, caso demonstre interesse em um anúncio.******
+
+**Peticionamento à ANPD** em relação ao tratamento de seus dados.
+
+**Oposição ao tratamento de seus dados pessoais,** desde que apresentadas evidências de descumprimento da legislação aplicável.
+
+**Disponibilização das cláusulas utilizadas para a realização de transferência internacional de dados,** observados os segredos comerciais e industriais.
+
+### C.1 Univen
+
+### C.2 Domi
+
+********Categorias de dados pessoais:******** Informações cadastrais e Informações comerciais.
+
+****************Finalidades de tratamento:**************** **Atendimento:**prestar atendimento automatizado a interessados em imóveis e o apoio ao agendamento de visitas. **Cadastro, gestão e administração:** gerenciar o acesso à solução e as integrações com sistemas da imobiliária.
+
+### Usuários da Plataforma
+
+Na solução **Domi**, atuamos como operadores dos seus dados pessoais: tratamos as informações em nome e de acordo com as instruções, finalidades e limites definidos pelas imobiliárias que contratam os nossos produtos e que lhe oferecem serviços diretamente. Recomendamos consultar a política ou o aviso de privacidade da imobiliária que lhe atende para saber mais sobre os dados tratados, as finalidades e outras informações relevantes.
+
+**Informação sobre o compartilhamento de dados pessoais** com entidades públicas e privadas.
