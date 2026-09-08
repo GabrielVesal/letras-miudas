@@ -3,8 +3,8 @@ empresa: "Roblox"
 documento: "Política de Privacidade"
 categoria: "Jogos"
 fonte: "https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
-capturado_em: 2026-05-26
-wayback: "https://web.archive.org/web/20260526061457/https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
+capturado_em: 2026-09-08
+wayback: "https://web.archive.org/web/20260908130024/https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/politica-de-privacidade.md"
 ---
 
@@ -29,7 +29,7 @@ Você também pode encontrar a Política de Privacidade completa aqui.
 
  O que está incluído nesta política de privacidade?
 
- Essa política descreve os direitos que você tem sobre as suas Informações Pessoais. Ela explica que você pode controlar o que acontece com as informações que podem identificá-lo – como seu nome, onde você mora e o seu endereço de e-mail. Nessa Política de Privacidade, também informaremos quando e como usamos as informações a seu respeito – incluindo como coletamos, registramos, organizamos, armazenamos e compartilhamos. Dependendo de onde você mora, você pode ter direitos ou opções diferentes sobre o gerenciamento das suas Informações Pessoais, descritos posteriormente nessa Política. Em caso de conflito entre as informações nas Seções de 1 a 5 nesta Política e informações específicas de cada lugar na Seção 8, a informação na Seção 8 prevalecerá.
+ Essa política descreve os direitos que você tem sobre as suas Informações Pessoais. Ela explica que você pode controlar o que acontece com as informações que podem identificá-lo – como seu nome, onde você mora e o seu endereço de e-mail. Nessa Política de Privacidade, também informaremos quando e como usamos as informações a seu respeito – incluindo como coletamos, registramos, organizamos, armazenamos e compartilhamos. Dependendo de onde você mora, você pode ter direitos ou opções diferentes sobre o gerenciamento das suas Informações Pessoais, descritos posteriormente nessa Política. Em caso de conflito entre as informações nas Seções de 1 a 5 nesta Política e informações específicas de cada lugar na Seção 7, a informação na Seção 7 prevalecerá.
 
  Onde esta Política de Privacidade se aplica?
 
