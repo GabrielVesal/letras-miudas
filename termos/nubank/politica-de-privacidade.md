@@ -3,8 +3,8 @@ empresa: "Nubank"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade"
-capturado_em: 2026-07-29
-wayback: "https://web.archive.org/web/20260729171838/https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade"
+capturado_em: 2026-09-12
+wayback: "https://web.archive.org/web/20260912050648/https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/nubank/politica-de-privacidade.md"
 ---
 
@@ -28,9 +28,11 @@ A depender dos serviços solicitados e/ou contratados por você - como, por exem
 
 Este Aviso de Privacidade é aplicável a todos os clientes, ativos e inativos, e prospectos do Nu no Brasil.
 
-**Clientes do Nu:** pessoas naturais que efetivamente contratem, utilizem ou acessem um ou mais serviços ou produtos do Nu (seja para você mesmo ou para sua pessoa jurídica).
+**Clientes (ativos ou inativos):** pessoas físicas localizadas no Brasil que efetivamente contratam, utilizam ou acessam nossos serviços.
 
-**Prospectos do Nu:** pessoas naturais prospectadas pelo Nu ou que já tenham solicitado a contratação de um dos serviços ou produtos, mas que não tenham se tornado clientes do Nu por qualquer motivo.
+**Prospectos:** pessoas físicas localizadas no Brasil que são prospectadas por nós ou que já solicitaram a contratação de um dos nossos serviços ou produtos, mas que, por algum motivo, não se tornaram nossos clientes.
+
+**Pessoas relacionadas aos serviços oferecidos por nós:**pessoas físicas localizadas no Brasil que não são necessariamente nossos clientes ou prospectos, mas cujos dados pessoais são tratados por nós em razão desses serviços ou de sua relação com clientes abrangidos por este Aviso (por exemplo, uma pessoa que atue como representante, responsável legal, empregada ou sócia de qualquer cliente com quem tenhamos um relacionamento).
 
 Para os candidatos a vagas de emprego no Nu, o Aviso de Privacidade pode ser encontrado no site https://nubank.com.br/carreiras/.
 
@@ -112,6 +114,8 @@ Quando o Nu coleta seus dados pessoais, todo e qualquer tratamento a ser realiza
 - Cumprimento de obrigação legal ou regulatória, por exemplo, para manutenção do seu cadastro atualizado ou cumprimento de obrigações legais e/ou regulatórias impostas ao Nu, incluindo normas de Conheça seu Cliente (KYC), Prevenção à Lavagem de Dinheiro e Financiamento ao Terrorismo e outras, com destaque para as exigências da Comissão de Valores Mobiliários (CVM), do Banco Central (BACEN), da BSM Supervisão de Mercados, da ANBIMA e da SUSEP.
 
 ❗**DADOS BIOMÉTRICOS** são usados para finalidades de prevenção à fraude e garantia da sua segurança nos processos de identificação e autenticação de cadastro e de novos dispositivos.
+
+Podemos coletar e tratar dados biométricos, como uma selfie, imagem facial, modelo biométrico ou vetor deles derivado, para verificar sua identidade, detectar e prevenir fraudes e proteger a segurança da sua conta, em conformidade com a legislação aplicável. Para essas finalidades, podemos comparar esses dados, ou um resultado deles derivado (incluindo um resultado de correspondência/não correspondência ou sinal de risco), com bases de dados mantidas por entidades do Nu em outros países, ou em nome do Nu.
 
 ### Dados pessoais que coletamos de terceiros
 
