@@ -3,8 +3,8 @@ empresa: "QuintoAndar"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://mkt.quintoandar.com.br/aviso-de-privacidade/"
-capturado_em: 2026-08-19
-wayback: "https://web.archive.org/web/20260819154609/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
+capturado_em: 2026-09-25
+wayback: "https://web.archive.org/web/20260925224721/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/quintoandar/politica-de-privacidade.md"
 ---
 
@@ -178,7 +178,7 @@ Se você excluir sua conta das plataformas de nossas marcas, excluiremos suas in
 
 Existem situações em que compartilhamos os seus dados pessoais com os seguintes terceiros:
 
-Queremos te tranquilizar de que o Grupo QuintoAndar se compromete com o cumprimento da **Lei nº 13.709/2018 (LGPD)****, e demais regulações de proteção de dados aplicáveis.** Além disso, quando aplicável, exigimos dos agentes de tratamento envolvidos que estejam aptos a proteger os seus dados pessoais da mesma forma que nós, atendendo aos nossos padrões de segurança e confidencialidade.
+Queremos te tranquilizar de que o Grupo QuintoAndar se compromete com o cumprimento da**Lei nº 13.709/2018 (LGPD)****e demais regulações de proteção de dados aplicáveis.** Além disso, quando aplicável, exigimos dos agentes de tratamento envolvidos que estejam aptos a proteger os seus dados pessoais da mesma forma que nós, atendendo aos nossos padrões de segurança e confidencialidade.
 
 - Cumprimento de obrigação legal ou regulatória;
 
@@ -224,7 +224,7 @@ Todas as pessoas colaboradoras do Grupo são submetidas a treinamentos periódic
 
 Os seus dados pessoais podem ser objeto de transferência internacional quando, por exemplo, compartilhados entre empresas do Grupo QuintoAndar localizadas em países distintos ou armazenados em servidores de computação em nuvem.
 
-Observamos as diretrizes observamos as diretrizes estabelecidas pelas legislações vigentes e adotamos práticas de segurança e privacidade adequadas para garantir a integridade e confidencialidade dos seus dados pessoais.
+Observamos as diretrizes estabelecidas pelas legislações vigentes e adotamos práticas de segurança e privacidade adequadas para garantir a integridade e confidencialidade dos seus dados pessoais.
 
 Para mais detalhes sobre as **transferências internacionais de dados pessoais realizadas sob a jurisdição brasileira,** acesse esta página.
 
@@ -366,6 +366,8 @@ Para garantir que estamos sendo transparentes, listamos abaixo algumas finalidad
 - Análise de crédito, para definição do seu perfil de crédito e oferecimento de condições de contratação mais adequadas a você.
 - Análise de perfil de busca, filtros utilizados, imóveis favoritos e visualizações, para gerar recomendações de acordo com o seu perfil.
 - Consumo e disponibilização em nossa plataforma de dados de bases públicas relacionadas a imóveis (por exemplo, ITBI e IPTU), incluindo endereço completo, para realização de análises de mercado e oferta e disponibilização de informações de inteligência mercadológica, mesmo para imóveis não anunciados no Grupo QuintoAndar.
+- Avaliação dos históricos de busca, logs de interação, dados conversacionais e quaisquer outras interações do usuário com o QuintoAndar, com o objetivo de sugerir, por solicitação ou proativamente, imóveis compatíveis com suas preferências.
+- Interações prévias ao login na plataforma são associadas a um token desvinculado da sua conta. Para garantir a continuidade da sua jornada e proporcionar uma experiência fluida, é necessário que você realize a autenticação na plataforma, ocasião em que você passa a ser identificado e seu histórico de interações é automaticamente incorporado à sua conta.
 - Interações prévias ao login na plataforma são associadas a um token desvinculado da sua conta. Para garantir a continuidade da sua jornada e proporcionar uma experiência fluida, é necessário que você realize a autenticação na plataforma, ocasião em que você passa a ser identificado e seu histórico de interações é automaticamente incorporado à sua conta.
 - Ações de cobrança e negociação de débitos, internamente ou por meio de empresas de cobrança contratadas, com o objetivo de minimizar índices de inadimplência. **Quando necessário, as ações incluirão o enriquecimento de dados, a fim de obter formas alternativas de contato com o usuário inadimplente. Isso pode incluir, mas não se limita à utilização de dados de fontes públicas ou de terceiros, com o intuito de identificar meios mais eficazes de realizar a cobrança de valores pendentes.**
 - Fornecimento e aprimoramento de soluções de inteligência artificial, conforme detalhado nos Termos e Condições de Uso da plataforma QuintoAndar.
@@ -509,7 +511,7 @@ Aviso de Privacidade do Grupo QuintoAndar
 
 Entre em contato conosco
 
-Última atualização: 9 de janeiro de 2026.
+Última atualização: 19 de agosto de 2026.
 
 ****Empresas do Grupo QuintoAndar,** para fins de eficiência organizacional, análises estatísticas, desenvolvimento de novos produtos e serviços, bem como transações e alterações societárias envolvendo as empresas do Grupo QuintoAndar.**
 
