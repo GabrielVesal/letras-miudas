@@ -3,8 +3,8 @@ empresa: "Hotmart"
 documento: "Termos de Uso"
 categoria: "Serviços"
 fonte: "https://hotmart.com/pt-br/legal/termos-de-uso"
-capturado_em: 2025-11-28
-wayback: "https://web.archive.org/web/20251128135932/https://hotmart.com/pt-br/legal/termos-de-uso"
+capturado_em: 2026-09-25
+wayback: "https://web.archive.org/web/20260925190403/https://hotmart.com/pt-br/legal/termos-de-uso"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/hotmart/termos-de-uso.md"
 ---
 
@@ -188,7 +188,7 @@ historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/ho
 
 #### 8. A REMUNERAÇÃO DA HOTMART
 
-8.1. **Taxas do Criador e Coprodutor:**O uso pelo Criador e pelo Coprodutor do modelo “Parceria de Negócio”, dos recursos que a Plataforma disponibiliza, está sujeito ao pagamento das Taxas de Licença e de Serviço, que são cobradas por ocasião da venda de cada Produto, no momento em que a transação é aprovada, e deduzidas do valor final cobrado pelo Criador e/ou Coprodutor do modelo “Parceria de Negócio” de cada Comprador. Essas taxas, seus respectivos meios de pagamento, faturamento e tipo de pagamento estão estabelecidos na Política Geral de Pagamentos da Hotmart, e podem ser alteradas a qualquer tempo, a critério da Hotmart, mediante notificação prévia.
+8.1. **Taxas do Criador e Coprodutor:**O uso pelo Criador e pelo Coprodutor do modelo “Parceria de Negócio”, dos recursos que a Plataforma disponibiliza, está sujeito ao pagamento das Tarifa Fixa por Transação e Taxa de Serviço, que são cobradas por ocasião da venda de cada Produto, no momento em que a transação é aprovada, e deduzidas do valor final cobrado pelo Criador e/ou Coprodutor do modelo “Parceria de Negócio” de cada Comprador. Essas taxas, seus respectivos meios de pagamento, faturamento e tipo de pagamento estão estabelecidos na Política Geral de Pagamentos da Hotmart, e podem ser alteradas a qualquer tempo, a critério da Hotmart, mediante notificação prévia.
 
 8.2. **Taxas do Afiliado e Comprador:**Os Compradores e Afiliados podem acessar e usar os serviços da Hotmart gratuitamente. Os Afiliados prestam serviços exclusivamente aos Criadores e Coprodutores, quando aplicável. No entanto, a Hotmart pode cobrar valores decorrentes de operações financeiras realizadas por esses Usuários, como a antecipação de recebíveis solicitada por Afiliado, ou o parcelamento ou uso de diferentes meios de pagamento por Comprador, conforme estabelecido na Política Geral de Pagamentos da Hotmart.
 
