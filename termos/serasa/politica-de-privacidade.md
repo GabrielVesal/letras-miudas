@@ -3,8 +3,8 @@ empresa: "Serasa"
 documento: "Política de Privacidade"
 categoria: "Serviços"
 fonte: "https://www.serasa.com.br/app/politica-de-privacidade/"
-capturado_em: 2026-07-27
-wayback: "https://web.archive.org/web/20260727211731/https://www.serasa.com.br/app/politica-de-privacidade/"
+capturado_em: 2026-09-29
+wayback: "https://web.archive.org/web/20260929004932/https://www.serasa.com.br/app/politica-de-privacidade/"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md"
 ---
 
@@ -383,7 +383,7 @@ Adicionalmente, Você tem ciência e concorda que é responsável por conferir t
 As empresas credoras poderão incluir ofertas para negociar as suas dívidas, classificadas da seguinte forma:
 
 1. **Dívidas Negativadas**: são as dívidas que foram negativadas pelas empresas credoras no Cadastro de Inadimplentes da Serasa. A inclusão de dívidas no Cadastro de Inadimplentes somente é realizada após envio de comunicação prévia específica para esta finalidade pelo credor da dívida.
-2. **Contas Atrasadas:** são as dívidas vencidas e não pagas, mas que não estão negativadas no Cadastro de Inadimplentes da Serasa e, por isso, não podem ser visualizadas pelas empresas que consultarem seu CPF. **Caso a dívida esteja vencida há mais de 5 (cinco) anos ela não será incluída no Cadastro de Inadimplentes e não impactará o cálculo do seu Serasa Score.**
+2. **Contas Atrasadas:** são as dívidas vencidas e não pagas, mas que não estão negativadas no Cadastro de Inadimplentes da Serasa e, por isso, não podem ser visualizadas pelas empresas que consultarem seu CPF. **Caso a dívida esteja vencida há mais de 5 (cinco) anos – prescritas - ela não será incluída no Cadastro de Inadimplentes e não impactará o cálculo do seu Serasa Score.**
 
 O Serasa Limpa Nome não se confunde com o Cadastro de Inadimplentes. Trata-se de um portal de negociação de dívidas pela internet, que coloca Você em contato com empresas para negociar suas dívidas, que podem estar negativadas ou não, mediante cadastro prévio e acesso pessoal com login e senha A aceitação de qualquer oferta depende da sua manifestação livre, voluntária e inequívoca, inexistindo obrigação de aderir às condições apresentadas.
 
@@ -505,7 +505,7 @@ O Cadastro Positivo é um banco de dados que contém o seu histórico de crédit
 
 Você poderá acessar os Sites e Aplicativo da Serasa com o seu usuário e sua senha exclusiva, individual, intransferível e de seu conhecimento exclusivo. Você se responsabiliza pela guarda de seu usuário e sua senha, não os repassando a nenhum terceiro, em hipótese alguma.
 
-O e-mail e/ou telefone celular fornecido por Você poderá ser utilizado para o envio de comunicados pela Serasa, incluindo, mas não se limitando, para informar a abertura de cadastro ou inclusão de informações de inadimplência (dívidas não pagas) em atendimento à legislação em vigor, seja por meio de SMS, *WhatsApp* ou qualquer mensagem telefônica ou eletrônica.
+O e-mail e/ou telefone celular fornecido por Você poderá ser utilizado para o envio de comunicados pela Serasa, incluindo, mas não se limitando, para informar a abertura de cadastro ou inclusão de informações de inadimplência (dívidas não pagas) em atendimento à legislação em vigor, seja por meio de SMS, *WhatsApp, push no App* ou qualquer mensagem telefônica ou eletrônica.
 
 Lembre-se que Você é responsável por todas as suas ações ou omissões realizadas nos nossos Sites e Aplicativos, pela reparação de danos causados à Serasa, terceiros ou outros Usuários, a partir do seu acesso e uso dos nossos Sites e Aplicativos.
 
