@@ -4,7 +4,7 @@
 
 # Política de Privacidade da Serasa
 
-Atualizado em 22 de maio de 2026.
+Atualizado em 29 de setembro de 2026.
 
 Na Serasa S.A. (“Serasa”), privacidade e proteção de dados é nossa prioridade. Temos orgulho em ter a ética no tratamento de dados como valor fundamental.
 
@@ -153,6 +153,8 @@ Para a execução dos serviços, a Serasa poderá realizar, sempre respeitando a
 
 A SERASA TRATA APENAS OS DADOS PESSOAIS QUE ENTENDE SEREM OS MÍNIMOS NECESSÁRIOS PARA CADA FINALIDADE E, EM RAZÃO DISSO, UTILIZA E EVENTUALMENTE DISPONIBILIZA SEUS DADOS PESSOAIS LISTADOS NO ITEM 3 APENAS PARA AS PESSOAS E CLIENTES QUE CONSULTAM SEUS SERVIÇOS, E PARA AS FINALIDADES DESCRITAS NO ITEM 5, ACIMA.
 
+A Serasa poderá utilizar dados cadastrais e de contato para convidar usuários a participar de pesquisas, entrevistas, testes de usabilidade e outras iniciativas voltadas à melhoria de produtos, serviços e da experiência dos usuários. Essas atividades poderão ser conduzidas pela própria Serasa ou por parceiros contratados para esse fim, que atuarão observando os requisitos de segurança e proteção de dados aplicáveis. A participação do usuário será sempre voluntária.
+
 Nesse sentido, pode eventualmente disponibilizar os Dados Pessoais, quando estritamente necessário, a:
 
 (i) empresas do Grupo Experian,
@@ -251,6 +253,8 @@ Você pode acessar canais de contato específicos relativos ao tratamento de seu
 
 Você pode falar com a Central de Atendimento ao Consumidor pelo telefone 3003-6300 (caso não esteja em capitais ou regiões metropolitanas, use o DDD da capital mais próxima). O atendimento é de segunda a sexta, das 08h às 20h.
 
+O número (11) 3003-6300 também é o canal oficial da Serasa no WhatsApp. Por meio desse canal, Você poderá negociar dívidas, consultar o Serasa Score, pedir a segunda via do boleto e tirar dúvidas sobre os produtos da Serasa. O atendimento nesse canal é automatizado, ou seja, não há atendimento humano por esse número. Para falar com uma pessoa da equipe, use os outros canais de atendimento da Serasa. Veja todos os canais disponíveis: https://www.serasa.com.br/atendimento/
+
 Você também pode solicitar informações ou fazer reclamações via internet, acessando a Central de Ajuda – ajuda.serasa.com.br.
 
 A Serasa disponibiliza canais de atendimento e de ouvidoria gratuitos e exclusivos para os assuntos relacionados ao Cadastro Positivo. Lá, Você pode obter informações, oferecer sugestões e reclamações. Você também pode entrar em contato gratuitamente por meio do telefone 0800-776-6606.
@@ -344,7 +348,19 @@ A sede da Serasa no Brasil está localizada na Avenida das Nações Unidas, 14.4
 
 Para que Você possa acessar com segurança os serviços *on-line* da Serasa, será realizado um processo de confirmação da sua identidade utilizando também os Dados Pessoais fornecidos para cadastro em nossos Sites e/ou aplicativo.
 
+A Serasa poderá disponibilizar a chave de acesso, também conhecida como passkey, como modalidade adicional e opcional de autenticação para acesso aos Sites e ao Aplicativo. Ao optar por ativá-la, Você poderá acessar sua conta por meio do método de desbloqueio configurado no seu dispositivo, navegador, sistema operacional, autenticador ou gerenciador de credenciais, como biometria, PIN ou outro fator local disponível.
+
+A Serasa não coleta, acessa, valida ou armazena sua digital, seu rosto ou seu PIN para essa finalidade, utilizando apenas informações técnicas necessárias para vincular e validar a credencial de acesso à sua conta, como chave pública, identificadores técnicos, dados de segurança e registros de uso.
+
+Você é responsável pela guarda, segurança e uso adequado dos dispositivos e credenciais utilizados para acesso à sua conta, podendo gerenciar, desativar ou excluir a passkey conforme os recursos disponíveis no próprio dispositivo, navegador ou gerenciador de credenciais, sem prejuízo da manutenção de outros métodos de acesso disponibilizados pela Serasa.
+
 Você é responsável pela exatidão, veracidade e atualização dos seus Dados Pessoais informados à Serasa, concordando que eventuais divergências e/ou inconsistências desses dados poderão ocasionar a não validação da sua identidade, o que poderá impedir o acesso a todos ou a alguns dos serviços oferecidos por nós em nossos Sites e Aplicativo, como medida de segurança.
+
+O preenchimento dos seus dados não é obrigatório, mas garante que a sua conta digital permanecerá ativa e torna o seu perfil de crédito mais assertivo.
+
+Importante: qualquer alteração cadastral realizada no campo “editar perfil” terá efeito apenas no aplicativo e do site. Essa atualização não altera os dados constantes em outras bases de dados da Serasa.
+
+Para acessar os demais dados que possuímos sobre você e solicitar alterações em outras bases, acesse a Página de Proteção de Dados da Serasa.
 
 **3. Condições específicas das soluções Serasa:**
 
@@ -479,11 +495,17 @@ Lembramos que a Serasa e/ou o Gestor de Pagamentos não executam ações de cobr
 
 **3.10 Carteira de Dados - SerasaPass**
 
-É uma solução digital que oferece um identificador reutilizável. Com ele, você pode preencher automaticamente seus dados em cadastros e compras online de empresas parceiras da Serasa, ativando suas credenciais digitais, para se identificar sem preencher formulários ou repetir etapas de validações.
+A Carteira de Dados permite ao usuário visualizar, confirmar, validar e gerenciar informações pessoais vinculadas à sua conta Serasa, para facilitar sua identificação, autenticação e experiência no ecossistema Serasa.
 
-Os dados utilizados para tal finalidade são extraídos de bases oficiais, bases públicas, empresas integrantes do grupo Serasa e parceiros comerciais, sendo submetidos a tratamento específico com vistas à mitigação de imprecisões e incorreções, visando à melhoria da experiência e da jornada digital do usuário, mantendo a segurança como prioridade. Tais operações têm como finalidade adicional a proteção ao crédito e a prevenção a fraudes.
+Ao confirmar ou validar um dado, o usuário reconhece que a informação poderá ser exibida como dado confirmado ou validado, sem que isso implique, necessariamente, a emissão de credencial digital.
 
-As credenciais que poderão ser compartilhadas, mediante autorização do usuário, incluem: a) Dados básicos: nome, CPF, data de nascimento; b) E-mail: e-mail (até 5 e-mails podem ser ativados); c) Celular: celular (até 5 números de celular podem ser ativados); d) Endereço: CEP, logradouro, número, complemento, ponto de referência, país, estado, cidade e bairro (até 5 endereços podem ser ativadas) e e) Cartão de crédito: dados necessários para viabilizar a utilização do cartão em transações com empresas parceiras, mediante inserção expressa do usuário.
+Os dados confirmados ou validados poderão ser utilizados pela Serasa para segurança, autenticação, prevenção a fraudes e viabilização de funcionalidades, conforme as bases legais aplicáveis e as finalidades informadas.
+
+Quando aplicável, esses dados poderão apoiar a emissão de credenciais digitais por outras soluções da Serasa, desde que haja compatibilidade de finalidade e aceite/autorização específica, quando necessário.
+
+O usuário poderá visualizar e gerenciar os dados da Carteira de Dados, desabilitar funcionalidades, revisar autorizações e exercer seus direitos pelos canais disponibilizados pela Serasa.
+
+O compartilhamento de dados confirmados, validados ou credenciais com parceiros, empresas do grupo ou terceiros somente ocorrerá mediante finalidade legítima, base legal adequada e informação clara ao usuário, conforme a Política de Privacidade da Serasa.
 
 **3.11 Minhas Contas**
 
@@ -498,6 +520,12 @@ Conte com este assistente de pagamento para manter em dia as contas de condomín
 Além disso, Você também poderá realizar a consulta e o pagamento de débitos veiculares por meio do Minhas Contas. É simples, basta informar os dados da placa do seu veículo e Renavam e autorizar o compartilhamento desses dados com a empresa parceira da Serasa, responsável pela prestação deste serviço.
 
 Os dados informados para a consulta dos débitos veiculares também poderão ser utilizados para facilitar o preenchimento de informações cadastrais e simplificar sua experiência com nossos produtos. Você reconhece que esses dados serão aplicados em soluções internas para apoiar sua jornada, como por exemplo, em caso de pedido de empréstimo com garantia de veículo, seus dados serão automaticamente preenchidos caso Você já nos tenha informado.
+
+Para melhorar a sua experiência no Minhas Contas, a Serasa poderá usar informações já disponíveis em seus produtos e serviços, inclusive dados sobre contas, dívidas negativadas, ofertas ativas no Serasa Limpa Nome e Serasa Score, para apresentar cards informativos, oportunidades de renegociação, estimativas e conteúdos educativos.
+
+As informações têm caráter informativo e estimado e não representam promessa de desconto, aprovação de crédito, baixa de dívida, exclusão de negativação ou aumento do Serasa Score.
+
+A renegociação ou pagamento da dívida é uma decisão do consumidor, e os resultados podem variar conforme as condições dos credores, o modelo de cálculo do Serasa Score e a Política de Privacidade da Serasa.”
 
 **4. Cadastro Positivo**
 
@@ -574,3 +602,9 @@ e fique à vontade também para contatar nosso
 **Encarregado de Dados - Emiliano Tozetto** através do e-mail dpo@br.experian.com.
 
 **A Serasa Experian disponibiliza canais de atendimento e de ouvidoria gratuitos e exclusivos para os assuntos relacionados ao Cadastro Positivo. Lá, Você pode obter informações, oferecer sugestões e reclamações. Você também pode entrar em contato por meio do telefone 0800-776-6606.**
+
+Quando você utiliza nossos canais de atendimento, poderemos tratar os dados pessoais e informações compartilhadas durante a interação, incluindo conteúdo de mensagens, protocolos, dados cadastrais e informações relacionadas à sua solicitação, com o apoio de tecnologias de inteligência artificial e analytics.
+
+Esse tratamento será realizado com fundamento no legítimo interesse, nos termos da LGPD, e tem como finalidade registrar e organizar o atendimento, monitorar a qualidade dos serviços, identificar dúvidas ou problemas recorrentes, gerar indicadores internos, aprimorar processos, produtos e serviços, treinar equipes, prevenir falhas operacionais e melhorar a sua experiência.
+
+Antes do início da experiência assistida por IA, poderemos solicitar sua ciência específica para prosseguimento nesse formato de atendimento, sem que isso represente consentimento como base legal LGPD. O tratamento será realizado de acordo com a legislação aplicável, observados os princípios de necessidade, transparência e segurança, e não será utilizado, neste contexto, para decisões exclusivamente automatizadas que produzam efeitos jurídicos ou relevantes sobre você, como concessão de crédito, prevenção à fraude, onboarding, KYC ou PLD/CFT, salvo se houver informação específica e base legal adequada para essa finalidade.
