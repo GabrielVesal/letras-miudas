@@ -3,8 +3,8 @@ empresa: "Globo"
 documento: "Termos de Uso"
 categoria: "Streaming"
 fonte: "https://login.globo.com/termosUso/6888"
-capturado_em: 2025-12-15
-wayback: "https://web.archive.org/web/20251215084511/https://login.globo.com/termosUso/6888"
+capturado_em: 2026-10-07
+wayback: "https://web.archive.org/web/20261007185449/https://login.globo.com/termosUso/6888"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/globo/termos-de-uso.md"
 ---
 
@@ -58,22 +58,37 @@ Ao utilizar os **Serviços**, **Você** está concordando com este **Termo**. Po
 
 **4.3.** Para facilitar a **Sua** compreensão e a comparação entre os diferentes planos de **Assinatura** atualmente disponíveis, apresentamos a seguir um quadro explicativo com as principais características de cada plano.
 
-| | | | | | |
-| --- | --- | --- | --- | --- | --- |
-| | **Gratuito** | **Padrão com Anúncios** | **Básico \*** | **Padrão \*** | **Premium** |
-| **Qualidade 4K** | X | SIM | SIM | SIM | SIM |
-| **Perfis** | 1 perfil | 1 Titular + 2 Dependentes ou Até 5 perfis | 1 Titular + 2 Dependentes ou Até 5 perfis | 1 Titular + 2 Dependentes ou Até 5 perfis | 1 Titular + 4 Dependentes ou Até 5 perfis |
-| **Bloqueio de Telas Simultâneas** | 1 acesso | Até 3 acessos | Até 3 acessos | Até 3 acessos | Até 5 acessos |
-| **Download Temporário** | X | X | SIM | SIM | SIM |
-| **Dispositivos** | Móvel, Web e TV | Móvel, Web e TV | Móvel, Web e TV | Móvel, Web e TV | Móvel, Web e TV |
+**Gratuito** **Padrão com Anúncios** **Básico \*** **Padrão \*** **Premium** **Qualidade 4K** X SIM SIM SIM SIM **Perfis** 1 perfil 1 Titular + 2 Dependentes
 
-\* Este plano/produto não está atualmente disponível para venda em nosso catálogo de produtos.
+ou
+
+Até 5 perfis
+
+1 Titular + 2 Dependentes
+
+ou
+
+Até 5 perfis
+
+1 Titular + 2 Dependentes
+
+ou
+
+Até 5 perfis
+
+1 Titular + 4 Dependentes
+
+ou
+
+Até 5 perfis
+
+**Bloqueio de Telas Simultâneas** 1 acesso Até 3 acessos Até 3 acessos Até 3 acessos Até 5 acessos **Download Temporário** X X SIM SIM SIM **Dispositivos** Móvel, Web e TV Móvel, Web e TV Móvel, Web e TV Móvel, Web e TV Móvel, Web e TV \* Este plano/produto não está atualmente disponível para venda em nosso catálogo de produtos.
 
 **4.4.** Como contratante do plano **Padrão com Anúncios**, **Padrão**, **Premium** ou **Básico** do **Serviço Pago**, **Você** terá acesso a todo o conteúdo disponibilizado no **Serviço Gratuito**, bem como ao streaming de conteúdo sob demanda exclusivo para assinantes disponibilizado por **Nós** de forma onerosa, a **Nosso** livre e exclusivo critério ("**Conteúdo Pago**") e poderá usufruir dos seguintes benefícios:
 
-0. ***Download Temporário*****.** Parte do **Conteúdo Pago** poderá vir a ser disponibilizado para acesso offline por **Você** através de um ou mais **Aparelhos Compatíveis** ("**Conteúdo Offline**"). No entanto, quando disponibilizado, estará sujeito a limitações e restrições que serão fixadas por **Nós** e que **Você** precisará observar, tais como: (a) quantidade de **Conteúdo Offline** por **Assinatura** e/ou **Aparelhos Compatíveis**; (b) número máximo de **Aparelhos Compatíveis** que podem realizar downloads simultâneos; e (c) prazo de validade para início e fim da reprodução e disponibilização do **Conteúdo Offline**. Esta funcionalidade não está disponível para o plano **Padrão com Anúncios**.
+1. ***Download Temporário*.** Parte do **Conteúdo Pago** poderá vir a ser disponibilizado para acesso offline por **Você** através de um ou mais **Aparelhos Compatíveis** ("**Conteúdo Offline**"). No entanto, quando disponibilizado, estará sujeito a limitações e restrições que serão fixadas por **Nós** e que **Você** precisará observar, tais como: (a) quantidade de **Conteúdo Offline** por **Assinatura** e/ou **Aparelhos Compatíveis**; (b) número máximo de **Aparelhos Compatíveis** que podem realizar downloads simultâneos; e (c) prazo de validade para início e fim da reprodução e disponibilização do **Conteúdo Offline**. Esta funcionalidade não está disponível para o plano **Padrão com Anúncios**.
 
-1. ***Perfis*****.** O **Serviço Pago** permite que **Você**, o **Titular da Assinatura**, crie um número limitado de perfis, determinado por **Nós**, a **Nosso** livre e exclusivo critério ("**Perfil(is)**"), para compartilhar a Sua **Assinatura** com outras pessoas que sejam integrantes da mesma família e residam no mesmo endereço que o **Você** ("**Usuário(s) Autorizado(s)**").
+1. ***Perfis*.** O **Serviço Pago** permite que **Você**, o **Titular da Assinatura**, crie um número limitado de perfis, determinado por **Nós**, a **Nosso** livre e exclusivo critério ("**Perfil(is)**"), para compartilhar a Sua **Assinatura** com outras pessoas que sejam integrantes da mesma família e residam no mesmo endereço que o **Você** ("**Usuário(s) Autorizado(s)**").
 
 > **(ii.a)** O(s) **Perfil(is)** somente poderão ser criados pelo **Titular da Assinatura**, no **Globoplay**, acessando via tv ou aplicativo móvel, através de um **Aparelho Compatível**. Para a criação do(s) **Perfil(is)**, o **Titular da Conta** deve fornecer todas as informações que eventualmente sejam solicitadas por **Nós**.
 
@@ -85,7 +100,7 @@ Ao utilizar os **Serviços**, **Você** está concordando com este **Termo**. Po
 
 > **(ii.e)** Caso a **Globo** suspeite de utilização indevida da Conta ou do(s) **Perfil(is)**, a **Globo** poderá suspender ou bloquear sua Conta para proteger **Você**, a **Globo** e/ou terceiros, conforme previsto neste **Termo**, especialmente nas Cláusulas 9 e 10.
 
-2. ***Conta Família***. Esta funcionalidade não é mais comercializada por **Nós** e só está disponível para o **Titular da Assinatura** que já tenha criado Sua **Conta Família**.Nesse caso, o **Titular da Assinatura** poderá compartilhar sua **Assinatura** com o(s) **Dependente(s)** que já tenham, cumulativamente, (i) criado uma Conta Globo e (ii) associado esta Conta Globo à Sua **Conta Família**, não sendo possível incluir, alterar e/ou substituir os **Dependente(s)** de uma **Conta Família**. Além disso, para continuar participando de uma **Conta Família**, Seu(s) **Dependente(s)** deverão ser integrantes da mesma família e residir no mesmo endereço que **Você**.
+1. ***Conta Família***. Esta funcionalidade não é mais comercializada por **Nós** e só está disponível para o **Titular da Assinatura** que já tenha criado Sua **Conta Família**.Nesse caso, o **Titular da Assinatura** poderá compartilhar sua **Assinatura** com o(s) **Dependente(s)** que já tenham, cumulativamente, (i) criado uma Conta Globo e (ii) associado esta Conta Globo à Sua **Conta Família**, não sendo possível incluir, alterar e/ou substituir os **Dependente(s)** de uma **Conta Família**. Além disso, para continuar participando de uma **Conta Família**, Seu(s) **Dependente(s)** deverão ser integrantes da mesma família e residir no mesmo endereço que **Você**.
 
 > **(iii.a) Você**, como **Titular da Assinatura**, possui o acesso e o controle sobre esta contratação e os **Aparelhos Compatíveis** que terão acesso ao **Serviço Pago**, sendo responsável por toda atividade relacionada com a **Assinatura**, inclusive aquelas realizadas pelo(s) **Dependente(s)**. Para manter a Sua **Assinatura** segura e evitar que qualquer pessoa possa acessá-la, não compartilhe com ninguém a Sua senha e/ou as informações de Pagamento associadas à Sua Conta e à **Assinatura**.
 
@@ -95,22 +110,49 @@ Ao utilizar os **Serviços**, **Você** está concordando com este **Termo**. Po
 
 > (iii.d) A **Globo** poderá, a qualquer tempo e sem aviso prévio, descontinuar a funcionalidade de **Conta Família**.
 
-3. Se **Você** pertencer a uma **Conta Família** ou criar **Perfis**, os demais membros desses grupos poderão ver determinadas informações Suas.
+1. Se **Você** pertencer a uma **Conta Família** ou criar **Perfis**, os demais membros desses grupos poderão ver determinadas informações Suas.
 
-4. ***Acessos Simultâneos***. O número de acessos simultâneos ao **Serviço Pago** será limitado por **Nós**, conforme produto e plano contratados e de acordo com a tabela abaixo, podendo ser alterado, a **Nosso** exclusivo livre e exclusivo critério, de tempos em tempos.
+1. ***Acessos Simultâneos***. O número de acessos simultâneos ao **Serviço Pago** será limitado por **Nós**, conforme produto e plano contratados e de acordo com a tabela abaixo, podendo ser alterado, a **Nosso** exclusivo livre e exclusivo critério, de tempos em tempos.
 
-| | |
-| --- | --- |
-| Produto | Quantidade de Acessos Simultâneos |
-| Globoplay ‐ Plano Gratuito | Sem tela simultânea |
-| Globoplay ‐ Plano Básico \* | Até 03 (três) telas simultâneas |
-| Globoplay ‐ Plano ‐ Padrão com Anúncios | Até 03 (três) telas simultâneas |
-| Globoplay ‐ Plano Padrão \* | Até 03 (três) telas simultâneas |
-| Globoplay ‐ Plano Premium | Até 05 (cinco) telas simultâneas |
-| Telecine | Até 03 (três) telas simultâneas |
-| Combate | Até 03 (três) telas simultâneas |
-| FlaTV+ \* | Até 03 (três) telas simultâneas |
-| Premiere | Até 03 (três) telas simultâneas |
+> Produto
+
+> Quantidade de Acessos Simultâneos
+
+> Globoplay ‐ Plano Gratuito
+
+> Sem tela simultânea
+
+> Globoplay ‐ Plano Básico \*
+
+> Até 03 (três) telas simultâneas
+
+> Globoplay ‐ Plano ‐ Padrão com Anúncios
+
+> Até 03 (três) telas simultâneas
+
+> Globoplay ‐ Plano Padrão \*
+
+> Até 03 (três) telas simultâneas
+
+> Globoplay ‐ Plano Premium
+
+> Até 05 (cinco) telas simultâneas
+
+> Telecine
+
+> Até 03 (três) telas simultâneas
+
+> Combate
+
+> Até 03 (três) telas simultâneas
+
+> FlaTV+ \*
+
+> Até 03 (três) telas simultâneas
+
+> Premiere
+
+> Até 03 (três) telas simultâneas
 
 > \* Este plano/produto não está atualmente disponível para venda em nosso catálogo de produtos.
 
@@ -124,7 +166,7 @@ Ao utilizar os **Serviços**, **Você** está concordando com este **Termo**. Po
 
 5. CONTEÚDO GRATUITO E CONTEÚDO PAGO
 
-**5.1.** ***Alteração do** **Conteúdo Gratuito****, do** **Conteúdo Pago** **e do** **Conteúdo de Canais** **(conjuntamente "Conteúdos")***. A escolha dos **Conteúdos** é **Nossa** prerrogativa exclusiva. Os **Conteúdos** são atualizados regularmente e **Nós** podemos, a qualquer tempo, exemplificativamente, (i) excluir, (ii) incluir, (iii) alterar, (iv) atualizar, e/ou (v) substituir qualquer conteúdo nos **Serviços**, sem que isso caracterize violação a este **Termo** e/ou ao Contrato de **Assinatura** aplicável e sem que seja necessária qualquer notificação por **Nós** a **Você** nesse sentido.
+**5.1.** ***Alteração do Conteúdo Gratuito, do Conteúdo Pago e do Conteúdo de Canais (conjuntamente "Conteúdos")***. A escolha dos **Conteúdos** é **Nossa** prerrogativa exclusiva. Os **Conteúdos** são atualizados regularmente e **Nós** podemos, a qualquer tempo, exemplificativamente, (i) excluir, (ii) incluir, (iii) alterar, (iv) atualizar, e/ou (v) substituir qualquer conteúdo nos **Serviços**, sem que isso caracterize violação a este **Termo** e/ou ao Contrato de **Assinatura** aplicável e sem que seja necessária qualquer notificação por **Nós** a **Você** nesse sentido.
 
 **5.2.** ***Limitação dos Conteúdos***. Os Conteúdos serão disponibilizados apenas (i) nos territórios nos quais os **Serviços** estejam disponíveis e sejam comercializados pela **Globo** e (ii) nos **Aparelhos Compatíveis** que atendam os Requisitos Mínimos exigidos pelos **Serviços**.
 
@@ -136,7 +178,7 @@ Ao utilizar os **Serviços**, **Você** está concordando com este **Termo**. Po
 
 **5.4.** ***Qualidade dos Conteúdos***. A qualidade da imagem dos Conteúdos pode variar de acordo com o aparelho e pode ser afetada por diversos fatores, incluindo sua localização, a largura de banda disponível e a velocidade da sua conexão com a Internet. A disponibilidade em alta definição (HD), ultra alta definição (4K) e High Dynamic Range (HDR) e/ou outras tecnologias que venham a ser implementadas nos **Serviços**, está sujeita: (i) aos Seus serviços de Internet; (ii) aos recursos do aparelho utilizado; e (iii) à disponibilização por **Nós**. Além disso, nem todos os Conteúdos estão disponíveis em todos os formatos.
 
-**5.5.** ***Requisitos para acesso** **ao****s Serviços** **para assinantes** **de** **televisão por assinatura (****SEAC****)***. Para acessá-los, o **Usuário** precisa, concomitantemente, (i) ser assinante do respectivo canal junto a uma operadora de televisão por assinatura que oferte o acesso aos **Serviços** aos seus assinantes ("**Operadoras**"); (ii) possuir cadastro requisitado por sua **Operadora**; (iii) realizar cadastro nos **Serviços**; e (iv) estar em dia com os pagamentos de sua mensalidade junto à **Operadora**. Para fins de esclarecimento, só será possível a utilização de 1 (um) cadastro nos **Serviços** por assinante de **Operadora**.
+**5.5.** ***Requisitos para acesso aos Serviços para assinantes de televisão por assinatura (SEAC)***. Para acessá-los, o **Usuário** precisa, concomitantemente, (i) ser assinante do respectivo canal junto a uma operadora de televisão por assinatura que oferte o acesso aos **Serviços** aos seus assinantes ("**Operadoras**"); (ii) possuir cadastro requisitado por sua **Operadora**; (iii) realizar cadastro nos **Serviços**; e (iv) estar em dia com os pagamentos de sua mensalidade junto à **Operadora**. Para fins de esclarecimento, só será possível a utilização de 1 (um) cadastro nos **Serviços** por assinante de **Operadora**.
 
 > **5.5.1.** Para fins de interpretação deste instrumento, devem ser entendidas como **Operadoras** as entidades que detenham uma outorga de Serviço de Acesso Condicionado à luz da legislação pertinente, sendo estas responsáveis finais pelas atividades complementares de comercialização, atendimento ao assinante, faturamento, cobrança, instalação e manutenção de dispositivos, entre outras. A **Globo** não têm qualquer ingerência ou relação com os serviços prestados pelas **Operadoras** a seus assinantes.
 
@@ -168,7 +210,7 @@ Ao utilizar os **Serviços**, **Você** está concordando com este **Termo**. Po
 
 10. CANCELAMENTO E PERDA DE ACESSO AO SERVIÇO PAGO
 
-**10.1.** ***Cancelamento do** **Serviço Pago** **por** **Você***. **Você** poderá cancelar o **Serviço Pago** seguindo as instruções de cancelamento do **Canal de Venda** escolhido por **Você**.
+**10.1.** ***Cancelamento do Serviço Pago por Você***. **Você** poderá cancelar o **Serviço Pago** seguindo as instruções de cancelamento do **Canal de Venda** escolhido por **Você**.
 
 **10.2.** ***Cancelamento por mau uso***. **Nós** também poderemos cancelar o **Serviço Pago** se **Você** (i) infringir as regras deste **Termo**, do Aviso de Privacidade da **Globo**, da Política de Comentários e/ou do Contrato de Assinatura, (ii) fizer um uso não autorizado do **Serviço Pago** e/ou dos Conteúdos, e (iii) violar leis e regulamentos.
 
@@ -176,7 +218,7 @@ Ao utilizar os **Serviços**, **Você** está concordando com este **Termo**. Po
 
 11. BLOQUEIO AO ACESSO AO SERVIÇO GRATUITO
 
-**11.1.** ***Bloqueio do acesso por mau uso***. **Nós** poderemos bloquear o acesso ao **Serviço Gratuito** se **Você** (i) infringir as regras deste **Termo**, do Aviso de Privacidade da **Globo** e da Política de Comentários (ii) fizer um uso não autorizado do **Serviço Gratuito** e/ou dos Conteúdos, e (iii) violar leis e regulamentos.
+**11.1. *Bloqueio do acesso por mau uso***. **Nós** poderemos bloquear o acesso ao **Serviço Gratuito** se **Você** (i) infringir as regras deste **Termo**, do Aviso de Privacidade da **Globo** e da Política de Comentários (ii) fizer um uso não autorizado do **Serviço Gratuito** e/ou dos Conteúdos, e (iii) violar leis e regulamentos.
 
 **11.2.** ***Bloqueio de acesso por compartilhamento de senha***. **Nós** poderemos bloquear o **Serviço Gratuito** se **Você** compartilhar a Sua senha, que é pessoal e intransferível. Além disso, **Você** será responsável por todos os gastos e prejuízos decorrentes de eventual utilização dos Seus Dados de Autenticação por terceiros.
 
@@ -210,13 +252,13 @@ Ao utilizar os **Serviços**, **Você** está concordando com este **Termo**. Po
 
 17. GERAL
 
-**17.1.** ***Envio de materiais não solicitados à** **Globo***. A **Globo** não aceita receber quaisquer materiais e/ou ideias não demandados ou previamente contratados, bem como não se responsabiliza por qualquer semelhança de seu conteúdo ou programação em qualquer mídia com materiais ou ideias que porventura tenham sido desautorizadamente transmitidos à **Globo**.
+**17.1.** ***Envio de materiais não solicitados à Globo***. A **Globo** não aceita receber quaisquer materiais e/ou ideias não demandados ou previamente contratados, bem como não se responsabiliza por qualquer semelhança de seu conteúdo ou programação em qualquer mídia com materiais ou ideias que porventura tenham sido desautorizadamente transmitidos à **Globo**.
 
-**17.2.** ***Descontinuidade de comercialização do** **Serviço Pago** **pelo** **Canal de Venda***. Caso a **Globo** deixe de utilizar os serviços do **Canal de Venda** que **Você** escolheu, **Você** receberá uma notificação e poderá optar por outro **Canal de Venda**.
+**17.2.** ***Descontinuidade de comercialização do Serviço Pago pelo Canal de Venda***. Caso a **Globo** deixe de utilizar os serviços do **Canal de Venda** que **Você** escolheu, **Você** receberá uma notificação e poderá optar por outro **Canal de Venda**.
 
 **17.3.** ***Utilização de foto/imagem para identificação no Serviço***. Se **Você** tiver se cadastrado via redes sociais, **Você** autoriza a importação da Sua imagem/foto de perfil em tais redes sociais para identificá-lo publicamente nos **Serviços**. Se julgarmos tal imagem/foto imprópria, por razões baseadas em leis, regulamentos e/ou políticas, poderemos retirá-la do ar.
 
-**17.4.** ***Notificações***. Caso qualquer usuário considere que existam fatos ou circunstâncias que constituam ilicitude ou violação de quaisquer direitos na utilização dos **Serviços** e/ou relativamente ao mesmo, deverá enviar uma comunicação a **Nós** através do e-mail csirt@csirt.globo. **Você** entende e concorda que esse endereço se destina exclusivamente ao envio de denúncias e notificações apenas, não sendo um canal de contato com a **Globo**, que não responderá aos e-mails.
+**17.4. *Notificações***. Caso qualquer usuário considere que existam fatos ou circunstâncias que constituam ilicitude ou violação de quaisquer direitos na utilização dos **Serviços** e/ou relativamente ao mesmo, deverá enviar uma comunicação a **Nós** através do e-mail csirt@csirt.globo. **Você** entende e concorda que esse endereço se destina exclusivamente ao envio de denúncias e notificações apenas, não sendo um canal de contato com a **Globo**, que não responderá aos e-mails.
 
 **17.5.** ***Independência das cláusulas***. Se qualquer parte deste **Termo** for considerada inexequível, inválida ou ilegal, a parte restante permanecerá em total vigência e efeito.
 
@@ -228,4 +270,4 @@ Ao utilizar os **Serviços**, **Você** está concordando com este **Termo**. Po
 
 **17.9.** ***Informações sobre Sua contratação***. Informações também poderão ser consultadas no canal online e na Central de Ajuda.
 
-**17.10.** ***Sobrevivência das disposições***. As disposições acima irão sobreviver ao cancelamento dos **Serviços**, término, por qualquer motivo, destes **Termos** de Uso e/ou do Contrato de Assinatura, se existente.
+**17.10. *Sobrevivência das disposições***. As disposições acima irão sobreviver ao cancelamento dos **Serviços**, término, por qualquer motivo, destes **Termos** de Uso e/ou do Contrato de Assinatura, se existente.
