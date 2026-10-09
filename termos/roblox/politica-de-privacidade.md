@@ -3,21 +3,24 @@ empresa: "Roblox"
 documento: "Política de Privacidade"
 categoria: "Jogos"
 fonte: "https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
-capturado_em: 2026-09-08
-wayback: "https://web.archive.org/web/20260908130024/https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
+capturado_em: 2026-10-09
+wayback: "https://web.archive.org/web/20261009095142/https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/politica-de-privacidade.md"
 ---
 
-Data de entrada em vigor: 30 de abril de 2026
+Data de entrada em vigor: 1º de novembro de 2026
 
 Resumo das mudanças recentes
 
-Atualizaremos a nossa Política de Privacidade e de Cookies da Roblox, com entrada em vigor em 30 de abril de 2026, para refletir certas mudanças feitas na Roblox.
+Atualizaremos a nossa Política de Privacidade e Cookies da Roblox, com entrada em vigor em 1 de novembro de 2026, para refletir certas mudanças feitas na Roblox.
 
 Confira um resumo das mudanças realizadas:
 
-- Adicionamos esclarecimentos sobre quem pode ver anúncios personalizados e anúncios não personalizados na Roblox.
-- Adicionamos uma descrição de nossas práticas de compartilhamento de informações com as autoridades.
+- Adicionamos informações que descrevem as diferenças regionais no acesso a determinados recursos.
+- Adicionamos informações sobre a coleta de dados de pesquisadores.
+- Adicionamos informações que descrevem nossas práticas de compartilhamento de informações com autoridades.
+
+Clique aqui para avaliar as próximas alterações.
 
 Você também pode encontrar a Política de Privacidade completa aqui.
 
@@ -802,10 +805,3 @@ Você também pode encontrar a Política de Privacidade completa aqui.
  Antes de responder a qualquer uma das suas solicitações, podemos pedir que você nos forneça algumas informações para confirmar sua identidade. Responderemos à sua solicitação apenas após a validação de sua identidade.
 
  Observe também que esses direitos não são absolutos e podem não se aplicar em certas circumstâncias. Por exemplo, podemos continuar processando e retendo Informações Pessoais, independentemente de sua solicitação para excluí-las, contestá-las, bloqueá-las ou torná-las anônimas, para cumprir obrigações legais, contratuais e/ou regulatórias e para proteger e exercer direitos, inclusive em processos judiciais, administrativos e procedimentos de arbitragem e conforme exigido por lei. Para exercer seus direitos ou tirar dúvidas, você pode entrar em contato conosco ao preencher este Formulário de Atendimento ao Cliente. Para apelar de uma decisão sobre seus direitos de privacidade, entre em contato com nosso Responsável pela Proteção de Dados do Brasil enviando um e-mail para dpo.roblox@leonardi.adv.br ou entrando em contato conosco conforme descrito na Seção 1.
-
-Resumo das mudanças recentes
-
-- Adicionamos esclarecimentos sobre quem pode ver anúncios personalizados e anúncios não personalizados na Roblox.
-- Adicionamos uma descrição de nossas práticas de compartilhamento de informações com as autoridades.
-
-Data de entrada em vigor: 30 de abril de 2026 Última atualização: 30 de abril de 2026
