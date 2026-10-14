@@ -4,7 +4,7 @@
 
 # Termos de Serviço do Google
 
-Em vigor a partir de 22 de maio de 2024 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 30 de julho de 2026 | Versões arquivadas | Fazer o download do PDF
 
 Versão específica: Brasil
 
@@ -213,11 +213,15 @@ Para oferecer a você nossos serviços, às vezes enviamos avisos sobre o servi�
 
 Se você optar por nos dar feedback, como sugestões para melhorar nossos serviços, poderemos agir de acordo com essa informação sem qualquer compromisso com você.
 
+## Custos de conexão de rede celular, Wi-Fi e outros
+
+Os Serviços do Google podem usar a internet com frequência quando você não está interagindo ativamente com eles ou com seu dispositivo. A internet é usada dessa forma para uma ampla variedade de finalidades, por exemplo, para fornecer atualizações de software e melhorar os serviços, a segurança, a experiência do usuário e/ou as operações do Google, incluindo publicidade. Esses usos dependem das suas conexões de rede celular, Wi-Fi e/ou outras e podem consumir seu plano de dados com seus provedores de acesso à internet ou de rede celular. Você é responsável por todos esses usos de rede e custos financeiros associados. Verifique seu plano de serviço de internet ou celular, além das configurações de rede e do dispositivo.
+
 # Conteúdo nos serviços do Google
 
 ## Seu conteúdo
 
-Alguns dos nossos serviços permitem que você gere conteúdo original. O Google não vai reivindicar a propriedade desse conteúdo.
+Alguns dos nossos serviços permitem que você gere conteúdo original. O Google não vai reivindicar a propriedade desse conteúdo. Alguns conteúdos podem não ser adequados para todos.
 
 Alguns dos nossos serviços permitem que você deixe seu conteúdo disponível publicamente. Por exemplo, é possível postar uma avaliação de restaurante ou produto ou fazer upload de uma postagem em um blog que você criou.
 
@@ -262,7 +266,7 @@ Fornecemos nossos serviços usando um nível razoável de habilidade e cuidado. 
 
 Os únicos compromissos que assumimos com relação aos nossos serviços, incluindo o conteúdo deles, as funções específicas ou a confiabilidade, disponibilidade ou possibilidade de atender às suas necessidades são fornecidos (1) na seção *Garantia*, (2) nos termos adicionais específicos do serviço e (3) nas leis que não podem ser limitadas por estes termos.
 
-**Não confie nos serviços para aconselhamento médico, jurídico, financeiro ou outra assistência profissional. Todo conteúdo sobre esses assuntos é fornecido somente para fins informativos e não substitui a orientação de um profissional qualificado.**
+**A menos que seja explicitamente permitido pelos termos adicionais específicos do serviço, não confie nos serviços para aconselhamento médico, jurídico, financeiro ou outra assistência profissional. Todo conteúdo sobre esses assuntos é fornecido somente para fins informativos, não constitui diagnóstico ou tratamento médico e não substitui a orientação de um profissional qualificado.**
 
 ## Responsabilidades
 
@@ -285,7 +289,7 @@ Se você é um usuário comercial ou uma organização:
 
 - Na medida permitida por lei, você indenizará o Google e os diretores, executivos, funcionários e prestadores de serviço dele por qualquer processo judicial de terceiros (incluindo ações de órgãos do governo) decorrentes ou relacionados ao uso ilegal dos serviços, a violações destes termos ou dos termos adicionais específicos do serviço. Essa indenização cobre qualquer responsabilidade ou despesa decorrente de ações judiciais, perdas, danos, julgamentos, multas, custos de litígios e honorários advocatícios, exceto se a responsabilidade ou despesa for causada por violação, negligência ou má conduta intencional do Google.
 - Se você for passível de isenção legal de certas responsabilidades, incluindo indenização, essas responsabilidades não se aplicarão a você de acordo com estes termos. Por exemplo, a ONU goza de certas imunidades para com obrigações legais, e estes termos não modificam essas imunidades.
-- o Google não será responsável por responsabilidades:
+- Exceto conforme indicado na seção *Para todos os usuários* acima, o Google não terá as seguintes responsabilidades:
  - Perda de lucros, receitas, oportunidades de negócios, clientela ou economias previstas
  - Perda indireta ou emergente
  - Danos punitivos
@@ -302,7 +306,7 @@ Antes de tomar as providências descritas abaixo, vamos enviar, com antecedênci
 
 ### Remover seu conteúdo
 
-Se tivermos razões concretas para acreditar que qualquer conteúdo seu (1) viola estes termos, os termos adicionais específicos do serviço ou as políticas, (2) viola a legislação aplicável ou (3) pode prejudicar nossos usuários, terceiros ou o Google, reservamo-nos o direito de retirar parte ou a totalidade desse conteúdo de acordo com a legislação aplicável. Alguns exemplos são pornografia infantil, conteúdo que facilita o assédio ou tráfico de pessoas, conteúdo terrorista e conteúdo que viola os direitos de propriedade intelectual de outra pessoa.
+Se tivermos razões concretas para acreditar que qualquer conteúdo seu (1) viola estes termos, os termos adicionais específicos do serviço ou as políticas, (2) viola a legislação aplicável ou (3) pode prejudicar nossos usuários, terceiros ou o Google, reservamo-nos o direito de remover parte ou a totalidade desse conteúdo de acordo com a legislação aplicável. Alguns exemplos são pornografia infantil, conteúdo que facilita o assédio ou tráfico de pessoas, conteúdo terrorista e conteúdo que viola os direitos de propriedade intelectual de outra pessoa.
 
 ### Suspender ou encerrar seu acesso aos serviços do Google
 
@@ -324,7 +328,7 @@ O respeito pela privacidade e segurança dos seus dados é fundamental na nossa 
 
 Para obter informações sobre como entrar em contato com o Google, por favor visite nossa página de contato.
 
-As leis da Califórnia vão reger todas as disputas que surgirem com relação a qualquer um destes termos, dos termos adicionais específicos do serviço ou qualquer serviço relacionado, mesmo se houver conflito nas regras das leis. Essas disputas serão resolvidas exclusivamente nos tribunais federais ou estaduais do condado de Santa Clara, Califórnia, EUA, e você e o Google concordam com a jurisdição pessoal nesses tribunais.
+As leis da Califórnia vão reger estes termos e todas as disputas que surgirem com relação a qualquer um destes termos, dos termos adicionais específicos do serviço ou qualquer serviço relacionado, mesmo se houver conflito de leis. Essas disputas serão resolvidas exclusivamente nos tribunais federais ou estaduais do condado de Santa Clara, Califórnia, EUA, e você e o Google concordam com a jurisdição pessoal nesses tribunais.
 
 Se a legislação local aplicável impedir que determinadas disputas sejam resolvidas em um tribunal da Califórnia, você poderá encaminhá-las para os tribunais locais. Da mesma forma, se a legislação local aplicável impedir que o tribunal local aplique a lei da Califórnia para resolver essas disputas, elas serão regidas pelas leis do seu país, estado ou outro local de residência.
 
@@ -344,7 +348,7 @@ Se você não seguir estes termos ou os termos adicionais específicos do servi�
 
 Podemos atualizar estes termos e os termos adicionais específicos do serviço (1) para refletir mudanças nos nossos serviços ou na maneira como fazemos negócios, por exemplo, quando adicionamos serviços, recursos, tecnologias, preços ou benefícios novos (ou removemos os antigos), (2) por motivos jurídicos, regulatórios ou de segurança ou (3) para evitar abusos ou danos.
 
-Se fizermos mudanças significativas nestes termos ou nos termos adicionais específicos do serviço, avisaremos com antecedência razoável e daremos a você oportunidade de analisar as mudanças, exceto (1) quando lançarmos um novo serviço ou recurso ou (2) em situações urgentes, como para evitar abusos atuais ou responder a requisitos legais. Se não concordar com os novos Termos, você deverá remover seu conteúdo e parar de usar os serviços. Você também pode finalizar seu relacionamento conosco a qualquer momento encerrando sua Conta do Google.
+Se mudarmos estes termos ou os outros termos específicos do serviço, vamos enviar um aviso prévio e daremos a você a oportunidade de analisar as mudanças, exceto (1) quando lançarmos um novo serviço ou recurso ou (2) em situações urgentes, como para evitar abusos atuais ou responder a exigências legais. Se não concordar com os novos Termos, você vai precisar remover seu conteúdo e parar de usar os serviços. Você também pode finalizar seu relacionamento conosco a qualquer momento encerrando sua Conta do Google.
 
 # Definições
 
@@ -423,5 +427,3 @@ Se você tem uma Conta do Google, ela é associada a um país (ou território) p
 - a versão dos termos que regem nossa relação.
 
 Quando a conta não está conectada, a versão específica é determinada pelo local em que você está usando os Serviços do Google. Se você tem uma conta, faça login e abra estes termos para ver o país associado a ela.
-
-*close*
