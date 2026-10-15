@@ -3,8 +3,8 @@ empresa: "Steam"
 documento: "Termos de Uso"
 categoria: "Jogos"
 fonte: "https://store.steampowered.com/subscriber_agreement/?l=brazilian"
-capturado_em: 2026-07-17
-wayback: "https://web.archive.org/web/20260717092656/https://store.steampowered.com/subscriber_agreement/?l=brazilian"
+capturado_em: 2026-10-15
+wayback: "https://web.archive.org/web/20261015114520/https://store.steampowered.com/subscriber_agreement/?l=brazilian"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/termos-de-uso.md"
 ---
 
@@ -59,10 +59,6 @@ No caso de Conteúdo e Serviços, aceitamos sua oferta e celebramos o acordo com
 No caso de Hardware, só aceitamos sua oferta e celebramos a transação de um item pedido por você quando enviamos o Hardware e confirmamos por e-mail que o Hardware foi enviado (“Confirmação de Envio”). Se seu pedido for enviado em mais de um pacote, você poderá receber uma Confirmação de Envio para cada um, e cada Confirmação de Envio celebrará um contrato de venda individual relativo ao Hardware especificado. Qualquer Hardware que for entregue a você permanecerá sendo propriedade da Valve até que o pagamento seja integralmente efetuado.
 
 Você aceita receber faturas de vendas de forma eletrônica.
-
-E. Processamento de pagamentos
-
-O processamento de pagamentos relacionado ao Conteúdo e aos Serviços e/ou ao hardware adquirido no Steam é realizado diretamente pela Valve Corporation ou pela subsidiária integral da Valve, a Valve GmbH i.L., em nome da Valve Corporation, dependendo do tipo de método de pagamento utilizado. Se seu cartão foi emitido fora dos Estados Unidos, seu pagamento pode ser processado por um adquirente europeu pela Valve GmbH i.L., em nome da Valve Corporation. Para quaisquer outros tipos de compras, o pagamento será recolhido diretamente pela Valve Corporation. Em todos os casos, a entrega de Conteúdo, Serviços e hardware é realizada pela Valve Corporation.
 
 2. LICENÇAS ⏶
 
@@ -332,4 +328,4 @@ As obrigações da Valve estão sujeitas às leis e processos legais existentes,
 
 Você concorda agir de acordo com todas as leis e regulamentos de importação/exportação. Você concorda em não exportar o Conteúdo, os Serviços ou o Hardware nem autorizar o uso de sua Conta por indivíduos de quaisquer países que apoiem atividades terroristas, para os quais as exportações de criptografia são restritas no momento pelo Bureau of Export Administration dos EUA. Você declara e garante que não se encontra em um país proibido, não está sob controle de indivíduos desses países e não é cidadão nem residente em nenhum desses países.
 
-Este Acordo foi atualizado pela última vez em 20 de abril de 2026 ("Data de Revisão"). Se você assinou este Acordo antes da Data de Revisão, ele substitui e sucede o acordo existente com a Valve ou a Valve SARL no dia que entrar em vigor de acordo com a Seção 8 acima.
+Este Acordo foi atualizado pela última vez em 10 de setembro de 2026 ("Data de Revisão"). Se você assinou este Acordo antes da Data de Revisão, ele substitui e sucede o acordo existente com a Valve ou a Valve SARL no dia que entrar em vigor de acordo com a Seção 8 acima.
