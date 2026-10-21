@@ -3,10 +3,12 @@ empresa: "Pinterest"
 documento: "Termos de Uso"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/terms-of-service"
-capturado_em: 2025-05-11
-wayback: "https://web.archive.org/web/20250511213204/https://policy.pinterest.com/pt-br/terms-of-service"
+capturado_em: 2026-10-21
+wayback: "https://web.archive.org/web/20261021153248/https://policy.pinterest.com/pt-br/terms-of-service"
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/termos-de-uso.md"
 ---
+
+*Vamos atualizar nossos Termos de Serviço no dia 12 de novembro de 2026. Você pode ver uma prévia desses Termos atualizados aqui.*
 
 # Obrigado por usar o Pinterest!
 
@@ -27,7 +29,7 @@ Cada empresa tem seus termos. Estes são os nossos. Eles incluem estes Termos de
 
 # 1. O Serviço
 
-O Pinterest ajuda a inspirar as pessoas a criar a vida que elas amam. Para fazer isso, mostramos coisas que achamos que serão relevantes, interessantes e pessoais para você com base em suas atividades dentro e fora da plataforma. Para fornecer o Serviço, precisamos poder identificar você e seus interesses, e usamos seus dados pessoais para esse efeito. Para obter mais informações, leia nossa Política de Privacidade. Algumas das coisas que mostramos a você são patrocinadas por anunciantes. Como parte do Serviço, tentamos garantir que mesmo o conteúdo patrocinado seja relevante e interessante para você. Você pode identificar o conteúdo patrocinado porque ele estará rotulado de forma clara.
+O Pinterest ajuda a inspirar as pessoas a criar a vida que elas amam. Para fazer isso, mostramos coisas que achamos que serão relevantes, interessantes e pessoais para você com base em sua atividade dentro e fora do site. Para fornecer o Serviço, precisamos poder identificar você e seus interesses, e usamos seus dados pessoais para esse efeito. Para obter mais informações, leia nossa Política de Privacidade. Algumas das coisas que mostramos são promovidas por anunciantes. Como parte do Serviço, tentamos garantir que mesmo o conteúdo patrocinado seja relevante e interessante para você. Você pode identificar o conteúdo patrocinado porque ele estará rotulado de forma clara.
 
 Simplificando
 
