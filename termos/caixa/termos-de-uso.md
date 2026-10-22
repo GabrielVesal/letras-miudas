@@ -3,8 +3,7 @@ empresa: "Caixa"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
-capturado_em: 2022-11-25
-wayback: "https://web.archive.org/web/20221125185904/https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
+capturado_em: 2026-10-22
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md"
 ---
 
@@ -142,8 +141,8 @@ A CAIXA tem sempre um cartão perfeito para você.
 
 Escolha agora o seu ›
 
-### Contas CAIXA
+### Conta Digital CAIXA
 
-As contas CAIXA têm as melhores tarifas do mercado.
+Abertura e movimentação pelo App CAIXA com atendimento digital pensado para você!
 
 Abra sua conta ›
