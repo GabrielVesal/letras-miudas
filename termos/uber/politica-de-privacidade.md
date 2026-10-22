@@ -3,12 +3,11 @@ empresa: "Uber"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
-capturado_em: 2026-08-14
-wayback: "https://web.archive.org/web/20260814094449/https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/"
+capturado_em: 2026-10-22
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/uber/politica-de-privacidade.md"
 ---
 
-***Última atualização: 13 de julho de 2026***
+***Última atualização: 1º de setembro de 2026***
 
 # Aviso de Privacidade da Uber: Passageiros e destinatários de pedidos
 
@@ -108,8 +107,8 @@ Se você acredita que seus dados foram tratados em violação da PDPL, você tem
 
 Em caso de dúvidas, comentários e solicitações relacionados ao Aviso de Privacidade, você também pode entrar em contato com a Uber por correio:
 
-- **Escritório Local:** Uber Saudi Limited, Building No. 6247, Al Olaya St., Al Muruj Dist., Riyadh 12281 - 2783, Reino da Arábia Saudita (Short Address: RHGA6247).
-- **Global HQ:** Uber Technologies, Inc., 1515 3rd Street, San Francisco, CA 94158, EUA.
+- **Escritório local:** Uber Saudi Limited, Building No. 6247, Al Olaya St., Al Muruj Dist., Riyadh 12281 - 2783, Reino da Arábia Saudita (Short Address: RHGA6247).
+- **Sede global:** Uber Technologies, Inc., 1725 3rd Street, San Francisco, CA 94158.
 
 México
 
@@ -118,6 +117,10 @@ Acesse este link para obter informações sobre as práticas de privacidade da U
 Nigéria
 
 Você pode entrar em contato com a Uber por aqui sobre a conformidade da plataforma com a Lei de Proteção de Dados da Nigéria de 2023 (Data Protection Act of 2023) ou para solicitar o exercício dos seus direitos sob esta mesma lei. Você também pode entrar em contato com a Comissão de Proteção de Dados da Nigéria (Nigeria Data Protection Commission) por aqui sobre preocupações relacionadas a essa conformidade.
+
+Peru
+
+Você pode entrar em contato com a Uber aqui para exercer seus direitos de acordo com a Lei Peruana de Proteção de Dados ou entrar em contato com o Diretor de Proteção de Dados (DPO) da Uber. Você também pode entrar em contato com o controlador de dados pelo correio em: Uber Technologies, Inc., 1725 3rd Street, San Francisco, CA 94158, United States.
 
 Quebec, Canadá
 
@@ -364,29 +367,31 @@ Isso pode incluir o compartilhamento de dados com:
 | **Seguradoras.** Se você se envolver em um incidente, reportar ou enviar um pedido de indenização relacionado aos serviços do app da Uber a uma seguradora, a Uber compartilhará seus dados com essa seguradora para ajustar ou lidar com o pedido de indenização. | Dados necessários para ajustar ou lidar com a solicitação, que podem incluir: - Conta - Comunicações - Dispositivo - Localização - Viagem/pedido - Uso - Conteúdo do usuário |
 | **Estabelecimentos ou restaurantes.** Se você criar ou adicionar à sua conta de usuário um número de assinatura de fidelidade de restaurante ou estabelecimento, nós compartilharemos esses dados com o restaurante/estabelecimento quando você fizer um pedido nesses locais. Nós também permitimos que você compartilhe seu nome, suas informações de contato e informações de pedidos com restaurantes ou estabelecimentos para receber comunicações de marketing deles. | - Conta - Contato - Endereço de entrega - Nome e sobrenome - Informações da assinatura de fidelidade do restaurante/estabelecimento - Pedido |
 
-**3. Com prestadores de serviço e parceiros comerciais da Uber**
+**3. Com prestadores de serviços e parceiros comerciais da Uber**
 
 Aqui estão incluídos os terceiros, ou categorias de terceiros, descritos abaixo.
 
 - Contadores, consultores, advogados e outros prestadores de serviços profissionais.
 - Parceiros e prestadores de serviço de publicidade e marketing, incluindo editores de publicidade e marketing (como plataformas de mídia social), redes de publicidade e anunciantes, provedores de dados terceirizados, fornecedores de tecnologia de publicidade, prestadores de serviços de medição e análise e outros prestadores de serviços. A Uber conta com esses fornecedores para alcançar ou entender melhor os usuários atuais e potenciais dos serviços dos apps da Uber ou dos nossos parceiros de publicidade e para medir e melhorar a eficácia dos anúncios. Por exemplo, compartilhamos listas de público-alvo com editores de publicidade e marketing, nas quais os usuários são identificados por pontos de dados limitados (*por exemplo*, ID de publicidade móvel, e-mail criptografado, nome) e agrupados com base em interesses e características inferidos. A Uber instrui os editores de publicidade e marketing a segmentar esses grupos, ou públicos-alvo, com anúncios.
+
+ A Uber não venderá nem compartilhará seu número de telefone com terceiros para enviar mensagens de texto promocionais ou de marketing. Isso exclui os prestadores de serviços que nos auxiliam exclusivamente na execução e fornecimento de nossos próprios serviços de mensagens de texto.
 - Intermediários de anúncios, como Criteo, Google, Rokt, The Trade Desk, TripleLift e outros. Compartilhamos dados — incluindo identificador de publicidade ou dispositivo, endereço de e-mail criptografado, localização aproximada, informações da viagem ou pedido atual e dados de interação com anúncios — com esses intermediários para viabilizar seus serviços e para outros fins divulgados em seus avisos de privacidade. Você pode cancelar a adesão à personalização de anúncios aqui. Para obter mais informações sobre as práticas de privacidade desses intermediadores, incluindo como enviar solicitações relacionadas ao tratamento de dados pessoais, acesse os avisos de privacidade acima.
 - Provedores de armazenamento em nuvem.
 - Plataforma e prestadores de serviço de suporte ao usuário.
 - Google, em conexão com o uso do Google Maps nos apps da Uber.
 - Provedores de soluções de risco e de verificação de identidade.
-- Processadores e facilitadores de pagamentos, inclusive PayPal e Hyperwallet.
+- Processadores e facilitadores de repasses de ganhos, inclusive PayPal e Hyperwallet.
 - Parceiros de pesquisa, inclusive os responsáveis por pesquisas ou projetos em parceria com a Uber ou em nome dela.
-- Empresas de redes sociais, inclusive Meta e TikTok, em conexão com o uso que a Uber faz das ferramentas delas nos apps e sites da Uber.
+- Empresas de mídia social, inclusive Meta e TikTok, em conexão com o uso que a Uber faz das ferramentas delas nos apps e sites da Uber.
 - Prestadores de serviço que ajudam a Uber a melhorar a segurança dos próprios apps e serviços
 
  .
 - Prestadores de serviço que nos fornecem ferramentas e serviços de inteligência artificial e aprendizado de máquina.
 - Parceiros e prestadores de serviços terceirizados que se integram aos apps da Uber, incluindo fornecedores de bicicletas e patinetes, como Lime e Tembici, prestadores de serviços de entrega, como iFood, e fornecedores de aplicativos móveis de terceiros.
-- Fornecedores de veículos terceirizados (parceiros locadores de veículos e locadoras) e operadores de depósitos gestores de veículos.
+- Fornecedores de veículos terceirizados (parceiros locadores de veículos e locadoras) e operadores de pátio dos locadores.
 - Parceiros de programas de fidelidade que oferecem pontos ou recompensas em viagens e pedidos do Uber Eats elegíveis, de acordo com os respectivos termos.
 - Parceiros de veículos autônomos que oferecem viagens ou serviços de entrega pelos apps da Uber.
-- Operadores de depósitos de veículos autônomos que auxiliam na manutenção e nas operações da frota acessando os dados de localização e status dos veículos.
+- Operadores de pátio de veículos autônomos dos locadores que auxiliam na manutenção e nas operações dos veículos acessando os dados de localização e status dos veículos.
 
 **4. Com subsidiárias e afiliadas da Uber**
 
@@ -611,6 +616,10 @@ Uber
 
 Acesse a Central de Ajuda
 
+Não venda nem compartilhe minhas informações pessoais
+
+Política de dados do Google
+
 ## Empresa
 
 - Quem somos
@@ -625,7 +634,6 @@ Acesse a Central de Ajuda
 
 - Viajar
 - Dirigir
-- Fazer entregas
 - Fazer um pedido
 - Uber para Empresas
 - Uber Freight
@@ -645,6 +653,7 @@ Acesse a Central de Ajuda
 - Cidades
 
 - Português (Brasil)
+- Phoenix
 
 © 2026 Uber Technologies Inc.
 
@@ -654,7 +663,7 @@ Acesse a Central de Ajuda
 
 ## Selecione o idioma de sua preferência
 
-árabe, العربيةbúlgaro, Българскиbengali, বাংলাtcheco, Češtinadinamarquês, Danskalemão, Deutschgrego, Ελληνικάinglês, Englishespanhol, Español (Internacional)espanhol (Espanha), Castellanoestoniano, Eestifinlandês, Suomifrancês (Canadá), Français (Canada)francês, Français (France)hebraico, עבריתhíndi, हिन्दीcroata, Hrvatskihúngaro, Magyaritaliano, Italianojaponês, 日本語canarim, ಕನ್ನಡcoreano, 한국어lituano, Lietuviųmarati, मराठीbokmål norueguês, Norsk Bokmålholandês, Nederlandspolonês, Polskiportuguês (Brasil), Português (Brasil)português (Portugal), Português (Portugal)romeno, Românărusso, Русскийcingalês (Sri Lanka), සිංහලeslovaco, Slovenčinaesloveno (Eslovênia), Slovenščinasueco, Svenskasuaíli, Kiswahilitâmil, தமிழ்télugo, తెలుగుturco, Türkçeucraniano, Укра�їнськаurdu, اردوchinês, 简体中文chinês (Hong Kong, RAE da China), 香港中文chinês (Taiwan), 繁體中文
+árabe, العربيةbúlgaro, Българскиbengali, বাংলাtcheco, Češtinadinamarquês, Danskalemão, Deutschgrego, Ελληνικάinglês, Englishespanhol, Español (Internacional)espanhol (Espanha), Castellanoestoniano, Eestifinlandês, Suomifrancês (Canadá), Français (Canada)francês, Français (France)hebraico, עבריתhíndi, हिन्दीcroata, Hrvatskihúngaro, Magyaritaliano, Italianojaponês, 日本語canarim, ಕನ್ನಡcoreano, 한국어lituano, Lietuviųmarati, मराठीbokmål norueguês, Norsk Bokmålholandês, Nederlandspolonês, Polskiportuguês (Brasil), Português (Brasil)português (Portugal), Português (Portugal)romeno, Românărusso, Русскийcingalês (Sri Lanka), සිංහලeslovaco, Slovenčinaesloveno (Eslovênia), Slovenščinasueco, Svenskasuaíli, Kiswahilitâmil, தமிழ்télugo, తెలుగుturco, Türkçeucraniano, Українськаurdu, اردوchinês, 简体中文chinês (Hong Kong, RAE da China), 香港中文chinês (Taiwan), 繁體中文
 
 - Viajar
 - Dirigir
