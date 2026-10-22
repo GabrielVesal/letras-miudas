@@ -3,8 +3,7 @@ empresa: "Rappi"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://legal.rappi.com/brazil/aviso-de-privacidade-e-politicas-de-uso-das-informacao-utilizadas-pela-rappi/"
-capturado_em: 2025-03-06
-wayback: "https://web.archive.org/web/20250306103202/https://legal.rappi.com/brazil/aviso-de-privacidade-e-politicas-de-uso-das-informacao-utilizadas-pela-rappi/"
+capturado_em: 2026-10-22
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/rappi/politica-de-privacidade.md"
 ---
 
@@ -171,7 +170,7 @@ Em alguns casos, você terá a opção de não fornecer certos Dados Pessoais e/
 
 Para apresentar uma requisição de exercício de qualquer dos direitos acima, você pode optar pelo uso dos meios descritos abaixo para entrar em contato com o encarregado pelo tratamento de dados pessoais da Rappi, Fernando Bousso:
 
-**Atendimento Eletrônico:** um requerimento deve ser apresentado por meio do envio do requerimento através da Plataforma Rappi na opção “Excluir minha conta Rappi” dentro da aba Dados Pessoais dentro do aplicativo e pelo site no seguinte link: https://www.rappi.com.br/account/profile ou através do e-mail dpo\_br@rappi.com
+**Atendimento Eletrônico:** um requerimento deve ser apresentado por meio do envio do requerimento através da Plataforma Rappi na opção “Excluir minha conta Rappi” dentro da aba Dados Pessoais dentro do aplicativo e pelo site no seguinte link: https://www.rappi.com.br/account/profile ou através do e-mail [email protected]
 
 **Atendimento Escrito:** um requerimento deve ser apresentado por meio do envio de uma solicitação escrita endereçada à Rappi, no Rua Haddock Lobo, 595 – 9º andar – Conj 91 – Lado A – São Paulo/SP – CEP: 01414-905,, sendo necessária a indicação do endereço escolhido para o posterior recebimento de notificações e respostas da Rappi.
 
