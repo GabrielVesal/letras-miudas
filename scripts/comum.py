@@ -296,6 +296,16 @@ def normalizar(md: str) -> str:
     return md.strip() + "\n"
 
 
+PT = re.compile(r"\b(de|que|não|para|com|dos|das|seus|suas|você|pelo|pela|são|uma)\b", re.I)
+EN = re.compile(r"\b(the|and|you|your|for|with|this|that|are|our|of)\b", re.I)
+
+
+def eh_portugues(md: str) -> bool:
+    """Evita arquivar a versão em inglês que alguns sites servem para servidores fora do Brasil."""
+    amostra = md[:20000]
+    return len(PT.findall(amostra)) > 1.5 * len(EN.findall(amostra))
+
+
 def parece_documento(md: str) -> bool:
     n = unicodedata.normalize("NFKD", md).encode("ascii", "ignore").decode().lower()
     hits = sum(1 for k in JURIDICO if k in n)
@@ -321,6 +331,8 @@ def converter(corpo: bytes, ctype: str, doc: Documento) -> str:
         md = html_para_markdown(html, doc.seletor, doc.remover)
     if not parece_documento(md):
         raise FalhaLeitura(f"não parece o documento ({len(md)} caracteres)")
+    if not eh_portugues(md):
+        raise FalhaLeitura("veio em outro idioma (provavelmente versão para fora do Brasil)")
     return md
 
 

@@ -10,10 +10,7 @@
       ]
     },
     "termos-de-uso": {
-      "url": "https://policies.google.com/terms?hl=pt-BR&gl=BR",
-      "urls_antigas": [
-        "https://policies.google.com/terms?hl=pt-BR"
-      ]
+      "url": "https://policies.google.com/terms?hl=pt-BR&gl=BR"
     }
   }
 }
