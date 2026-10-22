@@ -6,6 +6,7 @@ a mudança linha por linha.
 
 | Data | Empresa | Documento | Linhas | Resumo automático | Histórico |
 |---|---|---|---:|---|---|
+| 2026-10-22 | WhatsApp | Termos de Uso | +8 −7 | - | [histórico](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/termos-de-uso.md) |
 | 2026-10-22 | WhatsApp | Política de Privacidade | +12 −9 | - | [histórico](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/politica-de-privacidade.md) |
 | 2026-10-22 | Uber | Política de Privacidade | +20 −10 | - | [histórico](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/uber/politica-de-privacidade.md) |
 | 2026-10-22 | TIM | Política de Privacidade | +28 −28 | - | [histórico](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/tim/politica-de-privacidade.md) |
