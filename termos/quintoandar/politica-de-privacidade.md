@@ -3,8 +3,7 @@ empresa: "QuintoAndar"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://mkt.quintoandar.com.br/aviso-de-privacidade/"
-capturado_em: 2026-09-25
-wayback: "https://web.archive.org/web/20260925224721/https://mkt.quintoandar.com.br/aviso-de-privacidade/"
+capturado_em: 2026-10-22
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/quintoandar/politica-de-privacidade.md"
 ---
 
@@ -364,10 +363,9 @@ Para garantir que estamos sendo transparentes, listamos abaixo algumas finalidad
 - Consultas ao Sistema de Informações de Crédito do Banco Central do Brasil (SCR), para fins de análise de crédito, mediante sua autorização expressa nos termos da Resolução CMN n° 5.037/2022.
 - Due diligence de imóveis e clientes, com a busca de certidões e informações para garantir a idoneidade nas operações transacionadas em nossa plataforma.
 - Análise de crédito, para definição do seu perfil de crédito e oferecimento de condições de contratação mais adequadas a você.
-- Análise de perfil de busca, filtros utilizados, imóveis favoritos e visualizações, para gerar recomendações de acordo com o seu perfil.
+- Análise de perfil de busca, filtros utilizados, imóveis favoritos, visualizações, históricos de busca, logs de interação, dados conversacionais e quaisquer outras interações do usuário com o QuintoAndar, com o objetivo de construir um perfil de preferências e comportamento que nos permita apoiar você durante toda a sua jornada na Plataforma.
 - Consumo e disponibilização em nossa plataforma de dados de bases públicas relacionadas a imóveis (por exemplo, ITBI e IPTU), incluindo endereço completo, para realização de análises de mercado e oferta e disponibilização de informações de inteligência mercadológica, mesmo para imóveis não anunciados no Grupo QuintoAndar.
 - Avaliação dos históricos de busca, logs de interação, dados conversacionais e quaisquer outras interações do usuário com o QuintoAndar, com o objetivo de sugerir, por solicitação ou proativamente, imóveis compatíveis com suas preferências.
-- Interações prévias ao login na plataforma são associadas a um token desvinculado da sua conta. Para garantir a continuidade da sua jornada e proporcionar uma experiência fluida, é necessário que você realize a autenticação na plataforma, ocasião em que você passa a ser identificado e seu histórico de interações é automaticamente incorporado à sua conta.
 - Interações prévias ao login na plataforma são associadas a um token desvinculado da sua conta. Para garantir a continuidade da sua jornada e proporcionar uma experiência fluida, é necessário que você realize a autenticação na plataforma, ocasião em que você passa a ser identificado e seu histórico de interações é automaticamente incorporado à sua conta.
 - Ações de cobrança e negociação de débitos, internamente ou por meio de empresas de cobrança contratadas, com o objetivo de minimizar índices de inadimplência. **Quando necessário, as ações incluirão o enriquecimento de dados, a fim de obter formas alternativas de contato com o usuário inadimplente. Isso pode incluir, mas não se limita à utilização de dados de fontes públicas ou de terceiros, com o intuito de identificar meios mais eficazes de realizar a cobrança de valores pendentes.**
 - Fornecimento e aprimoramento de soluções de inteligência artificial, conforme detalhado nos Termos e Condições de Uso da plataforma QuintoAndar.
