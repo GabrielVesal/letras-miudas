@@ -1,0 +1,11 @@
+{
+  "nome": "Bradesco",
+  "categoria": "Bancos",
+  "site": "https://banco.bradesco/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://seguranca.bradesco/seguranca-informacao/direito-privacidade",
+      "navegador": true
+    }
+  }
+}

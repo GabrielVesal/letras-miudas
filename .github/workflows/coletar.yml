@@ -1,0 +1,62 @@
+name: Conferir termos
+
+on:
+  schedule:
+    - cron: "23 10 * * *"   # todo dia, 07:23 de Brasília
+  workflow_dispatch:
+    inputs:
+      empresas:
+        description: "Só estas empresas (slugs separados por vírgula). Vazio = todas"
+        default: ""
+
+permissions:
+  contents: write
+  models: read   # resumo automático das mudanças (GitHub Models); opcional
+
+concurrency:
+  group: coletar
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+
+      - name: Configurar git
+        run: |
+          git config user.name "letras-miudas-bot"
+          git config user.email "letras-miudas-bot@users.noreply.github.com"
+          # remove branches de teste antigos, se ainda existirem
+          git push -q origin --delete teste-viabilidade validacao 2>/dev/null || true
+
+      # empresas novas ganham o histórico do Wayback antes da primeira leitura
+      - name: Histórico de empresas novas
+        run: python -u scripts/historico.py --max-minutos 240 ${{ github.event.inputs.empresas && format('--empresas {0}', github.event.inputs.empresas) || '' }}
+
+      - name: Conferir documentos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -u scripts/coletar.py ${{ github.event.inputs.empresas && format('--empresas {0}', github.event.inputs.empresas) || '' }}
+
+      - name: Atualizar README e achados
+        run: |
+          python scripts/achados.py || true
+          python scripts/indice.py
+          git add README.md ACHADOS.md 2>/dev/null || git add README.md
+          git diff --cached --quiet || git commit -q -m "atualiza índice e achados"
+
+      - name: Publicar
+        if: always()
+        run: |
+          # rebase preservando as datas (os commits do histórico têm datas antigas de propósito)
+          git fetch -q origin main
+          git rebase -q --committer-date-is-author-date origin/main || { git rebase --abort; exit 1; }
+          git push -q origin HEAD:main

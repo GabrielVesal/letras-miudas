@@ -1,0 +1,19 @@
+{
+  "nome": "Nubank",
+  "categoria": "Bancos",
+  "site": "https://nubank.com.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade",
+      "urls_antigas": [
+        "https://nubank.com.br/politica-de-privacidade/"
+      ]
+    },
+    "termos-de-uso": {
+      "url": "https://nubank.com.br/transparencia/termos-de-uso",
+      "urls_antigas": [
+        "https://nubank.com.br/termos-de-uso/"
+      ]
+    }
+  }
+}

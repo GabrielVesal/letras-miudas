@@ -1,0 +1,10 @@
+{
+  "nome": "gov.br",
+  "categoria": "Governo",
+  "site": "https://www.gov.br/",
+  "documentos": {
+    "termos-de-uso": {
+      "url": "https://www.gov.br/pt-br/termos-de-uso"
+    }
+  }
+}

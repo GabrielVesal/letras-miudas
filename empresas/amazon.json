@@ -1,0 +1,15 @@
+{
+  "nome": "Amazon",
+  "categoria": "Compras",
+  "site": "https://www.amazon.com.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+      "navegador": true
+    },
+    "termos-de-uso": {
+      "url": "https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM",
+      "navegador": true
+    }
+  }
+}

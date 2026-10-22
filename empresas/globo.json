@@ -1,0 +1,10 @@
+{
+  "nome": "Globo",
+  "categoria": "Streaming",
+  "site": "https://globoplay.globo.com/",
+  "documentos": {
+    "termos-de-uso": {
+      "url": "https://login.globo.com/termosUso/6888"
+    }
+  }
+}

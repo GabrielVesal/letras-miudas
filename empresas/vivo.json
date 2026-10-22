@@ -1,0 +1,10 @@
+{
+  "nome": "Vivo",
+  "categoria": "Telefonia",
+  "site": "https://www.vivo.com.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/pdf/a-vivo/informacoes-aos-clientes/politica_de_privacidade.pdf"
+    }
+  }
+}

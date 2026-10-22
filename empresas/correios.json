@@ -1,0 +1,10 @@
+{
+  "nome": "Correios",
+  "categoria": "Serviços",
+  "site": "https://www.correios.com.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.correios.com.br/falecomoscorreios/minha-privacidade-nos-correios"
+    }
+  }
+}

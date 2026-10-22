@@ -1,0 +1,15 @@
+{
+  "nome": "Uber",
+  "categoria": "Apps",
+  "site": "https://www.uber.com/br/pt-br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.uber.com/global/pt-br/privacy-notice-riders-order-recipients/",
+      "navegador": true
+    },
+    "termos-de-uso": {
+      "url": "https://www.uber.com/br/pt-br/legal/general-terms-of-use/",
+      "navegador": true
+    }
+  }
+}

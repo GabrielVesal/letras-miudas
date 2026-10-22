@@ -1,0 +1,19 @@
+{
+  "nome": "Google",
+  "categoria": "Redes",
+  "site": "https://www.google.com.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://policies.google.com/privacy?hl=pt-BR&gl=BR",
+      "urls_antigas": [
+        "https://policies.google.com/privacy?hl=pt-BR"
+      ]
+    },
+    "termos-de-uso": {
+      "url": "https://policies.google.com/terms?hl=pt-BR&gl=BR",
+      "urls_antigas": [
+        "https://policies.google.com/terms?hl=pt-BR"
+      ]
+    }
+  }
+}

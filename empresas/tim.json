@@ -1,0 +1,10 @@
+{
+  "nome": "TIM",
+  "categoria": "Telefonia",
+  "site": "https://www.tim.com.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.tim.com.br/sobre-a-tim/institucional/seguranca/central-de-privacidade"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Neon",
+  "categoria": "Bancos",
+  "site": "https://neon.com.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://site.neon.com.br/portal-privacidade"
+    },
+    "termos-de-uso": {
+      "url": "https://site.neon.com.br/termos-de-uso-web-view"
+    }
+  }
+}

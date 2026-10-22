@@ -1,0 +1,13 @@
+{
+  "nome": "Rappi",
+  "categoria": "Apps",
+  "site": "https://www.rappi.com.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://legal.rappi.com/brazil/aviso-de-privacidade-e-politicas-de-uso-das-informacao-utilizadas-pela-rappi/"
+    },
+    "termos-de-uso": {
+      "url": "https://legal.rappi.com/brazil/termos-e-condicoes-de-uso-da-plataforma-rappi/"
+    }
+  }
+}

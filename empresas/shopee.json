@@ -1,0 +1,10 @@
+{
+  "nome": "Shopee",
+  "categoria": "Compras",
+  "site": "https://shopee.com.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://help.shopee.com.br/portal/4/article/77068"
+    }
+  }
+}

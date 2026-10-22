@@ -1,0 +1,13 @@
+{
+  "nome": "WhatsApp",
+  "categoria": "Redes",
+  "site": "https://www.whatsapp.com/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
+    },
+    "termos-de-uso": {
+      "url": "https://www.whatsapp.com/legal/terms-of-service?lang=pt_BR"
+    }
+  }
+}

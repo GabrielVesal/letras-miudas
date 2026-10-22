@@ -1,0 +1,11 @@
+{
+  "nome": "Shein",
+  "categoria": "Compras",
+  "site": "https://br.shein.com/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://br.shein.com/Consumer-Privacy-Notice-s-101.html",
+      "navegador": true
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "nome": "Inter",
+  "categoria": "Bancos",
+  "site": "https://inter.co/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://inter.co/politica-de-privacidade/"
+    }
+  }
+}

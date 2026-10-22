@@ -1,0 +1,13 @@
+{
+  "nome": "Caixa",
+  "categoria": "Bancos",
+  "site": "https://www.caixa.gov.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.caixa.gov.br/privacidade/aviso-de-privacidade/Paginas/default.aspx"
+    },
+    "termos-de-uso": {
+      "url": "https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
+    }
+  }
+}

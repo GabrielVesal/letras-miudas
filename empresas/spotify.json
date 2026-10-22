@@ -1,0 +1,13 @@
+{
+  "nome": "Spotify",
+  "categoria": "Streaming",
+  "site": "https://www.spotify.com/br-pt/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.spotify.com/br-pt/legal/privacy-policy/"
+    },
+    "termos-de-uso": {
+      "url": "https://www.spotify.com/br-pt/legal/end-user-agreement/"
+    }
+  }
+}

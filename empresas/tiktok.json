@@ -1,0 +1,10 @@
+{
+  "nome": "TikTok",
+  "categoria": "Redes",
+  "site": "https://www.tiktok.com/",
+  "documentos": {
+    "termos-de-uso": {
+      "url": "https://www.tiktok.com/legal/page/row/terms-of-service/pt-BR"
+    }
+  }
+}

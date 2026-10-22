@@ -1,0 +1,13 @@
+{
+  "nome": "ChatGPT (OpenAI)",
+  "categoria": "IA",
+  "site": "https://openai.com/pt-BR/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://openai.com/pt-BR/policies/privacy-policy/"
+    },
+    "termos-de-uso": {
+      "url": "https://openai.com/pt-BR/policies/row-terms-of-use/"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "nome": "Instagram",
+  "categoria": "Redes",
+  "site": "https://www.instagram.com/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://privacycenter.instagram.com/policy",
+      "navegador": true
+    }
+  }
+}

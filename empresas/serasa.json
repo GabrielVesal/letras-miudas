@@ -1,0 +1,13 @@
+{
+  "nome": "Serasa",
+  "categoria": "Serviços",
+  "site": "https://www.serasa.com.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.serasa.com.br/app/politica-de-privacidade/"
+    },
+    "termos-de-uso": {
+      "url": "https://www.serasa.com.br/app/termos-de-uso/"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "nome": "Airbnb",
+  "categoria": "Apps",
+  "site": "https://www.airbnb.com.br/",
+  "documentos": {
+    "termos-de-uso": {
+      "url": "https://www.airbnb.com.br/terms"
+    }
+  }
+}
