@@ -3,8 +3,7 @@ empresa: "ChatGPT (OpenAI)"
 documento: "Termos de Uso"
 categoria: "IA"
 fonte: "https://openai.com/pt-BR/policies/row-terms-of-use/"
-capturado_em: 2026-02-10
-wayback: "https://web.archive.org/web/20260210054646/https://openai.com/pt-BR/policies/row-terms-of-use/"
+capturado_em: 2026-10-22
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/openai/termos-de-uso.md"
 ---
 
@@ -22,7 +21,7 @@ Nossa Política de Privacidade explica como coletamos e usamos informações pes
 
 ## Quem somos
 
-A OpenAI é uma empresa de pesquisa e implementação de inteligência artificial. A nossa missão é garantir que a inteligência artificial beneficie toda a humanidade. Para obter mais informações sobre a OpenAI, visite https://openai.com/about.
+A OpenAI é uma empresa de pesquisa e implementação de IA. Nossa missão é garantir que a inteligência artificial geral beneficie toda a humanidade. Para obter mais informações sobre a OpenAI, visite https://openai.com/about.
 
 ## Registro e acesso
 
@@ -32,7 +31,7 @@ Registro. Para se cadastrar e usar nossos Serviços, você deve fornecer informa
 
 ## Usando nossos Serviços
 
-O que você pode fazer. Mediante o cumprimento destes Termos, você poderá acessar e usar nossos Serviços. Ao utilizar nossos Serviços, você deve cumprir todas as leis aplicáveis, bem como nossa Política de Compartilhamento e Publicação, Políticas de Uso e qualquer outra documentação, diretrizes ou políticas que disponibilizarmos a você.
+O que você pode fazer. Mediante o cumprimento destes Termos, você pode acessar e usar nossos Serviços. Ao utilizar nossos Serviços, você deve cumprir todas as leis aplicáveis, bem como nossa Política de Compartilhamento e Publicação, Políticas de Uso e qualquer outra documentação, diretrizes ou políticas que disponibilizarmos a você.
 
 O que você não pode fazer. Você não poderá usar nossos Serviços para qualquer atividade ilegal, prejudicial ou abusiva. Por exemplo, você não deve:
 
@@ -97,7 +96,7 @@ Rescisão. Você tem a liberdade de interromper o uso de nossos Serviços a qual
 
 Também podemos encerrar sua conta se ela estiver inativa por mais de um ano e você não tiver uma conta paga. Se fizermos isso, forneceremos um aviso prévio.
 
-Apelações. Se você acredita que suspendemos ou encerramos sua conta por engano, pode apresentar uma contestação entrando em contato com nossa equipe de suporte(abre em uma nova janela).
+Recursos. Se você acredita que suspendemos ou encerramos sua conta por engano, pode apresentar uma contestação entrando em contato com nossa equipe de suporte(abre em uma nova janela).
 
 ## Interrupção dos Serviços
 
@@ -125,7 +124,7 @@ Se você for uma empresa ou organização, na medida permitida por lei, você de
 
 VOCÊ E A OPENAI CONCORDAM COM AS SEGUINTES CLÁUSULAS DE ARBITRAGEM OBRIGATÓRIA E RENÚNCIA A AÇÕES COLETIVAS:
 
-Arbitragem obrigatória. Você e a OpenAI concordam em resolver quaisquer disputas decorrentes ou relacionadas a estes Termos ou aos nossos Serviços, independentemente de quando a disputa surgiu, mesmo que tenha sido antes da existência destes Termos (uma “Disputa”), por meio de arbitragem final e vinculativa. Você pode optar por não participar da arbitragem dentro de 30 dias após a criação da conta ou de qualquer atualização destes termos de arbitragem dentro de 30 dias após a entrada em vigor da atualização, preenchendo este formulário. Se você optar por não aceitar uma atualização, os últimos termos de arbitragem acordados serão aplicados.
+ARBITRAGEM OBRIGATÓRIA. Você e a OpenAI concordam em resolver quaisquer disputas decorrentes ou relacionadas a estes Termos ou aos nossos Serviços, independentemente de quando a disputa surgiu, mesmo que tenha sido antes da existência destes Termos (uma “Disputa”), por meio de arbitragem final e vinculativa. Você pode optar por não participar da arbitragem dentro de 30 dias após a criação da conta ou de qualquer atualização destes termos de arbitragem dentro de 30 dias após a entrada em vigor da atualização, preenchendo este formulário. Se você optar por não aceitar uma atualização, os últimos termos de arbitragem acordados serão aplicados.
 
 Resolução informal de disputas. Gostaríamos de entender e tentar resolver suas preocupações antes de tomarmos medidas legais formais. Antes que qualquer um de nós apresente uma queixa contra o outro, ambos concordamos em tentar resolver a disputa informalmente. Ao enviar-nos uma notificação através deste formulário, você concorda com isso. Faremos isso enviando um aviso para o endereço de e-mail associado à sua conta. Caso não consigamos resolver uma disputa em 60 dias, qualquer uma das partes terá o direito de iniciar um processo de arbitragem. Ambas as partes concordam em participar de uma audiência de conciliação individual, caso alguma delas a solicite durante esse período. Qualquer prazo prescricional será suspenso durante este processo de resolução informal.
 
