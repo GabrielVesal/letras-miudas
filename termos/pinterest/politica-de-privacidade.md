@@ -3,10 +3,11 @@ empresa: "Pinterest"
 documento: "Política de Privacidade"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/privacy-policy"
-capturado_em: 2025-08-06
-wayback: "https://web.archive.org/web/20250806072816/https://policy.pinterest.com/pt-br/privacy-policy"
+capturado_em: 2026-10-22
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md"
 ---
+
+*Vamos atualizar nossa Política de Privacidade no dia 12 de novembro de 2026. Você pode ver uma prévia dessa Política atualizada aqui.*
 
 # Divulgação e Aviso da Lei de Privacidade Estadual na Coleta
 
@@ -456,6 +457,6 @@ A melhor maneira de você entrar em contato conosco ou exercer suas opções des
 
 Você também pode entrar em contato com o nosso responsável pela proteção dos dados.
 
-Se você reside na República Federativa do Brasil, pode entrar em contato com a Encarregada de Proteção de Dados Ruth O'Toole por meio do e-mail dpo@pinterest.com.
+Se você mora na República Federativa do Brasil, pode entrar em contato com a Diretora de Proteção de Dados, Victoria (Vi) Wan, pelo e-mail dpo@pinterest.com.
 
 Data de vigência: 30 de abril de 2025
