@@ -3,8 +3,7 @@ empresa: "Neon"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://site.neon.com.br/portal-privacidade"
-capturado_em: 2025-08-28
-wayback: "https://web.archive.org/web/20250828065131/https://site.neon.com.br/portal-privacidade"
+capturado_em: 2026-10-22
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/neon/politica-de-privacidade.md"
 ---
 
@@ -18,7 +17,7 @@ Meus direitos
 
 Transferência internacional
 
-Nota de escalericimento
+Nota de esclarecimento
 
 ## Na Neon tratamos seus dados com seriedade e transparência
 
@@ -50,11 +49,11 @@ As informações sobre os tratamentos de dados realizados pela Neon podem ser en
 
 O papel do DPO, também conhecido como Encarregado de Dados, é garantir que uma organização siga as leis de proteção de dados, como a LGPD, protegendo assim os dados pessoais. Eles são responsáveis por supervisionar a coleta, o armazenamento e o uso desses dados, além de estimular a cultura de proteção de dados e práticas seguras.
 
-A DPO da Neon é o **Geison Correa**.
+O DPO da Neon é o **Caio Lima.**
 
 ### Como faço para contatar o DPO
 
-Para exercer seus direitos, clique em "Meus Direitos" no topo da página ou clique aqui e faça suas escolhas.
+Para exercer seus direitos, acesse “Meus Direitos" e faça suas escolhas.
 
 ### O que é transferência internacional de dados?
 
@@ -94,13 +93,13 @@ Informar
 
 Pedir informações sobre a possibilidade de não fornecer o consentimento sobre algum tratamento e suas consequências.
 
-**Entre em contato com a gente clicando aqui**
+**Entre em contato com a gente: Meus Direitos**
 
 ## Política de Privacidade
 
 Para acessar nossa Política de Privacidade clique aqui
 
-## Importante
+**Importante**
 
 Prazo para atendimento
 
