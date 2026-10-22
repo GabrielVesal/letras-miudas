@@ -3,176 +3,145 @@ empresa: "Waze"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://support.google.com/waze/answer/12075406?hl=pt-BR"
-capturado_em: 2025-06-24
-wayback: "https://web.archive.org/web/20250624043020/https://support.google.com/waze/answer/12075406?hl=pt-BR"
+capturado_em: 2026-10-22
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/waze/politica-de-privacidade.md"
 ---
 
-A Waze Mobile Limited respeita sua privacidade. A Waze Mobile Limited e os afiliados dela (“Waze” ou a “Empresa”) oferecem serviços com base na comunidade, de mapeamento e navegação GPS, além de serviços de carona para usuários do www.waze.com (o “Site”) e/ou usuários dos aplicativos para dispositivos móveis (o “Aplicativo”) do Waze (coletivamente referidos como “Serviços”). Ao utilizar nossos Serviços, você confia suas informações a nós. Entendemos que essa é uma grande responsabilidade e trabalhamos muito para protegê-las e permitir que você as controle.
+A Waze Mobile Limited respeita sua privacidade. A Waze Mobile Limited e seus afiliados ("Waze" ou "Empresa") oferecem mapeamento, navegação GPS e serviços baseados na comunidade para usuários do www.waze.com ("Site") e/ou dos apps Waze ("Aplicativo", coletivamente, "Serviços"). Ao usar nossos serviços, você confia suas informações a nós. Entendemos que é uma grande responsabilidade e trabalhamos muito para proteger seus dados e colocar você no controle.
 
-O objetivo desta Política de Privacidade é detalhar quais informações coletamos, por que as coletamos e como você pode atualizar, gerenciar e excluir seus dados. Esta Política de Privacidade tem as seguintes seções:
+O objetivo desta Política de Privacidade é detalhar quais informações coletamos, por que as coletamos e como você pode atualizar, gerenciar e excluir seus dados. Seções desta Política de Privacidade:
 
 - Contas de usuário e acesso aos Serviços
 - Informações que são coletadas
-- Por que o Waze coleta suas informações pessoais
+- Por que o Waze coleta dados
 - Compartilhamento das suas informações
 - Visibilidade
-- Perfil no Waze Carpool
-- Integração com redes sociais
-- Integração com outros serviços de terceiros
+- Integração com outros serviços independentes
 - Controle das suas informações pessoais
-- Como o Waze armazena as informações coletadas
+- Como o Waze armazena os dados coletados
 - Como o Waze usa as informações agregadas
 - Cookies
-- Campanhas de publicidade e anúncios
+- Anúncios no Waze
 - Segurança das informações
 - Conformidade e cooperação com órgãos reguladores
 - Alterações nesta Política de Privacidade
 
-Esta Política de Privacidade é incorporada como parte dos Termos de Uso do Waze e dos Termos de Uso do Waze Carpool (os “Termos de Uso” ou os “Termos”). **Seu uso dos Serviços está sujeito aos Termos de Uso, à Política de Direitos Autorais e a esta Política de Privacidade e implica na aceitação desses documentos.**
+Nesta Política de Privacidade, o termo "Informações Pessoais" significa os dados que você nos fornece durante o uso dos Serviços do Waze e que podem identificar você, como seu nome, endereço de e-mail ou detalhes de faturamento e, em determinadas circunstâncias, as informações de local e trajeto ou outros dados que o Waze pode vincular a essas informações de forma razoável.
 
-Para usar nossos Serviços, você precisa ter no mínimo 16 anos de idade. Usuários com menos de 16 anos não podem fazer o download do Aplicativo nem utilizar os Serviços.
-
-Nesta Política de Privacidade, o termo “Informações Pessoais” significa os dados que recebemos e que identificam você, como seu nome, endereço de e-mail ou detalhes de faturamento e, em determinadas circunstâncias, as informações de local e trajeto ou outros dados que o Waze pode vincular a essas informações de forma razoável.
-
-Você pode ajustar suas **configurações de privacidade** no aplicativo do Waze e escolher quais Informações Pessoais podem ser coletadas e como elas serão usadas.
-
-# **Contato com o Waze – Relatórios sobre questões de privacidade**
-
-Se você tiver alguma dúvida sobre esta Política de Privacidade ou se acreditar que sua privacidade foi comprometida durante o uso dos Serviços, entre em contato com o Waze pelo e-mail privacy@waze.com. Você pode enviar outras solicitações, respostas, perguntas e reclamações para o Waze pelo e-mail support@waze.com.
+Você pode ajustar suas configurações de privacidade no app Waze e escolher quais informações pessoais podem ser coletadas e como elas serão usadas.
 
 # Contas de usuário e acesso aos Serviços
 
-Observe que quando você usa nossos Serviços, o Waze atribui uma conta (a “Conta” ou “Conta Waze”) a você. O Waze coletará e usará suas informações, incluindo metadados (conforme descrito abaixo), de acordo com esta Política de Privacidade. Isso ocorre ainda que você tenha você optado por não cadastrar sua conta, ou adicionando seu endereço de e-mail e fazendo login com sua Conta do Google, por exemplo.
+Quando você usa nossos Serviços, o Waze configura uma conta ("Conta" ou "Conta do Waze"), coleta e usa suas informações, incluindo metadados, conforme descrito abaixo, de acordo com esta Política de Privacidade. Isso acontece independentemente de você registrar ou não sua Conta, por exemplo, adicionando seu e-mail ou fazendo login com sua Conta do Google. É possível usar os Serviços do Waze mesmo sem registrar uma Conta. Se essa for sua escolha, ignore o processo de registro. Nesse caso, as condições abaixo serão aplicadas:
 
-O Waze pode permitir que você utilize os Serviços mesmo que você opte por não cadastrar sua Conta. Caso você opte por utilizar os Serviços do Waze sem cadastrar sua conta, você poderá pular o processo de cadastro. Nesse caso, as condições abaixo serão aplicadas:
+- O Waze ainda vai vincular à Conta não registrada todas as suas informações e gerar um identificador exclusivo de acordo com os termos desta Política de Privacidade. Isso nos ajuda a realizar algumas atividades, como encontrar a melhor rota.
+- O Waze permite que você conecte sua conta não registrada a outros dispositivos e navegadores, por exemplo, usando um QR code. Assim, as informações coletadas deles serão vinculadas à conta não registrada.
+- Apenas o Waze tem acesso à sua Conta e às informações associadas a ela, incluindo o identificador interno exclusivo, com exceção dos detalhes mencionados no item abaixo e na seção Visibilidade.
+- Ao usar os Serviços, seu local aproximado e outras informações disponibilizadas por você vão ficar visíveis a outras pessoas, associadas ao nome de usuário geral "Wazer".
+- Para acessar alguns recursos dos Serviços, por exemplo, edição de mapas, ranking e humor, você precisa registrar sua conta.
 
-- O Waze ainda vincula à Conta não cadastrada todas as suas informações e um identificador exclusivo gerado pelo Serviço, de acordo com os termos desta Política de Privacidade. Isso nos ajuda a realizar algumas atividades, como encontrar o melhor trajeto para você.
-- O Waze pode permitir que você associe sua conta não cadastrada a outros dispositivos e navegadores (usando um código QR, por exemplo) e, caso você opte por fazê-lo, as informações coletadas nesses dispositivos e navegadores serão vinculadas à sua conta não cadastrada.
-- Sua Conta e as informações associadas a ela, incluindo o identificador exclusivo, serão visíveis apenas para o Waze, com exceção dos detalhes mencionados no item abaixo e na seção “Visibilidade”.
-- Ao usar os Serviços, sua localização aproximada e outras informações geradas no Aplicativo serão visíveis para outros usuários associados ao nome de usuário geral “Wazer”.
-- Para acessar alguns recursos dos Serviços (edição de mapas, Waze Carpool, classificação e humor, por exemplo), você precisará cadastrar sua conta.
+Se você registrar sua Conta:
 
-Caso você cadastre sua conta:
-
-- O Waze vincula todas as suas informações à Conta cadastrada. Isso inclui as informações recebidas de todos os dispositivos e navegadores em que você optou por acessar e fazer login;
-- Sua Conta e as informações associadas a ela serão visíveis apenas para o Waze, com exceção dos detalhes mencionados no item abaixo e na seção “Visibilidade”.
-- Ao usar os Serviços, sua localização aproximada e outras informações geradas no Aplicativo serão visíveis para outros usuários associados a essa Conta.
-- De tempos em tempos, o Waze pode definir ou solicitar meios de identificação e autenticação diferentes ou adicionais para que você faça login e acesse os Serviços ou alguns recursos e seções específicas.
-- Seus detalhes de login são de sua responsabilidade. Você é responsável por qualquer acesso ou uso indevido da sua Conta e das suas informações pessoais como resultado do compartilhamento das informações de login com um terceiro. Mantenha os seus detalhes de login totalmente confidenciais e não os divulgue a outras pessoas. Caso você defina uma senha, altere-a com frequência, pelo menos uma vez a cada seis meses.
+- O Waze vai vincular todas as informações da sua conta não registrada à Conta registrada. Isso inclui dados recebidos de todos os dispositivos e navegadores em que você fez login na sua Conta do Waze.
+- Apenas o Waze tem acesso à sua Conta e às informações associadas a ela, incluindo o identificador interno exclusivo, com exceção dos detalhes mencionados no item abaixo e na seção Visibilidade.
+- Ao usar os Serviços, seu local aproximado e outras informações disponibilizadas por você vão aparecer para outras pessoas e serão associadas a essa Conta.
+- O Waze pode escolher e solicitar periodicamente meios de identificação e autenticação diferentes ou adicionais para fazer login e acessar os Serviços ou alguns recursos ou seções específicas deles.
+- Você é responsável pelos seus dados de login e por qualquer uso, devido ou indevido, da Conta e dos seus dados pessoais como resultado do compartilhamento das informações de login com outra pessoa. Recomendamos que altere sua senha pelo menos uma vez a cada seis meses, caso decida usar uma.
 
 # Informações que são coletadas
 
 **Queremos que você entenda os tipos de informações que coletamos durante seu uso dos Serviços.**
 
-O Waze coleta informações para oferecer serviços melhores a todos os usuários, desde as atividades mais básicas, como descobrir o melhor trajeto, até as mais complexas, como monitorar o trânsito para que você saiba quando sair e exibir anúncios relevantes durante o uso do Aplicativo. As informações coletadas pelo Waze e como elas são usadas dependem de como você utiliza nossos Serviços e de como você gerencia seus controles de privacidade.
+O Waze coleta informações para oferecer serviços melhores a todos os usuários (desde as atividades mais básicas, como descobrir a melhor rota, até as mais complexas, como monitorar o trânsito para que você saiba quando sair) e exibir anúncios relevantes durante o uso do aplicativo. As informações coletadas pelo Waze e como elas são usadas dependem de como você utiliza nossos Serviços e de como gerencia seus controles de privacidade.
 
-### Informações que você cria ou nos fornece
+### Informações que você cria ou envia:
 
-- **Informações da Conta:** informações que precisam ser fornecidas durante a configuração da Conta, como seu nome, endereço de e-mail ou informações necessárias para a criação de um perfil no Waze Carpool (caso você decida habitá-lo). Lembre-se de que informações falsas, incorretas ou desatualizadas prejudicam a capacidade do Waze de oferecer os Serviços e entrar em contato com você caso necessário. O Waze indicará explicitamente os campos de preenchimento obrigatório. Se você não inserir os dados obrigatórios nesses campos, não será possível cadastrar sua Conta ou ter acesso a certos recursos, como o Waze Carpool, mas ainda será possível usar nossos Serviços conforme explicado na seção acima “Contas de usuário e acesso aos Serviços”.
-- **Informações que você compartilha com o Waze:** dados que você compartilha com o Waze, incluindo o nome de usuário escolhido e relatórios associados a ele, número de telefone, endereços de casa ou trabalho e demais endereços definidos como favoritos, dados do carro, destinos de viagem, consultas de pesquisa, informações da agenda (caso você ative e use alguns recursos do Serviço, como lembretes sobre a hora de sair) e arquivos enviados, inclusive arquivos de voz e áudio, caso aplicável. Você também pode adicionar informações de pagamento à sua Conta, caso aplicável, especificamente para os serviços pagos (como o Waze Carpool). Mesmo que não esteja cadastrado em uma Conta do Waze, você poderá optar por nos fornecer informações.
-- **Serviços de comunicação que podem ser usados por meio do Waze:** você pode usar o Waze para se comunicar com outros usuários do Aplicativo ou terceiros por meio dos Serviços, como mensagens de bate-papo ou envio de locais fixados na plataforma do Waze. Também podemos coletar informações quando você se comunica com o Waze, por exemplo, ao enviar uma solicitação, falar com a equipe de suporte do Waze ou denunciar uma violação à equipe contra abusos.
-- **Informações das suas redes sociais que você vincula à Conta do Waze:** você pode conectar a Conta do Waze às redes sociais. Nesse caso, poderá compartilhar com o Waze e/ou outros usuários dados das suas contas de redes sociais, como a foto do perfil do Facebook ou outras informações pessoais. Para mais informações, consulte Integração com redes sociais abaixo.
-- **Recurso “Encontrar amigos”:** se você usar esse recurso, o Waze coletará as seguintes informações:
- - De tempos em tempos, o Waze coletará todos os números de telefone armazenados na agenda de contatos do seu dispositivo. Coletamos apenas os números em um formulário anônimo para o Waze a fim de usá-los no recurso “Encontrar amigos”. Essas informações serão utilizadas para encontrar e criar uma lista de outros usuários do Waze que talvez você conheça e com que gostaria de se conectar. Não coletaremos nomes, endereços ou outras informações da agenda de contatos. No entanto, alguns desses dados serão salvos no dispositivo e usados nas pesquisas de nome ou endereço do seu amigo nos Serviços.
- - Seu número de telefone. O número de telefone será usado para verificar a conta e como parte do recurso “Encontrar amigos”, se aplicável, a fim de encontrar e criar uma lista de outros usuários do Waze que talvez você conheça e com que gostaria de se conectar.
+- **Informações da conta**: dados exigidos ao configurar uma Conta, como nome ou endereço de e-mail. Lembrete: informações falsas, incorretas ou desatualizadas prejudicam a capacidade do Waze de oferecer os Serviços e entrar em contato com você quando necessário. O Waze vai indicar de maneira clara os campos obrigatórios. Você só vai poder registrar sua Conta ou usar determinados recursos se inserir os dados necessários nesses campos. No entanto, nossos Serviços continuam disponíveis, conforme explicado na seção "Contas de usuário e acesso aos Serviços"; e/ou
+- **Informações que você compartilha com o Waze**: dados que você envia ao Waze, incluindo o nome de usuário escolhido e alertas associados a ele, número de telefone, endereços de casa ou do trabalho, outros "Favoritos", detalhes do carro, destinos de viagem, consultas de pesquisa, informações da agenda (caso ative e use alguns recursos do Serviço, como lembretes de hora de sair) e arquivos enviados, inclusive arquivos de voz e de áudio, se aplicável. Você pode escolher nos fornecer informações mesmo que não tenha registrado sua Conta do Waze.
+- **Dados de comunicação usando os Serviços do Waze**: são enviados quando você se comunica com outros usuários da plataforma ou terceiros usando os Serviços, como mensagens de chat ou envio de locais com pin no Waze. Também podemos coletar informações quando você se comunica com o Waze, por exemplo, ao enviar uma solicitação, falar com a equipe de suporte do Waze ou denunciar uma violação à equipe contra abusos.
 
-Você também pode oferecer informações adicionais que serão usadas para personalizar os Serviços e aprimorar sua experiência. Por exemplo, caso forneça as informações de casa e trabalho, mostraremos o trajeto preferido entre esses locais.
+Você também pode oferecer informações adicionais que serão usadas para personalizar os Serviços e aprimorar sua experiência. Por exemplo, caso forneça os endereços de casa e trabalho, mostraremos o que entendermos ser a rota preferencial entre esses locais.
 
 ### Informações que coletamos quando você usa nossos Serviços
 
-Coletamos informações sobre sua atividade e as usamos para fornecer os Serviços do Waze, incluindo os recursos de personalização da experiência. Isso inclui encontrar o melhor trajeto e propor destinos ou endereços favoritos ou destinos frequentemente usados por você para otimizar a pesquisa e a viagem e, caso você utilize o Waze Carpool, conectar você com outros motoristas ou passageiros. Estas são algumas das informações de atividade que coletamos:
+Coletamos e usamos informações sobre sua atividade para disponibilizar os Serviços do Waze, incluindo os recursos de personalização da experiência. Isso inclui encontrar a rota preferencial e propor favoritos ou destinos visitados com frequência por você para otimizar a pesquisa e a viagem. Estas são algumas das informações de atividade que coletamos:
 
-- Informações detalhadas de local, viagem e trajeto: Informações detalhadas de local e trajeto que são coletadas, por exemplo, na forma de sinais de GPS (combinados com uma designação de data/hora), registros de acesso (endereço de IP) e outros dados de sensores e receptores enviados pelo seu dispositivo móvel e ao redor dele em que o Aplicativo está instalado e ativado. Essas informações são salvas em um histórico de trajetos com todas as viagens feitas durante o uso do Aplicativo. Os tipos de dados de local que coletamos dependem das configurações do seu dispositivo e da conta. Por exemplo, dependendo dessas configurações, podemos coletar dados do local e da viagem ou sobre a ausência dessas informações enquanto você não estiver usando o Aplicativo. Assim, será possível informar a hora de sair para a viagem, notificar sobre congestionamentos na sua região, oferecer assistência de estacionamento, analisar a eficiência dos nossos anúncios e muito mais.
+- **Informações detalhadas de local, viagem e rota.** Elas são coletadas, por exemplo, na forma de sinais de GPS e outros dados do sensor do seu dispositivo, combinadas com um carimbo de data/hora, endereço IP e outros dados de sensores e receptores presentes no dispositivo em que o Aplicativo está instalado e/ou ativado ou perto dele. Essas informações são salvas em um histórico de trajetos com todas as viagens feitas durante o uso do Aplicativo. Os tipos de dados de local que coletamos dependem das configurações do seu dispositivo e da conta. Por exemplo, dependendo dessas configurações, podemos coletar dados de local, de viagem e/ou sobre a falta de deslocamento também quando você não estiver usando o aplicativo para informar a hora de sair para percursos planejados ou previstos, notificar sobre congestionamentos na sua região, ajudar com o estacionamento e mais.
 - Termos ou lugares que você pesquisou.
-- Suas visualizações e interações com conteúdos e anúncios.
+- Suas visualizações e interações com conteúdo e anúncios.
 - Suas informações de voz e áudio ao usar os recursos relacionados.
-- Comunicação ou outro conteúdo que você escolheu compartilhar com terceiros, incluindo usuários do Waze, por meio dos Serviços.
-- Atividade em sites e aplicativos de terceiros que você escolheu vincular à sua Conta do Waze ou com que interage por meio do Serviço.
-- Sua atividade como passageiro ou motorista do Waze Carpool, por exemplo os usuários com quem você interagiu e as avaliações que recebeu
+- Comunicação ou outro tipo de conteúdo que você escolheu compartilhar com terceiros, incluindo usuários do Waze, nos Serviços.
+- Atividade em sites e apps externos que você vinculou à sua conta do Waze ou com que interage no Serviço.
 
-### Metadados (informações sobre seu dispositivo, navegador e uso do Aplicativo)
+### Metadados (informações sobre seu dispositivo, navegador e uso do app):
 
-O Waze coleta informações sobre o uso dos Serviços e informações do dispositivo instalado ou do navegador a partir do qual você usa os Serviços. Por exemplo:
+O Waze coleta informações sobre o uso dos Serviços e detalhes sobre o dispositivo em que ele está instalado ou o navegador em que você usa nossos Serviços. Exemplos:
 
-- O Waze pode coletar e registrar a duração e a frequência com que você usa nossos Serviços, o tipo do dispositivo, os identificadores exclusivos do dispositivo, o tipo e a versão do sistema operacional, o uso da bateria, as páginas da Web ou os aplicativos de terceiros que você acessa ou que interage por meio do Aplicativo, as informações visualizadas nos nossos Serviços e os anúncios exibidos que você visualizou ou clicou. Além disso, podemos saber se o usuário se comunicou com outras pessoas por meio dos nossos Serviços ou de aplicativos/serviços de terceiros e descobrir a duração dessas interações, o registro de acesso (endereço de IP) e o nome do domínio usado no acesso aos Serviços, além da localização geográfica do dispositivo utilizado para fazer login e usar o Waze.
-- Também podemos coletar informações sobre os aplicativos que estão instalados no seu dispositivo e que podem ser vinculados ao Waze, como aplicativos de serviços de áudio de mídia ou de música de terceiros (por exemplo, Spotify).
-- Também coletamos informações sobre a interação dos seus dispositivos com nossos Serviços, incluindo relatórios de erros e atividade do sistema, além de data, hora e URL referenciador da solicitação.
+- O Waze pode coletar e registrar a duração e a frequência com que você usa nossos Serviços, o tipo do dispositivo, os identificadores exclusivos, o tipo e a versão do sistema operacional, o uso da bateria, as páginas da web ou os apps externos que você acessa ou com que interage usando o Aplicativo, as informações apresentadas nos nossos Serviços e os anúncios que aparecem ou que você acessou ou clicou. Além disso, podemos saber se o usuário se comunicou com outras pessoas pelos nossos Serviços ou apps/serviços independentes e identificar a duração dessas interações, o endereço IP e o nome do domínio usado no acesso aos Serviços, além da localização geográfica do dispositivo utilizado para fazer login e usar o Waze.
+- Também podemos coletar informações sobre os apps que estão instalados no seu dispositivo e que podem ser vinculados ao Waze, como apps de serviços externos de música ou de mídia baseados em áudio (por exemplo, Spotify).
+- Se você estiver usando o app Waze em um dispositivo Android, o Waze também poderá coletar informações sobre a Conta do Google conectada a esse dispositivo, de acordo com os controles da sua Conta do Google.
+- Também armazenamos informações sobre a interação dos seus dispositivos com nossos Serviços, incluindo relatórios de erros e atividade do sistema, além de data, hora e URL referenciador da solicitação.
 
-### Informações sobre você que coletamos dos nossos parceiros
+# Por que o Waze coleta dados
 
-Trabalhamos com parceiros de publicidade, incluindo entidades pertencentes ao grupo de empresas do Google, para exibir anúncios mais relevantes e úteis com base na sua atividade no Waze e nas informações associadas ao identificador do dispositivo usado (por exemplo, identificadores de publicidade ou tecnologias semelhantes) que são compartilhadas conosco pelos nossos parceiros. O identificador do dispositivo pode ser gerenciado nas configurações do aparelho. Para mais informações, acesse este link e este link.
-
-Você pode configurar no Aplicativo se quer receber anúncios personalizados ou não. Para isso, acesse **Configurações de privacidade –> Personalização de anúncios**. Observação: desativar a Personalização de anúncios não irá desativar os anúncios, apenas a personalização deles. Para mais informações, veja a seção Campanhas de publicidade nesta Política de Privacidade.
-
-Recebemos de serviços de avaliação de terceiros informações e análises agregadas que não são de identificação pessoal para nos ajudar a entender como os usuários interagem com nossos anúncios. Além disso, recebemos informações de serviços terceirizados sobre o desempenho das iniciativas de marketing do Waze em sites ou plataformas de terceiros.
-
-Usamos várias tecnologias para coletar e armazenar informações, incluindo cookies, códigos de publicidade disponíveis em dispositivos móveis Android ou tecnologias semelhantes, armazenamento local, armazenamento do navegador da Web, caches de dados do aplicativo, bancos de dados e registros do servidor.
-
-# Por que o Waze coleta suas informações pessoais
-
-**O Waze usa as informações coletadas e fornecidas por você para as seguintes finalidades:**
+**O Waze usa as informações coletadas ou fornecidas por você para as seguintes finalidades:**
 
 ### Oferecer nossos Serviços
 
-Usamos suas informações para disponibilizar os Serviços. Por exemplo:
+Usamos suas informações para disponibilizar os Serviços. Exemplos:
 
-- Utilizamos suas informações de local e trajeto e/ou o histórico de consultas de pesquisa para oferecer serviços de navegação, melhores opções de trajeto, alertas de trânsito e informações sobre sites, lojas e outros locais e atrações nas proximidades.
-- Caso você ative o recurso “Encontrar amigos”, usamos seu número de telefone e os outros contatos armazenados na agenda telefônica do dispositivo para criar uma lista de usuários do Waze que talvez você conheça ou com quem gostaria de se conectar.
-- Para disponibilizar serviços de publicidade, incluindo anúncios personalizados, de acordo com a seção [Campanhas de publicidade](#Campanhas-de-publicidade-e-anúncios desta Política de Privacidade.
-- Para compartilhar seus envios com outros usuários dos Serviços e facilitar a comunicação entre você, o Waze e os outros usuários.
-- Se você optou por participar do Waze Carpool, usamos suas informações, como endereços de casa e trabalho e agenda para encontrar possíveis usuários de carona para seu percurso;
+- Usamos suas informações de local e rota e/ou o histórico de consultas de pesquisa para oferecer serviços de navegação, opções de melhor rota, alertas de trânsito e informações sobre locais, lojas e outras áreas e atrações nas proximidades.
+- Podemos compartilhar seus envios para deixá-los disponíveis a outros usuários dos Serviços e para facilitar a comunicação entre você, o Waze e as outras pessoas.
 
-### Manter e melhorar nossos Serviços
+### Manter e melhorar nossos serviços
 
-- Também usamos suas informações para garantir que nossos Serviços estejam funcionando conforme o esperado, por exemplo, para rastrear interrupções ou resolver problemas informados. Além disso, utilizamos os dados para aprimorar nossos Serviços, por exemplo, o Waze pode usar as informações de trajeto a fim de melhorar a precisão dos mapas e dos dados de navegação dele.
+Também usamos suas informações para garantir que nossos Serviços funcionem conforme o esperado, por exemplo, para rastrear interrupções do serviço ou resolver os problemas informados. Além disso, usamos os dados para aprimorar nossos Serviços ou criar outros recursos e serviços. Por exemplo, o Waze pode usar as informações de trajeto a fim de melhorar a precisão dos mapas e dos dados de navegação dele.
 
-### Oferecer serviços personalizados, incluindo conteúdos e anúncios
+### Oferecer serviços personalizados, incluindo conteúdo e anúncios
 
-- Usamos as informações que coletamos para operar nossos Serviços e personalizar sua experiência. Por exemplo, se você adicionou os detalhes de endereço de casa e trabalho e outros endereços favoritos, o Waze utiliza esses dados ou o histórico de trajetos para mostrar rotas com base em como você se deslocou anteriormente entre esses locais favoritos. Além disso, com base na sua atividade anterior nos nossos Serviços, também podemos sugerir destinos comuns para os quais você se desloca com a ajuda do Aplicativo e personalizar seu ETA [Estimated Time of Arrival (Tempo Previsto de Chegada)].
-- Caso opte por usar o Waze Carpool, usamos suas informações para conectar você com passageiros e/ou motoristas para ajudá-los a encontrar uma carona.
-- Também usamos as informações para prestar suporte e lidar com solicitações e reclamações.
-- Dependendo das suas configurações, também exibimos anúncios personalizados com base nos interesses e atividades anteriores. Para mais informações, veja a seção Campanhas de publicidade nesta Política de Privacidade.
+- Usamos as informações que coletamos para operar os Serviços e personalizar sua experiência neles. Por exemplo, se você adicionou detalhes de casa, trabalho e outros favoritos, o Waze utiliza esses dados ou o histórico de rotas para mostrar trajetos com base nos seus deslocamentos anteriores entre esses locais. De acordo com sua atividade e as configurações dos Serviços, também podemos sugerir previsões de percurso, mostrar destinos comuns e personalizar o HEC.
+- Também usamos as informações para oferecer suporte e lidar com solicitações e reclamações.
+- Dependendo das suas configurações, também veiculamos anúncios personalizados com base nos seus interesses e atividades. Para mais informações, consulte a seção Anúncios no Waze desta Política de Privacidade.
 
-### Avaliar o desempenho
+### Medir a performance
 
-- Usamos os dados para análise e avaliação a fim de entender como nossos Serviços são utilizados. Por exemplo, analisamos as informações de uso dos Serviços para otimizar o design do produto, além dos anúncios que você visualiza ou interage/clica para ajudar os anunciantes a entender o desempenho das campanhas publicitárias deles e criar relatórios agregados. Também podemos usar os dados para avaliar a usabilidade e eficiência das iniciativas de marketing do Waze em sites ou plataformas de terceiros.
+Usamos os dados para análise e medição com o objetivo de entender como nossos Serviços são utilizados. Por exemplo, analisamos as informações de uso dos Serviços para otimizar o design do produto, e usamos dados dos anúncios que você visualiza ou com que interage para ajudar os anunciantes a entender a performance das campanhas publicitárias deles e criar relatórios agregados. Também podemos usar os dados para avaliar a usabilidade e a eficiência das iniciativas de marketing do Waze em sites ou plataformas de terceiros.
 
 ### Entrar em contato com você
 
-- Também usamos suas informações para enviar atualizações, avisos, solicitações de usuários, anúncios e informações adicionais relacionadas aos nossos Serviços (incluindo notificações por push, endereço de email e SMS).
-- Também utilizamos seus dados para fazer pesquisas e questionários. Além disso, se você entrar em contato com o Waze, podemos manter um registro da solicitação para ajudar na solução dos problemas que estiver enfrentando.
-- Sujeito à sua autorização prévia e na medida exigida pela legislação aplicável, também podemos usar o endereço de e-mail que você informou para enviar materiais promocionais e/ou de marketing. No entanto, você pode optar por não receber esses materiais a qualquer momento clicando no link “Cancelar inscrição” nas mensagens de e-mail recebidas. Em qualquer caso, o Waze não compartilhará seus detalhes de contato com nenhum anunciante, a menos que explicitamente permitido ou exigido pela legislação.
+- Também usamos as informações para enviar atualizações, avisos, comunicados, solicitações de usuários e outras informações relacionadas aos Serviços, inclusive por notificações push, endereço de e-mail e SMS.
+- Também utilizamos seus dados para fazer pesquisas e questionários. Além disso, se você entrar em contato com o Waze, podemos manter um registro da solicitação para ajudar na solução dos problemas que você estiver enfrentando.
+- Sujeito à sua autorização prévia e na medida exigida pela legislação aplicável, podemos usar o endereço de e-mail que você informou para enviar materiais promocionais e/ou de marketing. No entanto, você pode optar por não receber esses materiais a qualquer momento clicando no link "Cancelar inscrição" nas mensagens de e-mail recebidas. Em qualquer caso, o Waze não compartilhará seus detalhes de contato com nenhum anunciante, a menos que explicitamente permitido ou exigido pela legislação.
 
 ### Por razões legais e para proteger o Waze, nossos usuários e o público
 
-Também podemos usar e processar suas informações e conteúdos usando tecnologias diferentes para as seguintes finalidades:
+Também podemos usar e tratar suas informações e conteúdo usando tecnologias diferentes para as seguintes finalidades:
 
-- aplicar os Termos de Uso ou a Política de Privacidade
-- entrar em contato com você quando o Waze achar necessário
-- obedecer a qualquer legislação aplicável e auxiliar os órgãos de cumprimento da lei nos termos da legislação, e quando o Waze acreditar de boa fé que a cooperação com esses órgãos é exigida por lei ou atende aos padrões e procedimentos legais aplicáveis
-- detectar abusos e atividades ilegais, encontrar e prevenir fraudes, apropriações indébitas, violações, roubos de identidade e outras atividades e usos indevidos dos Serviços
-- solucionar danos e mau funcionamento
-- protocolar quaisquer ações em caso de disputa ou processo judicial de qualquer tipo entre você e os Serviços, outros usuários ou terceiros com relação a esses Serviços
-- cumprir os termos desta Política de Privacidade e dos Termos de Uso
-- ajudar a melhorar a segurança e a confiabilidade dos nossos Serviços, incluindo detectar, prevenir e resolver riscos de segurança e problemas técnicos que podem prejudicar o Waze, nossos usuários ou o público
-- criar dados agregados e/ou anônimos quando eles não permitirem a identificação de um usuário específico (veja a seção abaixo “Como o Waze usa as informações agregadas”)
+- Aplicar os Termos de Uso ou a Política de Privacidade
+- Entrar em contato com você quando o Waze achar necessário
+- Obedecer a qualquer legislação aplicável e auxiliar as autoridades locais nos termos da legislação quando o Waze acreditar de boa-fé que a cooperação com esses órgãos é exigida por lei ou atende aos padrões e procedimentos legais aplicáveis
+- Detectar abusos e atividades ilegais, encontrar e impedir fraudes, apropriações indébitas, violações, roubos de identidade e outras atividades e usos indevidos dos Serviços
+- Solucionar interrupções e mau funcionamento
+- Protocolar quaisquer ações em caso de disputa ou processo judicial de qualquer tipo entre você e os Serviços, ou entre você e outros usuários ou terceiros com relação a esses Serviços
+- Cumprir os termos desta Política de Privacidade e os Termos de Uso
+- Ajudar a melhorar a segurança e a confiabilidade dos nossos Serviços, incluindo detectar, evitar e resolver riscos à segurança e problemas técnicos que podem prejudicar o Waze, nossos usuários ou o público
+- Criar dados agregados e/ou anônimos quando eles não permitirem a identificação de um usuário específico (confira a seção abaixo "Como o Waze usa as informações agregadas")
 
-Solicitaremos seu consentimento antes de usar as informações para finalidades que não estiverem abordadas nesta Política de Privacidade.
+Solicitaremos seu consentimento antes de usar as informações para finalidades não abordadas nesta Política de Privacidade.
 
-# Compartilhamento de suas informações
+# Compartilhamento das suas informações
 
-**Informações pessoais compartilhadas por você**
+### Informações pessoais compartilhadas por você
 
 Os Serviços têm como base uma comunidade de usuários que compartilham publicamente informações com o Waze e outros membros.
 
-Em particular, os usuários podem compartilhar informações pessoais como nome, idade, sexo, foto, informações de local, relatórios e outros arquivos. Esses dados podem ser compartilhados diretamente com os Serviços e com todos os usuários, como no caso de relatórios de trânsito e do seu perfil do Carpool ou apenas com seus amigos no Waze. Eles também podem ser compartilhados por meio de serviços de terceiros (como redes sociais) que interagem com nosso Aplicativo mediante ativação pelo usuário. Para obter mais informações sobre seu perfil no Carpool (caso tenha optado por se cadastrar), consulte a seção Perfil no Waze Carpool abaixo.
+As pessoas compartilham informações como nome, idade, gênero, foto, dados de local, alertas e outros arquivos. Esses detalhes podem ser compartilhados diretamente com os Serviços e com todos os usuários, como no caso de alertas de trânsito. Eles também podem ser compartilhados por serviços independentes (por exemplo, aplicativos de música como o Spotify) que interagem com nossos Serviços mediante ativação pelo usuário.
 
-**Você pode decidir se quer ou não enviar informações para os Serviços. Contudo, o conteúdo que você optar por compartilhar e publicar não será considerado privado nem confidencial. Assim, tenha em mente que outras pessoas poderão ter acesso a ele.** As informações que você enviar serão publicadas junto com seu nome de usuário e outros dados, incluindo informações pessoais adicionadas ao perfil de usuário disponível publicamente. Por exemplo, seus relatórios (atualizações de mapas e rotas, atualizações de congestionamentos, acidentes de trânsito etc.) serão publicados no mapa Waze juntamente com seu nome de usuário. Alguns incidentes de trânsito reportados por você podem incluir seu caminho de navegação nas proximidades deles. Portanto, tenha cuidado e bom senso ao enviar informações. Você precisa demonstrar no mínimo o mesmo grau de cautela ao publicar essas informações pessoais que demonstra com outras divulgações por meios que não a Internet e os serviços de rede móvel.
+**Você pode decidir se quer ou não enviar conteúdo para os Serviços. No entanto, nenhum conteúdo que você compartilhar e publicar vai ser privado ou confidencial. Ele será disponibilizado ao público e acessado por outras pessoas.** As informações que você enviar vão ser publicadas junto com seu nome de usuário e outros dados, como informações pessoais adicionadas ao perfil de usuário público. Por exemplo, os alertas (atualizações de mapas, vias e congestionamentos, acidentes etc.) serão postados no mapa do Waze com seu nome de usuário. Alguns incidentes de trânsito reportados por você podem incluir seu caminho de navegação nas proximidades deles. Portanto, tenha cuidado e bom senso ao enviar informações. No mínimo, você deve ter o mesmo cuidado que teria ao compartilhar informações pessoais fora da internet e de serviços de rede móvel.
 
-Em qualquer caso (exceto a questão detalhada abaixo com relação às informações compartilhadas nas suas contas de redes sociais serem regidas pelas configurações de privacidade dessas contas), seu endereço de e-mail não ficará visível para outras pessoas nos relatórios ou postagens de usuários compartilhados ou enviados por você.
+Em qualquer caso, seu endereço de e-mail não ficará visível para outras pessoas nos alertas ou publicações de usuários que você compartilha ou envia.
 
-Se você gravar sua própria voz no Serviço ou usar os recursos de comando de voz, o Waze coletará as informações de áudio relacionadas a esse uso, incluindo arquivos. Se, depois de gravar sua própria voz, você quiser compartilhar as gravações, os usuários do Waze e outras pessoas poderão fazer o download delas para uso. Depois do download, o Waze não terá nenhum controle sobre os arquivos de voz. Portanto, somente compartilhe conteúdos que podem ser disponibilizados ao público.
+Se você gravar sua própria voz no Serviço ou usar os recursos de comando de voz, o Waze coletará as informações de voz relacionadas a esse uso, incluindo arquivos. Se, depois de gravar sua própria voz, você quiser compartilhar as gravações, os usuários do Waze e outras pessoas poderão fazer o download delas para uso. Depois do download, o Waze não terá nenhum controle sobre os arquivos de voz. Portanto, somente compartilhe conteúdos que podem ser disponibilizados ao público.
 
 O objetivo da equipe do Waze é oferecer a você a melhor experiência de uso dos nossos Serviços. No entanto, não temos controle sobre a conduta dos usuários e renunciamos qualquer responsabilidade a esse respeito. Recomendamos que todos tenham cautela ao analisar se as informações podem ser disponibilizadas ao público e verifiquem cuidadosamente os detalhes necessários relacionados a qualquer comunicação com outros usuários antes das interações ou envios de mensagens.
 
@@ -182,256 +151,254 @@ Participar das atividades de qualquer usuário como resultado direto ou indireto
 
 O Waze não vende, aluga nem arrenda suas informações pessoais para terceiros.
 
-Não compartilharemos suas informações pessoais com outras pessoas, sem sua permissão, exceto para as finalidades abaixo e na medida necessária como critério de boa fé do Waze:
+Não compartilharemos suas informações pessoais com outras pessoas sem sua permissão, exceto para as finalidades abaixo e na medida necessária como critério de boa-fé do Waze:
 
 - Conforme necessário para a prestação e operação dos Serviços. Por exemplo, ao publicar incidentes de trânsito que você informar e que estiverem associados ao seu nome de usuário e local.
-- Se o Waze acreditar razoavelmente que você violou os Termos de Uso ou caso ele esteja investigando uma violação em potencial desses termos; se o Waze acreditar que você abusou dos seus direitos de uso dos Serviços ou realizou qualquer ato ou omissão que, a critério dele, viole qualquer legislação, regra ou regulamento aplicável. Nesses casos, ele pode compartilhar suas informações com órgãos de cumprimento da lei, outras autoridades competentes e terceiros, conforme necessário para lidar com qualquer resultado dos atos ilícitos.
-- Se o Waze for obrigado pela legislação ou acreditar razoavelmente que é exigido por lei a compartilhar ou divulgar suas informações.
-- Em caso de disputas ou processos judiciais de qualquer tipo entre você e o Waze ou outros usuários com relação aos Serviços.
-- Quando o Waze acreditar razoavelmente que o compartilhamento de informações é necessário para evitar danos aos direitos, propriedade ou segurança dele, dos nossos usuários ou do público conforme exigido ou permitido pela legislação, inclusive para impedir danos físicos iminentes ou à propriedade.
-- Para detectar, prevenir ou resolver de qualquer outra forma fraudes, questões de segurança ou problemas técnicos.
-- Se o Waze reorganizar a operação dos Serviços em uma estrutura diferente ou em outra estrutura legal ou pessoa jurídica; se ele for adquirido por outra entidade ou se fundir a ela ou caso entre em concordata, desde que essas entidades concordem em se vincularem às disposições desta Política de Privacidade e às respectivas alterações dela.
-- Para coletar, armazenar, reter e gerenciar suas informações pessoais por meio de serviços baseados na nuvem, de hospedagem e de terceiros ou por meio de uma parte afiliada ou relacionada ao Waze, conforme razoável para fins comerciais, que esteja localizada na União Europeia, nos EUA e países fora da sua jurisdição.
-- O Waze também pode compartilhar informações pessoais com empresas ou organizações relacionadas ou afiliadas a ele, como subsidiárias, empresas do grupo e controladoras (ou seja, entidades que pertencem ao grupo de empresas do Google).
-- Trabalhamos com outros serviços do Google (como o Google Display e Vídeo 360) para fins de publicidade e avaliação de anúncios. Podemos compartilhar informações com esses serviços, como um identificador exclusivo de publicidade (ou seja, um código de publicidade disponível em dispositivos móveis Android ou tecnologias semelhantes), para ajudar os anunciantes a decidir quais anúncios exibir no Waze, no Google e em sites e aplicativos parceiros do Google. Você pode saber mais sobre a forma como o Google usa as informações de sites ou aplicativos que utilizam seus serviços e como você pode fazer ajustes nesta página. Para mais informações, veja a seção Campanhas de publicidade e anúncios nesta Política de Privacidade.
-- Também trabalhamos com serviços de avaliação de anúncios selecionados que nos ajudam a entender como os usuários interagem com nossos anúncios e para fornecer serviços de marketing, publicidade e mensuração. Para isso, usamos e compartilhamos o identificador do dispositivo, ou seja, o código de publicidade ou tecnologias semelhantes.
-- As informações pessoais também podem ser compartilhadas com os parceiros e provedores de serviços de processamento do Waze, com base nas nossas instruções e em conformidade com esta Política e quaisquer outras medidas de confidencialidade e de segurança apropriadas. Por exemplo, usamos provedores de serviços para nos ajudar com o atendimento ao cliente.
-
-Podemos compartilhar, com serviços de transporte de terceiros, informações que não identifiquem você pessoalmente. Por exemplo, para permitir que você encontre uma carona em serviços de transporte de terceiros, como o Moovit, podemos compartilhar com esses serviços de transporte de terceiros um identificador único temporário juntamente com os pontos de início e término do trajeto, gerados com base na proximidade ao seu percurso pretendido. Você pode consultar a lista de serviços de transporte de terceiros da sua região e alterar suas preferências a qualquer momento nas configurações do Aplicativo.
-
-A Waze Carpool firma parceria com empregadores, organizações e entidades governamentais (“Parceiros do Waze Carpool”) para incentivar o uso de carona (carpooling). Caso você tenha se associado a um grupo de Carpool promovido por um parceiro ou terceiros, o seu perfil de carona (ou outras informações que tenha optado por compartilhar) pode ser visível para outros membros do grupo, inclusive representantes do parceiro ou terceiros que também possam fazer parte do grupo.
+- Se o Waze tiver razões para acreditar que você violou os Termos de Uso ou caso ele esteja investigando uma violação em potencial deles, ou acreditar que você abusou dos seus direitos de uso dos Serviços ou realizou qualquer ato ou omissão que, a critério dele, viola qualquer legislação, regra ou regulamento aplicável. Nesses casos, ele pode compartilhar suas informações com autoridades locais e outras autoridades competentes e terceiros, conforme necessário para lidar com qualquer resultado dos atos ilícitos.
+- Se o Waze for obrigado pela legislação ou acreditar razoavelmente que é obrigado por lei a compartilhar ou divulgar suas informações.
+- Em casos de disputas ou processos judiciais de qualquer tipo entre você e o Waze ou entre você e outros usuários com relação aos Serviços.
+- Quando o Waze acreditar razoavelmente que o compartilhamento das informações é necessário para evitar danos aos direitos, propriedade ou segurança dele, dos usuários ou do público, conforme exigido ou permitido pela legislação, inclusive para impedir danos materiais ou físicos iminentes.
+- Para detectar, evitar ou resolver fraudes, questões de segurança ou problemas técnicos.
+- Se o Waze reorganizar a operação dos Serviços em uma estrutura diferente ou em outra estrutura legal ou pessoa jurídica; se ele for adquirido por outra entidade ou se fundir a ela ou caso entre em falência, desde que essas entidades concordem em se vincular às disposições desta Política de Privacidade e às respectivas alterações dela.
+- Para coletar, armazenar, reter e gerenciar suas informações pessoais em serviços baseados na nuvem, de hospedagem ou independentes, ou por meio de uma parte afiliada ou relacionada ao Waze, conforme razoável para fins comerciais, que esteja localizada na União Europeia, nos EUA e em países fora da jurisdição do usuário.
+- O Waze é uma entidade do Google e também pode compartilhar Informações Pessoais com afiliados do Google, como subsidiárias, empresas do grupo e controladoras que pertencem ao grupo de empresas do Google. Por exemplo, o Waze vai compartilhar suas informações não identificadas, incluindo configurações da Conta, dados e metadados relacionados a locais e rotas, com outros produtos e serviços de mapeamento e navegação do Google para desenvolver, manter ou melhorar o Waze e/ou as informações de mapas, velocidades e interdições do Google, bem como outras funcionalidades de navegação e alertas de trânsito.
+- Trabalhamos com outros Serviços do Google, como o Google Ads, para fins de publicidade e medição de anúncios e podemos compartilhar informações com o Google para essas finalidades. Acesse esta página para saber como o Google utiliza as informações de sites ou apps que usam os serviços dele e como gerenciar esse compartilhamento. Para mais informações, consulte a seção Anúncios no Waze nesta Política de Privacidade.
+- As informações pessoais também podem ser compartilhadas com os parceiros e provedores de serviços de tratamento de dados do Waze, com base nas nossas instruções e em conformidade com esta política e quaisquer outras medidas de confidencialidade e de segurança apropriadas. Por exemplo, usamos provedores de serviços no atendimento ao cliente.
 
 # Visibilidade
 
-Seu nome de usuário e algumas outras informações serão visíveis para outras pessoas. Lembre-se de que esse nome de usuário será incluído em qualquer informação que você publicar, como em relatórios de trânsito ou mensagens de bate-papo. Portanto, todas as pessoas poderão vê-lo. Além disso, seus amigos no Waze verão o nome e a foto do perfil e qualquer outra informação que tenha sido compartilhada com eles.
+Seu nome de usuário e algumas outras informações serão visíveis para outras pessoas. Lembrete: esse nome de usuário vai ser incluído em qualquer informação que você publicar, como em alertas de trânsito ou mensagens de chat. Portanto, ele ficará visível para todas as pessoas. Além disso, seus amigos no Waze verão o nome e a foto do perfil e qualquer outra informação que tenha sido compartilhada com eles.
 
-Se você quiser permanecer invisível no mapa do Waze, configure o Aplicativo para ocultar sua localização. Para fazer isso, acesse as configurações de privacidade e ative o Modo invisível. Nesse caso, alguns recursos ficarão indisponíveis. Porém, enquanto você estiver “invisível” no mapa, suas informações de local e trajeto continuarão sendo coletadas pelo Waze para os fins listados nesta Política de Privacidade e seu perfil do Carpool (caso tenha um) ainda será visível aos outros usuários.
+Se você quiser permanecer invisível no mapa do Waze, configure o Aplicativo para ocultar sua localização. Basta acessar as configurações de privacidade e ativar o Modo Invisível. Nesse caso, **alguns recursos vão ficar indisponíveis**. Além disso, saiba que suas informações de local e trajeto continuam sendo coletadas pelo Waze para os fins detalhados nesta Política de Privacidade, mesmo enquanto você estiver "invisível" no mapa para outros usuários.
 
-# Perfil no Waze Carpool
+# Integração com serviços de terceiros
 
-O Waze Carpool foi exclusivamente projetado para ajudar motoristas e passageiros a encontrar uma viagem comum que atenda a ambos. Caso tenha optado por usar o recurso Waze Carpool, você precisará criar um perfil exclusivo.
-
-O perfil no Waze Carpool inclui seu nome, foto, número de viagens realizadas e quilometragem viajada, a data em que se associou aos Serviços, informações que optou por compartilhar da sua conta, sua classificação referente ao Waze Carpool e aos endossos recebidos e demais informações pessoais que tenha compartilhado (por exemplo, dados sobre o seu carro ou outras informações como as definições em “Minhas preferências”). É possível editar algumas dessas informações através das definições no Aplicativo ou por meio da sua conta (caso tenha optado por compartilhar as informações da sua conta).
-
-Um perfil de carona completo é importante para que os passageiros ou motoristas possam saber mais sobre você e vice-versa. Portanto, outros usuários do Waze podem ver o seu perfil, que também pode ser compartilhado por meio dos nossos Serviços. Caso tenha se associado ao recurso “Grupos de Carona” (Carpool Groups), seu perfil de carona estará visível para outros membros do grupo, inclusive seus colegas de trabalho ou empregador, no caso de grupos relacionados ao trabalho.
-
-Caso opte por verificar seu endereço de e-mail profissional ou da universidade, seu trabalho ou universidade também será listado publicamente no seu perfil (mas seu endereço de e-mail permanecerá privado). Observação: seus endereços residencial e profissional não serão listados publicamente no seu perfil, apenas salvos na sua conta Waze. Entretanto, em determinadas circunstâncias, seus pontos de início/término podem ser seus endereços residencial ou profissional se, por exemplo, você compartilhar uma rota semelhante com seu motorista ou passageiro.
-
-# Integração com redes sociais
-
-Você pode compartilhar os dados entre sua Conta do Waze e sua conta de rede social, como o Facebook. Essa opção permite o compartilhamento de informações pessoais e outros conteúdos das suas redes sociais com os Serviços. Da mesma forma, você pode compartilhar suas informações pessoais e outros conteúdos do Waze, incluindo informações de local e trajeto, na sua conta de rede social.
-
-Ao integrar a Conta do Waze às redes sociais, incluindo fazer login no Waze com a conta específica de sua rede social, você concorda em compartilhar os dados (incluindo informações pessoais) entre o Waze e essas redes sociais para os fins previstos nesta Política de Privacidade.
-
-O uso pela rede social das informações do Waze é regido e controlado pela política de privacidade dessa rede, não por esta Política de Privacidade ou pelo Waze.
-
-Ao se conectar à conta da rede social por meio dos Serviços pela primeira vez ou ao criar uma interação entre ambos, a rede social em questão solicitará sua permissão para compartilhar com o Waze as informações pessoais armazenadas nela. Coletamos os dados da sua conta da rede social somente de acordo com as permissões concedidas por você, como nome, endereço de e-mail, lista de amigos, foto do perfil e outras informações disponíveis na rede social aplicável.
-
-Você entende e concorda que os Serviços podem acessar, disponibilizar e armazenar essas informações para que estejam disponíveis na sua Conta do Waze até a exclusão dela.
-
-Algumas informações definidas como particulares nas contas de redes sociais de terceiros podem ser disponibilizadas aos usuários do Waze por meio dos Serviços quando você permitir o compartilhamento delas com o Waze, por exemplo, por meio do seu perfil no Carpool.
-
-# Integração com outros serviços de terceiros
-
-O Waze oferece a opção de vincular nossos Serviços aos serviços de terceiros que podem ser úteis para você, como o Spotify. O Waze solicitará a confirmação para conectar as contas quando ele detecta que uma integração está disponível. Isso pode acontecer quando um serviço de terceiros tenta se conectar ao Waze, quando ele detecta um serviço instalado no dispositivo que pode ser integrado ou quando você solicita uma integração específica. Se você aprovar a conexão, o Waze solicitará sua permissão para compartilhar dados com o serviço de terceiros. Somente conecte as contas se confiar no serviço de terceiros que receberá os dados definidos no momento da conexão das contas, porque não somos responsáveis pelo uso de dados feito por serviços de terceiros. Você pode desconectar ambos os serviços a qualquer momento, e o Waze deixará de compartilhar dados com o terceiro a partir da desconexão.
+O Waze oferece a opção de vincular nossos Serviços a serviços de terceiros que podem ser úteis para você, como Spotify, Apple Music e Amazon Audio. O Waze solicitará a confirmação para conectar as contas quando ele detectar que uma integração está disponível. Isso pode acontecer quando um serviço de terceiros tentar se conectar ao Waze, quando ele detectar um serviço instalado no dispositivo que pode ser integrado ou quando você solicitar uma integração específica. Se você aprovar a conexão, o Waze solicitará sua permissão para compartilhar dados com o serviço em questão. Somente conecte as contas se confiar no serviço de terceiros que receberá os dados definidos no momento da conexão. O Waze não será responsável pelo uso de dados feito por serviços de terceiros. Você pode desconectar um serviço de terceiro a qualquer momento, e o Waze deixará de compartilhar dados com ele a partir da desconexão.
 
 # Controle das suas informações pessoais
 
-Você pode consultar e atualizar algumas informações (como telefone, nome, foto etc.) no painel “Conta e Login” e dados (como endereços de casa, trabalho e outros favoritos) no menu esquerdo do Aplicativo. Caso tenha se cadastrado no Waze Carpool, você poderá consultar e atualizar suas informações pessoais (até em seu perfil Waze Carpool) nas configurações do aplicativo Waze Carpool.
+Você pode revisar e atualizar algumas informações, como telefone, nome e foto, em "Conta e perfil", além de dados como "Casa", "Trabalho" e "Favoritos", entre outros, na lista de destinos do Waze.
 
-Para visualizar seu histórico de trajetos, acesse a função “Editar o mapa” / “Percursos” no site do Waze. No entanto, você precisará cadastrar sua Conta se quiser acessar determinadas informações. Seu histórico de local e trajetos está associado à sua Conta.
+Se quiser conferir seu histórico de trajetos, use a função "Editar o mapa" / "Percursos" no site do Waze. Você precisa registrar sua Conta para acessar determinadas informações. Seu histórico de localização e rota está associado à sua Conta.
 
-Se você achar que as informações associadas à sua Conta não são precisas ou estão incompletas ou desatualizadas, faça as alterações necessárias para corrigi-las. Lembre-se de que informações falsas, incorretas ou desatualizadas podem impedir a configuração de uma Conta e prejudicar o fornecimento dos Serviços.
+Se você achar que as informações associadas a ela estão imprecisas, incompletas ou desatualizadas, faça as mudanças necessárias. Informações falsas, incorretas ou desatualizadas atrapalham a configuração da Conta e o fornecimento dos Serviços.
 
 ### Controles de privacidade
 
-As configurações de privacidade no Aplicativo oferecem acesso rápido a definições e ferramentas que permitem a você proteger suas informações pessoais e decidir como usar essas informações para aprimorar os Serviços do Waze. Por exemplo, é possível controlar sua visibilidade no mapa e gerenciar as preferências quanto aos anúncios mostrados no Waze. Existem outras maneiras de controlar as informações coletadas pelo Aplicativo, independentemente de você estar conectado à Conta do Waze.
+As configurações de privacidade no app oferecem acesso rápido a definições e ferramentas que ajudam a proteger seus dados e decidir como usar as informações para aprimorar os Serviços do Waze. Por exemplo, é possível controlar sua visibilidade no mapa e gerenciar se os anúncios mostrados no Waze são personalizados ou não.
 
-Isso inclui as configurações no nível do seu dispositivo móvel, já que seu dispositivo pode ter controles que determinam quais informações coletamos. Por exemplo, você pode modificar as configurações de localização no seu próprio aparelho.
+Existem outras maneiras de controlar o que o app coleta, não importa se você fez login ou não na Conta do Waze. Isso inclui as configurações no nível do dispositivo, que podem determinar quais informações coletamos. Por exemplo, você pode modificar as configurações de localização no seu aparelho.
 
 ### Exclusão de informações
 
-Se você quiser excluir sua Conta, use a função “Excluir conta” disponível na configuração de privacidade no aplicativo e no site do Waze. Após sua solicitação, o Waze envidará todos os esforços razoáveis para excluir as informações. Porém, talvez elas não sejam excluídas imediatamente dos nossos sistemas de back-up. Iniciamos o processo de exclusão imediatamente após a solicitação. O uso dos seus dados para personalizar a experiência do Waze será interrompido assim que recebermos o pedido. Em seguida, iniciaremos um processo criado para excluir os dados dos nossos sistemas de armazenamento de forma completa e segura. Normalmente, isso leva cerca de dois meses a partir do momento da exclusão. Assim como em todos os procedimentos de remoção de dados, alguns eventos, como manutenção de rotina, interrupções inesperadas, bugs ou falhas nos nossos protocolos, podem causar atrasos nos processos e prazos descritos nesta Política. Nossos sistemas foram criados para detectar e corrigir esses problemas.
+Se você quiser excluir sua Conta, use a função "Apagar conta" disponível na configuração de privacidade no app e no site do Waze. Após sua solicitação, o Waze envidará todos os esforços razoáveis para excluir as informações. Porém, talvez elas não sejam excluídas imediatamente dos nossos sistemas de backup. Iniciamos o processo de exclusão imediatamente após a solicitação. O uso dos seus dados para personalizar a experiência do Waze será interrompido assim que recebermos o pedido. Em seguida, lançaremos um processo criado para excluir os dados dos nossos sistemas de armazenamento de forma completa e segura. Normalmente, isso leva cerca de 2 meses a partir do momento em que o pedido de exclusão foi feito. Assim como em todos os procedimentos de remoção de dados, alguns eventos, como manutenção de rotina, interrupções inesperadas do serviço, bugs ou falhas nos nossos protocolos, podem causar atrasos nos processos e prazos descritos nesta Política. Nossos sistemas foram criados para detectar e corrigir esses problemas.
 
-# Como o Waze armazena as informações pessoais coletadas
+# Como o Waze armazena os dados coletados
 
-Alguns dados podem ser excluídos a qualquer momento, alguns são removidos automaticamente e outros são armazenados por períodos mais longos, quando necessário. Nesta seção, você verá por que retemos diferentes tipos de informações por períodos de tempo diferentes.
+Alguns dados podem ser excluídos a qualquer momento, alguns são removidos automaticamente e outros são armazenados por períodos mais longos, quando necessário. Aprenda nesta seção por que retemos diferentes tipos de informações por períodos diferentes.
 
-- **Informações armazenadas até que você as remova**: endereços de casa, trabalho, ou endereços favoritos, endereço de e-mail e outras informações relacionadas à conta. Esses dados serão mantidos na Conta do Waze até que você os atualize ou os exclua.
-- **Dados que expiram após um período**: em alguns casos, você não precisa excluir suas informações, já que definimos um prazo de retenção segundo o motivo da coleta. Por exemplo, se você conectar sua agenda à Conta do Waze, extrairemos os eventos programados com vários dias de antecedência e os excluiremos após a data do agendamento. Também podemos tornar alguns dados anônimos após limites de tempo definidos.
-- **Informações armazenadas até a exclusão da sua Conta do Waze**: alguns dados só são removidos quando você exclui sua Conta do Waze porque precisamos deles para entender como os usuários interagem com nossos recursos e como podemos melhorar os Serviços. Por exemplo, se você alertou sobre um incidente, manteremos informações sobre quantos alertas foram enviados a partir da sua Conta, mesmo depois da remoção do evento. Assim, essas informações serão apagadas quando você excluir a Conta do Waze.
-- **Informações armazenadas por períodos mais longos para fins limitados**: alguns requisitos legais e corporativos exigem a retenção de certos dados para fins específicos durante períodos mais longos. Por exemplo, quando o Waze processa um pagamento, os dados relacionados à transação são armazenados por períodos mais longos, conforme necessário para fins fiscais ou contábeis. Veja a seguir alguns dos motivos pelos quais retemos determinadas informações por períodos mais longos:
- - segurança e prevenção de fraude e abuso
- - manutenção de registros financeiros
- - cumprimento de requisitos legais ou regulamentares
- - garantia da continuidade dos nossos Serviços
- - comunicações diretas com o Waze
+- **Informações mantidas até a remoção**: "Casa", "Trabalho", favoritos, endereço de e-mail e outras informações relacionadas à conta. Esses dados vão ser mantidos na Conta do Waze até serem atualizados ou excluídos.
+- **Dados que expiram após um período específico**: em alguns casos, você não precisa excluir suas informações porque definimos um prazo de retenção de acordo com o motivo da coleta. Por exemplo, se você conectar sua agenda à Conta do Waze, nós vamos extrair os eventos dela com vários dias de antecedência e apagar depois que ocorrerem. Também podemos tornar alguns dados anônimos após períodos definidos.
+- **Informações mantidas até a exclusão da sua Conta do Waze**: podemos manter alguns dados pelo tempo de vigência da sua Conta do Waze caso eles ajudem a entender como os usuários interagem com nossos recursos e como podemos melhorar nossos serviços. Por exemplo, se você alertou sobre um incidente, manteremos informações sobre quantos alertas foram enviados na sua Conta, mesmo depois da remoção do evento. Assim, essas informações serão apagadas quando você excluir a Conta do Waze.
+- **Informações mantidas por períodos mais longos para fins limitados**: alguns requisitos legais e corporativos exigem a retenção de certos dados para fins específicos durante períodos mais longos. Por exemplo, quando o Waze processa um pagamento, as informações relacionadas à transação são armazenadas por mais tempo, conforme necessário para fins fiscais ou contábeis. Confira a seguir alguns dos motivos pelos quais retemos determinadas informações por períodos mais longos:
+ - Segurança e prevenção contra fraude e abuso
+ - Manutenção de registros financeiros
+ - Cumprimento de requisitos legais ou regulamentares
+ - Garantia da continuidade dos nossos serviços
+ - Comunicações diretas com o Waze
 
 # Como o Waze usa as informações agregadas
 
-O Waze usa informações anônimas, estatísticas ou agregadas (incluindo informações de local anônimas), sem identificar um usuário específico, para fins internos, comerciais e de estatística, inclusive publicidade. Além disso, os dados também são utilizados para operar os Serviços de maneira adequada e melhorar a qualidade deles, aprimorar sua experiência, criar novas funcionalidades, inclusive personalização, e alterar ou cancelar conteúdos ou serviços existentes.
+O Waze usa informações anônimas, estatísticas, pseudonimizadas ou agregadas (incluindo informações de local anônimas), sem identificar um usuário específico, para fins internos, comerciais e de estatística, inclusive publicidade. Além disso, os dados também são utilizados para operar os Serviços de maneira adequada e melhorar a qualidade deles, aprimorar sua experiência, criar novas funcionalidades, inclusive personalização, e alterar ou cancelar conteúdos ou serviços existentes.
 
-O Waze também usa informações anônimas, estatísticas ou agregadas coletadas nos Serviços, sem identificar um usuário específico, ao postar, divulgar, enviar ou, de outra forma, comunicar ou disponibilizar essas informações aos usuários e provedores dos Serviços, parceiros e qualquer outro terceiro. Por exemplo, os dados de GPS que recebemos do seu dispositivo móvel podem ser enviados aos editores de mapa de modo agregado e/ou anônimo para melhorar e solucionar problemas na cartografia, os dados agregados de trânsito podem ser disponibilizados às autoridades das cidades e as análises de anúncios agregados do Waze Carpool podem ser enviadas aos anunciantes.
+O Waze também usa informações anônimas, estatísticas, pseudonimizadas ou agregadas coletadas nos Serviços, sem identificar um usuário específico, ao postar, divulgar, enviar ou, de outra forma, comunicar ou disponibilizar essas informações aos usuários e provedores dos Serviços, parceiros e qualquer outro terceiro. Por exemplo, os dados de GPS que recebemos do seu dispositivo móvel podem ser enviados aos editores de mapa de forma agregada e/ou anônima para melhorar e solucionar problemas na cartografia, e as informações de trânsito podem ser disponibilizados às cidades.
 
 # Cookies
 
-O Waze pode usar cookies e tecnologias semelhantes nos Serviços. Cookies são pacotes de informações enviadas pelos servidores do site para seu navegador da Web, que são enviados de volta por ele cada vez que acessa os servidores do site.
+O Waze pode usar cookies e tecnologias semelhantes nos Serviços. Cookies são pacotes de informações enviadas pelos servidores do site para seu navegador da web, que são enviados de volta por ele cada vez que acessa os servidores do site.
 
-O Waze usa cookies para várias finalidades, como evitar que você precise digitar o nome de usuário e senha toda vez que fizer login, facilitar o uso do site, coletar informações estatísticas, verificar informações, personalizar o site com suas preferências pessoais e proteger as informações.
+O Waze usa cookies para várias finalidades, como evitar que você precise digitar o nome de usuário e senha toda vez que fizer login, facilitar o uso do site, coletar informações estatísticas, verificar informações para detectar e evitar abuso nos Serviços, personalizar o site com suas preferências pessoais e proteger as informações.
 
-Alguns cookies podem expirar quando a sessão terminar e o navegador for fechado. Outros são salvos no disco rígido do seu computador. Se você quiser bloquear o uso deles no site, use o botão de ajuda no seu navegador e siga as instruções necessárias. No entanto, lembre-se de que desativar os cookies pode prejudicar ou até impedir o uso do site ou de determinados recursos dele.
+Alguns cookies podem expirar quando a sessão terminar e o navegador for fechado. Outros são salvos no disco rígido do seu computador. Se você quiser bloquear o uso deles no site, use o botão de ajuda no seu navegador e siga as instruções necessárias. No entanto, tenha em mente que desativar os cookies pode prejudicar ou até impedir o uso do site ou de determinados recursos dele.
 
 Para mais informações, consulte nossa Política de cookies.
 
-# Campanhas de publicidade e anúncios
+# Anúncios no Waze
 
-O Waze permite que os anunciantes veiculem campanhas publicitárias nos Serviços.
+### Anúncios no Waze
 
-As informações e anúncios que você vê ao acessar os Serviços são segmentados com base na sua atividade no Waze, como local atual, destino ou informações contextuais relacionadas à sessão de navegação em curso. Por exemplo, se você pesquisar por “posto de gasolina”, poderá ver um anúncio de um posto de gasolina local.
+Podem ser veiculados anúncios enquanto você usa o Waze. O Waze usa a tecnologia de publicidade do Google para selecionar e mostrar esses anúncios, que ajudam a manter os Serviços sem custo financeiro.
 
-Dependendo das suas configurações, você também verá **anúncios personalizados** com base no seguinte:
+Os anúncios no Waze podem ser mostrados com base na sua atividade atual no app, como local aproximado, trajeto geral, tipo de destino e outras informações contextuais relacionadas à sessão de navegação em curso. Por exemplo, pode aparecer um anúncio de uma loja de varejo aberta enquanto você está por perto ou, se pesquisar "posto de gasolina", talvez seja mostrado um anúncio de um posto de gasolina local.
 
-- informações que você envia ao Aplicativo (por exemplo, o endereço da sua casa ou do seu trabalho)
-- atividades anteriores e histórico de consulta de pesquisa (por exemplo, viagens exibidas na lista de navegação)
-- informações enviadas pelos nossos parceiros de anúncios, incluindo entidades do grupo de empresas do Google e outros parceiros da nossa confiança
+### Anúncios personalizados
 
-Você pode configurar no Aplicativo se quer receber anúncios personalizados ou não. Para isso, acesse **Configurações de privacidade –> Personalização de anúncios**. Observação: desativar a Personalização de anúncios não desativa os anúncios, apenas a personalização deles.
+Dependendo das suas configurações, você também vai encontrar **anúncios personalizados** com base em:
+
+- Informações que você forneceu ao Waze (por exemplo, os endereços salvos de casa e trabalho).
+- Atividades anteriores e histórico de consulta de pesquisa (por exemplo, viagens exibidas na lista de navegação).
+- Se disponível com base nas configurações do dispositivo e da conta, informações do perfil e da atividade da sua Conta do Google.
+
+Você pode controlar se os anúncios são personalizados nas **Configurações de privacidade –> Personalização de anúncios** do app Waze.
+
+Você pode controlar as configurações de personalização dos anúncios do Google na Minha central de anúncios. Sua Conta do Google está sujeita à Política de Privacidade do Google.
 
 Observação:
 
-- Não coletamos nem exibimos, de forma intencional, anúncios personalizados que abordam categorias sensíveis, como raça, religião, orientação sexual ou saúde.
-- Não enviamos aos anunciantes informações de identificação pessoal, como nome ou e-mail, exceto se você realizar alguma ação em que isso seja necessário. Por exemplo, se você visualizar um anúncio de uma floricultura nas proximidades e clicar no botão “Toque para chamar”, concluiremos sua chamada e compartilharemos seu número de telefone com a loja.
-- Conforme descrito na seção “Quando o Waze compartilha suas informações”, usamos outros serviços do Google (como o Google DoubleClick Bid Manager) para fins de publicidade e avaliação de anúncios. Podemos compartilhar dados com esses serviços, como um identificador exclusivo de publicidade (ou seja, um código de publicidade disponível em dispositivos móveis Android ou tecnologias similares), para ajudar os anunciantes a escolher quais anúncios exibir no Waze, no Google e em sites e aplicativos parceiros do Google.
-- Saiba mais sobre como o Google utiliza as informações de sites ou aplicativos que usam os serviços dele e como gerenciar esse compartilhamento acessando esta página.
-- O controle de personalização de anúncios descrito acima se aplica aos anúncios personalizados veiculados pelo Waze **na plataforma do Waze**, mas não aos anúncios veiculados nas plataformas de terceiros, incluindo em nome do Waze.
-- Quando você acessa um site de terceiros a partir do Aplicativo, esse terceiro pode usar os cookies no seu computador. O uso de cookies por terceiros está sujeito às políticas de privacidade deles e não a esta Política de Privacidade. Se você quiser ler as políticas de privacidade de terceiros, entre em contato diretamente com eles ou acesse os serviços relacionados.
+- Se você desativar a personalização de anúncios, ainda terá anúncios no Waze, mas eles não serão personalizados para você.
+- Não personalizamos anúncios com base em categorias sensíveis, como raça, religião, orientação sexual ou saúde.
+- Não enviamos aos anunciantes informações de identificação pessoal, como nome ou e-mail, exceto se você realizar alguma ação em que isso seja necessário. Por exemplo, se você visualizar um anúncio de uma floricultura nas proximidades e clicar no botão "Toque para chamar", concluiremos sua chamada e podemos compartilhar seu número de telefone com a loja.
+- Os anunciantes, e não o Waze, são responsáveis pelo conteúdo dos anúncios. O Waze não é responsável por produtos ou serviços fornecidos pelos anunciantes.
 
-Os Serviços incluem um sistema interno de comunicação que permite enviar mensagens a outros usuários e receber mensagens deles e da nossa equipe de marketing. Você concorda que usemos esse sistema interno para divulgar produtos ou serviços que possam ser do seu interesse.
+### Medição de anúncios
 
-No entanto, outros usuários do Waze não podem usar seus detalhes de contato ou nossa conta interna de mensagens para fins de publicidade comercial. Caso você tenha recebido algum material de publicidade criado por outro usuário, informe-nos por meio dos canais listados no menu “Sobre” do Software ou na página Fale conosco do Site.
+Como mencionado acima, o Waze usa a tecnologia de publicidade do Google para mostrar anúncios no app. O Waze pode compartilhar informações com o Google para ajudar os anunciantes a entender a performance das campanhas publicitárias. Por exemplo, o Waze pode informar que um usuário navegou até uma floricultura depois de ver o anúncio dela no Waze, e o Google pode compartilhar métricas de relatórios agregados com os anunciantes. O Waze não vai compartilhar suas informações pessoais com anunciantes, a menos que você peça.
 
-Esclarecemos que não somos responsáveis pelo conteúdo desses anúncios, pelos produtos entregues nem pelos serviços prestados por terceiros. Assim, você concorda de forma irrevogável e incondicional que não podemos ser responsabilizados por perdas, danos, despesas ou custos que possam ser incorridos como resultado ou com relação a esses anúncios.
+Acesse esta página para saber como o Google utiliza as informações de sites ou apps que usam os serviços dele e como gerenciar esse compartilhamento.
 
 # Segurança das informações
 
-O Waze trata a segurança das informações como prioridade máxima. Nossos Serviços integram recursos de segurança avançados que protegem seus dados de forma contínua. O Waze implementa sistemas, aplicativos e procedimentos para preservar suas informações pessoais e minimizar o risco de roubo, dano, perda ou acesso e uso não autorizado delas. Por exemplo, analisamos nossas práticas de coleta, armazenamento e processamento de dados, incluindo medidas de segurança física, para impedir o acesso não autorizado aos nossos sistemas. Além disso, restringimos o acesso às informações pessoais aos funcionários, contratados e agentes do Waze que precisam processá-las. Todas as pessoas com esse acesso estão sujeitas a rigorosas obrigações contratuais de confidencialidade, podendo ser processadas ou dispensadas se deixarem de cumpri-las.
+O Waze trata a segurança das informações como prioridade máxima. Nossos Serviços integram recursos de segurança avançados que protegem seus dados de forma contínua. O Waze implementa sistemas, aplicativos e procedimentos para preservar suas informações pessoais e minimizar o risco de roubo, dano, perda ou acesso e uso não autorizado delas. Por exemplo, analisamos nossas práticas de coleta, armazenamento e tratamento de dados, incluindo medidas de segurança física, para impedir o acesso não autorizado aos nossos sistemas. Além disso, somente os funcionários, contratados e agentes do Waze que precisam tratar informações pessoais têm acesso a elas. Todas as pessoas com esse acesso estão sujeitas a rigorosas obrigações contratuais de confidencialidade, podendo ser processadas ou dispensadas por qualquer violação.
 
-Os insights que recebemos na manutenção dos nossos Serviços nos ajudam a detectar e bloquear automaticamente ameaças de segurança para que elas não cheguem até você.
+Os insights que recebemos na manutenção dos nossos serviços ajudam a detectar e bloquear automaticamente ameaças de segurança para que elas não cheguem até você.
 
-No entanto, mesmo com essas medidas, não é possível fornecer garantia absoluta. Portanto, embora o Waze envide todos os esforços razoáveis para proteger suas informações pessoais, não podemos garantir e você não pode esperar que nossos bancos de dados estejam imunes a irregularidades, falhas, interceptações ou acessos ilegais ou outros tipos de abuso e uso indevido.
+No entanto, mesmo com essas medidas, não é possível fornecer garantia absoluta. Portanto, embora o Waze não meça esforços para proteger suas informações pessoais, não podemos garantir e você não deve esperar que nossos bancos de dados estejam imunes a irregularidades, falhas, interceptações ou acessos ilegais ou outros tipos de abuso e uso indevido.
 
 # Conformidade e cooperação com órgãos reguladores
 
-Revisamos regularmente esta Política de Privacidade e nos certificamos de que o processamento das suas informações esteja em conformidade com elas.
+Revisamos regularmente esta Política de Privacidade e nos certificamos de que o tratamento das suas informações esteja em conformidade com ela.
 
 ### Transferências de dados
 
-Armazenamos dados em servidores no mundo todo, e suas informações podem ser processadas em servidores localizados fora do país onde você reside. A legislação de proteção de dados varia dependendo do país, sendo que alguns oferecem mais apoio legal que outros. Independentemente do local onde suas informações são processadas, aplicamos as mesmas proteções descritas nesta política.
+Armazenamos dados em servidores no mundo todo, e suas informações podem ser tratadas em servidores localizados fora do país onde você reside. A legislação de proteção de dados varia dependendo do país, sendo que alguns oferecem mais apoio legal que outros. Independentemente do local onde suas informações são tratadas, aplicamos as mesmas proteções descritas nesta política.
 
-Quando recebemos petições iniciais por escrito, entramos em contato com o requerente. Trabalhamos com as autoridades reguladoras apropriadas, inclusive órgãos locais de proteção de dados, para resolver quaisquer petições iniciais referentes à transferência de dados que não possam ser resolvidas diretamente com você.
+Quando recebemos solicitações por escrito, entramos em contato com o requerente. Trabalhamos com as autoridades reguladoras apropriadas, incluindo as autoridades de proteção de dados (internacionalmente) e a Autoridade Nacional de Proteção de Dados (no Brasil), para resolver quaisquer reclamações referentes à transferência de dados que não possam ser resolvidas diretamente com você.
+
+### Direitos do titular dos dados
+
+Se a legislação de proteção de dados da União Europeia (UE), do Reino Unido ou de Israel se aplicar ao tratamento das suas informações, os controles descritos nesta política são disponibilizados para que você possa exercer o direito de solicitar acesso aos dados, além de atualizar, corrigir, remover, excluir e restringir o tratamento deles.
+
+Você também pode exportar uma cópia dos dados da sua conta do Waze se quiser fazer backup deles ou migrar as informações para outro serviço. Para isso, faça login no painel pelo site do Waze, acesse as configurações e selecione "Baixe seus dados do Waze". Lembrete: você vai precisar de uma conta do Waze para acessar o painel e de um e-mail válido para o envio do arquivo.
+
+Você também tem o direito de se opor ao tratamento das suas informações.
+
+Se você tiver dúvidas ou pedidos relacionados aos seus direitos, entre em contato com o Waze e nossa equipe de proteção de dados pelo e-mail privacy@waze.com. Você também pode entrar em contato com a autoridade local de proteção de dados se tiver dúvidas sobre seus direitos de acordo com a legislação local.
 
 ### Requisitos europeus
 
-Se a legislação de proteção de dados da União Europeia (UE) se aplicar ao seu caso, os controles descritos nesta Política são disponibilizados para que você possa exercer o direito de solicitar acesso aos dados e restringir o tratamento deles, além de atualizar, remover e excluir informações pessoais.
+Tratamos suas informações para os fins descritos nesta política, com base nos seguintes fundamentos jurídicos:
 
-Você também poderá exportar uma cópia dos dados da sua Conta do Waze se quiser fazer backup deles ou migrar as informações para outro serviço. Para isso, faça login no painel pelo site do Waze, acesse as configurações e selecione “Fazer o download do seu arquivo de dados”. Lembre-se de que você precisará de uma Conta do Waze para acessar o painel e de um endereço de e-mail válido para o envio do arquivo de dados.
+*Solicitação de consentimento*
 
-Você também tem o direito de se opor ao processamento das suas informações.
+Pedimos sua autorização para tratar as informações para fins específicos, e ela pode ser revogada a qualquer momento. Você pode gerenciar suas configurações sempre que precisar, incluindo as configurações de privacidade no app.
 
-Processamos suas informações para os fins descritos nesta Política, com base nos fundamentos legais descritos abaixo.
+*Cumprimento de interesses legítimos*
 
-*Consentimento*
+Os dados são tratados com base nos interesses legítimos do Waze e de terceiros (como parceiros, incluindo anunciantes, que visam gerar estatísticas de uso), e todas as salvaguardas adequadas são aplicadas para resguardar sua privacidade. Isso significa que tratamos suas informações para situações como estas:
 
-Pedimos sua autorização para processar as informações para fins específicos, e ela pode ser revogada a qualquer momento. Você pode gerenciar suas configurações sempre que precisar, incluindo as configurações de privacidade no aplicativo.
-
-*nteresses legítimos*
-
-Os dados são processados com base nos interesses legítimos do Waze e de terceiros (como parceiros, incluindo anunciantes, que visam gerar estatísticas de uso), e todas as proteções relevantes são aplicadas para resguardar sua privacidade. Isso significa que processamos suas informações para:
-
-- disponibilizar, manter e melhorar nossos Serviços de forma a atender às necessidades dos usuários;
-- desenvolver novos serviços e recursos que sejam úteis aos usuários;
-- entender como as pessoas usam nossos Serviços (incluindo como interagem com os anúncios) a fim de garantir e melhorar o desempenho deles;
-- personalizar os Serviços para oferecer a melhor experiência do usuário;
-- enviar materiais de marketing para informar os usuários sobre nossos Serviços;
-- - anúncios, o que mantém a gratuidade de muitos de nossos Serviços
-- detectar, impedir ou, de outra forma, resolver fraudes, abusos, problemas técnicos ou de segurança nos Serviços;
-- nos proteger contra danos aos direitos, propriedade ou segurança do Waze, dos nossos usuários ou do público, conforme exigido ou permitido pela legislação, incluindo a divulgação de informações pessoais do usuário para autoridades públicas competentes;
-- realizar pesquisas que melhorem nossos Serviços para os usuários e beneficiem o público;
-- cumprir obrigações perante nossos parceiros, como desenvolvedores e detentores de direitos;
-- cumprir ações judiciais, incluindo a investigação de possíveis violações dos Termos de Serviço aplicáveis.
+- Disponibilizar, manter e melhorar nossos serviços de forma a atender às necessidades dos usuários
+- Desenvolver novos serviços e recursos que sejam úteis aos usuários
+- Entender como as pessoas usam nossos Serviços (incluindo como interagem com os anúncios) para garantir e melhorar o desempenho deles
+- Personalizar os serviços para oferecer a melhor experiência do usuário
+- Enviar materiais de marketing para informar os usuários sobre nossos serviços
+- Fornecer publicidade, que mantém muitos dos nossos serviços sem custo financeiro
+- Detectar, impedir ou, de outra forma, resolver fraudes, abusos, problemas técnicos ou de segurança nos serviços
+- Evitar danos aos direitos, propriedade ou segurança do Waze, dos usuários ou do público, conforme exigido ou permitido pela legislação, inclusive a divulgação de informações a órgãos do governo
+- Realizar pesquisas que melhorem nossos serviços para os usuários e beneficiem o público
+- Cumprir obrigações perante nossos parceiros, como desenvolvedores e detentores de direitos
+- Cumprir ações judiciais, incluindo a investigação de possíveis violações dos Termos de Serviço aplicáveis
 
 *Prestação de serviço*
 
-Processamos seus dados para disponibilizar um serviço que você solicitou segundo as disposições de um contrato, incluindo nossos Termos de Uso.
+Tratamos seus dados para disponibilizar um serviço que você solicitou segundo as disposições de um contrato, incluindo nossos Termos de Uso.
 
 *Cumprimento de obrigações legais*
 
-Processamos suas informações pessoais nos casos que haja uma obrigação legal correspondente, por exemplo, se estivermos respondendo a uma ordem judicial ou a uma requisição governamental.
+Nós vamos tratar seus dados quando tivermos uma obrigação legal de fazer isso, como devido a um processo judicial ou uma solicitação governamental aplicável.
 
-Em caso de dúvidas, envie uma mensagem ao e-mail privacy@waze.com para falar com o Waze e com nosso departamento de proteção de dados. Você também pode entrar em contato com a autoridade de proteção de dados local se tiver dúvidas sobre seus direitos segundo a legislação aplicável.
+### Requisitos do Brasil
 
-# Legislação de proteção de dados brasileira
+Se a legislação de proteção de dados do Brasil se aplicar ao tratamento das suas informações, vamos oferecer os controles descritos nesta política para que você possa exercer seu direito de:
 
-Se a legislação de proteção de dados do Brasil se aplicar ao tratamento de suas informações pessoais, providenciaremos os controles evidenciados nesta Política de Privacidade para que você possa exercer seu direito de:
+- receber confirmação sobre o tratamento das suas informações;
+- atualizar, analisar, anonimizar, remover e solicitar acesso às suas informações;
+- restringir ou se opor ao tratamento das suas informações;
+- exportar suas informações para outro serviço.
 
-- confirmar se nós processamos suas informações pessoais;
-- solicitar acesso às suas informações pessoais e atualizá-las, consultá-las, torná-las anônimas e excluí-las, quando aplicável;
-- opor-se ao tratamento de suas informações pessoais ou restringi-lo, quando aplicável;
-- exportar suas informações pessoais para outro serviço.
+Tratamos suas informações para os fins descritos nesta política, com base nos seguintes fundamentos jurídicos:
 
-Processamos suas informações pessoais para os fins descritos nesta Política de Privacidade: *Consentimento*
+*Solicitação de consentimento*
 
-Quando solicitarmos seu consentimento para tratar suas informações pessoais para fins específicos, você não é obrigado a fornecê-lo Mas, se optar por fornecer seu consentimento, você tem o direito de retirá-lo a qualquer momento. Você pode gerenciar suas configurações sempre que precisar, incluindo as configurações de privacidade no Aplicativo. Você também tem o direito de obter informações sobre os efeitos de não consentir com o tratamento de informações pessoais para fins específicos.
+Você não precisa permitir o tratamento das suas informações para fins específicos quando solicitado e, quando fizer isso, tem o direito de retirar a permissão quando quiser. Você pode gerenciar suas configurações sempre que precisar, incluindo as configurações de privacidade no app. Além disso, você também tem o direito de receber informações sobre os efeitos da não autorização do tratamento para fins específicos.
 
-*Intereses legítimos*
+*Cumprimento de interesses legítimos*
 
-As informações pessoais poderão ser tratadas com base nos interesses legítimos do Waze e de terceiros (como parceiros, incluindo anunciantes, que visam gerar estatísticas de uso), e todas as proteções relevantes serão aplicadas para resguardar sua privacidade. Isso significa que tratamos suas informações pessoais para:
+Os dados são tratados com base nos interesses legítimos do Waze e de terceiros (como parceiros, incluindo anunciantes, que visam gerar estatísticas de uso), e todas as salvaguardas adequadas são aplicadas para resguardar sua privacidade. Isso significa que tratamos suas informações para situações como estas:
 
-- disponibilizar, manter e melhorar nossos Serviços de forma a atender às necessidades dos usuários;
-- desenvolver novos Serviços e recursos que sejam úteis aos usuários;
-- entender como os usuários usam nossos Serviços (incluindo como interagem com os anúncios) a fim de garantir e melhorar o desempenho deles;
-- personalizar os Serviços para oferecer a melhor experiência do usuário;
-- enviar materiais de marketing para informar os usuários sobre nossos Serviços;
-- apresentar anúncios, o que mantém a gratuidade de muitos de nossos Serviços;
-- detectar, impedir ou, de outra forma, resolver fraudes, abusos, problemas técnicos ou de segurança nos nossos Serviços;
-- proteger o Waze contra danos aos direitos, propriedade ou segurança do Waze, dos nossos usuários ou do público, conforme exigido ou permitido pela legislação aplicável, incluindo a divulgação de informações pessoais para autoridades públicas competentes;
-- realizar pesquisas que melhorem nossos Serviços para os usuários e beneficiem o público;
-- cumprir obrigações perante nossos parceiros, como desenvolvedores e detentores de direitos;
-- exercício regular de direitos em processos judiciais, incluindo investigação de possíveis violações dos Termos de Serviço aplicáveis.
+- Disponibilizar, manter e melhorar nossos serviços de forma a atender às necessidades dos usuários
+- Desenvolver novos serviços e recursos que sejam úteis aos usuários
+- Entender como as pessoas usam nossos Serviços (incluindo como interagem com os anúncios) para garantir e melhorar o desempenho deles
+- Personalizar os serviços para oferecer a melhor experiência do usuário
+- Enviar materiais de marketing para informar os usuários sobre nossos serviços
+- Fornecer publicidade, que mantém muitos dos nossos serviços sem custo financeiro
+- Detectar, impedir ou, de outra forma, resolver fraudes, abusos, problemas técnicos ou de segurança nos serviços
+- Evitar danos aos direitos, propriedade ou segurança do Waze, dos usuários ou do público, conforme exigido ou permitido pela legislação, inclusive a divulgação de informações a órgãos do governo
+- Realizar pesquisas que melhorem nossos serviços para os usuários e beneficiem o público
+- Cumprir obrigações perante nossos parceiros, como desenvolvedores e detentores de direitos
+- Cumprir ações judiciais, incluindo a investigação de possíveis violações dos Termos de Serviço aplicáveis
 
-*Prestação de serviço* Processamos suas informações pessoais para disponibilizar um serviço que você solicitou segundo as disposições de um contrato, incluindo nossos Termos de Uso.
+*Prestação de serviço*
+
+Tratamos seus dados para disponibilizar um serviço que você solicitou segundo as disposições de um contrato, incluindo nossos Termos de Uso.
 
 *Cumprimento de obrigações legais*
 
-Processamos suas informações pessoais nos casos que haja uma obrigação legal correspondente, por exemplo, se estivermos respondendo a uma ordem judicial ou a uma requisição governamental.
+Nós vamos tratar seus dados quando tivermos uma obrigação legal de fazer isso, como devido a um processo judicial ou uma solicitação governamental aplicável. Em caso de dúvidas, envie uma mensagem ao e-mail privacy@waze.com para falar com o Waze e com nossa equipe de proteção de dados. Você também poderá entrar em contato com a Autoridade Nacional de Proteção de Dados local se tiver dúvidas sobre seus direitos segundo a legislação do Brasil.
 
-Em caso de dúvidas, envie uma mensagem ao e-mail privacy@waze.com para falar com o Waze e com nosso departamento de proteção de dados. Você também pode entrar em contato com a autoridade de proteção de dados local se tiver dúvidas sobre seus direitos segundo a legislação aplicável.
+### Requisitos da legislação estadual dos EUA
 
-# Legislação de proteção de dados da Califórnia
+Algumas Leis Estaduais de Privacidade dos EUA exigem divulgações específicas.
 
-A Lei de Privacidade do Consumidor da Califórnia (California Consumer Privacy Act, CCPA) exige que informações específicas sejam prestadas para residentes da Califórnia. Esta Política de Privacidade foi criada para ajudar você a entender como o Waze trata suas informações pessoais:
+São elas:
 
-- Explicamos as categorias de informações que o Waze coleta e suas respectivas fontes na seção Informações que são coletadas.
-- Explicamos como o Waze usa as informações na seção Por que o Waze coleta informações pessoais.
-- Explicamos quando o Waze pode compartilhar informações na seção Compartilhamento de suas informações. O Waze não vende suas informações pessoais.
+- Lei de Privacidade do Consumidor da Califórnia (CCPA);
+- Lei de Proteção de Dados do Consumidor da Virgínia (VCDPA);
+- Lei de Privacidade do Colorado (CPA);
+- Lei de Connecticut sobre a Privacidade de Dados Pessoais e Monitoramento On-line (CTDPA); e
+- Lei de Privacidade do Consumidor de Utah (UCPA).
 
-A CCPA também contempla o direito de solicitar informações sobre a forma como o Waze coleta, usa e divulga suas informações pessoais, além do direito de acessar suas informações e solicitar que o Waze as exclua. Por fim, a CCPA prevê o direito de você não ser discriminado por exercer seus direitos de privacidade.
+Esta Política de Privacidade vai ajudar você a entender como o Waze trata suas informações:
 
-Descrevemos as escolhas que você tem para gerenciar sua privacidade e suas informações pessoais na seção Controle de suas informações pessoais. Você pode exercer seus direitos usando esses controles que permitem acessar, consultar, atualizar e excluir suas informações pessoais, bem como exportar e baixar cópias. Para isso, faça login no painel pelo site do Waze, acesse as configurações e selecione “Fazer o download do seu arquivo de dados”. Lembre-se de que você precisará de uma Conta do Waze para acessar o painel e de um endereço de e-mail válido para o envio do arquivo de dados. Caso você tenha dúvidas ou solicitações relacionadas aos seus direitos no âmbito da CCPA, você (ou seu procurador) também pode entrar em contato com o Waze pelo e-mail privacy@waze.com.
+- Explicamos as categorias de informações que o Waze coleta e as fontes delas em Informações que são coletadas.
+- Explicamos como o Waze usa as informações em Por que o Waze coleta dados.
+- Explicamos quando o Waze pode divulgar informações em Compartilhamento das suas informações. O Waze não vende nem compartilha suas informações pessoais, conforme definição desse termo na CCPA.
+- Explicamos como o Waze armazena os dados em "Como o Waze armazena as informações coletadas". Você também pode consultar como o Waze usa as informações agregadas. Quando o Waze anonimiza dados para proteger sua privacidade, cumprimos políticas e medidas técnicas para evitar que essas informações sejam identificadas de novo.
 
-A CCPA exige uma descrição das práticas relacionadas às informações pessoais em categorias específicas. Esta tabela determina essas categorias para organizar as informações nesta Política de Privacidade.
+As Leis Estaduais de Privacidade dos EUA também permitem solicitar informações sobre como o Waze coleta, usa e divulga seus dados, além de dar a você o direito de acessar, algumas vezes no formato móvel, corrigir e solicitar a exclusão das suas informações do Waze. Com essas leis, também é possível recusar determinadas formas de caracterização de perfil e publicidade segmentada. Elas também garantem o direito de que não haja discriminação por você exercer seus direitos de privacidade.
+
+Descrevemos as opções disponíveis para gerenciar sua privacidade e seus dados em Controle das suas informações pessoais. Você pode acessar, revisar, atualizar e excluir suas informações, além de exportar e fazer o download de uma cópia delas. Também é possível desativar os anúncios personalizados nas configurações do app. Para isso, faça login no painel pelo site do Waze, acesse as configurações e selecione "Baixe seus dados do Waze". Lembrete: você vai precisar de uma conta do Waze para acessar o painel e de um e-mail válido para o envio do arquivo. Quando você usa essas ferramentas, validamos sua solicitação verificando se você fez login na Conta do Waze. Se você tiver dúvidas ou solicitações relacionadas aos seus direitos de acordo com as Leis Estaduais de Privacidade dos EUA, você (ou seu agente autorizado) também poderá entrar em contato com o Waze em privacy@waze.com. Se você não concordar com a decisão relacionada à solicitação e quiser pedir ao Waze que a reconsidere, responda ao e-mail da equipe de suporte.
+
+Algumas Leis Estaduais de Privacidade dos EUA exigem uma descrição de práticas relacionadas a dados usando categorias específicas. Esta tabela usa essas categorias para organizar as informações nesta Política de Privacidade.
+
+### Requisitos de Israel
+
+Tratamos suas informações para os fins descritos nesta política. Você não precisa dar seu consentimento para a coleta e o uso das suas informações pessoais pelo Waze, mas isso pode restringir o uso dos Serviços.
 
 # Alterações nesta Política de Privacidade
 
 O Waze pode, de tempos em tempos, alterar os termos desta Política de Privacidade. Alterações substanciais entrarão em vigor 30 dias após o Waze publicar:
 
-- uma mensagem aos usuários no sistema de comunicação, notificando-os sobre as alterações na Política de Privacidade; e
-- uma notificação na página inicial do site ou em outras páginas da Web relevantes, explicando as alterações na Política de Privacidade e comparando as versões antigas e atualizadas da Política de Privacidade.
+- uma mensagem aos usuários no sistema de comunicação, avisando sobre as alterações na Política de Privacidade; e
+- uma notificação na página inicial do site ou em outras páginas da web relevantes, explicando as alterações na Política de Privacidade e comparando as versões antigas e atualizadas dela.
 
 Outras mudanças entrarão em vigor sete dias após a publicação inicial no site. No entanto, se o Waze alterar esta Política de Privacidade para cumprir requisitos legais, as alterações entrarão em vigor imediatamente após a publicação inicial ou conforme necessário.
 
-Você concorda em se vincular a quaisquer alterações feitas nos termos desta Política de Privacidade. A continuidade do uso dos Serviços indicará sua aceitação dos termos alterados. Se você discordar de algum desses termos, interrompa a utilização dos Serviços.
+Você concorda em se vincular a quaisquer alterações feitas nos termos desta Política de Privacidade. A continuidade do uso dos Serviços indicará sua aceitação dos termos alterados. Se você discordar de algum desses termos, pare de utilizar os Serviços.
 
-**Última modificação em 9 de Setembro de 2020**
+# Contato do Waze – Informações sobre questões de privacidade
 
-**A empresa registrou um banco de dados com o registrador de banco de dados israelense**
+O controlador de dados responsável pelas suas informações é a Waze Mobile Ltd., uma empresa incorporada e que opera de acordo com as leis de Israel, localizada em 98 Yigal Alon st., Tel Aviv, Israel.
+
+Se você tiver alguma dúvida sobre esta Política de Privacidade ou acreditar que sua privacidade foi comprometida durante o uso dos Serviços, entre em contato com o Waze pelo e-mail: privacy@waze.com. Você pode enviar outras solicitações, respostas, perguntas e reclamações para support@waze.com.
+
+**Última modificação: 8 de julho de 2026**
