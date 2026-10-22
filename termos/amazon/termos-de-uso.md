@@ -3,8 +3,7 @@ empresa: "Amazon"
 documento: "Termos de Uso"
 categoria: "Compras"
 fonte: "https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM"
-capturado_em: 2026-04-13
-wayback: "https://web.archive.org/web/20260413234942/https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM"
+capturado_em: 2026-10-22
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/amazon/termos-de-uso.md"
 ---
 
@@ -40,7 +39,7 @@ Sujeito ao cumprimento destas Condições de Uso e ao pagamento por você do pre
 
 **SUA CONTA**
 
-Ao utilizar qualquer Serviço da Amazon, você é responsável por manter a confidencialidade de sua conta e senha e restringir o acesso ao seu computador, e responsabiliza-se por todas as atividades que ocorram com sua conta ou sua senha. A Amazon não vende produtos para crianças, mas os vende para adultos, que podem comprar com cartão de crédito ou outro meio de pagamento autorizado. Se tiver menos de 18 anos, você somente poderá utilizar os Serviços Amazon com a participação de um de seus pais ou responsável. A Amazon reserva-se o direito de recusar o serviço, encerrar contas, remover ou editar conteúdo, ou cancelar pedidos a seu critério exclusivo.
+Ao utilizar qualquer Serviço da Amazon, você é responsável por manter a confidencialidade de sua conta e senha e restringir o acesso ao seu computador, e responsabiliza-se por todas as atividades que ocorram com sua conta ou sua senha. A Amazon não vende produtos para menores de idade, mas os vende para adultos, que podem comprar com cartão de crédito ou outro meio de pagamento autorizado. Se tiver menos de 18 anos, você somente poderá utilizar os Serviços Amazon com a participação de um de seus pais ou responsável. A Amazon reserva-se o direito de recusar o serviço, encerrar contas, remover ou editar conteúdo, ou cancelar pedidos a seu critério exclusivo.
 
 **VENDA DE PRODUTOS PARA USO PRÓPRIO / PROIBIDA REVENDA**
 
@@ -76,7 +75,7 @@ Além do preço informado, podem ser indicados outros preços a título de refer
 
 **COMPRA DE UM VENDEDOR INDEPENDENTE**
 
-Nas transações entre você e um vendedor independente pelo site Amazon.com.br, o vendedor estabelecerá as condições de compra (preço, pagamento, entrega, garantia, devolução, troca e reembolso), não possuindo, a Amazon, responsabilidade por eventuais danos causados. Se houver qualquer tipo de problema com algum de seus pedidos, você deverá solucioná-lo diretamente com o vendedor por meio do sistema disponibilizado pela Amazon.com.br. Em último caso, não tendo sido resolvido o problema pelo vendedor independente, você poderá utilizar a “Garantia de A a Z”, se os requisitos estiverem preenchidos.
+A Amazon permite que vendedores independentes anunciem e vendam seus produtos na Amazon.com.br. Em cada caso, essa informação é indicada na respectiva página de detalhes do produto. Embora a Amazon, como prestadora de serviços de marketplace, facilite transações realizadas em seu site, a Amazon não é nem a compradora nem a vendedora dos produtos dos vendedores independentes. A Amazon fornece um serviço para que vendedores e compradores negociem e concluam transações. Por conseguinte, o contrato formado na venda de produtos de vendedores independentes diz respeito apenas ao comprador e ao vendedor desse produto. A Amazon não é parte desse contrato nem agente do vendedor. A Amazon disponibiliza canais para que compradores e vendedores se comuniquem diretamente para solucionar eventuais questões relativas ao contrato entre eles. Para proporcionar uma experiência de compra mais segura, a Amazon oferece a Garantia de A a Z, sem prejuízo de quaisquer direitos contratuais ou outros direitos previstos na legislação aplicável.
 
 Ao comprar de vendedores independentes que enviam produtos de fora do Brasil, você pode estar sujeito a tributos de importação e circulação de mercadorias, taxas de homologação e cobrança de despacho postal dos Correios. Quaisquer encargos para desembaraço aduaneiro são de sua responsabilidade e não temos controle sobre essas cobranças. Além disso, observe que ao fazer o pedido de um produto vendido por um vendedor independente que envia itens de fora do Brasil você é o importador e, além de seguir as leis e regulamentações para importação no Brasil, um contrato de câmbio será emitido em seu nome para pagamento do vendedor independente fora do Brasil. Sua privacidade é importante para nós e é importante que você esteja ciente de que as entregas internacionais estão sujeitas à abertura e inspeção por parte das autoridades aduaneiras. Para saber mais informações, consulte Sobre alfândega, taxas e tributos .
 
@@ -123,6 +122,10 @@ Amazon.com.br - Amazon Serviços de Varejo do Brasil Ltda.
 Avenida Presidente Juscelino Kubitschek, 2041- Torre E - 18º Andar - São Paulo/SP, CEP 04543-011
 
 http://www.amazon.com.br
+
+## SEGURANÇA ONLINE
+
+Você pode enviar denúncias sobre problemas com produtos à venda na Amazon.com.br, incluindo conteúdo que possa violar a legislação brasileira, usando a ferramenta "Relatar um problema com este produto" disponível na página de detalhes de cada produto na Amazon.com.br. Ao usar os recursos da Comunidade Amazon, você concorda com as Diretrizes da comunidade. Para saber mais sobre como se manter seguro online, clique aqui.
 
 ## Notificação e procedimento para formular reclamações de violações de direitos autorais
 
