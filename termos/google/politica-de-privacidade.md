@@ -3,8 +3,7 @@ empresa: "Google"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
 fonte: "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
-capturado_em: 2025-12-14
-wayback: "https://web.archive.org/web/20251214205431/https://policies.google.com/privacy?hl=pt-BR&gl=BR"
+capturado_em: 2026-10-22
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md"
 ---
 
@@ -20,7 +19,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 1 de julho de 2025 | Versões arquivadas | Fazer o download do PDF
+Em vigor a partir de 16 de outubro de 2026 | Versões arquivadas | Fazer o download do PDF
 
 ## Índice
 
@@ -62,7 +61,7 @@ Para ajudar a explicar as coisas da forma mais clara possível, adicionamos exem
 
 Coletamos informações para fornecer serviços melhores a todos os nossos usuários, o que inclui descobrir coisas básicas, como o idioma que você fala, até coisas mais complexas, como anúncios que você pode considerar mais úteis, as pessoas on-line que são mais importantes para você ou os vídeos do YouTube de que você poderá gostar. As informações coletadas pelo Google e como essas informações são usadas dependem de como você usa nossos serviços e de como gerencia os controles de privacidade.
 
-Quando você não está conectado a uma Conta do Google, armazenamos as informações que coletamos com identificadores exclusivos vinculados ao navegador, aplicativo ou dispositivo que você está usando. Isso nos permite manter suas preferências em todas as sessões de navegação; por exemplo, o idioma ou a exibição ou não de resultados relevantes da pesquisa ou anúncios baseados na sua atividade.
+O Google também coleta e usa dados que não estão associados à sua conta. Por exemplo, quando você não tiver se conectado com uma Conta do Google, armazenaremos as informações coletadas com identificadores exclusivos vinculados ao navegador, aplicativo ou dispositivo que você está usando. Isso nos permite manter suas preferências em todas as sessões de navegação; por exemplo, o idioma ou a exibição ou não de resultados relevantes da pesquisa ou anúncios baseados na sua atividade em todos os dispositivos.
 
 Quando você está conectado, também coletamos informações que armazenamos com sua Conta do Google e que tratamos como informações pessoais.
 
@@ -97,7 +96,7 @@ Coletamos informações sobre sua atividade em nossos serviços e usamos tal inf
 
 Se você usa nossos serviços para fazer e receber chamadas ou enviar e receber mensagens, podemos coletar informações de registro de chamadas e mensagens, como o número do seu telefone, número de quem chama, número de quem recebe, números de encaminhamento, endereço de e-mail do remetente e destinatário, horário e data de chamadas e mensagens, duração das chamadas, informações de roteamento e tipos e volumes de chamadas e mensagens.
 
-Visite sua Conta do Google para encontrar e gerenciar informações de atividades salvas na conta.
+Acesse sua Conta do Google para encontrar e gerenciar as informações de atividade salvas pelos seus controles de atividade.
 
 Ir para a Conta do Google
 
@@ -140,19 +139,19 @@ Usamos as informações que coletamos nos serviços existentes no desenvolviment
 
 ### Fornecer serviços personalizados, incluindo conteúdo e anúncios
 
-Usamos as informações que coletamos para personalizar nossos serviços, inclusive para fornecer recomendações, conteúdo e resultados de pesquisa personalizados. Por exemplo, a Verificação de segurança fornece dicas de segurança adaptadas à forma como você usa os produtos do Google. Além disso, dependendo das configurações disponíveis, o Google Play pode usar informações como apps já instalados e vídeos assistidos no YouTube para sugerir novos apps que você pode gostar.
+Usamos as informações que coletamos para personalizar nossos serviços, inclusive para fornecer recomendações, conteúdo e resultados de pesquisa personalizados. Por exemplo, a Verificação de segurança fornece dicas de segurança adaptadas à forma como você usa os produtos do Google. Além disso, dependendo das configurações disponíveis, o Google Play pode usar informações como apps já instalados e vídeos assistidos no YouTube para sugerir novos apps que você pode gostar. Para ter uma experiência mais personalizada, permita que determinados Serviços do Google (como a Pesquisa ou os apps do Gemini) acessem dados de outros Serviços que você usa na plataforma, como o Google Fotos e os apps do Workspace (por exemplo, o Gmail e o Drive). As políticas e configurações do serviço que está acessando estes dados serão aplicadas. Por exemplo, com sua permissão, a Pesquisa pode tratar seus dados para personalizar conteúdo, incluindo anúncios.
 
-Dependendo das suas configurações, também podemos mostrar anúncios personalizados com base nos seus interesses e atividades nos Serviços do Google. Por exemplo, se você pesquisar "mountain bikes", poderá encontrar um anúncio sobre equipamentos esportivos no YouTube. É possível controlar quais informações usamos para mostrar anúncios nas configurações da Minha central de anúncios.
+Dependendo das suas configurações, também podemos mostrar anúncios personalizados com base nos seus interesses, atividades ou conteúdo personalizado dos Serviços do Google. Por exemplo, se você pesquisar "bicicletas", poderá encontrar anúncios sobre equipamentos esportivos no YouTube. Nas configurações da Minha central de anúncios, é possível controlar quais informações usamos para mostrar publicidade.
 
 - Não mostramos anúncios personalizados com base em categorias sensíveis, como raça, religião, orientação sexual ou saúde.
-- Não mostramos anúncios personalizados com base no seu conteúdo do Drive, Gmail ou Fotos.
+- Não mostramos anúncios personalizados com base no seu conteúdo do Drive, Gmail ou Google Fotos, a menos que você escolha disponibilizar dados desses serviços para Serviços do Google que oferecem anúncios personalizados.
 - Não compartilhamos informações que identifiquem você pessoalmente para anunciantes, como nome ou e-mail, a menos que você nos peça. Por exemplo, se você vir um anúncio de uma floricultura nas proximidades e selecionar o botão "Toque para ligar", faremos a chamada e poderemos compartilhar seu número de telefone com a floricultura.
 
 Acessar a Minha central de anúncios
 
 ### Avaliar o desempenho
 
-Usamos dados para análise e avaliação a fim de entender como nossos serviços são usados. Por exemplo, analisamos dados sobre suas visitas aos nossos sites para otimizar o design do produto. Também usamos dados sobre os anúncios com os quais você interage, incluindo sua atividade relacionada na Pesquisa Google, para ajudar os anunciantes a entender a performance das campanhas publicitárias. Usamos diversas ferramentas para fazer isso, incluindo o Google Analytics. Quando você visita sites ou usa apps que utilizam o Google Analytics, um cliente do Google Analytics desse site pode ativar o Google para vincular informações sobre sua atividade naquele site ou app com atividades de outros sites e apps que usam nossos serviços de anúncios.
+Usamos dados para análise e avaliação a fim de entender como nossos serviços são usados. Por exemplo, analisamos dados sobre seus acessos aos nossos sites para otimizar o design do produto. Também usamos dados sobre os anúncios com os quais você interage, incluindo sua atividade relacionada na Pesquisa Google, para ajudar os anunciantes a entender a performance das campanhas publicitárias. Para isso, usamos diversas ferramentas, incluindo serviços de publicidade e análise. Quando você acessa sites ou usa apps que utilizam os serviços de anúncios ou de análise do Google, esses serviços podem vincular informações sobre sua atividade naquele site ou app com atividades de outros sites e apps que usam nossos serviços.
 
 ### Entrar em contato com você
 
@@ -182,7 +181,7 @@ Ir para a Verificação de privacidade
 
 ## Gerenciar, analisar e atualizar suas informações
 
-Quando você está conectado, pode analisar e atualizar informações visitando os serviços que usa. Por exemplo, o Google Fotos e o Drive foram projetados para ajudar você a gerenciar tipos específicos de conteúdo que você salvou no Google.
+Quando você conectar sua conta, poderá analisar e atualizar informações visitando os serviços que usa. Por exemplo, o Google Fotos e o Drive foram projetados para ajudar você a gerenciar tipos específicos de conteúdo que você salvou no Google.
 
 Também criamos um local para você analisar e controlar as informações salvas na sua Conta do Google. A sua Conta do Google inclui o seguinte:
 
@@ -190,7 +189,7 @@ Também criamos um local para você analisar e controlar as informações salvas
 
 ### Controles de atividade
 
-Você pode decidir que tipos de atividade quer salvar na sua conta. Por exemplo, se o "Histórico do YouTube" estiver ativado, os vídeos que você assistir e as pesquisa que fizer serão salvos na sua conta para que você se lembre de onde parou e receba recomendações melhores. E se a opção "Atividade na Web e de apps" estiver ativada, suas pesquisas e atividade em outros Serviços do Google serão salvas na sua conta para que você possa ter experiências personalizadas, como pesquisas mais rápidas e apps mais úteis, além de recomendações de conteúdo. O recurso "Atividade na Web e de apps" tem também uma configuração que permite controlar se informações sobre sua atividade em outros sites, apps e dispositivos que usam os Serviços do Google, como apps instalados e usados no Android, são salvos na sua Conta do Google e usados para melhorar os Serviços do Google.
+Você pode decidir que tipos de atividade quer salvar na sua conta. Por exemplo, se o Histórico do YouTube estiver ativado, os vídeos que você assistir e as pesquisa que fizer serão salvos na sua conta para que você se lembre de onde parou e receba recomendações melhores. E se a opção Atividade na Web e de Apps estiver ativada, suas pesquisas e atividades em outros Serviços do Google serão salvas na sua conta para que você possa ter experiências personalizadas, por exemplo, pesquisas mais rápidas e apps mais úteis, além de recomendações de conteúdo. O recurso Atividade na Web e de Apps tem também uma configuração que permite controlar se algumas informações sobre sua atividade em outros sites, apps e dispositivos que usam os Serviços do Google, como apps instalados e usados no Android, são salvas na sua Conta do Google e usadas para melhorar os Serviços do Google.
 
 Acessar os Controles de atividade
 
@@ -380,7 +379,7 @@ Para usuários localizados no Brasil, o controlador de dados responsável por su
 
 ### Dados de contato
 
-Se tiver alguma dúvida, entre em contato com o Google e com nosso escritório de proteção de dados. A oficial de proteção de dados é Kristie Chon Flynn. Você também poderá entrar em contato com a autoridade local de proteção de dados se tiver dúvidas sobre seus direitos de acordo com a legislação brasileira.
+Se tiver alguma dúvida, entre em contato com o Google e com nosso escritório de proteção de dados. A Encarregada de Dados é Kristie Chon Flynn. Você pode entrar em contato com o Google no Brasil pelo endereço de e-mail juridicobrasil@google.com ou pelo Formulário de Consulta de Privacidade. Você também poderá entrar em contato com a autoridade local de proteção de dados se tiver dúvidas sobre seus direitos de acordo com a legislação brasileira.
 
 # Sobre esta política
 
@@ -542,7 +541,7 @@ Você pode conferir e controlar sua Atividade na Web e de apps na página Minha 
 
 Sites e apps que integram Serviços do Google, como anúncios e análises de dados, compartilham informações conosco.
 
-Essas informações são coletadas independente do navegador ou do modo de navegação usado. Por exemplo, embora o modo de navegação anônima do Chrome possa ajudar a proteger sua navegação de outras pessoas que usam o dispositivo, sites e apps de terceiros que integram nossos serviços ainda podem compartilhar informações com o Google quando você os visita.
+Essas informações são compartilhadas independente do navegador ou do modo de navegação usado. Por exemplo, embora o modo de navegação anônima do Chrome possa ajudar a proteger sua navegação contra outras pessoas que usam o dispositivo, ainda é possível que sites e apps de terceiros que integram nossos serviços compartilhem informações com o Google quando você os visita.
 
 Saiba mais sobre algumas maneiras de controlar as informações compartilhadas ao visitar ou interagir com sites e apps que usam Serviços do Google.
 
@@ -580,7 +579,7 @@ Exemplos de como usamos suas informações para fornecer nossos serviços inclue
 
 - a utilização do endereço IP atribuído ao seu dispositivo para enviar os dados solicitados por você, como o carregamento de um vídeo do YouTube;
 - a utilização dos identificadores exclusivos armazenados em cookies no seu dispositivo, que nos ajudam a autenticar você como a pessoa que deve ter acesso à sua Conta do Google;
-- Fotos e vídeos enviados para o Google Fotos para ajudar você a criar álbuns, animações e outros conteúdos que podem ser compartilhados. Saiba mais
+- Fotos e vídeos enviados para o Google Fotos para ajudar você a criar álbuns, animações e outros conteúdos que podem ser compartilhados.
 - a utilização de um e-mail de confirmação de voo recebido por você para criar um botão de "check-in" no Gmail.
 - Quando você compra serviços ou produtos físicos conosco, você pode nos fornecer informações como endereço de entrega ou instruções para a entrega. Usamos essas informações para, dentre outros, processar, atender e entregar o seu pedido, além de oferecer o suporte relacionado ao produto ou serviço comprado.
 
@@ -618,7 +617,7 @@ Você pode editar ou excluir seus endereços de casa e do trabalho a qualquer mo
 
 ### mostrar tendências
 
-Quando muitas pessoas começam a pesquisar algo, isso pode fornecer informações úteis sobre as tendências específicas naquele momento. O Google Trends analisa as pesquisas do Google na Web para fazer uma estimativa da popularidade das pesquisas durante determinado período e compartilha esses resultados publicamente em termos agregados. Saiba mais
+Quando muitas pessoas começam a pesquisar algo, isso pode fornecer informações úteis sobre as tendências específicas naquele momento. O Google Trends analisa as pesquisas do Google na Web para fazer uma estimativa da popularidade das pesquisas durante determinado período e compartilha esses resultados publicamente em termos agregados.
 
 ### nossos usuários
 
@@ -644,9 +643,13 @@ Por exemplo, permitimos que criadores de conteúdo e anunciantes do YouTube trab
 
 Saiba mais sobre as tecnologias usadas na publicidade.
 
+### personalizar conteúdo
+
+Se você permitir que determinados serviços processem dados de outros serviços, incluindo recursos como a Inteligência Personalizada, os mesmos dados poderão ser usados para personalizar sua experiência. Por exemplo, se você fizer uma pergunta à Pesquisa sobre uma reserva de hotel recente, ela poderá usar informações sobre detalhes da reserva de um e-mail para sugerir atividades perto do seu hotel. Saiba mais sobre a Inteligência Personalizada.
+
 ### podem vincular informações
 
-O Google Analytics faz uso de cookies primários, o que significa que os cookies são configurados pelo cliente do Analytics. Usando nossos sistemas, os dados gerados pelo Google Analytics podem ser vinculados pelo cliente do Analytics e pelo Google a cookies de terceiros relacionados a visitas a outros sites. Por exemplo, pode acontecer de um anunciante usar os dados do Google Analytics para criar anúncios mais relevantes ou analisar melhor o tráfego. Saiba mais
+Por exemplo, um cliente pode querer usar os dados do Google Analytics para criar anúncios mais relevantes ou analisar melhor o tráfego. Com os nossos sistemas, os dados gerados pelo Google Analytics podem ser vinculados pelo cliente e pelo Google a cookies e outras tecnologias relacionadas a visitas a outros sites e apps. Saiba mais
 
 ### proteção contra abuso
 
@@ -711,5 +714,3 @@ Dependendo das configurações disponíveis, alguns exemplos de como usamos as i
 ### visualizações e interações com conteúdo e anúncios
 
 Por exemplo, coletamos informações sobre visualizações e interações com anúncios para que possamos fornecer relatórios agregados aos anunciantes, como informar se veiculamos o anúncio deles em uma página e se o anúncio provavelmente foi visto por um espectador. Podemos também mensurar outras interações, como o modo que você move o mouse sobre um anúncio ou se você interage com a página em que o anúncio é exibido.
-
-*close*
