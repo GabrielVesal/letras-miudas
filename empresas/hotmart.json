@@ -1,0 +1,13 @@
+{
+  "nome": "Hotmart",
+  "categoria": "Serviços",
+  "site": "https://hotmart.com/pt-br",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://hotmart.com/pt-br/legal/privacidade-de-dados"
+    },
+    "termos-de-uso": {
+      "url": "https://hotmart.com/pt-br/legal/termos-de-uso"
+    }
+  }
+}

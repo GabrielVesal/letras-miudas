@@ -1,0 +1,13 @@
+{
+  "nome": "Temu",
+  "categoria": "Compras",
+  "site": "https://www.temu.com/br",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.temu.com/br/privacy-and-cookie-policy.html"
+    },
+    "termos-de-uso": {
+      "url": "https://www.temu.com/br/terms-of-use.html"
+    }
+  }
+}

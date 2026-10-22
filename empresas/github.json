@@ -1,0 +1,13 @@
+{
+  "nome": "GitHub",
+  "categoria": "Tecnologia",
+  "site": "https://github.com/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://docs.github.com/pt/site-policy/privacy-policies/github-general-privacy-statement"
+    },
+    "termos-de-uso": {
+      "url": "https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service"
+    }
+  }
+}

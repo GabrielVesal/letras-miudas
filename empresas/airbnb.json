@@ -4,7 +4,13 @@
   "site": "https://www.airbnb.com.br/",
   "documentos": {
     "termos-de-uso": {
-      "url": "https://www.airbnb.com.br/terms"
+      "url": "https://www.airbnb.com.br/terms",
+      "cortar_em": [
+        "^#{1,2} Versão Anterior\\s*$",
+        "^#{1,2} Terms of Service for European Users",
+        "^#{1,2} Termos de Serviço para Utilizadores Europeus",
+        "^## Termos de Serviço\\s*$"
+      ]
     }
   }
 }

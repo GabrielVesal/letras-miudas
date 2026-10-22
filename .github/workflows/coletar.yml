@@ -11,7 +11,6 @@ on:
 
 permissions:
   contents: write
-  models: read   # resumo automático das mudanças (GitHub Models); opcional
 
 concurrency:
   group: coletar
@@ -23,6 +22,8 @@ jobs:
     timeout-minutes: 340
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # o histórico inteiro: as versões de cada documento são commits
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -34,24 +35,23 @@ jobs:
         run: |
           git config user.name "letras-miudas-bot"
           git config user.email "letras-miudas-bot@users.noreply.github.com"
-          # remove branches de teste antigos, se ainda existirem
-          git push -q origin --delete teste-viabilidade validacao 2>/dev/null || true
+          # remove branches temporários de testes, se ainda existirem
+          for b in teste-viabilidade validacao teste-modelos teste-modelos-2 teste-forca ajuste-primeira-leitura \
+                   teste-empresas novas-1 novas-2 novas-3; do
+            git push -q origin --delete "$b" 2>/dev/null || true
+          done
 
       # empresas novas ganham o histórico do Wayback antes da primeira leitura
       - name: Histórico de empresas novas
         run: python -u scripts/historico.py --max-minutos 240 ${{ github.event.inputs.empresas && format('--empresas {0}', github.event.inputs.empresas) || '' }}
 
+      # resumo por IA é opcional: configure os secrets RESUMO_API_URL, RESUMO_API_KEY e RESUMO_MODELO
       - name: Conferir documentos
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RESUMO_API_URL: ${{ secrets.RESUMO_API_URL }}
+          RESUMO_API_KEY: ${{ secrets.RESUMO_API_KEY }}
+          RESUMO_MODELO: ${{ secrets.RESUMO_MODELO }}
         run: python -u scripts/coletar.py ${{ github.event.inputs.empresas && format('--empresas {0}', github.event.inputs.empresas) || '' }}
-
-      - name: Atualizar README e achados
-        run: |
-          python scripts/achados.py || true
-          python scripts/indice.py
-          git add README.md ACHADOS.md 2>/dev/null || git add README.md
-          git diff --cached --quiet || git commit -q -m "atualiza índice e achados"
 
       - name: Publicar
         if: always()
@@ -59,4 +59,8 @@ jobs:
           # rebase preservando as datas (os commits do histórico têm datas antigas de propósito)
           git fetch -q origin main
           git rebase -q --committer-date-is-author-date origin/main || { git rebase --abort; exit 1; }
+          # os índices citam os commits de cada versão: só depois do rebase os hashes são os finais
+          python scripts/gerar.py
+          git add README.md ACHADOS.md llms.txt index.html linha-do-tempo.svg linha-do-tempo-claro.svg dados/documentos.json
+          git diff --cached --quiet || git commit -q -m "atualiza índices, imagem e página"
           git push -q origin HEAD:main

@@ -1,0 +1,10 @@
+{
+  "nome": "PayPal",
+  "categoria": "Bancos",
+  "site": "https://www.paypal.com/br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.paypal.com/br/legalhub/paypal/privacy-full"
+    }
+  }
+}

@@ -5,7 +5,15 @@
   "documentos": {
     "politica-de-privacidade": {
       "url": "https://seguranca.bradesco/seguranca-informacao/direito-privacidade",
-      "navegador": true
+      "navegador": true,
+      "remover_linhas": [
+        "^Recursos de acessibilidade Rybena"
+      ],
+      "cortar_em": [
+        "^google-site-verification",
+        "^# Selecione os cookies",
+        "^Libras$"
+      ]
     }
   }
 }

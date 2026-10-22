@@ -30,6 +30,8 @@ Abra o pull request. Quando ele entrar, o robô busca o histórico da empresa no
 |---|---|
 | `seletor` | Seletor CSS do bloco que tem o texto (ex.: `"main .conteudo"`). Use quando a extração automática pega menu ou rodapé junto. |
 | `remover` | Lista de seletores CSS para tirar do texto (banners, "leia também" etc.). |
+| `remover_linhas` | Lista de expressões regulares: parágrafos que batem são tirados do texto. Use para trechos que aparecem ou não conforme o país de quem acessa (ex.: avisos só para residentes nos EUA). |
+| `cortar_em` | Lista de expressões regulares: o texto termina na primeira linha que bater. Use quando a página traz, depois do documento que vale no Brasil, outras versões inteiras (para a Europa, a versão anterior etc.). |
 | `navegador` | `true` se a página só mostra o texto depois de rodar JavaScript. |
 | `urls_antigas` | Endereços antigos do mesmo documento, para o histórico do Wayback ficar completo. |
 
@@ -55,4 +57,4 @@ Confira o arquivo gerado em `termos/nome-da-empresa/`. Ele deve ter só o texto 
 ## Outras formas de ajudar
 
 - Encontrou um alarme falso (mudança que não muda nada, tipo data ou menu)? Abra uma issue: normalmente se resolve com um `seletor` ou `remover`.
-- Melhorias no extrator (`scripts/comum.py`), no histórico (`scripts/historico.py`) ou nos achados (`scripts/achados.py`) são bem-vindas.
+- Melhorias no extrator (`scripts/comum.py`), no histórico (`scripts/historico.py`) ou no que é gerado a partir do acervo (`scripts/gerar.py`, `scripts/pagina.py`, `scripts/imagem.py`) são bem-vindas.

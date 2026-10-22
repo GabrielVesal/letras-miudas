@@ -1,0 +1,13 @@
+{
+  "nome": "Apple",
+  "categoria": "Tecnologia",
+  "site": "https://www.apple.com/br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.apple.com/br/legal/privacy/br/"
+    },
+    "termos-de-uso": {
+      "url": "https://www.apple.com/br/legal/internet-services/itunes/br/terms.html"
+    }
+  }
+}

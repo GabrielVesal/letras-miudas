@@ -1,0 +1,16 @@
+{
+  "nome": "Booking.com",
+  "categoria": "Apps",
+  "site": "https://www.booking.com/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.booking.com/content/privacy.pt-br.html"
+    },
+    "termos-de-uso": {
+      "url": "https://www.booking.com/content/terms.pt-br.html",
+      "cortar_em": [
+        "^## Para reservas feitas entre"
+      ]
+    }
+  }
+}

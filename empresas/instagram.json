@@ -1,11 +1,15 @@
 {
   "nome": "Instagram",
-  "categoria": "Redes",
+  "categoria": "Redes sociais",
   "site": "https://www.instagram.com/",
   "documentos": {
     "politica-de-privacidade": {
       "url": "https://privacycenter.instagram.com/policy",
-      "navegador": true
+      "navegador": true,
+      "remover_linhas": [
+        "(?i)aviso de privacidade regional dos estados unidos",
+        "(?i)^\\W*aviso de privacidade para residentes nos estados unidos\\W*$"
+      ]
     }
   }
 }

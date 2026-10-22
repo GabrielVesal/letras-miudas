@@ -1,0 +1,15 @@
+{
+  "nome": "Twitch",
+  "categoria": "Streaming",
+  "site": "https://www.twitch.tv/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://legal.twitch.com/pt-br/legal/privacy-notice/",
+      "navegador": true
+    },
+    "termos-de-uso": {
+      "url": "https://legal.twitch.com/pt-br/legal/terms-of-service/",
+      "navegador": true
+    }
+  }
+}

@@ -35,7 +35,9 @@ import requests
 
 sys.path.insert(0, os.path.dirname(__file__))
 
-from comum import HEADERS, RAIZ, FalhaLeitura, cabecalho, carregar_declaracoes, converter  # noqa: E402
+from comum import (  # noqa: E402
+    HEADERS, RAIZ, FalhaLeitura, cabecalho, carregar_declaracoes, converter, filtrar_versoes, texto_puro,
+)
 
 CDX = "https://web.archive.org/cdx/search/cdx"
 ARQ_LINHA = RAIZ / "dados" / "linha-do-tempo.json"
@@ -122,8 +124,8 @@ def ler_captura(doc, ts: str, original: str) -> str | None:
     return None
 
 
-def versoes_do_documento(doc, desde: str) -> list[tuple[str, str]]:
-    """Devolve [(timestamp, markdown)] só com as versões em que o texto mudou."""
+def versoes_do_documento(doc, desde: str) -> list[dict]:
+    """Devolve [{"ts", "url", "md"}] só com as versões em que o texto mudou de verdade."""
     urls = [doc.url] + doc.urls_antigas
     caps = []
     for u in urls:
@@ -133,7 +135,7 @@ def versoes_do_documento(doc, desde: str) -> list[tuple[str, str]]:
         return []
     meses = por_mes(caps)
     chaves = list(meses.keys())
-    # amostra trimestral + sempre o último mês
+    # amostra trimestral + sempre o primeiro e o último mês
     amostra = [m for m in chaves if int(m[4:6]) in (3, 6, 9, 12)]
     if chaves[0] not in amostra:
         amostra.insert(0, chaves[0])
@@ -148,36 +150,39 @@ def versoes_do_documento(doc, desde: str) -> list[tuple[str, str]]:
             lidos[mes] = ler_captura(doc, ts, orig)
         return lidos[mes]
 
-    versoes: list[tuple[str, str]] = []
+    def versao(mes: str, md: str) -> dict:
+        ts, orig = meses[mes]
+        return {"ts": ts, "url": orig, "md": md}
+
+    versoes: list[dict] = []
     anterior_mes, anterior_txt = None, None
     for mes in amostra:
         atual = texto(mes)
         if atual is None:
             continue
         if anterior_txt is None:
-            versoes.append((meses[mes][0], atual))
-        elif atual != anterior_txt:
+            versoes.append(versao(mes, atual))
+        elif texto_puro(atual) != texto_puro(anterior_txt):
             # procura nos meses do meio em que mês o texto novo apareceu
             i0, i1 = chaves.index(anterior_mes), chaves.index(mes)
             primeiro = mes
             for m in chaves[i0 + 1:i1]:
                 t = texto(m)
-                if t is not None and t == atual:
+                if t is None:
+                    continue
+                if texto_puro(t) == texto_puro(atual):
                     primeiro = m
                     break
-                if t is not None and t != anterior_txt:
-                    # uma versão intermediária diferente das duas: registra também
-                    versoes.append((meses[m][0], t))
+                if texto_puro(t) != texto_puro(anterior_txt):
+                    versoes.append(versao(m, t))  # versão intermediária diferente das duas
                     anterior_txt = t
-            if atual != anterior_txt:
-                versoes.append((meses[primeiro][0], atual))
+            if texto_puro(atual) != texto_puro(anterior_txt):
+                versoes.append(versao(primeiro, atual))
         anterior_mes, anterior_txt = mes, atual
-    # remove repetições consecutivas
-    limpas: list[tuple[str, str]] = []
-    for ts, md in versoes:
-        if not limpas or limpas[-1][1] != md:
-            limpas.append((ts, md))
-    return limpas
+    mantidas, motivos = filtrar_versoes(versoes)
+    for i, motivo in sorted(motivos.items()):
+        log(f"  descartada versão de {versoes[i]['ts'][:8]}: {motivo}")
+    return mantidas
 
 
 def presentes(md: str) -> list[str]:
@@ -207,7 +212,7 @@ def main() -> int:
     docs = carregar_declaracoes(args.empresas.split(",") if args.empresas else None)
     linha = json.loads(ARQ_LINHA.read_text(encoding="utf-8")) if ARQ_LINHA.exists() else {}
 
-    todas: list[tuple[str, object, str]] = []
+    todas: list[tuple[str, object, str, str]] = []
     for doc in docs:
         chave = f"{doc.empresa}/{doc.tipo}"
         if time.monotonic() > prazo:
@@ -226,17 +231,19 @@ def main() -> int:
             continue
         log(f"{chave}: {len(versoes)} versões no Wayback")
         linha[chave] = [
-            {"data": ts[:8], "caracteres": len(md), "termos": presentes(md),
-             "wayback": f"https://web.archive.org/web/{ts}/{doc.url}"}
-            for ts, md in versoes
+            {"data": v["ts"][:8], "caracteres": len(v["md"]), "termos": presentes(v["md"]),
+             "wayback": f"https://web.archive.org/web/{v['ts']}/{v['url']}"}
+            for v in versoes
         ]
-        todas += [(ts, doc, md) for ts, md in versoes]
+        todas += [(v["ts"], doc, v["md"], v["url"]) for v in versoes]
 
     todas.sort(key=lambda x: x[0])
-    for ts, doc, md in todas:
+    for ts, doc, md, url_orig in todas:
         doc.arquivo.parent.mkdir(parents=True, exist_ok=True)
         primeira = not doc.arquivo.exists()
-        doc.arquivo.write_text(cabecalho(doc) + md, encoding="utf-8")
+        wayback = f"https://web.archive.org/web/{ts}/{url_orig}"
+        doc.arquivo.write_text(cabecalho(doc, f"{ts[:4]}-{ts[4:6]}-{ts[6:8]}", wayback, url_orig) + md,
+                               encoding="utf-8")
         if args.sem_commit:
             continue
         caminho = doc.arquivo.relative_to(RAIZ).as_posix()
@@ -249,8 +256,7 @@ def main() -> int:
         data = datetime.strptime(ts, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc).isoformat()
         env = {**BOT, "GIT_AUTHOR_DATE": data, "GIT_COMMITTER_DATE": data}
         git("commit", "-q", "-m", titulo, "-m",
-            f"Fonte: Wayback Machine, captura de {ts[:4]}-{ts[4:6]}-{ts[6:8]}\n"
-            f"https://web.archive.org/web/{ts}/{doc.url}", env=env)
+            f"Fonte: Wayback Machine, captura de {ts[:4]}-{ts[4:6]}-{ts[6:8]}\n{wayback}", env=env)
 
     ARQ_LINHA.parent.mkdir(parents=True, exist_ok=True)
     ARQ_LINHA.write_text(json.dumps(linha, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")

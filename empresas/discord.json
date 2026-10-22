@@ -1,0 +1,15 @@
+{
+  "nome": "Discord",
+  "categoria": "Redes sociais",
+  "site": "https://discord.com/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://discord.com/privacy",
+      "navegador": true
+    },
+    "termos-de-uso": {
+      "url": "https://discord.com/terms",
+      "navegador": true
+    }
+  }
+}

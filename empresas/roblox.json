@@ -1,0 +1,13 @@
+{
+  "nome": "Roblox",
+  "categoria": "Jogos",
+  "site": "https://www.roblox.com/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox"
+    },
+    "termos-de-uso": {
+      "url": "https://en.help.roblox.com/hc/pt-br/articles/115004647846-Termos-de-Uso-da-Roblox"
+    }
+  }
+}

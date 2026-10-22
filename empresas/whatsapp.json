@@ -1,10 +1,14 @@
 {
   "nome": "WhatsApp",
-  "categoria": "Redes",
+  "categoria": "Redes sociais",
   "site": "https://www.whatsapp.com/",
   "documentos": {
     "politica-de-privacidade": {
-      "url": "https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR"
+      "url": "https://www.whatsapp.com/legal/privacy-policy?lang=pt_BR",
+      "remover_linhas": [
+        "(?i)direitos de privacidade para residentes nos estados unidos",
+        "(?i)aviso de privacidade regional dos estados unidos"
+      ]
     },
     "termos-de-uso": {
       "url": "https://www.whatsapp.com/legal/terms-of-service?lang=pt_BR"

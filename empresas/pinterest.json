@@ -1,0 +1,13 @@
+{
+  "nome": "Pinterest",
+  "categoria": "Redes sociais",
+  "site": "https://br.pinterest.com/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://policy.pinterest.com/pt-br/privacy-policy"
+    },
+    "termos-de-uso": {
+      "url": "https://policy.pinterest.com/pt-br/terms-of-service"
+    }
+  }
+}

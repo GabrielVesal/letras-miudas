@@ -1,0 +1,13 @@
+{
+  "nome": "Epic Games (Fortnite)",
+  "categoria": "Jogos",
+  "site": "https://www.epicgames.com/site/pt-BR/home",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://legal.epicgames.com/epicgames/privacy-policy?lang=pt-BR"
+    },
+    "termos-de-uso": {
+      "url": "https://legal.epicgames.com/epicgames/tos?lang=pt-BR"
+    }
+  }
+}

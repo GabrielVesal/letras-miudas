@@ -1,0 +1,10 @@
+{
+  "nome": "QuintoAndar",
+  "categoria": "Apps",
+  "site": "https://www.quintoandar.com.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://mkt.quintoandar.com.br/aviso-de-privacidade/"
+    }
+  }
+}

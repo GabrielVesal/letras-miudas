@@ -1,0 +1,13 @@
+{
+  "nome": "Steam",
+  "categoria": "Jogos",
+  "site": "https://store.steampowered.com/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://store.steampowered.com/privacy_agreement/?l=brazilian"
+    },
+    "termos-de-uso": {
+      "url": "https://store.steampowered.com/subscriber_agreement/?l=brazilian"
+    }
+  }
+}

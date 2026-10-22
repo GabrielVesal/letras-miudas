@@ -1,0 +1,13 @@
+{
+  "nome": "Waze",
+  "categoria": "Apps",
+  "site": "https://www.waze.com/pt-BR/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://support.google.com/waze/answer/12075406?hl=pt-BR",
+      "urls_antigas": [
+        "https://support.google.com/waze/answer/12075406"
+      ]
+    }
+  }
+}

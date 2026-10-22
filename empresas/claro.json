@@ -1,0 +1,11 @@
+{
+  "nome": "Claro",
+  "categoria": "Telefonia",
+  "site": "https://www.claro.com.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.claro.com.br/privacidade/politica-de-privacidade",
+      "navegador": true
+    }
+  }
+}

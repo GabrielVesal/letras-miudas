@@ -10,6 +10,7 @@ Regras do robô (valem para todo o projeto):
 
 from __future__ import annotations
 
+import html
 import json
 import re
 import time
@@ -27,6 +28,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 DIR_EMPRESAS = RAIZ / "empresas"
 DIR_TERMOS = RAIZ / "termos"
 
+REPO = "GabrielVesal/letras-miudas"
 UA = "letras-miudas/1.0 (+https://github.com/GabrielVesal/letras-miudas; arquivo publico de termos de uso)"
 HEADERS = {"User-Agent": UA, "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.5"}
 
@@ -63,8 +65,11 @@ class Documento:
     nome_empresa: str
     tipo: str             # slug do documento (termos-de-uso, politica-de-privacidade...)
     url: str
+    categoria: str = ""
     seletor: str | None = None
     remover: list[str] = field(default_factory=list)
+    remover_linhas: list[str] = field(default_factory=list)  # regex de parágrafos para tirar do texto
+    cortar_em: list[str] = field(default_factory=list)  # regex: o texto termina na 1ª linha que bater
     navegador: bool = False
     urls_antigas: list[str] = field(default_factory=list)  # endereços antigos, só para o histórico
 
@@ -87,7 +92,9 @@ def carregar_declaracoes(filtro: list[str] | None = None) -> list[Documento]:
         for tipo, cfg in d["documentos"].items():
             docs.append(Documento(
                 empresa=slug, nome_empresa=d["nome"], tipo=tipo, url=cfg["url"],
+                categoria=d.get("categoria", "Outros"),
                 seletor=cfg.get("seletor"), remover=cfg.get("remover", []),
+                remover_linhas=cfg.get("remover_linhas", []), cortar_em=cfg.get("cortar_em", []),
                 navegador=cfg.get("navegador", False), urls_antigas=cfg.get("urls_antigas", []),
             ))
     return docs
@@ -198,8 +205,8 @@ LIXO_SELETORES = [
     "[role=navigation]", "[role=banner]", "[role=contentinfo]", "[class*=breadcrumb]",
 ]
 LINHAS_LIXO = re.compile(
-    r"^(voltar ao topo|copiar link|compartilhar|imprimir|baixar pdf|ir para o conte[uú]do|"
-    r"pular para o conte[uú]do|menu|fechar|topo|aceitar( todos)?( os)? cookies?)$",
+    r"^(voltar (ao|para o) topo|copiar link|compartilhar|imprimir|baixar pdf|ir para o conte[uú]do|"
+    r"pular para o conte[uú]do|menu|fechar|topo|aceitar( todos)?( os)? cookies?|exibir resumo saiba mais)$",
     re.I,
 )
 
@@ -279,21 +286,74 @@ def pdf_para_markdown(dados: bytes) -> str:
     return normalizar(texto)
 
 
+INVISIVEIS = re.compile(r"[\u00ad\u200b-\u200f\u2060-\u2064\ufeff]")
+
+
 def normalizar(md: str) -> str:
-    md = unicodedata.normalize("NFC", md)
-    md = md.replace("\xa0", " ").replace("​", "").replace("﻿", "").replace("­", "")
+    md = unicodedata.normalize("NFC", html.unescape(md))
+    md = INVISIVEIS.sub("", md.replace("\xa0", " "))
     linhas = []
     for linha in md.splitlines():
         linha = re.sub(r"[ \t]+", " ", linha).rstrip()
         if LINHAS_LIXO.match(linha.strip()):
             continue
         linha = re.sub(r"^(\s*)[*+•·]\s+", r"\1- ", linha)
+        # pedaço de frase que o HTML quebrou numa linha própria (". Em vez disso...")
+        if linhas and re.match(r"^\s*[.,;:!?)]", linha) and linhas[-1].strip():
+            linhas[-1] = linhas[-1].rstrip() + linha.strip()
+            continue
         linhas.append(linha)
+    linhas = _desquebrar(linhas)
     md = "\n".join(linhas)
     md = re.sub(r"^#{1,6}\s*WP\\?_\w+(-\d+)?\s*$", "", md, flags=re.M)  # ids de web parts do SharePoint
-    md = re.sub(r"\n{3,}", "\n\n", md)
     md = re.sub(r"^#+\s*$", "", md, flags=re.M)  # títulos vazios
+    md = re.sub(r"\n{3,}", "\n\n", md)
     return md.strip() + "\n"
+
+
+ESTRUTURA = re.compile(r"^\s*([-+*]\s|#|\||>|\d{1,3}[.)]\s|[a-z][.)]\s|<!--)")
+
+
+def _desquebrar(linhas: list[str]) -> list[str]:
+    """Junta as linhas de um mesmo parágrafo que o site quebrou no meio.
+
+    No Markdown isso não muda nada na tela, mas deixa o diff legível: sem isso, um site que
+    passa a quebrar as linhas em outro ponto faz o documento inteiro parecer reescrito.
+    """
+    saida: list[str] = []
+    for linha in linhas:
+        anterior = saida[-1] if saida else ""
+        if (linha.strip() and anterior.strip() and not ESTRUTURA.match(linha)
+                and not re.match(r"^\s*(#|\|)", anterior)):
+            saida[-1] = anterior.rstrip() + " " + linha.strip()
+        else:
+            saida.append(linha)
+    return saida
+
+
+def corpo(conteudo: str) -> str:
+    """O texto do documento sem o cabeçalho do arquivo (YAML ou o comentário HTML antigo)."""
+    if conteudo.startswith("---\nempresa:"):
+        fim = conteudo.find("\n---\n", 4)
+        if fim != -1:
+            return conteudo[fim + 5:].lstrip("\n")
+    if conteudo.lstrip().startswith("<!--"):
+        return conteudo.split("-->", 1)[-1].lstrip("\n")
+    return conteudo
+
+
+def texto_puro(md: str) -> str:
+    """O texto sem formatação, para decidir se uma mudança é de verdade.
+
+    Ignora o cabeçalho do arquivo, marcação Markdown (títulos, negrito, listas, tabelas),
+    caracteres invisíveis, entidades HTML e espaços. Mudança só de formatação não conta.
+    """
+    md = INVISIVEIS.sub("", unicodedata.normalize("NFKC", html.unescape(corpo(md))))
+    md = re.sub(r"\(abre em uma nova janela\)", " ", md)
+    md = re.sub(r"[#*_`>|\\]", " ", md)
+    md = re.sub(r"^\s*[-+]\s+", " ", md, flags=re.M)
+    md = " ".join(md.split())
+    return re.sub(r"\s+([.,;:!?)])", r"\1", md)
 
 
 PT = re.compile(r"\b(de|que|não|para|com|dos|das|seus|suas|você|pelo|pela|são|uma)\b", re.I)
@@ -323,12 +383,45 @@ def ler_documento(doc: Documento) -> str:
     return converter(corpo, ctype, doc)
 
 
+def tirar_linhas(md: str, padroes: list[str]) -> str:
+    """Tira os parágrafos que batem com algum padrão (ex.: avisos que só aparecem em outro país)."""
+    if not padroes:
+        return md
+    rx = [re.compile(p) for p in padroes]
+    linhas = [l for l in md.splitlines() if not any(r.search(l) for r in rx)]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(linhas)).strip() + "\n"
+
+
+def cortar(md: str, padroes: list[str]) -> str:
+    """Termina o texto na primeira linha que bate com algum padrão.
+
+    Para páginas que trazem, depois do documento que vale no Brasil, outras versões inteiras
+    (para a Europa, para a Austrália, a versão anterior...). O corte só vale se sobrar texto antes.
+    """
+    if not padroes:
+        return md
+    rx = [re.compile(p) for p in padroes]
+    andou = 0
+    linhas = md.splitlines()
+    for i, linha in enumerate(linhas):
+        if andou >= 1000 and any(r.search(linha) for r in rx):
+            return "\n".join(linhas[:i]).rstrip().rstrip("-").rstrip() + "\n"
+        andou += len(linha)
+    return md
+
+
+def ajustar(md: str, doc: Documento) -> str:
+    """Aplica os ajustes declarados do documento (linhas a tirar e ponto de corte)."""
+    return cortar(tirar_linhas(md, doc.remover_linhas), doc.cortar_em)
+
+
 def converter(corpo: bytes, ctype: str, doc: Documento) -> str:
     if "pdf" in ctype or corpo[:4] == b"%PDF":
         md = pdf_para_markdown(corpo)
     else:
-        html = corpo.decode("utf-8", "replace")
-        md = html_para_markdown(html, doc.seletor, doc.remover)
+        html_txt = corpo.decode("utf-8", "replace")
+        md = html_para_markdown(html_txt, doc.seletor, doc.remover)
+    md = ajustar(md, doc)
     if not parece_documento(md):
         raise FalhaLeitura(f"não parece o documento ({len(md)} caracteres)")
     if not eh_portugues(md):
@@ -336,9 +429,83 @@ def converter(corpo: bytes, ctype: str, doc: Documento) -> str:
     return md
 
 
-def cabecalho(doc: Documento) -> str:
-    return (
-        f"<!-- {doc.nome_empresa} · {doc.nome}\n"
-        f"     Fonte: {doc.url}\n"
-        f"     Arquivo mantido pelo letras-miudas. O histórico de mudanças está no Git. -->\n\n"
-    )
+def cabecalho(doc: Documento, capturado_em: str, wayback: str | None = None,
+              fonte: str | None = None) -> str:
+    """Cabeçalho YAML de cada arquivo (o GitHub mostra como uma tabela no topo).
+
+    capturado_em: AAAA-MM-DD em que esta versão do texto foi vista pela primeira vez.
+    wayback: link da captura, quando a versão veio do Wayback Machine.
+    """
+    q = lambda s: json.dumps(s, ensure_ascii=False)  # noqa: E731  (string JSON = string YAML válida)
+    linhas = [
+        "---",
+        f"empresa: {q(doc.nome_empresa)}",
+        f"documento: {q(doc.nome)}",
+        f"categoria: {q(doc.categoria)}",
+        f"fonte: {q(fonte or doc.url)}",
+        f"capturado_em: {capturado_em}",
+    ]
+    if wayback:
+        linhas.append(f"wayback: {q(wayback)}")
+    linhas += [
+        f"historico: {q(f'https://github.com/{REPO}/commits/main/termos/{doc.empresa}/{doc.tipo}.md')}",
+        "---",
+        "",
+        "",
+    ]
+    return "\n".join(linhas)
+
+
+# ------------------------------------------------------------ filtro de versões
+def _linhas_puras(md: str) -> set[str]:
+    saida = set()
+    for linha in corpo(md).splitlines():
+        p = texto_puro(linha)
+        if len(p) >= 30:
+            saida.add(p)
+    return saida
+
+
+def filtrar_versoes(versoes: list[dict], chave_md: str = "md") -> tuple[list[dict], dict[int, str]]:
+    """Tira do histórico o que não é mudança de verdade.
+
+    - só formatação: texto igual ao da versão anterior mantida;
+    - transitória: a versão tira linhas que voltam nas 3 versões seguintes (captura parcial,
+      variante regional, teste A/B), ou só acrescenta linhas que somem logo depois.
+    Texto reescrito de novo mais tarde não é transitório: é mudança de verdade.
+    A última versão da lista nunca sai. Devolve (mantidas, {índice original: motivo}).
+    """
+    itens = list(enumerate(versoes))
+    motivos: dict[int, str] = {}
+
+    def tira_formatacao(lista):
+        limpa, ant = [], None
+        for i, v in lista:
+            p = texto_puro(v[chave_md])
+            if ant is not None and p == ant:
+                motivos[i] = "só formatação"
+                continue
+            limpa.append((i, v))
+            ant = p
+        return limpa
+
+    itens = tira_formatacao(itens)
+    while True:
+        L = [_linhas_puras(v[chave_md]) for _, v in itens]
+        pior, pior_score = None, 0.0
+        for k in range(1, len(itens) - 1):
+            prox = L[k + 1:k + 4]
+            tirou, pos = L[k - 1] - L[k], L[k] - L[k - 1]
+            score = 0.0
+            if len(tirou) >= 3:
+                score = sum(1 for x in tirou if any(x in p for p in prox)) / len(tirou)
+            elif len(pos) >= 3:
+                score = sum(1 for x in pos if all(x not in p for p in prox)) / len(pos)
+            if score >= 0.5 and score > pior_score:
+                pior, pior_score = k, score
+        if pior is None:
+            break
+        motivos[itens[pior][0]] = f"transitória ({pior_score:.0%})"
+        del itens[pior]
+        itens = tira_formatacao(itens)
+    return [v for _, v in itens], motivos

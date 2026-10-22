@@ -1,0 +1,13 @@
+{
+  "nome": "Microsoft",
+  "categoria": "Tecnologia",
+  "site": "https://www.microsoft.com/pt-br",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.microsoft.com/pt-br/privacy/privacystatement"
+    },
+    "termos-de-uso": {
+      "url": "https://www.microsoft.com/pt-br/servicesagreement"
+    }
+  }
+}

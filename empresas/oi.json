@@ -1,0 +1,10 @@
+{
+  "nome": "Oi",
+  "categoria": "Telefonia",
+  "site": "https://www.oi.com.br/",
+  "documentos": {
+    "politica-de-privacidade": {
+      "url": "https://www.oi.com.br/portal-de-privacidade/aviso-de-privacidade/"
+    }
+  }
+}

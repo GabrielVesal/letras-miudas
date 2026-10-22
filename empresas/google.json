@@ -1,13 +1,10 @@
 {
   "nome": "Google",
-  "categoria": "Redes",
+  "categoria": "Tecnologia",
   "site": "https://www.google.com.br/",
   "documentos": {
     "politica-de-privacidade": {
-      "url": "https://policies.google.com/privacy?hl=pt-BR&gl=BR",
-      "urls_antigas": [
-        "https://policies.google.com/privacy?hl=pt-BR"
-      ]
+      "url": "https://policies.google.com/privacy?hl=pt-BR&gl=BR"
     },
     "termos-de-uso": {
       "url": "https://policies.google.com/terms?hl=pt-BR&gl=BR"
