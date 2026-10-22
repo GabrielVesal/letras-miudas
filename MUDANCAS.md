@@ -6,6 +6,7 @@ a mudança linha por linha.
 
 | Data | Empresa | Documento | Linhas | Resumo automático | Histórico |
 |---|---|---|---:|---|---|
+| 2026-10-22 | ChatGPT (OpenAI) | Política de Privacidade | +51 −23 | - | [histórico](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/openai/politica-de-privacidade.md) |
 | 2026-10-22 | Neon | Política de Privacidade | +5 −5 | - | [histórico](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/neon/politica-de-privacidade.md) |
 | 2026-10-22 | Google | Política de Privacidade | +9 −61 | - | [histórico](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/politica-de-privacidade.md) |
 | 2026-10-22 | Caixa | Termos de Uso | +2 −2 | - | [histórico](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md) |
