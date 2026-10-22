@@ -15,34 +15,34 @@ E não começa do zero: o passado de cada documento foi reconstruído a partir d
 <!-- EMPRESAS -->
 | Categoria | Empresa | Documentos | Arquivado desde |
 |---|---|---|---|
-| Bancos | Bradesco | Política de Privacidade | - |
-| Bancos | Caixa | Política de Privacidade · Termos de Uso | - |
-| Bancos | Inter | Política de Privacidade | - |
-| Bancos | Neon | Política de Privacidade · Termos de Uso | - |
-| Bancos | Nubank | Política de Privacidade · Termos de Uso | - |
-| Bancos | PagBank | Política de Privacidade | - |
-| Bancos | PicPay | Política de Privacidade | - |
-| Compras | Amazon | Política de Privacidade · Termos de Uso | - |
-| Compras | Americanas | Política de Privacidade | - |
-| Compras | Shein | Política de Privacidade | - |
-| Compras | Shopee | Política de Privacidade | - |
-| Apps | Airbnb | Termos de Uso | - |
-| Apps | Rappi | Política de Privacidade · Termos de Uso | - |
-| Apps | Uber | Política de Privacidade · Termos de Uso | - |
-| Telefonia | TIM | Política de Privacidade | - |
-| Telefonia | Vivo | Política de Privacidade | - |
-| Redes | Google | Política de Privacidade · Termos de Uso | - |
-| Redes | Instagram | Política de Privacidade | - |
-| Redes | TikTok | Termos de Uso | - |
-| Redes | WhatsApp | Política de Privacidade · Termos de Uso | - |
-| Streaming | Globo | Termos de Uso | - |
-| Streaming | Spotify | Política de Privacidade · Termos de Uso | - |
-| IA | ChatGPT (OpenAI) | Política de Privacidade · Termos de Uso | - |
-| Serviços | Correios | Política de Privacidade | - |
-| Serviços | Serasa | Política de Privacidade · Termos de Uso | - |
-| Governo | gov.br | Termos de Uso | - |
+| Bancos | Bradesco | [Política de Privacidade](termos/bradesco/politica-de-privacidade.md) | - |
+| Bancos | Caixa | [Política de Privacidade](termos/caixa/politica-de-privacidade.md) · [Termos de Uso](termos/caixa/termos-de-uso.md) | jan/2015 |
+| Bancos | Inter | [Política de Privacidade](termos/inter/politica-de-privacidade.md) | set/2023 |
+| Bancos | Neon | [Política de Privacidade](termos/neon/politica-de-privacidade.md) · [Termos de Uso](termos/neon/termos-de-uso.md) | nov/2023 |
+| Bancos | Nubank | [Política de Privacidade](termos/nubank/politica-de-privacidade.md) · [Termos de Uso](termos/nubank/termos-de-uso.md) | dez/2024 |
+| Bancos | PagBank | [Política de Privacidade](termos/pagbank/politica-de-privacidade.md) | - |
+| Bancos | PicPay | [Política de Privacidade](termos/picpay/politica-de-privacidade.md) | - |
+| Compras | Amazon | [Política de Privacidade](termos/amazon/politica-de-privacidade.md) · [Termos de Uso](termos/amazon/termos-de-uso.md) | out/2020 |
+| Compras | Americanas | [Política de Privacidade](termos/americanas/politica-de-privacidade.md) | - |
+| Compras | Shein | [Política de Privacidade](termos/shein/politica-de-privacidade.md) | - |
+| Compras | Shopee | [Política de Privacidade](termos/shopee/politica-de-privacidade.md) | - |
+| Apps | Airbnb | [Termos de Uso](termos/airbnb/termos-de-uso.md) | jun/2015 |
+| Apps | Rappi | [Política de Privacidade](termos/rappi/politica-de-privacidade.md) · [Termos de Uso](termos/rappi/termos-de-uso.md) | jun/2019 |
+| Apps | Uber | [Política de Privacidade](termos/uber/politica-de-privacidade.md) · [Termos de Uso](termos/uber/termos-de-uso.md) | abr/2025 |
+| Telefonia | TIM | [Política de Privacidade](termos/tim/politica-de-privacidade.md) | out/2022 |
+| Telefonia | Vivo | [Política de Privacidade](termos/vivo/politica-de-privacidade.md) | - |
+| Redes | Google | [Política de Privacidade](termos/google/politica-de-privacidade.md) · [Termos de Uso](termos/google/termos-de-uso.md) | mar/2018 |
+| Redes | Instagram | [Política de Privacidade](termos/instagram/politica-de-privacidade.md) | - |
+| Redes | TikTok | [Termos de Uso](termos/tiktok/termos-de-uso.md) | jun/2023 |
+| Redes | WhatsApp | [Política de Privacidade](termos/whatsapp/politica-de-privacidade.md) · [Termos de Uso](termos/whatsapp/termos-de-uso.md) | dez/2020 |
+| Streaming | Globo | [Termos de Uso](termos/globo/termos-de-uso.md) | set/2025 |
+| Streaming | Spotify | [Política de Privacidade](termos/spotify/politica-de-privacidade.md) · [Termos de Uso](termos/spotify/termos-de-uso.md) | mar/2023 |
+| IA | ChatGPT (OpenAI) | [Política de Privacidade](termos/openai/politica-de-privacidade.md) · [Termos de Uso](termos/openai/termos-de-uso.md) | mai/2024 |
+| Serviços | Correios | [Política de Privacidade](termos/correios/politica-de-privacidade.md) | mai/2025 |
+| Serviços | Serasa | [Política de Privacidade](termos/serasa/politica-de-privacidade.md) · [Termos de Uso](termos/serasa/termos-de-uso.md) | jun/2021 |
+| Governo | gov.br | [Termos de Uso](termos/govbr/termos-de-uso.md) | set/2022 |
 
-26 empresas e 0 documentos. ⚠️ = a última leitura falhou ou foi bloqueada.
+26 empresas e 37 documentos. ⚠️ = a última leitura falhou ou foi bloqueada.
 <!-- /EMPRESAS -->
 
 Falta alguma? [Adicione](CONTRIBUTING.md): é um arquivo só.
