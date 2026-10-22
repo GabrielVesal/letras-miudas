@@ -147,8 +147,8 @@ A CAIXA tem sempre um cartão perfeito para você.
 
 Escolha agora o seu ›
 
-### Contas CAIXA
+### Conta Digital CAIXA
 
-As contas CAIXA têm as melhores tarifas do mercado.
+Abertura e movimentação pelo App CAIXA com atendimento digital pensado para você!
 
 Abra sua conta ›

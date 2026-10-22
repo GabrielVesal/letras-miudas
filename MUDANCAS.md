@@ -6,5 +6,6 @@ a mudança linha por linha.
 
 | Data | Empresa | Documento | Linhas | Resumo automático | Histórico |
 |---|---|---|---:|---|---|
+| 2026-10-22 | Caixa | Termos de Uso | +2 −2 | - | [histórico](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md) |
 | 2026-10-22 | Amazon | Termos de Uso | +24 −12 | - | [histórico](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/amazon/termos-de-uso.md) |
 | 2026-10-22 | Airbnb | Termos de Uso | +1438 −442 | - | [histórico](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/airbnb/termos-de-uso.md) |
