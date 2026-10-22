@@ -28,7 +28,7 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 <!-- NUMEROS -->
 | Categoria | Empresas | Documentos | Versões arquivadas | Tempo de leitura |
 | --- | ---: | ---: | ---: | ---: |
-| Bancos | 8 | 11 | 61 | 3h31 |
+| Bancos | 8 | 11 | 61 | 3h30 |
 | Compras | 5 | 8 | 14 | 3h39 |
 | Apps | 6 | 9 | 56 | 5h33 |
 | Redes sociais | 5 | 8 | 69 | 3h44 |
@@ -39,7 +39,7 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 | Telefonia | 4 | 4 | 13 | 1h10 |
 | Serviços | 3 | 5 | 44 | 2h24 |
 | Governo | 1 | 1 | 1 | 22 min |
-| **Total** | **43** | **67** | **461** | **36h34** |
+| **Total** | **43** | **67** | **461** | **36h33** |
 <!-- /NUMEROS -->
 
 Para ver em gráficos o que mais mudou, o que mais cresceu, quanto tempo leva para ler cada
