@@ -1,0 +1,170 @@
+{
+ "airbnb/termos-de-uso": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "amazon/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "amazon/termos-de-uso": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "americanas/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "bradesco/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "caixa/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "caixa/termos-de-uso": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "correios/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "globo/termos-de-uso": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "google/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "google/termos-de-uso": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "govbr/termos-de-uso": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "instagram/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "inter/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "neon/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "neon/termos-de-uso": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "nubank/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "nubank/termos-de-uso": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "openai/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "openai/termos-de-uso": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "pagbank/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "picpay/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "rappi/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "rappi/termos-de-uso": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "serasa/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "serasa/termos-de-uso": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "shein/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "shopee/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "spotify/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "spotify/termos-de-uso": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "tiktok/termos-de-uso": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "tim/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "uber/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "uber/termos-de-uso": {
+  "motivo": "",
+  "status": "ok"
+ },
+ "vivo/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "whatsapp/politica-de-privacidade": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ },
+ "whatsapp/termos-de-uso": {
+  "motivo": "",
+  "status": "ok",
+  "ultima_mudanca": "2026-10-22"
+ }
+}
