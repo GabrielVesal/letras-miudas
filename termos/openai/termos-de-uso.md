@@ -6,7 +6,7 @@ Em vigor a partir de: 1º de janeiro de 2026 (Versão anterior⁠)
 
 Agradecemos por usar a OpenAI!
 
-Estes Termos de Uso se aplicam ao seu uso do ChatGPT, DALL·E e outros serviços da OpenAI para indivíduos, juntamente com quaisquer aplicativos de software e sites associados (em conjunto, “Serviços”). Estes Termos constituem um acordo entre você e a OpenAI OpCo, LLC, uma empresa de Delaware, e incluem nossos Termos de Serviço⁠ e disposições importantes para a resolução de disputas por meio de arbitragem. Ao utilizar nossos Serviços, você concorda com estes Termos.
+Estes Termos de Uso se aplicam ao seu uso do ChatGPT, DALL·E e outros serviços da OpenAI para indivíduos, juntamente com quaisquer aplicativos de software e sites associados (em conjunto, “Serviços”). Estes Termos constituem um acordo entre você e a OpenAI OpCo, LLC, uma empresa de Delaware, e incluem nossos Termos de Serviço⁠⁠ e disposições importantes para a resolução de disputas por meio de arbitragem. Ao utilizar nossos Serviços, você concorda com estes Termos.
 
 Se você reside no Espaço Econômico Europeu, na Suíça ou no Reino Unido, seu uso dos Serviços é regido por estes termos⁠⁠.
 
@@ -16,7 +16,7 @@ Nossa Política de Privacidade⁠ explica como coletamos e usamos informações 
 
 ## Quem somos
 
-A OpenAI é uma empresa de pesquisa e implementação de inteligência artificial. A nossa missão é garantir que a inteligência artificial beneficie toda a humanidade. Para obter mais informações sobre a OpenAI, visite https://openai.com/about⁠⁠.
+A OpenAI é uma empresa de pesquisa e implementação de IA. Nossa missão é garantir que a inteligência artificial geral beneficie toda a humanidade. Para obter mais informações sobre a OpenAI, visite https://openai.com/about⁠⁠.
 
 ## Registro e acesso
 
@@ -26,7 +26,7 @@ Registro. Para se cadastrar e usar nossos Serviços, você deve fornecer informa
 
 ## Usando nossos Serviços
 
-O que você pode fazer. Mediante o cumprimento destes Termos, você poderá acessar e usar nossos Serviços. Ao utilizar nossos Serviços, você deve cumprir todas as leis aplicáveis, bem como nossa Política de Compartilhamento e Publicação⁠, Políticas de Uso⁠ e qualquer outra documentação, diretrizes ou políticas que disponibilizarmos a você.
+O que você pode fazer. Mediante o cumprimento destes Termos, você pode acessar e usar nossos Serviços. Ao utilizar nossos Serviços, você deve cumprir todas as leis aplicáveis, bem como nossa Política de Compartilhamento e Publicação⁠⁠, Políticas de Uso⁠ e qualquer outra documentação, diretrizes ou políticas que disponibilizarmos a você.
 
 O que você não pode fazer. Você não poderá usar nossos Serviços para qualquer atividade ilegal, prejudicial ou abusiva. Por exemplo, você não deve:
 
@@ -54,7 +54,7 @@ Propriedade do conteúdo. Entre você e a OpenAI, e na medida permitida pela lei
 
 Similaridade de conteúdo. Devido à natureza dos nossos Serviços e da inteligência artificial em geral, os resultados podem não ser exclusivos e outros usuários podem receber resultados semelhantes dos nossos Serviços. A nossa atribuição acima não se estende aos resultados de outros utilizadores nem a quaisquer resultados de terceiros.
 
-Nosso uso de conteúdo. Podemos usar o Conteúdo para fornecer, manter, desenvolver e aprimorar nossos Serviços, cumprir a legislação aplicável, fazer cumprir nossos termos e políticas e manter nossos Serviços seguros. Se você estiver usando o ChatGPT por meio das integrações da Apple, consulte este artigo da Central de Ajuda⁠(abre em uma nova janela) para saber como lidamos com seu conteúdo.
+Nosso uso de conteúdo. Podemos usar o Conteúdo para fornecer, manter, desenvolver e aprimorar nossos Serviços, cumprir a legislação aplicável, fazer cumprir nossos termos e políticas e manter nossos Serviços seguros. Se você estiver usando o ChatGPT por meio das integrações da Apple, consulte este artigo da Central de Ajuda⁠⁠(abre em uma nova janela) para saber como lidamos com seu conteúdo.
 
 Cancelar participação. Se você não deseja que usemos seu Conteúdo para treinar nossos modelos, pode optar por não participar seguindo as instruções neste artigo⁠. Observe que, em alguns casos, isso pode limitar a capacidade de nossos Serviços de atender melhor à sua necessidade específica.
 
@@ -69,7 +69,7 @@ Ao utilizar nossos Serviços, você compreende e concorda com o seguinte:
 
 ## Nossos Direitos de Propriedade Intelectual
 
-Nós e nossas afiliadas detemos todos os direitos, títulos e interesses relativos aos Serviços. Você só poderá usar nosso nome e logotipo de acordo com nossas Diretrizes de Marca⁠.
+Nós e nossas afiliadas detemos todos os direitos, títulos e interesses relativos aos Serviços. Você só poderá usar nosso nome e logotipo de acordo com nossas Diretrizes de Marca⁠⁠.
 
 ## Contas pagas
 
@@ -91,7 +91,7 @@ Rescisão. Você tem a liberdade de interromper o uso de nossos Serviços a qual
 
 Também podemos encerrar sua conta se ela estiver inativa por mais de um ano e você não tiver uma conta paga. Se fizermos isso, forneceremos um aviso prévio.
 
-Apelações. Se você acredita que suspendemos ou encerramos sua conta por engano, pode apresentar uma contestação entrando em contato com nossa equipe de suporte⁠(abre em uma nova janela).
+Recursos. Se você acredita que suspendemos ou encerramos sua conta por engano, pode apresentar uma contestação entrando em contato com nossa equipe de suporte⁠⁠(abre em uma nova janela).
 
 ## Interrupção dos Serviços
 
@@ -119,11 +119,11 @@ Se você for uma empresa ou organização, na medida permitida por lei, você de
 
 VOCÊ E A OPENAI CONCORDAM COM AS SEGUINTES CLÁUSULAS DE ARBITRAGEM OBRIGATÓRIA E RENÚNCIA A AÇÕES COLETIVAS:
 
-Arbitragem obrigatória. Você e a OpenAI concordam em resolver quaisquer disputas decorrentes ou relacionadas a estes Termos ou aos nossos Serviços, independentemente de quando a disputa surgiu, mesmo que tenha sido antes da existência destes Termos (uma “Disputa”), por meio de arbitragem final e vinculativa. Você pode optar por não participar da arbitragem dentro de 30 dias após a criação da conta ou de qualquer atualização destes termos de arbitragem dentro de 30 dias após a entrada em vigor da atualização, preenchendo este formulário⁠. Se você optar por não aceitar uma atualização, os últimos termos de arbitragem acordados serão aplicados.
+ARBITRAGEM OBRIGATÓRIA. Você e a OpenAI concordam em resolver quaisquer disputas decorrentes ou relacionadas a estes Termos ou aos nossos Serviços, independentemente de quando a disputa surgiu, mesmo que tenha sido antes da existência destes Termos (uma “Disputa”), por meio de arbitragem final e vinculativa. Você pode optar por não participar da arbitragem dentro de 30 dias após a criação da conta ou de qualquer atualização destes termos de arbitragem dentro de 30 dias após a entrada em vigor da atualização, preenchendo este formulário⁠. Se você optar por não aceitar uma atualização, os últimos termos de arbitragem acordados serão aplicados.
 
 Resolução informal de disputas. Gostaríamos de entender e tentar resolver suas preocupações antes de tomarmos medidas legais formais. Antes que qualquer um de nós apresente uma queixa contra o outro, ambos concordamos em tentar resolver a disputa informalmente. Ao enviar-nos uma notificação através deste formulário⁠, você concorda com isso. Faremos isso enviando um aviso para o endereço de e-mail associado à sua conta. Caso não consigamos resolver uma disputa em 60 dias, qualquer uma das partes terá o direito de iniciar um processo de arbitragem. Ambas as partes concordam em participar de uma audiência de conciliação individual, caso alguma delas a solicite durante esse período. Qualquer prazo prescricional será suspenso durante este processo de resolução informal.
 
-Fórum de arbitragem. Caso não consigamos resolver a disputa, qualquer uma das partes poderá iniciar um processo de arbitragem junto à National Arbitration and Mediation (“NAM”), de acordo com suas Regras e Procedimentos Abrangentes de Resolução de Disputas e/ou Regras Suplementares para Processos de Arbitragem em Massa, conforme aplicável (disponíveis aqui⁠(abre em uma nova janela)).
+Fórum de arbitragem. Caso não consigamos resolver a disputa, qualquer uma das partes poderá iniciar um processo de arbitragem junto à National Arbitration and Mediation (“NAM”), de acordo com suas Regras e Procedimentos Abrangentes de Resolução de Disputas e/ou Regras Suplementares para Processos de Arbitragem em Massa, conforme aplicável (disponíveis aqui⁠⁠(abre em uma nova janela)).
 
 A OpenAI não buscará o reembolso de honorários advocatícios e custas processuais em arbitragem, a menos que o árbitro determine que sua reclamação é infundada. As atividades descritas nestes Termos envolvem comércio interestadual, e a Lei de Arbitragem Federal regerá a interpretação e a aplicação destes termos de arbitragem e de qualquer arbitragem.
 
