@@ -3,8 +3,7 @@ empresa: "TIM"
 documento: "Política de Privacidade"
 categoria: "Telefonia"
 fonte: "https://www.tim.com.br/sobre-a-tim/institucional/seguranca/central-de-privacidade"
-capturado_em: 2026-07-13
-wayback: "https://web.archive.org/web/20260713154148/https://www.tim.com.br/sobre-a-tim/institucional/seguranca/central-de-privacidade"
+capturado_em: 2026-10-22
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/tim/politica-de-privacidade.md"
 ---
 
@@ -259,11 +258,13 @@ Seus dados são tratados com muita transparência e cuidado aqui na TIM, já que
 
 É totalmente seguro. Você pode saber mais detalhes aqui nesta página ou ainda ver a nossa **Política de Privacidade**.
 
-## Você achou essa informação útil?
+Esta informação foi útil para você?
 
-## Obrigado!
+15 pessoas acharam esta informação útil.
 
-Seu feedback ajuda a melhorar a informação passada para todos
+Agradecemos sua participação!
+
+Seu feedback ajuda a melhorar a forma como comunicamos as informações.
 
 E o que são cookies? A TIM tem uma política de cookies?
 
@@ -271,11 +272,13 @@ Cookies são arquivos que transferimos e permitem reconhecer o seu navegador ou 
 
 Você pode saber tudo sobre a nossas diretrizes na **página de Política de Cookies da TIM.**
 
-## Você achou essa informação útil?
+Esta informação foi útil para você?
 
-## Obrigado!
+7 pessoas acharam esta informação útil.
 
-Seu feedback ajuda a melhorar a informação passada para todos
+Agradecemos sua participação!
+
+Seu feedback ajuda a melhorar a forma como comunicamos as informações.
 
 Como posso aumentar a segurança no meu WhatsApp?
 
@@ -290,11 +293,13 @@ Existem muitas dicas para deixar seu WhatsApp mais seguro. Veja algumas:
 
 Você pode conferir mais dicas na **página de dicas de segurança no WhatsApp.**
 
-## Você achou essa informação útil?
+Esta informação foi útil para você?
 
-## Obrigado!
+17 pessoas acharam esta informação útil.
 
-Seu feedback ajuda a melhorar a informação passada para todos
+Agradecemos sua participação!
+
+Seu feedback ajuda a melhorar a forma como comunicamos as informações.
 
 Como eu deixo meu celular mais seguro?
 
@@ -305,11 +310,13 @@ Veja algumas medidas simples para auxiliar a segurança:
  - Na instalação, verifique se as permissões de acesso solicitadas estão de acordo com a finalidade do aplicativo;
  - Ligue configurações de segurança como: as opções de rastreamento, bloqueio, backup, remoção de arquivos remotamente e etc.
 
-## Você achou essa informação útil?
+Esta informação foi útil para você?
 
-## Obrigado!
+8 pessoas acharam esta informação útil.
 
-Seu feedback ajuda a melhorar a informação passada para todos
+Agradecemos sua participação!
+
+Seu feedback ajuda a melhorar a forma como comunicamos as informações.
 
 O que são os SMS piratas? Posso receber algum da TIM?
 
@@ -317,11 +324,13 @@ SMS Piratas (ou SPAM) são SMS não regulamentados e clandestinos. Alguns podem 
 
 Já os nossos SMS estão dentro da lei e são seguros. Você mais sobre o tema na **página de SMS Pirata**.
 
-## Você achou essa informação útil?
+Esta informação foi útil para você?
 
-## Obrigado!
+12 pessoas acharam esta informação útil.
 
-Seu feedback ajuda a melhorar a informação passada para todos
+Agradecemos sua participação!
+
+Seu feedback ajuda a melhorar a forma como comunicamos as informações.
 
 Como posso cancelar o envio de SMS publicitária da TIM?
 
@@ -329,11 +338,13 @@ Para cancelar o envio de mensagens publicitárias da TIM, basta enviar "SAIR" pa
 
 Você também pode evitar ligações publicitárias de outras empresas. Descubra como na **página Não me Perturbe.**
 
-## Você achou essa informação útil?
+Esta informação foi útil para você?
 
-## Obrigado!
+13 pessoas acharam esta informação útil.
 
-Seu feedback ajuda a melhorar a informação passada para todos
+Agradecemos sua participação!
+
+Seu feedback ajuda a melhorar a forma como comunicamos as informações.
 
 Tem alguma dúvida? Quer falar com o DPO?
 
@@ -341,11 +352,13 @@ Se a sua dúvida for sobre serviços da TIM, como cobranças, portabilidade num�
 
 Caso sua dúvida seja sobre privacidade de dados pessoais e você não encontrou a resposta neste site, mande uma mensagem para **dpo@timbrasil.com.br**
 
-## Você achou essa informação útil?
+Esta informação foi útil para você?
 
-## Obrigado!
+9 pessoas acharam esta informação útil.
 
-Seu feedback ajuda a melhorar a informação passada para todos
+Agradecemos sua participação!
+
+Seu feedback ajuda a melhorar a forma como comunicamos as informações.
 
 Gestão da TIM com a LGPD
 
