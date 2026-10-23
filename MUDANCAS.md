@@ -10,5 +10,9 @@ O acompanhamento diário começou em 22/10/2026. As versões anteriores a isso v
 Wayback Machine e estão no histórico de cada arquivo em [termos/](termos/).
 
 <!-- MUDANCAS -->
+### 22/10/2026 · Nubank · Política de Privacidade
+
++2 −0 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/a90838ae5c23bf523441322f82201bd6c1ca6f2e)
+
 
 _Nenhuma mudança detectada desde o início do acompanhamento diário._
