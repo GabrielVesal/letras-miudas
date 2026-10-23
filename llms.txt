@@ -23,7 +23,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 - [Inter · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/inter/politica-de-privacidade.md): 495 palavras, 2 min de leitura, 11 versões desde set/2023
 - [Neon · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/neon/politica-de-privacidade.md): 648 palavras, 3 min de leitura, 6 versões desde dez/2024
 - [Neon · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/neon/termos-de-uso.md): 4.700 palavras, 20 min de leitura, 6 versões desde nov/2023
-- [Nubank · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/nubank/politica-de-privacidade.md): 5.955 palavras, 25 min de leitura, 4 versões desde dez/2024
+- [Nubank · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/nubank/politica-de-privacidade.md): 6.045 palavras, 25 min de leitura, 5 versões desde dez/2024
 - [Nubank · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/nubank/termos-de-uso.md): 3.713 palavras, 16 min de leitura, 3 versões desde dez/2024
 - [PagBank · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/pagbank/politica-de-privacidade.md): 4.091 palavras, 17 min de leitura, 1 versão desde out/2026
 - [PayPal · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/paypal/politica-de-privacidade.md): 19.629 palavras, 1h22 de leitura, 6 versões desde dez/2024

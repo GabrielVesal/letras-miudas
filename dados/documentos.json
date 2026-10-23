@@ -18,7 +18,7 @@
     "LGPD",
     "Biometria"
    ],
-   "situacao": "instável",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -544,7 +544,7 @@
    "arquivo": "termos/nubank/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/nubank/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/nubank/politica-de-privacidade.md",
-   "palavras": 5955,
+   "palavras": 6045,
    "minutos_de_leitura": 25,
    "assuntos": [
     "LGPD",
@@ -593,6 +593,14 @@
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/fdc5d1792f08c5f11864aed68da4bee0c65c0397",
      "wayback": "https://web.archive.org/web/20260912050648/https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade",
      "palavras": 5955
+    },
+    {
+     "data": "2026-10-22",
+     "commit": "a90838ae5c23bf523441322f82201bd6c1ca6f2e",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/a90838ae5c23bf523441322f82201bd6c1ca6f2e/termos/nubank/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/a90838ae5c23bf523441322f82201bd6c1ca6f2e",
+     "palavras": 6045
     }
    ]
   },
