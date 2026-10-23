@@ -3,8 +3,7 @@ empresa: "Nubank"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade"
-capturado_em: 2026-09-12
-wayback: "https://web.archive.org/web/20260912050648/https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade"
+capturado_em: 2026-10-22
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/nubank/politica-de-privacidade.md"
 ---
 
@@ -207,6 +206,8 @@ O Nu irá coletar seus dados pessoais para as finalidades a seguir de diferentes
 - Exercício regular de direitos do Nu, inclusive apresentando documentos em processos judiciais e administrativos, se necessário
 - Colaboração ou cumprimento de ordem judicial, de autoridade competente ou de órgão fiscalizador
 - Cumprimento de obrigações legais e/ou regulatórias impostas ao Nu, incluindo normas de Conheça seu Cliente (KYC), Prevenção à Lavagem de Dinheiro e Financiamento ao Terrorismo e outras.
+
+❗Ao concordar em criar o seu **Nu ID**, geraremos automaticamente um identificador com base no seu nome cadastrado. Excepcionalmente, o identificador poderá incluir fragmentos de dados cadastrais necessários para diferenciá-lo de outros identificadores. O **Nu ID** é um identificador público, logo outros clientes do Nubank poderão ter acesso a ele para facilitar a identificação do destinatário e o direcionamento de transferências entre clientes do Nubank. Você pode personalizar seu **Nu ID** a qualquer momento por meio das configurações do aplicativo, desde que respeitadas as regras de uso do **Nu ID**.
 
 ### Dados publicamente disponíveis
 
