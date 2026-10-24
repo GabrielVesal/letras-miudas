@@ -3,7 +3,7 @@ empresa: "Airbnb"
 documento: "Termos de Uso"
 categoria: "Apps"
 fonte: "https://www.airbnb.com.br/terms"
-capturado_em: 2026-10-22
+capturado_em: 2026-10-23
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/airbnb/termos-de-uso.md"
 ---
 
@@ -30,8 +30,8 @@ Os documentos mencionados nestes Termos incluem, entre outros:
 - Os Termos de Serviço de Pagamentos, que regem todos os serviços de pagamento fornecidos aos Membros pelas entidades de pagamento do Airbnb (coletivamente, "**Airbnb Payments**").
 - A Política de Privacidade, que descreve nossa coleta e uso de dados pessoais.
 - A Política de Taxas de Serviço, que descreve como as taxas de serviço do Airbnb são cobradas dos Anfitriões e Hóspedes.
-- A Política de Taxas Fora da Plataforma, que descreve as circunstâncias em que um Anfitrião pode cobrar taxas ou fazer cobranças adicionais fora da Plataforma Airbnb.
-- A Política de Atividades Fora da Plataforma, que proíbe que certas ações ocorram fora da Plataforma Airbnb.
+- Nossa política de transparência de preços e pagamentos, que descreve as circunstâncias em que um Anfitrião pode cobrar taxas ou fazer cobranças adicionais fora da Plataforma Airbnb.
+- Nossa política de limitação de contratos impostos pelos anfitriões e outros requisitos, que proíbe que certas ações ocorram fora da Plataforma Airbnb.
 - A Política de Impostos, que explica quais impostos podem ser aplicados a uma reserva.
 - Os Padrões de Privacidade do Anfitrião, que especificam como os Anfitriões devem tratar as Informações Pessoais do Hóspede.
 - Os Termos Adicionais para Anfitriões de Serviços e Experiências, que regem o uso da Plataforma Airbnb para publicar e oferecer Serviços e Experiências.
@@ -202,7 +202,7 @@ Pode haver diferenças entre os resultados de busca em nosso aplicativo móvel e
 
 ### 5.4 Suas responsabilidades.
 
-Você é responsável por seus próprios atos e omissões, assim como é responsável pelos atos e omissões de qualquer convidado que participe dos seus Serviços de Anfitrião. Você é responsável por definir seu preço e estabelecer regras e requisitos para seu Anúncio. Você deve detalhar todas e quaisquer taxas e cobranças adicionais na descrição do seu Anúncio. Você também é responsável por garantir que todas as taxas e cobranças obrigatórias aplicáveis ao seu Anúncio sejam incluídas no detalhamento do seu preço. Você não pode recolher nenhuma taxa ou cobrança fora da Plataforma Airbnb, exceto conforme expressamente autorizado por nossa Política de Taxas Fora da Plataforma. Não incentive os Hóspedes a criar contas de terceiros, enviar avaliações, fornecer suas informações de contato ou realizar ações fora da Plataforma Airbnb que violem nossa Política de Atividades Fora da Plataforma.
+Você é responsável por seus próprios atos e omissões, assim como é responsável pelos atos e omissões de qualquer convidado que participe dos seus Serviços de Anfitrião. Você é responsável por definir seu preço e estabelecer regras e requisitos para seu Anúncio. Você deve detalhar todas e quaisquer taxas e cobranças adicionais na descrição do seu Anúncio. Você também é responsável por garantir que todas as taxas e cobranças obrigatórias aplicáveis ao seu Anúncio sejam incluídas no detalhamento do seu preço. Você não pode recolher nenhuma taxa ou cobrança fora da Plataforma Airbnb, exceto conforme expressamente autorizado por nossa política de transparência de preços e pagamentos. Não incentive os Hóspedes a criar contas de terceiros, enviar avaliações, fornecer suas informações de contato ou realizar ações fora da Plataforma Airbnb que violem nossa política de limitação de contratos impostos pelos anfitriões e outros requisitos.
 
 ### 5.5 Hospedagem como Equipe ou Organização.
 
@@ -279,7 +279,7 @@ Você deve seguir estas regras e não deve ajudar ou induzir outras pessoas a qu
  - Não use a Plataforma Airbnb, nossas ferramentas de mensagens ou informações pessoais dos Membros para enviar mensagens comerciais sem o consentimento expresso deles.
  - Você pode usar o Conteúdo disponibilizado através da Plataforma Airbnb somente quando necessário para permitir seu uso da Plataforma Airbnb como Hóspede ou Anfitrião.
  - Somente use um Conteúdo se você tiver permissão do proprietário do mesmo ou se o uso for autorizado por nós nestes Termos ou em outro contrato que você tenha conosco.
- - Não solicite, não faça e nem aceite reservas ou pagamentos fora da Plataforma Airbnb para evitar o pagamento de taxas, impostos ou por qualquer outro motivo. Consulte nossa Política de Taxas Cobradas Fora da Plataforma para conhecer as exceções.
+ - Não solicite, não faça e nem aceite reservas ou pagamentos fora da Plataforma Airbnb para evitar o pagamento de taxas, impostos ou por qualquer outro motivo. Consulte nossa política de transparência de preços e pagamentos para saber quais são as exceções.
  - Não obrigue nem incentive os Hóspedes a abrir uma conta, deixar uma avaliação, responder a um questionário ou entrar em um site, aplicativo ou serviço de terceiros antes, durante ou após uma Reserva, a menos que autorizado pelo Airbnb.
  - Não se envolva em quaisquer práticas que se destinem a manipular nosso algoritmo de busca.
  - Não reserve Serviços de Anfitrião a menos que você, ou um Hóspede autorizado, realmente os use.
@@ -361,7 +361,7 @@ Oferecemos a você o direito de usar uma plataforma que permite que os Membros p
 
 Você deve criar uma conta para acessar e usar recursos diversos da Plataforma Airbnb. O cadastro só é permitido para pessoas jurídicas, parcerias e pessoas físicas que tenham 18 (dezoito) anos ou mais. ocê declara e garante que não é uma pessoa ou entidade impedida de usar a Plataforma Airbnb de acordo com as leis dos Estados Unidos, seu local de residência ou qualquer outra jurisdição aplicável. Você deve fornecer informações precisas, atuais e completas durante o cadastro, além de manter suas informações atualizadas. Você não pode transferir sua conta para outra pessoa. Você é responsável por manter a confidencialidade e a segurança das senhas de sua conta e não deve divulgá-las a terceiros. Você é responsável pelas atividades realizadas através da sua conta e deve notificar imediatamente ao Airbnb se suspeitar que suas senhas foram perdidas, roubadas ou que sua conta está comprometida de algum modo. Se e conforme permitido pela legislação aplicável, podemos, mas não temos obrigação de (i) solicitar que você comprove sua identidade ou forneça outras informações; (ii) realizar verificações destinadas a ajudar a comprovar sua identidade ou seus antecedentes; (iii) comparar suas informações nos bancos de dados de terceiros ou em outras fontes e solicitar relatórios de prestadores de serviços; e (iv) obter relatórios junto a registros públicos de condenações criminais ou crimes sexuais, ou seus equivalentes locais.
 
-## 17. Consentimento para verificação de identidade e antecedentes para usuários dos Estados Unidos.
+## 17. Concordância para verificação de identidade e antecedentes para usuários dos Estados Unidos.
 
 Para usuários dos Estados Unidos, para ajudar o Airbnb a avaliar a segurança, integridade e confiabilidade de nossa plataforma e de seus usuários, você autoriza o Airbnb a realizar verificações destinadas a ajudar a confirmar a sua identidade ou analisar seus antecedentes, e concorda que o Airbnb possa checar seus dados e obter relatórios de prestadores de serviços, bancos de dados de terceiros ou outras fontes, incluindo registros públicos de condenações criminais ou crimes sexuais, ou seus equivalentes locais.
 
