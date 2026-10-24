@@ -2,9 +2,8 @@
 empresa: "Microsoft"
 documento: "Política de Privacidade"
 categoria: "Tecnologia"
-fonte: "https://www.microsoft.com/PT-BR/privacy/privacystatement"
-capturado_em: 2026-09-19
-wayback: "https://web.archive.org/web/20260919014659/https://www.microsoft.com/PT-BR/privacy/privacystatement"
+fonte: "https://www.microsoft.com/pt-br/privacy/privacystatement"
+capturado_em: 2026-10-23
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/microsoft/politica-de-privacidade.md"
 ---
 
@@ -83,6 +82,8 @@ Também recebemos dados de afiliadas, subsidiárias e terceiros da Microsoft. Po
 
 Você tem opções quando se trata dos dados que compartilha. Quando forem solicitados dados pessoais, você poderá se recusar a fornecê-los. Você também pode usar controles de navegador da Web, no produto ou do sistema operacional para limitar ou impedir determinados tipos de coleta automática de dados. Muitos dos nossos produtos exigem alguns dados pessoais para funcionar e para que o serviço seja oferecido. Se você optar por não fornecer ou nos permitir coletar os dados necessários, não poderá usar o produto ou recurso relacionado. Da mesma forma, quando precisamos coletar dados pessoais por lei ou entrar ou executar um contrato com você e você não fornecer os dados, não será possível entrar ou executar o contrato. Onde o fornecimento de dados for opcional e você escolher não compartilhar dados pessoais, recursos que usam os dados, como a personalização, não funcionarão para você.
 
+Exibir Resumo Saiba mais
+
 ### Como utilizamos dados pessoais
 
 A Microsoft usa os dados que coletamos para proporcionar experiências sofisticadas e interativas. Especificamente, usamos dados para:
@@ -138,6 +139,8 @@ Os critérios usados para determinar os períodos de retenção incluem:
 - A natureza e a confidencialidade das informações. Por exemplo, mantemos um período de retenção reduzido para informações de geolocalização precisas.
 - Obrigações legais, contratuais e outras semelhantes às quais estamos sujeitos, incluindo leis de retenção de dados, ordens governamentais para preservar dados relevantes a uma investigação ou dados retidos para fins de litígio. Por outro lado, removeremos conteúdo ilegal quando exigido por lei.
 
+Exibir Resumo Saiba mais
+
 ### Motivos pelos quais divulgamos dados pessoais
 
 A Microsoft divulga seus dados pessoais com seu consentimento, para concluir qualquer transação ou fornecer qualquer produto solicitado ou autorizado, ou conforme necessário, para realizar qualquer outra finalidade descrita na seção Como usamos dados pessoais. Também divulgamos dados pessoais quando exigidos por lei ou para responder a processos legais e para proteger os clientes, a segurança, a segurança e os direitos e a propriedade da Microsoft e de seus clientes. Fornecemos dados para afiliadas e subsidiárias controladas pela Microsoft e para fornecedores que trabalham em nosso nome.
@@ -164,6 +167,8 @@ Por fim, retém, acessamos, transfere, divulgamos e preservamos dados pessoais, 
 Para obter mais informações sobre os dados que divulgamos em resposta a solicitações de autoridades e outras agências governamentais, confira o Law Enforcement Requests Report.
 
 Observe que alguns dos nossos produtos incluem links ou outras formas para você acessar produtos de terceiros cujas práticas de privacidade diferem das da Microsoft. Por exemplo, aplicativos ou extensões de terceiros executados no navegador Windows ou Edge podem coletar dados pessoais com base em suas próprias práticas. Se você fornecer dados pessoais para qualquer um desses produtos, eles serão regidos pelas políticas de privacidade deles.
+
+Exibir Resumo Saiba mais
 
 ### Como acessar e controlar seus dados pessoais
 
@@ -221,6 +226,8 @@ Ao usar um navegador, você pode controlar seus dados pessoais usando determinad
 - **Controles de cookies**. Você pode controlar os dados armazenados por cookies e retirar o consentimento para cookies usando os controles de cookie baseados em navegador descritos na seção Cookies .
 - **Proteções contra rastreamento**. Você pode controlar os dados que os sites de terceiros podem coletar sobre você usando a Proteção contra Rastreamento no Microsoft Edge. Esse recurso bloqueará conteúdo de terceiros, incluindo cookies, de qualquer site que esteja relacionado em uma lista que você adicionar à Proteção contra Rastreamento.
 - **Desativações Universais**. A Microsoft recebe e responde ao sinal de recusa do navegador GPC (Controle global de privacidade) em determinadas jurisdições. A Microsoft desativará o compartilhamento de dados com terceiros para anúncios personalizados e desativará a alternância "Compartilhar os meus dados com terceiros para anúncios personalizados" se recebermos um sinal GPC seu quando você visitar os nossos sites.
+
+Exibir Resumo Saiba mais
 
 ### Cookies e tecnologias semelhantes
 
@@ -299,6 +306,8 @@ Os produtos da Microsoft geralmente incluem web beacons ou tecnologias semelhant
 
 Nossos produtos também podem usar outras tecnologias semelhantes para armazenar e ler arquivos de dados em seu computador. Este procedimento tem a finalidade de manter suas preferências ou de melhorar a velocidade e o desempenho ao salvar determinados arquivos localmente. Essas tecnologias também podem armazenar um identificador exclusivo para o computador, que pode então acompanhar o comportamento.
 
+Exibir Resumo Saiba mais
+
 ### Conta Microsoft
 
 Uma conta Microsoft permite que você entre em produtos da Microsoft e em determinados produtos de parceiros da Microsoft. Os dados pessoais associados à sua conta Microsoft incluem credenciais, dados de contato e pagamento, dados de uso e dispositivo e informações relacionadas à atividade. Entrar no sua conta Microsoft permite personalização e experiências consistentes em produtos e dispositivos e permite o uso de armazenamento em nuvem, pagamentos com formas de pagamento armazenadas e outros recursos.
@@ -327,6 +336,8 @@ Uma conta de terceiros é uma conta Microsoft que você ou seu provedor de servi
 - **Entrando nos produtos da Microsoft**. Entrar em produtos da Microsoft permite uma personalização aprimorada, oferece experiências consistentes entre produtos, permite acesso ao armazenamento em nuvem e permite que você faça pagamentos usando informações armazenadas em sua conta, juntamente com outras configurações e recursos. As informações salvas em sua conta podem estar disponíveis em produtos da Microsoft. Se você adicionar sua conta a um dispositivo Windows (versão 8 ou superior), o Windows conectará você automaticamente aos produtos da Microsoft nesse dispositivo. Quando conectado, alguns produtos mostrarão seu nome ou nome de usuário e foto de perfil (se você tiver uma) em produtos, comunicações e postagens públicas da Microsoft. Saiba mais sobre sua conta Microsoft, seus dados e suas escolhas.
 - **Entrando em produtos de terceiros**. Se você entrar em um produto de terceiros ou fizer pagamentos a comerciantes de terceiros usando sua conta Microsoft, a Microsoft compartilhará dados com terceiros conforme necessário, incluindo o número de versão da sua conta e se sua conta foi desativada. Terceiros podem usar ou compartilhar seus dados de acordo com suas próprias políticas de privacidade. Você deve examinar cuidadosamente as políticas de privacidade de cada produto ou comerciante que usa para entender como seus dados serão tratados.
 
+Exibir Resumo Saiba mais
+
 ### Coleta de dados dos filhos
 
 A Microsoft oferece muitos produtos e serviços que crianças e adolescentes podem usar, embora os usuários crianças e adolescentes nem sempre tenham acesso a todos os recursos e serviços que os usuários adultos fazem. Alguns desses recursos estarão desativados por padrão ou não estarão disponíveis para usuários mais novos. Quando uma criança tiver menos de 13 anos — ou uma idade maior, se exigido na região dela —, precisará do consentimento de um dos pais ou responsável para criar uma conta Microsoft. Os pais podem alterar ou revogar o consentimento a qualquer momento.
@@ -353,6 +364,8 @@ Depois de solicitar o encerramento da conta, a conta é marcada para exclusão, 
 
 Para saber mais informações sobre recursos do XBOX, controles no produto e a coleta, uso e divulgação de dados pessoais associados, consulte a seção XBOX desta política de privacidade.
 
+Exibir Resumo Saiba mais
+
 ### Armazenamento e processamento de dados pessoais
 
 A Microsoft pode armazenar e processar seus dados pessoais em sua região, nos Estados Unidos e em qualquer outra jurisdição em que a Microsoft ou suas afiliadas, subsidiárias ou provedores de serviços operem instalações. Quando transferimos dados pessoais internacionalmente, implementamos proteções legais apropriadas para ajudar a proteger seus direitos e garantir que seus dados permaneçam protegidos.
@@ -370,6 +383,8 @@ No contexto de uma transferência posterior, a Microsoft Corporation é respons�
 Se você tiver uma pergunta ou reclamação relacionada à participação da Microsoft nos Estruturas DPF, recomendamos que entre em contato conosco por meio da nossa página suporte e solicitações de privacidade. Para quaisquer reclamações relacionadas aos Quadros DPF que a Microsoft não possa resolver diretamente, optamos por cooperar com a Autoridade de Proteção de Dados da UE relevante, ou com um painel estabelecido pelas autoridades europeias de proteção de dados, para resolver disputas com indivíduos da UE, com o Comissário de Informações do Reino Unido para resolver disputas com indivíduos do Reino Unido, e com o Comissário Federal Suíço de Proteção de Dados e Informação (FDPIC) para resolver disputas com indivíduos da Suíça. Entre em contato conosco se desejar ser direcionado aos seus contatos de autoridade de proteção de dados. Conforme explicado mais detalhadamente nos Princípios da DPF, uma opção de arbitragem vinculativa estará disponível para abordar as reclamações remanescentes não resolvidas por outros meios. A Microsoft está sujeita aos poderes de investigação e cumprimento da lei da Federal Trade Commission (FTC) dos EUA.
 
 Indivíduos cujos dados pessoais são protegidos pela Lei de Proteção de Informações Pessoais do Japão devem consultar o artigo no site da Comissão Japonesa de Proteção de Informações Pessoais (publicado apenas em japonês) para obter mais informações sobre a análise da comissão dos sistemas de proteção de dados pessoais de determinados países/regiões. Para indivíduos no Japão, clique aqui para obter informações adicionais sobre o processamento de informações de acordo com a Lei de Negócios de Telecomunicações (somente em japonês).
+
+Exibir Resumo Saiba mais
 
 ### Publicidade
 
@@ -401,6 +416,8 @@ A Microsoft recebe e responde ao sinal de recusa do navegador GPC (Controle glob
 **Dados coletados por ou divulgados para outras empresas de publicidade**. Às vezes, os anunciantes incluem seus próprios web beacons ou outros parceiros de publicidade em seus anúncios que exibimos, permitindo que eles definam e leem seus próprios cookies. Em alguns casos, podemos compartilhar relatórios com anunciantes sobre os dados que coletamos em seus sites ou anúncios. Além disso, a Microsoft faz parcerias com o Xandr (uma empresa da Microsoft) e com empresas de publicidade de terceiros para ajudar a fornecer alguns dos nossos serviços de publicidade e também permitimos que outras empresas de publicidade de terceiros exibam anúncios em nossos sites. Esses terceiros podem colocar cookies em seus dispositivos e coletar dados sobre suas atividades online em sites ou serviços online. Essas empresas atualmente incluem, mas não estão limitadas a: Facebook, Media.net, Outbrain, Taboola e Yahoo. Consulte nossa seção Cookies e tecnologias semelhantes para obter mais informações.
 
 Podemos fornecer dados coletados para parceiros internos e externos, incluindo a Xandr, outras subsidiárias e afiliadas, Yahoo, Facebook ou Trade Desk para ajudar a garantir que os anúncios que você vê em nossos produtos e seus produtos ou em outros sites sejam mais relevantes para você. Os indivíduos no Reino Unido podem saber mais sobre as práticas de publicidade da The Trade Desk no Reino Unido e recusar o processamento de seus dados pela Trade Desk aqui. Muitas dessas empresas participam do DAA (EUA), EDAA (Europa) ou DAAC (Canadá), que oferecem ferramentas de escolha em todo o setor para permitir que você desative o direcionamento de anúncios das empresas participantes.
+
+Exibir Resumo Saiba mais
 
 ### Outras informações importantes sobre privacidade
 
@@ -450,6 +467,8 @@ Se você tiver uma dúvida técnica ou de suporte, visite o Suporte da Microsoft
 
 Oferecemos vários meios para você controlar seus dados pessoais que a Microsoft obteve e exercer seus direitos de proteção de dados. Você pode fazer isso entrando em contato com a Microsoft na nossa página de suporte e solicitações de privacidade ou usando as informações acima, ou usando as várias ferramentas que fornecemos. Confira a seção Como acessar e controlar seus dados pessoais para obter mais detalhes.
 
+Exibir Resumo Saiba mais
+
 ### Inteligência artificial e funcionalidades do Copilot
 
 A Microsoft aproveita a inteligência artificial (IA) em muitos dos nossos produtos e serviços, inclusive ao incorporar recursos de IA generativa. "Copilot" é uma família de serviços, produtos e soluções que aproveitam tecnologias de IA generativa para gerar resultados.
@@ -481,6 +500,8 @@ Veja a Central de Privacidade do Microsoft Copilot e as Perguntas frequentes sob
 **Copilot Health** é uma oferta do Copilot para consumidor desenvolvida especificamente para fornecer assistência personalizada com foco em saúde e bem-estar. O Copilot Health permite que você carregue dados relacionados à saúde, incluindo seus registros de saúde pessoais e dados de dispositivos acessórios. O Copilot Health pode usar esses dados, juntamente com seus prompts e histórico de chats, para fornecer informações e recomendações personalizadas.
 
 As informações que você opta por enviar ao Copilot Health são usadas para fornecer e operar o serviço Copilot Health. Elas não são usadas para desenvolver ou treinar modelos de IA generativa e não são usadas para fins de publicidade ou marketing. Consulte as Perguntas frequentes do Copilot Health para obter mais informações.
+
+Exibir Resumo Saiba mais
 
 ### Produtos para Empresas e Desenvolvedores e produtos fornecidos pela sua organização
 
@@ -552,6 +573,8 @@ O HoloLens também processa e coleta dados relacionados à experiência do HoloL
 - O HoloLens obtém pontos de rastreamento com base no seu ambiente, o que permite entender superfícies no espaço e permite que você coloque ativos digitais nelas. Não há imagens associadas a esses dados do ambiente e eles são armazenados localmente no dispositivo do HoloLens. Você pode optar por excluir esses dados do seu HoloLens a qualquer momento.
 
 Os microfones do headset habilitam os comandos de voz para navegação, controle de aplicativos ou para inserir termos de pesquisa. Saiba mais sobre a coleção de dados de voz.
+
+Exibir Resumo Saiba mais
 
 ### Produtos de comunicação e produtividade
 
@@ -734,6 +757,8 @@ Ao usar o recurso de câmera no SwiftKey, você pode optar por aplicar efeitos d
 
 Para saber mais sobre os dados que o LinkedIn coleta e como eles são usados e compartilhados, confira a Política de Privacidadedo LinkedIn.
 
+Exibir Resumo Saiba mais
+
 ### Pesquisar e navegar
 
 Os produtos de pesquisa e navegação o conectam com informações e detectam, processam e agem de forma inteligente com base nas informações - aprendendo e se adaptando com o passar do tempo. Para obter mais informações sobre inteligência artificial e recursos do Copilot na pesquisa e procura de produtos da Microsoft, consulte Recursos de Inteligência Artificial e do Microsoft Copilot acima.
@@ -787,6 +812,8 @@ O **Copilot no Edge** coleta e processa dados para fornecer os serviços solicit
 Determinados recursos no Microsoft Edge conectam você a conteúdos do MSN, como quando abre um novo separador no navegador. O uso de dados no MSN é coberto pela seção MSN desta política de privacidade.
 
 Saiba mais sobre o Microsoft Edge, dados de navegação e privacidade.
+
+Exibir Resumo Saiba mais
 
 ### Windows
 
@@ -1153,6 +1180,8 @@ O Windows Hello proporciona acesso instantâneo aos seus dispositivos através d
 
 O Windows Search permite pesquisar em seu conteúdo e na Web a partir de um único local. Se você optar por usar o Windows Search "para pesquisar suas coisas," ele fornecerá resultados para itens em seu OneDrive pessoal, seu OneDrive for Business se estiver habilitado, outros provedores de armazenamento em nuvem de terceiros com suporte e em seu dispositivo. Se você escolher utilizar o Windows Search para pesquisar na Web ou obter sugestões de pesquisa com o Windows Search, seus resultados de pesquisa serão associados aos serviços Bing e utilizaremos suas consultas de pesquisa tal como descrito na seção Bing desta política de privacidade. Saiba mais sobre a pesquisa no Windows.
 
+Exibir Resumo Saiba mais
+
 ### Entretenimento e serviços relacionados
 
 Entretenimento e serviços relacionados, como XBOX, Microsoft Store e MSN, fornecem experiências avançadas e permitem que você acesse uma variedade de conteúdo, aplicativos e jogos. Coletamos e usamos suas informações dependendo de como você usa esses serviços para impulsionar sua experiência – por exemplo, coletamos seus identificadores exclusivos, informações sobre como você interage com esses serviços, com quem você conversa, qual conteúdo você carrega e produtos que pesquisa e compra. Consulte abaixo para obter mais detalhes sobre esses serviços, seus recursos e como eles usam dados.
@@ -1268,3 +1297,5 @@ A realidade misturada também processa e coleta dados especificamente relacionad
 - A realidade misturada detecta gestos de mão específicos para executar interações simples com o sistema (como navegação em menus, panorama/zoom e rolagem). Esses dados são processados no seu computador e não são armazenados.
 - Os microfones do headset habilitam os comandos de voz para controlar jogos e aplicativos, ou para inserir termos de pesquisa. Saiba mais sobre a coleção de dados de voz.
 - O Windows Mixed Reality também pode ser usado para comunicações de áudio e vídeo.
+
+Exibir Resumo Saiba mais
