@@ -18,9 +18,9 @@ na [página de estatísticas](https://gabrielvesal.github.io/letras-miudas/).
 | [Apple · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/politica-de-privacidade.md) | 15 | jun/2019 |
 | [Serasa · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md) | 15 | jun/2021 |
 | [Caixa · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md) | 14 | jan/2015 |
+| [Microsoft · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/microsoft/politica-de-privacidade.md) | 14 | out/2024 |
 | [Apple · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/termos-de-uso.md) | 13 | jul/2018 |
 | [GitHub · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/github/termos-de-uso.md) | 13 | mar/2022 |
-| [Microsoft · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/microsoft/politica-de-privacidade.md) | 13 | out/2024 |
 | [Uber · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/uber/politica-de-privacidade.md) | 13 | abr/2025 |
 | [QuintoAndar · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/quintoandar/politica-de-privacidade.md) | 12 | jun/2024 |
 
@@ -31,13 +31,13 @@ Tempo de leitura a 238 palavras por minuto, a média de leitura silenciosa de ad
 | Documento | Palavras | Leitura |
 | --- | ---: | ---: |
 | [Roblox · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/termos-de-uso.md) | 39.698 | 2h47 |
-| [Microsoft · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/microsoft/politica-de-privacidade.md) | 36.152 | 2h32 |
+| [Microsoft · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/microsoft/politica-de-privacidade.md) | 36.216 | 2h32 |
 | [Microsoft · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/microsoft/termos-de-uso.md) | 20.070 | 1h24 |
 | [PayPal · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/paypal/politica-de-privacidade.md) | 19.629 | 1h22 |
 | [Booking.com · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/booking/termos-de-uso.md) | 15.506 | 1h05 |
 | [Roblox · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/politica-de-privacidade.md) | 15.442 | 1h05 |
 | [Epic Games (Fortnite) · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/epic-games/termos-de-uso.md) | 14.732 | 1h02 |
-| [Airbnb · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/airbnb/termos-de-uso.md) | 14.543 | 1h01 |
+| [Airbnb · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/airbnb/termos-de-uso.md) | 14.557 | 1h01 |
 | [Hotmart · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/hotmart/termos-de-uso.md) | 13.140 | 55 min |
 | [Booking.com · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/booking/politica-de-privacidade.md) | 12.344 | 52 min |
 | [Temu · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/temu/termos-de-uso.md) | 12.152 | 51 min |

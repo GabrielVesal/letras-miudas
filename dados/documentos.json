@@ -1080,7 +1080,7 @@
    "arquivo": "termos/airbnb/termos-de-uso.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/airbnb/termos-de-uso.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/airbnb/termos-de-uso.md",
-   "palavras": 14543,
+   "palavras": 14557,
    "minutos_de_leitura": 61,
    "assuntos": [],
    "situacao": "ok",
@@ -1173,6 +1173,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/5a7527d42ee24074fb2ea257fcc9547225126d70/termos/airbnb/termos-de-uso.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/5a7527d42ee24074fb2ea257fcc9547225126d70",
      "palavras": 14543
+    },
+    {
+     "data": "2026-10-23",
+     "commit": "261890fd02f1278781dda8fcda2a9f6a65f4fe21",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/261890fd02f1278781dda8fcda2a9f6a65f4fe21/termos/airbnb/termos-de-uso.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/261890fd02f1278781dda8fcda2a9f6a65f4fe21",
+     "palavras": 14557
     }
    ]
   },
@@ -3364,7 +3372,7 @@
    "arquivo": "termos/microsoft/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/microsoft/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/microsoft/politica-de-privacidade.md",
-   "palavras": 36152,
+   "palavras": 36216,
    "minutos_de_leitura": 152,
    "assuntos": [
     "LGPD",
@@ -3493,6 +3501,14 @@
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/c7885c7031c61188f028963e76f53bbc7c4556c3",
      "wayback": "https://web.archive.org/web/20260919014659/https://www.microsoft.com/PT-BR/privacy/privacystatement",
      "palavras": 36152
+    },
+    {
+     "data": "2026-10-23",
+     "commit": "0826c17f1433c9d6f7e63b3a6885d0b82a07c5db",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/0826c17f1433c9d6f7e63b3a6885d0b82a07c5db/termos/microsoft/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/0826c17f1433c9d6f7e63b3a6885d0b82a07c5db",
+     "palavras": 36216
     }
    ]
   },

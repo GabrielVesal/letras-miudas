@@ -42,7 +42,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 
 ## Apps
 
-- [Airbnb · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/airbnb/termos-de-uso.md): 14.543 palavras, 1h01 de leitura, 10 versões desde jun/2015
+- [Airbnb · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/airbnb/termos-de-uso.md): 14.557 palavras, 1h01 de leitura, 11 versões desde jun/2015
 - [Booking.com · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/booking/politica-de-privacidade.md): 12.344 palavras, 52 min de leitura, 1 versão desde out/2026
 - [Booking.com · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/booking/termos-de-uso.md): 15.506 palavras, 1h05 de leitura, 1 versão desde out/2026
 - [QuintoAndar · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/quintoandar/politica-de-privacidade.md): 6.683 palavras, 28 min de leitura, 12 versões desde jun/2024
@@ -71,7 +71,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 - [GitHub · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/github/termos-de-uso.md): 7.699 palavras, 32 min de leitura, 13 versões desde mar/2022
 - [Google · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/google/politica-de-privacidade.md): 9.490 palavras, 40 min de leitura, 21 versões desde jun/2019
 - [Google · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/google/termos-de-uso.md): 4.973 palavras, 21 min de leitura, 8 versões desde jun/2019
-- [Microsoft · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/microsoft/politica-de-privacidade.md): 36.152 palavras, 2h32 de leitura, 13 versões desde out/2024
+- [Microsoft · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/microsoft/politica-de-privacidade.md): 36.216 palavras, 2h32 de leitura, 14 versões desde out/2024
 - [Microsoft · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/microsoft/termos-de-uso.md): 20.070 palavras, 1h24 de leitura, 1 versão desde out/2026
 
 ## IA
