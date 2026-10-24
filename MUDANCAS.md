@@ -10,6 +10,14 @@ O acompanhamento diário começou em 22/10/2026. As versões anteriores a isso v
 Wayback Machine e estão no histórico de cada arquivo em [termos/](termos/).
 
 <!-- MUDANCAS -->
+### 23/10/2026 · Airbnb · Termos de Uso
+
++5 −5 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/261890fd02f1278781dda8fcda2a9f6a65f4fe21)
+
+### 23/10/2026 · Microsoft · Política de Privacidade
+
++32 −0 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/0826c17f1433c9d6f7e63b3a6885d0b82a07c5db)
+
 ### 22/10/2026 · Nubank · Política de Privacidade
 
 +2 −0 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/a90838ae5c23bf523441322f82201bd6c1ca6f2e)
