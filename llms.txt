@@ -108,7 +108,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 - [Correios · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/correios/politica-de-privacidade.md): 1.444 palavras, 6 min de leitura, 2 versões desde mai/2025
 - [Hotmart · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/hotmart/politica-de-privacidade.md): 5.263 palavras, 22 min de leitura, 7 versões desde mai/2022
 - [Hotmart · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/hotmart/termos-de-uso.md): 13.140 palavras, 55 min de leitura, 11 versões desde abr/2022
-- [Serasa · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/serasa/politica-de-privacidade.md): 9.462 palavras, 40 min de leitura, 15 versões desde jun/2021
+- [Serasa · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/serasa/politica-de-privacidade.md): 5.834 palavras, 25 min de leitura, 16 versões desde jun/2021
 - [Serasa · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/serasa/termos-de-uso.md): 5.064 palavras, 21 min de leitura, 9 versões desde fev/2025
 
 ## Governo

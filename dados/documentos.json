@@ -5231,12 +5231,11 @@
    "arquivo": "termos/serasa/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/serasa/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md",
-   "palavras": 9462,
-   "minutos_de_leitura": 40,
+   "palavras": 5834,
+   "minutos_de_leitura": 25,
    "assuntos": [
     "LGPD",
     "Encarregado/DPO",
-    "Inteligência artificial",
     "Biometria",
     "Reconhecimento facial",
     "Localização",
@@ -5378,6 +5377,14 @@
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/ca957da9a47d2fc3777d8f1457ee0824e3c29d86",
      "wayback": "https://web.archive.org/web/20261005154707/https://www.serasa.com.br/app/politica-de-privacidade/",
      "palavras": 9462
+    },
+    {
+     "data": "2026-10-24",
+     "commit": "5864a5ecc4e11a1a1d09102c4d147541374d5073",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/5864a5ecc4e11a1a1d09102c4d147541374d5073/termos/serasa/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/5864a5ecc4e11a1a1d09102c4d147541374d5073",
+     "palavras": 5834
     }
    ]
   },
