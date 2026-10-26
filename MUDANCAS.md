@@ -10,6 +10,10 @@ O acompanhamento diário começou em 22/10/2026. As versões anteriores a isso v
 Wayback Machine e estão no histórico de cada arquivo em [termos/](termos/).
 
 <!-- MUDANCAS -->
+### 25/10/2026 · TIM · Política de Privacidade
+
++1 −1 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/4dcb51ee6a4c7080e03628e7287b18ecb15ee3ef)
+
 ### 24/10/2026 · Serasa · Política de Privacidade
 
 +272 −491 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/5864a5ecc4e11a1a1d09102c4d147541374d5073)
