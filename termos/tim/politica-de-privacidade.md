@@ -3,7 +3,7 @@ empresa: "TIM"
 documento: "Política de Privacidade"
 categoria: "Telefonia"
 fonte: "https://www.tim.com.br/sobre-a-tim/institucional/seguranca/central-de-privacidade"
-capturado_em: 2026-10-22
+capturado_em: 2026-10-25
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/tim/politica-de-privacidade.md"
 ---
 
@@ -260,7 +260,7 @@ Seus dados são tratados com muita transparência e cuidado aqui na TIM, já que
 
 Esta informação foi útil para você?
 
-15 pessoas acharam esta informação útil.
+14 pessoas acharam esta informação útil.
 
 Agradecemos sua participação!
 
