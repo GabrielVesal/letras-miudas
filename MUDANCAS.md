@@ -10,6 +10,10 @@ O acompanhamento diário começou em 22/10/2026. As versões anteriores a isso v
 Wayback Machine e estão no histórico de cada arquivo em [termos/](termos/).
 
 <!-- MUDANCAS -->
+### 26/10/2026 · Globo · Termos de Uso
+
++291 −221 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/1511451f3ed90a0ae42d02fa84df8456f7bd1d52)
+
 ### 25/10/2026 · TIM · Política de Privacidade
 
 +1 −1 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/4dcb51ee6a4c7080e03628e7287b18ecb15ee3ef)
