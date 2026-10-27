@@ -81,7 +81,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 
 ## Streaming
 
-- [Globo · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/globo/termos-de-uso.md): 4.843 palavras, 20 min de leitura, 3 versões desde set/2025
+- [Globo · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/globo/termos-de-uso.md): 5.149 palavras, 22 min de leitura, 4 versões desde set/2025
 - [Spotify · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/spotify/politica-de-privacidade.md): 7.412 palavras, 31 min de leitura, 12 versões desde mar/2023
 - [Spotify · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/spotify/termos-de-uso.md): 7.035 palavras, 30 min de leitura, 3 versões desde mar/2023
 - [Twitch · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/twitch/politica-de-privacidade.md): 4.712 palavras, 20 min de leitura, 1 versão desde out/2026

@@ -807,7 +807,7 @@
     "Publicidade personalizada",
     "Transferência internacional"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2020-10-10",
@@ -862,7 +862,7 @@
    "assuntos": [
     "Inteligência artificial"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2020-11-10",
@@ -3692,8 +3692,8 @@
    "arquivo": "termos/globo/termos-de-uso.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/globo/termos-de-uso.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/globo/termos-de-uso.md",
-   "palavras": 4843,
-   "minutos_de_leitura": 20,
+   "palavras": 5149,
+   "minutos_de_leitura": 22,
    "assuntos": [
     "Localização"
    ],
@@ -3725,6 +3725,14 @@
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/eff4e285a96f29c165deae66d50a6bfa0fd028ab",
      "wayback": "https://web.archive.org/web/20261007185449/https://login.globo.com/termosUso/6888",
      "palavras": 4843
+    },
+    {
+     "data": "2026-10-26",
+     "commit": "1511451f3ed90a0ae42d02fa84df8456f7bd1d52",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/1511451f3ed90a0ae42d02fa84df8456f7bd1d52/termos/globo/termos-de-uso.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/1511451f3ed90a0ae42d02fa84df8456f7bd1d52",
+     "palavras": 5149
     }
    ]
   },

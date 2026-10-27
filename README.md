@@ -4,7 +4,7 @@ Os termos de uso e as políticas de privacidade das empresas que o brasileiro ma
 Markdown, com cabeçalho estruturado e o histórico de cada mudança. Um robô confere tudo todo dia.
 
 <!-- RESUMO -->
-**67 documentos de 43 empresas**, com **466 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 36 horas**.
+**67 documentos de 43 empresas**, com **467 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 36 horas**.
 <!-- /RESUMO -->
 
 O histórico do git é a própria linha do tempo: cada versão de cada documento é um commit, com a
@@ -34,12 +34,12 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 | Redes sociais | 5 | 8 | 69 | 3h44 |
 | Tecnologia | 4 | 8 | 95 | 6h56 |
 | IA | 1 | 2 | 11 | 34 min |
-| Streaming | 3 | 5 | 20 | 2h20 |
+| Streaming | 3 | 5 | 21 | 2h21 |
 | Jogos | 3 | 6 | 78 | 6h21 |
 | Telefonia | 4 | 4 | 14 | 1h10 |
 | Serviços | 3 | 5 | 45 | 2h09 |
 | Governo | 1 | 1 | 1 | 22 min |
-| **Total** | **43** | **67** | **466** | **36h18** |
+| **Total** | **43** | **67** | **467** | **36h19** |
 <!-- /NUMEROS -->
 
 Para ver em gráficos o que mais mudou, o que mais cresceu, quanto tempo leva para ler cada
@@ -134,7 +134,7 @@ de todas as versões, com o link do texto de cada uma, em
 | **IA** | | | |
 | ChatGPT (OpenAI) | [Política de Privacidade](termos/openai/politica-de-privacidade.md) · [Termos de Uso](termos/openai/termos-de-uso.md) | mai/2024 | 11 |
 | **Streaming** | | | |
-| Globo | [Termos de Uso](termos/globo/termos-de-uso.md) | set/2025 | 3 |
+| Globo | [Termos de Uso](termos/globo/termos-de-uso.md) | set/2025 | 4 |
 | Spotify | [Política de Privacidade](termos/spotify/politica-de-privacidade.md) · [Termos de Uso](termos/spotify/termos-de-uso.md) | mar/2023 | 15 |
 | Twitch | [Política de Privacidade](termos/twitch/politica-de-privacidade.md) · [Termos de Uso](termos/twitch/termos-de-uso.md) | out/2026 | 2 |
 | **Jogos** | | | |
