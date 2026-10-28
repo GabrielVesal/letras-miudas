@@ -661,7 +661,7 @@
    "arquivo": "termos/pagbank/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/pagbank/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pagbank/politica-de-privacidade.md",
-   "palavras": 4091,
+   "palavras": 4092,
    "minutos_de_leitura": 17,
    "assuntos": [
     "LGPD",
@@ -678,6 +678,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/537a06eb94808bd93b36da342ca2162fe0cfb3db/termos/pagbank/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/537a06eb94808bd93b36da342ca2162fe0cfb3db",
      "palavras": 4091
+    },
+    {
+     "data": "2026-10-27",
+     "commit": "23150ce07c8bfa64bac500e64c3415e7b83e480d",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/23150ce07c8bfa64bac500e64c3415e7b83e480d/termos/pagbank/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/23150ce07c8bfa64bac500e64c3415e7b83e480d",
+     "palavras": 4092
     }
    ]
   },
@@ -1574,7 +1582,7 @@
     "Biometria",
     "Publicidade personalizada"
    ],
-   "situacao": "ok",
+   "situacao": "instável",
    "versoes": [
     {
      "data": "2025-04-25",

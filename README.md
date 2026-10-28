@@ -4,7 +4,7 @@ Os termos de uso e as políticas de privacidade das empresas que o brasileiro ma
 Markdown, com cabeçalho estruturado e o histórico de cada mudança. Um robô confere tudo todo dia.
 
 <!-- RESUMO -->
-**67 documentos de 43 empresas**, com **467 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 36 horas**.
+**67 documentos de 43 empresas**, com **468 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 36 horas**.
 <!-- /RESUMO -->
 
 O histórico do git é a própria linha do tempo: cada versão de cada documento é um commit, com a
@@ -28,7 +28,7 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 <!-- NUMEROS -->
 | Categoria | Empresas | Documentos | Versões arquivadas | Tempo de leitura |
 | --- | ---: | ---: | ---: | ---: |
-| Bancos | 8 | 11 | 62 | 3h30 |
+| Bancos | 8 | 11 | 63 | 3h30 |
 | Compras | 5 | 8 | 14 | 3h39 |
 | Apps | 6 | 9 | 57 | 5h33 |
 | Redes sociais | 5 | 8 | 69 | 3h44 |
@@ -39,7 +39,7 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 | Telefonia | 4 | 4 | 14 | 1h10 |
 | Serviços | 3 | 5 | 45 | 2h09 |
 | Governo | 1 | 1 | 1 | 22 min |
-| **Total** | **43** | **67** | **467** | **36h19** |
+| **Total** | **43** | **67** | **468** | **36h19** |
 <!-- /NUMEROS -->
 
 Para ver em gráficos o que mais mudou, o que mais cresceu, quanto tempo leva para ler cada
@@ -104,7 +104,7 @@ de todas as versões, com o link do texto de cada uma, em
 | Inter | [Política de Privacidade](termos/inter/politica-de-privacidade.md) | set/2023 | 11 |
 | Neon | [Política de Privacidade](termos/neon/politica-de-privacidade.md) · [Termos de Uso](termos/neon/termos-de-uso.md) | nov/2023 | 12 |
 | Nubank | [Política de Privacidade](termos/nubank/politica-de-privacidade.md) · [Termos de Uso](termos/nubank/termos-de-uso.md) | dez/2024 | 8 |
-| PagBank | [Política de Privacidade](termos/pagbank/politica-de-privacidade.md) | out/2026 | 1 |
+| PagBank | [Política de Privacidade](termos/pagbank/politica-de-privacidade.md) | out/2026 | 2 |
 | PayPal | [Política de Privacidade](termos/paypal/politica-de-privacidade.md) | dez/2024 | 6 |
 | PicPay | [Política de Privacidade](termos/picpay/politica-de-privacidade.md) | out/2026 | 1 |
 | **Compras** | | | |
