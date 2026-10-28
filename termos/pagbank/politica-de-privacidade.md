@@ -3,7 +3,7 @@ empresa: "PagBank"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://pagbank.com.br/sobre/seguranca-e-privacidade"
-capturado_em: 2026-10-22
+capturado_em: 2026-10-27
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pagbank/politica-de-privacidade.md"
 ---
 
@@ -289,5 +289,7 @@ A seguir são apresentadas condições específicas aplicáveis a determinadas e
 **Extraordinary Women In Tech – EWIT**
 
 **Avenue Code**
+
+**PasseIA**
 
 **Atualização:**21 de julho de 2021
