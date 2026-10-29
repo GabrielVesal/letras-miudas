@@ -3,13 +3,13 @@ empresa: "Booking.com"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://www.booking.com/content/privacy.pt-br.html"
-capturado_em: 2026-10-22
+capturado_em: 2026-10-28
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/booking/politica-de-privacidade.md"
 ---
 
 Política de privacidade para viajantes
 
-Atualizado em agosto de 2026
+Atualizado em outubro de 2026
 
 Sobre esta política de privacidade
 
