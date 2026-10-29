@@ -43,7 +43,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 ## Apps
 
 - [Airbnb · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/airbnb/termos-de-uso.md): 14.557 palavras, 1h01 de leitura, 11 versões desde jun/2015
-- [Booking.com · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/booking/politica-de-privacidade.md): 12.344 palavras, 52 min de leitura, 1 versão desde out/2026
+- [Booking.com · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/booking/politica-de-privacidade.md): 12.344 palavras, 52 min de leitura, 2 versões desde out/2026
 - [Booking.com · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/booking/termos-de-uso.md): 15.506 palavras, 1h05 de leitura, 1 versão desde out/2026
 - [QuintoAndar · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/quintoandar/politica-de-privacidade.md): 6.683 palavras, 28 min de leitura, 12 versões desde jun/2024
 - [Rappi · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/rappi/politica-de-privacidade.md): 4.542 palavras, 19 min de leitura, 10 versões desde jun/2019
@@ -109,7 +109,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 - [Hotmart · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/hotmart/politica-de-privacidade.md): 5.263 palavras, 22 min de leitura, 7 versões desde mai/2022
 - [Hotmart · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/hotmart/termos-de-uso.md): 13.140 palavras, 55 min de leitura, 11 versões desde abr/2022
 - [Serasa · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/serasa/politica-de-privacidade.md): 5.834 palavras, 25 min de leitura, 16 versões desde jun/2021
-- [Serasa · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/serasa/termos-de-uso.md): 5.064 palavras, 21 min de leitura, 9 versões desde fev/2025
+- [Serasa · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/serasa/termos-de-uso.md): 5.064 palavras, 21 min de leitura, 10 versões desde fev/2025
 
 ## Governo
 

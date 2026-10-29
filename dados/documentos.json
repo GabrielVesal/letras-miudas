@@ -815,7 +815,7 @@
     "Publicidade personalizada",
     "Transferência internacional"
    ],
-   "situacao": "falha",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2020-10-10",
@@ -870,7 +870,7 @@
    "assuntos": [
     "Inteligência artificial"
    ],
-   "situacao": "falha",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2020-11-10",
@@ -920,7 +920,7 @@
     "Publicidade personalizada",
     "Transferência internacional"
    ],
-   "situacao": "ok",
+   "situacao": "instável",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -1217,6 +1217,14 @@
      "origem": "robô do letras-miudas",
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/48a560e0216a43ad7fb1723a77ecf1853b5fabdf/termos/booking/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/48a560e0216a43ad7fb1723a77ecf1853b5fabdf",
+     "palavras": 12344
+    },
+    {
+     "data": "2026-10-28",
+     "commit": "695787bfb9bb0cea02474001163d830c7d99e637",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/695787bfb9bb0cea02474001163d830c7d99e637/termos/booking/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/695787bfb9bb0cea02474001163d830c7d99e637",
      "palavras": 12344
     }
    ]
@@ -1582,7 +1590,7 @@
     "Biometria",
     "Publicidade personalizada"
    ],
-   "situacao": "instável",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2025-04-25",
@@ -5511,6 +5519,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/ec9720af3ba2e8028a49e6c9685bb0a4d0af8fb9/termos/serasa/termos-de-uso.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/ec9720af3ba2e8028a49e6c9685bb0a4d0af8fb9",
      "wayback": "https://web.archive.org/web/20261005154706/https://www.serasa.com.br/app/termos-de-uso/",
+     "palavras": 5064
+    },
+    {
+     "data": "2026-10-28",
+     "commit": "f4912c1ae6bf8b057f9bf899bc688211e0ba089e",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/f4912c1ae6bf8b057f9bf899bc688211e0ba089e/termos/serasa/termos-de-uso.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/f4912c1ae6bf8b057f9bf899bc688211e0ba089e",
      "palavras": 5064
     }
    ]
