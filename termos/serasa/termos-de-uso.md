@@ -3,8 +3,7 @@ empresa: "Serasa"
 documento: "Termos de Uso"
 categoria: "Serviços"
 fonte: "https://www.serasa.com.br/app/termos-de-uso/"
-capturado_em: 2026-10-05
-wayback: "https://web.archive.org/web/20261005154706/https://www.serasa.com.br/app/termos-de-uso/"
+capturado_em: 2026-10-28
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/termos-de-uso.md"
 ---
 
@@ -104,7 +103,7 @@ Em um só lugar é possível simular e encontrar as melhores opções de cartão
 
 Após a análise, a decisão pela aprovação sempre será da instituição financeira que está concedendo o crédito e Você será informado sobre essa decisão.
 
-Todas as informações provenientes do Serasa Crédito poderão ser usadas para as finalidades descritas no item “**Quais as finalidades do tratamento dos Dados Pessoais realizado pela Serasa**?” da Política de Privacidade da Serasa (www.serasa.com.br/termos/politica-do-site/) , em especial aquelas que você fornece para solicitação de cartões e/ou operações de crédito. Tais informações também poderão ser compartilhadas com os parceiros do Serasa Crédito (bancos, instituições financeiras, fintechs) para que eles possam definir as ofertas de crédito que serão disponibilizadas à Você, para validação de sua identidade e durante o processo de solicitação de crédito por meio do Serasa Crédito.
+Todas as informações provenientes do Serasa Crédito poderão ser usadas para as finalidades descritas no item “**Quais as finalidades do tratamento dos Dados Pessoais realizado pela Serasa**?” da Política de Privacidade da Serasa (www.serasa.com.br/app/politica-de-privacidade/) , em especial aquelas que você fornece para solicitação de cartões e/ou operações de crédito. Tais informações também poderão ser compartilhadas com os parceiros do Serasa Crédito (bancos, instituições financeiras, fintechs) para que eles possam definir as ofertas de crédito que serão disponibilizadas à Você, para validação de sua identidade e durante o processo de solicitação de crédito por meio do Serasa Crédito.
 
 Você autoriza que os parceiros do Serasa Crédito, bem como suas empresas, coligadas, controladoras ou controladas, consultem suas informações no Sistema de Informações de Créditos (SCR) do Banco Central do Brasil quando Você buscar ou solicitar crédito no Serasa Crédito, com a finalidade única e exclusiva de que eles possam definir as ofertas de crédito que serão disponibilizadas a Você.
 
