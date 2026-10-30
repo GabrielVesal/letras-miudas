@@ -699,7 +699,7 @@
    "arquivo": "termos/paypal/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/paypal/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/paypal/politica-de-privacidade.md",
-   "palavras": 19629,
+   "palavras": 19633,
    "minutos_de_leitura": 82,
    "assuntos": [
     "LGPD",
@@ -764,6 +764,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/82752cc895d077d2a30474f4ba9d49fe645c51f0/termos/paypal/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/82752cc895d077d2a30474f4ba9d49fe645c51f0",
      "palavras": 19629
+    },
+    {
+     "data": "2026-10-29",
+     "commit": "47b4fda59e7d76ca15cdd6f4519ab6ed31100b71",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/47b4fda59e7d76ca15cdd6f4519ab6ed31100b71/termos/paypal/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/47b4fda59e7d76ca15cdd6f4519ab6ed31100b71",
+     "palavras": 19633
     }
    ]
   },
@@ -815,7 +823,7 @@
     "Publicidade personalizada",
     "Transferência internacional"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2020-10-10",
@@ -870,7 +878,7 @@
    "assuntos": [
     "Inteligência artificial"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2020-11-10",
@@ -920,7 +928,7 @@
     "Publicidade personalizada",
     "Transferência internacional"
    ],
-   "situacao": "instável",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2026-10-22",

@@ -33,7 +33,7 @@ Tempo de leitura a 238 palavras por minuto, a média de leitura silenciosa de ad
 | [Roblox · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/termos-de-uso.md) | 39.698 | 2h47 |
 | [Microsoft · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/microsoft/politica-de-privacidade.md) | 36.216 | 2h32 |
 | [Microsoft · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/microsoft/termos-de-uso.md) | 20.070 | 1h24 |
-| [PayPal · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/paypal/politica-de-privacidade.md) | 19.629 | 1h22 |
+| [PayPal · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/paypal/politica-de-privacidade.md) | 19.633 | 1h22 |
 | [Booking.com · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/booking/termos-de-uso.md) | 15.506 | 1h05 |
 | [Roblox · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/politica-de-privacidade.md) | 15.442 | 1h05 |
 | [Epic Games (Fortnite) · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/epic-games/termos-de-uso.md) | 14.732 | 1h02 |
