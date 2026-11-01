@@ -3,7 +3,7 @@ empresa: "Serasa"
 documento: "Política de Privacidade"
 categoria: "Serviços"
 fonte: "https://www.serasa.com.br/app/politica-de-privacidade/"
-capturado_em: 2026-10-24
+capturado_em: 2026-10-31
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md"
 ---
 
@@ -235,7 +235,7 @@ A Serasa não interfere em nenhum processo que envolva a análise e aprovação 
 
 **6. Quais as hipóteses legais aplicáveis para o tratamento de Dados Pessoais?**
 
-Com o objetivo de assegurar a conformidade com a Lei Geral de Proteção de Dados Pessoais (LGPD), todo tratamento de Dados Pessoais realizado pela Serasa está fundamentado em uma base legal aplicável. Dependendo da finalidade do tratamento, podem ser utilizados, entre outros, os fundamentos da proteção do crédito, do legítimo interesse da Serasa e, quando aplicável, de seus Clientes e Parceiros, da execução de contrato ou de procedimentos preliminares relacionados a contrato, do cumprimento de obrigação legal ou regulatória, do Consentimento do titular ou de outras hipóteses autorizadas pela legislação vigente.
+Com o objetivo de assegurar a conformidade com a Lei Geral de Proteção de Dados Pessoais (LGPD), todo tratamento de Dados Pessoais realizado pela Serasa está fundamentado em uma base legal aplicável. Dependendo da finalidade do tratamento, podem ser utilizados, entre outros, os fundamentos da proteção do crédito, da prevenção à fraude, do legítimo interesse da Serasa e, quando aplicável, de seus Clientes e Parceiros, da execução de contrato ou de procedimentos preliminares relacionados a contrato, do cumprimento de obrigação legal ou regulatória, do Consentimento do titular ou de outras hipóteses autorizadas pela legislação vigente.
 
 Cumprimento de obrigações legais e regulatórias e exercício regular de direitos: a Serasa poderá tratar Dados Pessoais para atender obrigações previstas em leis, regulamentos ou determinações de autoridades competentes, incluindo a manutenção de registros de acesso ao Site e ao aplicativo. Além disso, os Dados Pessoais poderão ser utilizados para resguardar e exercer direitos da Serasa, de seus Clientes, Parceiros ou de terceiros em processos judiciais, administrativos, arbitrais ou em procedimentos relacionados.
 
