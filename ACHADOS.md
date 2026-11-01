@@ -14,8 +14,8 @@ na [página de estatísticas](https://gabrielvesal.github.io/letras-miudas/).
 | [WhatsApp · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/politica-de-privacidade.md) | 20 | dez/2020 |
 | [Steam · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/politica-de-privacidade.md) | 19 | jan/2014 |
 | [Roblox · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/termos-de-uso.md) | 18 | nov/2018 |
+| [Serasa · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md) | 17 | jun/2021 |
 | [Steam · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/termos-de-uso.md) | 17 | jan/2014 |
-| [Serasa · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md) | 16 | jun/2021 |
 | [Apple · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/politica-de-privacidade.md) | 15 | jun/2019 |
 | [Caixa · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md) | 14 | jan/2015 |
 | [Microsoft · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/microsoft/politica-de-privacidade.md) | 14 | out/2024 |
@@ -64,7 +64,7 @@ Só documentos com pelo menos dois anos de histórico.
 | [Roblox · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/politica-de-privacidade.md) | 7.882 palavras (mar/2019) | 15.442 palavras | 2,0× |
 | [Hotmart · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/hotmart/politica-de-privacidade.md) | 3.236 palavras (mai/2022) | 5.263 palavras | 1,6× |
 | [Pinterest · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/termos-de-uso.md) | 3.178 palavras (mar/2019) | 4.807 palavras | 1,5× |
-| [Serasa · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md) | 3.933 palavras (jun/2021) | 5.834 palavras | 1,5× |
+| [Serasa · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md) | 3.933 palavras (jun/2021) | 5.838 palavras | 1,5× |
 | [ChatGPT (OpenAI) · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/openai/politica-de-privacidade.md) | 3.217 palavras (mai/2024) | 4.618 palavras | 1,4× |
 | [WhatsApp · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/politica-de-privacidade.md) | 3.107 palavras (dez/2020) | 4.340 palavras | 1,4× |
 
