@@ -10,6 +10,14 @@ O acompanhamento diário começou em 22/10/2026. As versões anteriores a isso v
 Wayback Machine e estão no histórico de cada arquivo em [termos/](termos/).
 
 <!-- MUDANCAS -->
+### 01/11/2026 · Roblox · Política de Privacidade
+
++93 −68 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/c45fc47d60f6bbc2dae1c96f19aaa359d5609e19)
+
+### 01/11/2026 · Roblox · Termos de Uso
+
++952 −924 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/ce4783c443b6517c16b42653734e5dce70d664dd)
+
 ### 31/10/2026 · Serasa · Política de Privacidade
 
 +1 −1 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/832ca79e2140b54dcf41a4bee6e6ee2c22d149dd)
