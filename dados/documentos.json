@@ -1823,7 +1823,7 @@
    "palavras": 9905,
    "minutos_de_leitura": 42,
    "assuntos": [],
-   "situacao": "ok",
+   "situacao": "instável",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -4076,11 +4076,12 @@
    "arquivo": "termos/roblox/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/roblox/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/politica-de-privacidade.md",
-   "palavras": 15442,
-   "minutos_de_leitura": 65,
+   "palavras": 16304,
+   "minutos_de_leitura": 69,
    "assuntos": [
     "LGPD",
     "Encarregado/DPO",
+    "Biometria",
     "Localização",
     "Publicidade personalizada",
     "Transferência internacional"
@@ -4266,6 +4267,14 @@
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/46506bd23f1d61358aa6c0e57dfc492b86a7e1d4",
      "wayback": "https://web.archive.org/web/20261009095142/https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox",
      "palavras": 15442
+    },
+    {
+     "data": "2026-11-01",
+     "commit": "c45fc47d60f6bbc2dae1c96f19aaa359d5609e19",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/c45fc47d60f6bbc2dae1c96f19aaa359d5609e19/termos/roblox/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/c45fc47d60f6bbc2dae1c96f19aaa359d5609e19",
+     "palavras": 16304
     }
    ]
   },
@@ -4279,12 +4288,10 @@
    "arquivo": "termos/roblox/termos-de-uso.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/roblox/termos-de-uso.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/termos-de-uso.md",
-   "palavras": 39698,
-   "minutos_de_leitura": 167,
+   "palavras": 23651,
+   "minutos_de_leitura": 99,
    "assuntos": [
-    "Inteligência artificial",
-    "Treinar modelos",
-    "Biometria"
+    "Inteligência artificial"
    ],
    "situacao": "ok",
    "versoes": [
@@ -4449,6 +4456,14 @@
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/552b9e0013080d5dfb4d30a8e3f68da4bc4619d0",
      "wayback": "https://web.archive.org/web/20261009131841/https://en.help.roblox.com/hc/pt-br/articles/115004647846-Termos-de-Uso-da-Roblox",
      "palavras": 39698
+    },
+    {
+     "data": "2026-11-01",
+     "commit": "ce4783c443b6517c16b42653734e5dce70d664dd",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/ce4783c443b6517c16b42653734e5dce70d664dd/termos/roblox/termos-de-uso.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/ce4783c443b6517c16b42653734e5dce70d664dd",
+     "palavras": 23651
     }
    ]
   },

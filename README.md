@@ -4,7 +4,7 @@ Os termos de uso e as políticas de privacidade das empresas que o brasileiro ma
 Markdown, com cabeçalho estruturado e o histórico de cada mudança. Um robô confere tudo todo dia.
 
 <!-- RESUMO -->
-**67 documentos de 43 empresas**, com **472 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 36 horas**.
+**67 documentos de 43 empresas**, com **474 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 35 horas**.
 <!-- /RESUMO -->
 
 O histórico do git é a própria linha do tempo: cada versão de cada documento é um commit, com a
@@ -35,11 +35,11 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 | Tecnologia | 4 | 8 | 95 | 6h56 |
 | IA | 1 | 2 | 11 | 34 min |
 | Streaming | 3 | 5 | 21 | 2h21 |
-| Jogos | 3 | 6 | 78 | 6h21 |
+| Jogos | 3 | 6 | 80 | 5h17 |
 | Telefonia | 4 | 4 | 14 | 1h10 |
 | Serviços | 3 | 5 | 47 | 2h09 |
 | Governo | 1 | 1 | 1 | 22 min |
-| **Total** | **43** | **67** | **472** | **36h19** |
+| **Total** | **43** | **67** | **474** | **35h16** |
 <!-- /NUMEROS -->
 
 Para ver em gráficos o que mais mudou, o que mais cresceu, quanto tempo leva para ler cada
@@ -139,7 +139,7 @@ de todas as versões, com o link do texto de cada uma, em
 | Twitch | [Política de Privacidade](termos/twitch/politica-de-privacidade.md) · [Termos de Uso](termos/twitch/termos-de-uso.md) | out/2026 | 2 |
 | **Jogos** | | | |
 | Epic Games (Fortnite) | [Política de Privacidade](termos/epic-games/politica-de-privacidade.md) · [Termos de Uso](termos/epic-games/termos-de-uso.md) | abr/2026 | 4 |
-| Roblox | [Política de Privacidade](termos/roblox/politica-de-privacidade.md) · [Termos de Uso](termos/roblox/termos-de-uso.md) | nov/2018 | 38 |
+| Roblox | [Política de Privacidade](termos/roblox/politica-de-privacidade.md) · [Termos de Uso](termos/roblox/termos-de-uso.md) | nov/2018 | 40 |
 | Steam | [Política de Privacidade](termos/steam/politica-de-privacidade.md) · [Termos de Uso](termos/steam/termos-de-uso.md) | jan/2014 | 36 |
 | **Telefonia** | | | |
 | Claro | [Política de Privacidade](termos/claro/politica-de-privacidade.md) | out/2026 | 1 |

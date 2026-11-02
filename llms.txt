@@ -91,8 +91,8 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 
 - [Epic Games (Fortnite) · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/epic-games/politica-de-privacidade.md): 7.832 palavras, 33 min de leitura, 2 versões desde abr/2026
 - [Epic Games (Fortnite) · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/epic-games/termos-de-uso.md): 14.732 palavras, 1h02 de leitura, 2 versões desde ago/2026
-- [Roblox · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/roblox/politica-de-privacidade.md): 15.442 palavras, 1h05 de leitura, 20 versões desde mar/2019
-- [Roblox · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/roblox/termos-de-uso.md): 39.698 palavras, 2h47 de leitura, 18 versões desde nov/2018
+- [Roblox · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/roblox/politica-de-privacidade.md): 16.304 palavras, 1h09 de leitura, 21 versões desde mar/2019
+- [Roblox · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/roblox/termos-de-uso.md): 23.651 palavras, 1h39 de leitura, 19 versões desde nov/2018
 - [Steam · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/steam/politica-de-privacidade.md): 4.980 palavras, 21 min de leitura, 19 versões desde jan/2014
 - [Steam · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/steam/termos-de-uso.md): 8.058 palavras, 34 min de leitura, 17 versões desde jan/2014
 
