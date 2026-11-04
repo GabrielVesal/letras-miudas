@@ -710,7 +710,7 @@
     "Localização",
     "Publicidade personalizada"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2024-12-17",
@@ -1217,7 +1217,7 @@
     "Treinar modelos",
     "Publicidade personalizada"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -1250,7 +1250,7 @@
    "palavras": 15506,
    "minutos_de_leitura": 65,
    "assuntos": [],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -1598,7 +1598,7 @@
     "Biometria",
     "Publicidade personalizada"
    ],
-   "situacao": "ok",
+   "situacao": "instável",
    "versoes": [
     {
      "data": "2025-04-25",
@@ -3585,7 +3585,7 @@
     "Localização",
     "Publicidade personalizada"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2024-05-31",
@@ -3667,7 +3667,7 @@
     "Inteligência artificial",
     "Treinar modelos"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2025-04-29",
@@ -4086,7 +4086,7 @@
     "Publicidade personalizada",
     "Transferência internacional"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2019-03-25",
@@ -4293,7 +4293,7 @@
    "assuntos": [
     "Inteligência artificial"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2018-11-25",
@@ -5024,7 +5024,7 @@
     "Encarregado/DPO",
     "Transferência internacional"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2026-10-22",
