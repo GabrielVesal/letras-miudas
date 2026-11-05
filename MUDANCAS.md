@@ -10,6 +10,10 @@ O acompanhamento diário começou em 22/10/2026. As versões anteriores a isso v
 Wayback Machine e estão no histórico de cada arquivo em [termos/](termos/).
 
 <!-- MUDANCAS -->
+### 03/11/2026 · ChatGPT (OpenAI) · Política de Privacidade
+
++5 −5 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/f6e47b05b5b1cc62686b2e4452bc5acdc4dbd61a)
+
 ### 01/11/2026 · Roblox · Política de Privacidade
 
 +93 −68 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/c45fc47d60f6bbc2dae1c96f19aaa359d5609e19)
