@@ -76,7 +76,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 
 ## IA
 
-- [ChatGPT (OpenAI) · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/openai/politica-de-privacidade.md): 4.618 palavras, 19 min de leitura, 7 versões desde mai/2024
+- [ChatGPT (OpenAI) · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/openai/politica-de-privacidade.md): 4.614 palavras, 19 min de leitura, 8 versões desde mai/2024
 - [ChatGPT (OpenAI) · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/openai/termos-de-uso.md): 3.426 palavras, 14 min de leitura, 4 versões desde abr/2025
 
 ## Streaming

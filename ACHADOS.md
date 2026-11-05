@@ -65,7 +65,7 @@ Só documentos com pelo menos dois anos de histórico.
 | [Hotmart · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/hotmart/politica-de-privacidade.md) | 3.236 palavras (mai/2022) | 5.263 palavras | 1,6× |
 | [Pinterest · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/termos-de-uso.md) | 3.178 palavras (mar/2019) | 4.807 palavras | 1,5× |
 | [Serasa · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md) | 3.933 palavras (jun/2021) | 5.838 palavras | 1,5× |
-| [ChatGPT (OpenAI) · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/openai/politica-de-privacidade.md) | 3.217 palavras (mai/2024) | 4.618 palavras | 1,4× |
+| [ChatGPT (OpenAI) · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/openai/politica-de-privacidade.md) | 3.217 palavras (mai/2024) | 4.614 palavras | 1,4× |
 | [WhatsApp · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/whatsapp/politica-de-privacidade.md) | 3.107 palavras (dez/2020) | 4.340 palavras | 1,4× |
 
 ## Quando cada assunto apareceu
