@@ -3,7 +3,7 @@ empresa: "TIM"
 documento: "Política de Privacidade"
 categoria: "Telefonia"
 fonte: "https://www.tim.com.br/sobre-a-tim/institucional/seguranca/central-de-privacidade"
-capturado_em: 2026-10-25
+capturado_em: 2026-11-06
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/tim/politica-de-privacidade.md"
 ---
 
@@ -260,7 +260,7 @@ Seus dados são tratados com muita transparência e cuidado aqui na TIM, já que
 
 Esta informação foi útil para você?
 
-14 pessoas acharam esta informação útil.
+11 pessoas acharam esta informação útil.
 
 Agradecemos sua participação!
 
@@ -274,7 +274,7 @@ Você pode saber tudo sobre a nossas diretrizes na **página de Política de Coo
 
 Esta informação foi útil para você?
 
-7 pessoas acharam esta informação útil.
+5 pessoas acharam esta informação útil.
 
 Agradecemos sua participação!
 
@@ -295,7 +295,7 @@ Você pode conferir mais dicas na **página de dicas de segurança no WhatsApp.*
 
 Esta informação foi útil para você?
 
-17 pessoas acharam esta informação útil.
+14 pessoas acharam esta informação útil.
 
 Agradecemos sua participação!
 
@@ -312,7 +312,7 @@ Veja algumas medidas simples para auxiliar a segurança:
 
 Esta informação foi útil para você?
 
-8 pessoas acharam esta informação útil.
+7 pessoas acharam esta informação útil.
 
 Agradecemos sua participação!
 
@@ -326,7 +326,7 @@ Já os nossos SMS estão dentro da lei e são seguros. Você mais sobre o tema n
 
 Esta informação foi útil para você?
 
-12 pessoas acharam esta informação útil.
+11 pessoas acharam esta informação útil.
 
 Agradecemos sua participação!
 
@@ -340,7 +340,7 @@ Você também pode evitar ligações publicitárias de outras empresas. Descubra
 
 Esta informação foi útil para você?
 
-13 pessoas acharam esta informação útil.
+11 pessoas acharam esta informação útil.
 
 Agradecemos sua participação!
 
@@ -354,7 +354,7 @@ Caso sua dúvida seja sobre privacidade de dados pessoais e você não encontrou
 
 Esta informação foi útil para você?
 
-9 pessoas acharam esta informação útil.
+8 pessoas acharam esta informação útil.
 
 Agradecemos sua participação!
 
