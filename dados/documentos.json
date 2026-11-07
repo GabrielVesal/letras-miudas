@@ -710,7 +710,7 @@
     "Localização",
     "Publicidade personalizada"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2024-12-17",
@@ -1412,7 +1412,7 @@
     "Reconhecimento facial",
     "Localização"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2019-06-28",
@@ -1520,7 +1520,7 @@
    "assuntos": [
     "Encarregado/DPO"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2019-06-28",
@@ -5011,6 +5011,14 @@
      "origem": "robô do letras-miudas",
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/4dcb51ee6a4c7080e03628e7287b18ecb15ee3ef/termos/tim/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/4dcb51ee6a4c7080e03628e7287b18ecb15ee3ef",
+     "palavras": 3789
+    },
+    {
+     "data": "2026-11-06",
+     "commit": "4a6d35b8d3c30c9f6d2fcc7dbb127c5ca9f297d6",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/4a6d35b8d3c30c9f6d2fcc7dbb127c5ca9f297d6/termos/tim/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/4a6d35b8d3c30c9f6d2fcc7dbb127c5ca9f297d6",
      "palavras": 3789
     }
    ]

@@ -4,7 +4,7 @@ Os termos de uso e as políticas de privacidade das empresas que o brasileiro ma
 Markdown, com cabeçalho estruturado e o histórico de cada mudança. Um robô confere tudo todo dia.
 
 <!-- RESUMO -->
-**67 documentos de 43 empresas**, com **475 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 35 horas**.
+**67 documentos de 43 empresas**, com **476 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 35 horas**.
 <!-- /RESUMO -->
 
 O histórico do git é a própria linha do tempo: cada versão de cada documento é um commit, com a
@@ -36,10 +36,10 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 | IA | 1 | 2 | 12 | 34 min |
 | Streaming | 3 | 5 | 21 | 2h21 |
 | Jogos | 3 | 6 | 80 | 5h17 |
-| Telefonia | 4 | 4 | 14 | 1h10 |
+| Telefonia | 4 | 4 | 15 | 1h10 |
 | Serviços | 3 | 5 | 47 | 2h09 |
 | Governo | 1 | 1 | 1 | 22 min |
-| **Total** | **43** | **67** | **475** | **35h16** |
+| **Total** | **43** | **67** | **476** | **35h16** |
 <!-- /NUMEROS -->
 
 Para ver em gráficos o que mais mudou, o que mais cresceu, quanto tempo leva para ler cada
@@ -144,7 +144,7 @@ de todas as versões, com o link do texto de cada uma, em
 | **Telefonia** | | | |
 | Claro | [Política de Privacidade](termos/claro/politica-de-privacidade.md) | out/2026 | 1 |
 | Oi | [Política de Privacidade](termos/oi/politica-de-privacidade.md) | ago/2025 | 2 |
-| TIM | [Política de Privacidade](termos/tim/politica-de-privacidade.md) | out/2022 | 10 |
+| TIM | [Política de Privacidade](termos/tim/politica-de-privacidade.md) | out/2022 | 11 |
 | Vivo | [Política de Privacidade](termos/vivo/politica-de-privacidade.md) | out/2026 | 1 |
 | **Serviços** | | | |
 | Correios | [Política de Privacidade](termos/correios/politica-de-privacidade.md) | mai/2025 | 2 |
