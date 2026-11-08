@@ -3585,7 +3585,7 @@
     "Localização",
     "Publicidade personalizada"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2024-05-31",
@@ -3675,7 +3675,7 @@
     "Inteligência artificial",
     "Treinar modelos"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2025-04-29",
@@ -4094,7 +4094,7 @@
     "Publicidade personalizada",
     "Transferência internacional"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2019-03-25",
@@ -4301,7 +4301,7 @@
    "assuntos": [
     "Inteligência artificial"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2018-11-25",
@@ -5040,7 +5040,7 @@
     "Encarregado/DPO",
     "Transferência internacional"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2026-10-22",
