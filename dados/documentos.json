@@ -710,7 +710,7 @@
     "Localização",
     "Publicidade personalizada"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2024-12-17",
@@ -3396,8 +3396,8 @@
    "arquivo": "termos/microsoft/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/microsoft/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/microsoft/politica-de-privacidade.md",
-   "palavras": 36216,
-   "minutos_de_leitura": 152,
+   "palavras": 35859,
+   "minutos_de_leitura": 151,
    "assuntos": [
     "LGPD",
     "Inteligência artificial",
@@ -3533,6 +3533,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/0826c17f1433c9d6f7e63b3a6885d0b82a07c5db/termos/microsoft/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/0826c17f1433c9d6f7e63b3a6885d0b82a07c5db",
      "palavras": 36216
+    },
+    {
+     "data": "2026-11-09",
+     "commit": "174b2013ac798670712be083b40cb137d6bc59e0",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/174b2013ac798670712be083b40cb137d6bc59e0/termos/microsoft/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/174b2013ac798670712be083b40cb137d6bc59e0",
+     "palavras": 35859
     }
    ]
   },

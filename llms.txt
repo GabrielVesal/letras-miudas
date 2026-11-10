@@ -71,7 +71,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 - [GitHub · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/github/termos-de-uso.md): 7.699 palavras, 32 min de leitura, 13 versões desde mar/2022
 - [Google · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/google/politica-de-privacidade.md): 9.490 palavras, 40 min de leitura, 21 versões desde jun/2019
 - [Google · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/google/termos-de-uso.md): 4.973 palavras, 21 min de leitura, 8 versões desde jun/2019
-- [Microsoft · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/microsoft/politica-de-privacidade.md): 36.216 palavras, 2h32 de leitura, 14 versões desde out/2024
+- [Microsoft · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/microsoft/politica-de-privacidade.md): 35.859 palavras, 2h31 de leitura, 15 versões desde out/2024
 - [Microsoft · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/microsoft/termos-de-uso.md): 20.070 palavras, 1h24 de leitura, 1 versão desde out/2026
 
 ## IA

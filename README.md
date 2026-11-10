@@ -4,7 +4,7 @@ Os termos de uso e as políticas de privacidade das empresas que o brasileiro ma
 Markdown, com cabeçalho estruturado e o histórico de cada mudança. Um robô confere tudo todo dia.
 
 <!-- RESUMO -->
-**67 documentos de 43 empresas**, com **476 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 35 horas**.
+**67 documentos de 43 empresas**, com **477 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 35 horas**.
 <!-- /RESUMO -->
 
 O histórico do git é a própria linha do tempo: cada versão de cada documento é um commit, com a
@@ -32,14 +32,14 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 | Compras | 5 | 8 | 14 | 3h39 |
 | Apps | 6 | 9 | 58 | 5h33 |
 | Redes sociais | 5 | 8 | 69 | 3h44 |
-| Tecnologia | 4 | 8 | 95 | 6h56 |
+| Tecnologia | 4 | 8 | 96 | 6h54 |
 | IA | 1 | 2 | 12 | 34 min |
 | Streaming | 3 | 5 | 21 | 2h21 |
 | Jogos | 3 | 6 | 80 | 5h17 |
 | Telefonia | 4 | 4 | 15 | 1h10 |
 | Serviços | 3 | 5 | 47 | 2h09 |
 | Governo | 1 | 1 | 1 | 22 min |
-| **Total** | **43** | **67** | **476** | **35h16** |
+| **Total** | **43** | **67** | **477** | **35h14** |
 <!-- /NUMEROS -->
 
 Para ver em gráficos o que mais mudou, o que mais cresceu, quanto tempo leva para ler cada
@@ -130,7 +130,7 @@ de todas as versões, com o link do texto de cada uma, em
 | Apple | [Política de Privacidade](termos/apple/politica-de-privacidade.md) · [Termos de Uso](termos/apple/termos-de-uso.md) | jul/2018 | 28 |
 | GitHub | [Política de Privacidade](termos/github/politica-de-privacidade.md) · [Termos de Uso](termos/github/termos-de-uso.md) | mar/2022 | 23 |
 | Google | [Política de Privacidade](termos/google/politica-de-privacidade.md) · [Termos de Uso](termos/google/termos-de-uso.md) | jun/2019 | 29 |
-| Microsoft | [Política de Privacidade](termos/microsoft/politica-de-privacidade.md) · [Termos de Uso](termos/microsoft/termos-de-uso.md) | out/2024 | 15 |
+| Microsoft | [Política de Privacidade](termos/microsoft/politica-de-privacidade.md) · [Termos de Uso](termos/microsoft/termos-de-uso.md) | out/2024 | 16 |
 | **IA** | | | |
 | ChatGPT (OpenAI) | [Política de Privacidade](termos/openai/politica-de-privacidade.md) · [Termos de Uso](termos/openai/termos-de-uso.md) | mai/2024 | 12 |
 | **Streaming** | | | |
