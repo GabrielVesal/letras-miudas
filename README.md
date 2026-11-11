@@ -4,7 +4,7 @@ Os termos de uso e as políticas de privacidade das empresas que o brasileiro ma
 Markdown, com cabeçalho estruturado e o histórico de cada mudança. Um robô confere tudo todo dia.
 
 <!-- RESUMO -->
-**67 documentos de 43 empresas**, com **477 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 35 horas**.
+**67 documentos de 43 empresas**, com **478 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 35 horas**.
 <!-- /RESUMO -->
 
 O histórico do git é a própria linha do tempo: cada versão de cada documento é um commit, com a
@@ -30,7 +30,7 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 | --- | ---: | ---: | ---: | ---: |
 | Bancos | 8 | 11 | 64 | 3h30 |
 | Compras | 5 | 8 | 14 | 3h39 |
-| Apps | 6 | 9 | 58 | 5h33 |
+| Apps | 6 | 9 | 59 | 5h31 |
 | Redes sociais | 5 | 8 | 69 | 3h44 |
 | Tecnologia | 4 | 8 | 96 | 6h54 |
 | IA | 1 | 2 | 12 | 34 min |
@@ -39,7 +39,7 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 | Telefonia | 4 | 4 | 15 | 1h10 |
 | Serviços | 3 | 5 | 47 | 2h09 |
 | Governo | 1 | 1 | 1 | 22 min |
-| **Total** | **43** | **67** | **477** | **35h14** |
+| **Total** | **43** | **67** | **478** | **35h13** |
 <!-- /NUMEROS -->
 
 Para ver em gráficos o que mais mudou, o que mais cresceu, quanto tempo leva para ler cada
@@ -118,7 +118,7 @@ de todas as versões, com o link do texto de cada uma, em
 | Booking.com | [Política de Privacidade](termos/booking/politica-de-privacidade.md) · [Termos de Uso](termos/booking/termos-de-uso.md) | out/2026 | 3 |
 | QuintoAndar | [Política de Privacidade](termos/quintoandar/politica-de-privacidade.md) | jun/2024 | 12 |
 | Rappi | [Política de Privacidade](termos/rappi/politica-de-privacidade.md) · [Termos de Uso](termos/rappi/termos-de-uso.md) | jun/2019 | 16 |
-| Uber | [Política de Privacidade](termos/uber/politica-de-privacidade.md) · [Termos de Uso](termos/uber/termos-de-uso.md) | abr/2025 | 14 |
+| Uber | [Política de Privacidade](termos/uber/politica-de-privacidade.md) · [Termos de Uso](termos/uber/termos-de-uso.md) | abr/2025 | 15 |
 | Waze | [Política de Privacidade](termos/waze/politica-de-privacidade.md) | jun/2025 | 2 |
 | **Redes sociais** | | | |
 | Discord | [Política de Privacidade](termos/discord/politica-de-privacidade.md) · [Termos de Uso](termos/discord/termos-de-uso.md) | out/2026 | 2 |

@@ -1588,8 +1588,8 @@
    "arquivo": "termos/uber/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/uber/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/uber/politica-de-privacidade.md",
-   "palavras": 11152,
-   "minutos_de_leitura": 47,
+   "palavras": 10871,
+   "minutos_de_leitura": 46,
    "assuntos": [
     "LGPD",
     "Encarregado/DPO",
@@ -1715,6 +1715,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/06afade586c4df983aa9bba8543da8b6e4b8852f/termos/uber/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/06afade586c4df983aa9bba8543da8b6e4b8852f",
      "palavras": 11152
+    },
+    {
+     "data": "2026-11-10",
+     "commit": "ad7eab3741a73ef2c8bfcd2214beeab5f4bea8b0",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/ad7eab3741a73ef2c8bfcd2214beeab5f4bea8b0/termos/uber/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/ad7eab3741a73ef2c8bfcd2214beeab5f4bea8b0",
+     "palavras": 10871
     }
    ]
   },

@@ -48,7 +48,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 - [QuintoAndar · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/quintoandar/politica-de-privacidade.md): 6.683 palavras, 28 min de leitura, 12 versões desde jun/2024
 - [Rappi · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/rappi/politica-de-privacidade.md): 4.542 palavras, 19 min de leitura, 10 versões desde jun/2019
 - [Rappi · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/rappi/termos-de-uso.md): 4.825 palavras, 20 min de leitura, 6 versões desde jun/2019
-- [Uber · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/uber/politica-de-privacidade.md): 11.152 palavras, 47 min de leitura, 13 versões desde abr/2025
+- [Uber · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/uber/politica-de-privacidade.md): 10.871 palavras, 46 min de leitura, 14 versões desde abr/2025
 - [Uber · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/uber/termos-de-uso.md): 2.396 palavras, 10 min de leitura, 1 versão desde set/2026
 - [Waze · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/waze/politica-de-privacidade.md): 7.169 palavras, 30 min de leitura, 2 versões desde jun/2025
 
