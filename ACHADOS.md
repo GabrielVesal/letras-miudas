@@ -37,6 +37,7 @@ Tempo de leitura a 238 palavras por minuto, a média de leitura silenciosa de ad
 | [Roblox · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/politica-de-privacidade.md) | 16.304 | 1h09 |
 | [Booking.com · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/booking/termos-de-uso.md) | 15.506 | 1h05 |
 | [Epic Games (Fortnite) · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/epic-games/termos-de-uso.md) | 14.732 | 1h02 |
+| [Americanas · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/americanas/politica-de-privacidade.md) | 14.705 | 1h02 |
 | [Airbnb · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/airbnb/termos-de-uso.md) | 14.557 | 1h01 |
 | [Hotmart · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/hotmart/termos-de-uso.md) | 13.140 | 55 min |
 | [Booking.com · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/booking/politica-de-privacidade.md) | 12.344 | 52 min |
@@ -44,7 +45,6 @@ Tempo de leitura a 238 palavras por minuto, a média de leitura silenciosa de ad
 | [Uber · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/uber/politica-de-privacidade.md) | 10.871 | 46 min |
 | [Shein · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/shein/termos-de-uso.md) | 10.642 | 45 min |
 | [Discord · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/discord/termos-de-uso.md) | 9.905 | 42 min |
-| [Apple · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/termos-de-uso.md) | 9.533 | 40 min |
 
 ## Os que mais cresceram
 

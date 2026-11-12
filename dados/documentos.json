@@ -918,8 +918,8 @@
    "arquivo": "termos/americanas/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/americanas/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/americanas/politica-de-privacidade.md",
-   "palavras": 3802,
-   "minutos_de_leitura": 16,
+   "palavras": 14705,
+   "minutos_de_leitura": 62,
    "assuntos": [
     "LGPD",
     "Encarregado/DPO",
@@ -937,6 +937,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/b036aa4fe6a58155af32b920f40ff7d209f795eb/termos/americanas/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/b036aa4fe6a58155af32b920f40ff7d209f795eb",
      "palavras": 3802
+    },
+    {
+     "data": "2026-11-11",
+     "commit": "7832bcbb4a50da00bc796862ccc7a32ae1e230a1",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/7832bcbb4a50da00bc796862ccc7a32ae1e230a1/termos/americanas/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/7832bcbb4a50da00bc796862ccc7a32ae1e230a1",
+     "palavras": 14705
     }
    ]
   },
@@ -1217,7 +1225,7 @@
     "Treinar modelos",
     "Publicidade personalizada"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -1250,7 +1258,7 @@
    "palavras": 15506,
    "minutos_de_leitura": 65,
    "assuntos": [],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -1412,7 +1420,7 @@
     "Reconhecimento facial",
     "Localização"
    ],
-   "situacao": "falha",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2019-06-28",
@@ -1520,7 +1528,7 @@
    "assuntos": [
     "Encarregado/DPO"
    ],
-   "situacao": "falha",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2019-06-28",
@@ -5035,6 +5043,14 @@
      "origem": "robô do letras-miudas",
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/4a6d35b8d3c30c9f6d2fcc7dbb127c5ca9f297d6/termos/tim/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/4a6d35b8d3c30c9f6d2fcc7dbb127c5ca9f297d6",
+     "palavras": 3789
+    },
+    {
+     "data": "2026-11-11",
+     "commit": "9a5cb293023637757955cb41412d79e015c8ef56",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/9a5cb293023637757955cb41412d79e015c8ef56/termos/tim/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/9a5cb293023637757955cb41412d79e015c8ef56",
      "palavras": 3789
     }
    ]

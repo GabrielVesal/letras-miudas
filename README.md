@@ -4,7 +4,7 @@ Os termos de uso e as políticas de privacidade das empresas que o brasileiro ma
 Markdown, com cabeçalho estruturado e o histórico de cada mudança. Um robô confere tudo todo dia.
 
 <!-- RESUMO -->
-**67 documentos de 43 empresas**, com **478 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 35 horas**.
+**67 documentos de 43 empresas**, com **480 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 36 horas**.
 <!-- /RESUMO -->
 
 O histórico do git é a própria linha do tempo: cada versão de cada documento é um commit, com a
@@ -29,17 +29,17 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 | Categoria | Empresas | Documentos | Versões arquivadas | Tempo de leitura |
 | --- | ---: | ---: | ---: | ---: |
 | Bancos | 8 | 11 | 64 | 3h30 |
-| Compras | 5 | 8 | 14 | 3h39 |
+| Compras | 5 | 8 | 15 | 4h25 |
 | Apps | 6 | 9 | 59 | 5h31 |
 | Redes sociais | 5 | 8 | 69 | 3h44 |
 | Tecnologia | 4 | 8 | 96 | 6h54 |
 | IA | 1 | 2 | 12 | 34 min |
 | Streaming | 3 | 5 | 21 | 2h21 |
 | Jogos | 3 | 6 | 80 | 5h17 |
-| Telefonia | 4 | 4 | 15 | 1h10 |
+| Telefonia | 4 | 4 | 16 | 1h10 |
 | Serviços | 3 | 5 | 47 | 2h09 |
 | Governo | 1 | 1 | 1 | 22 min |
-| **Total** | **43** | **67** | **478** | **35h13** |
+| **Total** | **43** | **67** | **480** | **35h59** |
 <!-- /NUMEROS -->
 
 Para ver em gráficos o que mais mudou, o que mais cresceu, quanto tempo leva para ler cada
@@ -109,7 +109,7 @@ de todas as versões, com o link do texto de cada uma, em
 | PicPay | [Política de Privacidade](termos/picpay/politica-de-privacidade.md) | out/2026 | 1 |
 | **Compras** | | | |
 | Amazon | [Política de Privacidade](termos/amazon/politica-de-privacidade.md) · [Termos de Uso](termos/amazon/termos-de-uso.md) | out/2020 | 7 |
-| Americanas | [Política de Privacidade](termos/americanas/politica-de-privacidade.md) | out/2026 | 1 |
+| Americanas | [Política de Privacidade](termos/americanas/politica-de-privacidade.md) | out/2026 | 2 |
 | Shein | [Política de Privacidade](termos/shein/politica-de-privacidade.md) · [Termos de Uso](termos/shein/termos-de-uso.md) | set/2018 | 3 |
 | Shopee | [Política de Privacidade](termos/shopee/politica-de-privacidade.md) | out/2026 | 1 |
 | Temu | [Política de Privacidade](termos/temu/politica-de-privacidade.md) · [Termos de Uso](termos/temu/termos-de-uso.md) | out/2026 | 2 |
@@ -144,7 +144,7 @@ de todas as versões, com o link do texto de cada uma, em
 | **Telefonia** | | | |
 | Claro | [Política de Privacidade](termos/claro/politica-de-privacidade.md) | out/2026 | 1 |
 | Oi | [Política de Privacidade](termos/oi/politica-de-privacidade.md) | ago/2025 | 2 |
-| TIM | [Política de Privacidade](termos/tim/politica-de-privacidade.md) | out/2022 | 11 |
+| TIM | [Política de Privacidade](termos/tim/politica-de-privacidade.md) | out/2022 | 12 |
 | Vivo | [Política de Privacidade](termos/vivo/politica-de-privacidade.md) | out/2026 | 1 |
 | **Serviços** | | | |
 | Correios | [Política de Privacidade](termos/correios/politica-de-privacidade.md) | mai/2025 | 2 |

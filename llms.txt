@@ -33,7 +33,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 
 - [Amazon · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/amazon/politica-de-privacidade.md): 3.926 palavras, 16 min de leitura, 4 versões desde out/2020
 - [Amazon · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/amazon/termos-de-uso.md): 3.928 palavras, 17 min de leitura, 3 versões desde nov/2020
-- [Americanas · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/americanas/politica-de-privacidade.md): 3.802 palavras, 16 min de leitura, 1 versão desde out/2026
+- [Americanas · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/americanas/politica-de-privacidade.md): 14.705 palavras, 1h02 de leitura, 2 versões desde out/2026
 - [Shein · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/shein/politica-de-privacidade.md): 7.211 palavras, 30 min de leitura, 1 versão desde out/2026
 - [Shein · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/shein/termos-de-uso.md): 10.642 palavras, 45 min de leitura, 2 versões desde set/2018
 - [Shopee · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/shopee/politica-de-privacidade.md): 5.654 palavras, 24 min de leitura, 1 versão desde out/2026
@@ -100,7 +100,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 
 - [Claro · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/claro/politica-de-privacidade.md): 6.330 palavras, 27 min de leitura, 1 versão desde out/2026
 - [Oi · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/oi/politica-de-privacidade.md): 2.674 palavras, 11 min de leitura, 2 versões desde ago/2025
-- [TIM · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/tim/politica-de-privacidade.md): 3.789 palavras, 16 min de leitura, 11 versões desde out/2022
+- [TIM · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/tim/politica-de-privacidade.md): 3.789 palavras, 16 min de leitura, 12 versões desde out/2022
 - [Vivo · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/vivo/politica-de-privacidade.md): 3.903 palavras, 16 min de leitura, 1 versão desde out/2026
 
 ## Serviços
