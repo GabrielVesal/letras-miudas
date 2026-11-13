@@ -10,6 +10,26 @@ O acompanhamento diário começou em 22/10/2026. As versões anteriores a isso v
 Wayback Machine e estão no histórico de cada arquivo em [termos/](termos/).
 
 <!-- MUDANCAS -->
+### 12/11/2026 · Caixa · Termos de Uso
+
++2 −2 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/93de72968c33f07bde69d6165e738fa6dd6fafc6)
+
+### 12/11/2026 · Pinterest · Política de Privacidade
+
++38 −37 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/ab2d9e5cff81fc966af89dafcc6d38fe860fb251)
+
+### 12/11/2026 · Pinterest · Termos de Uso
+
++58 −35 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/795aca773a60f971f8aa1fd9ec9173ae0aadc4be)
+
+### 12/11/2026 · Rappi · Política de Privacidade
+
++8 −4 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/d7afdf4322659719d138ce6cc966c33dd565d360)
+
+### 12/11/2026 · Rappi · Termos de Uso
+
++5 −1 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/49f3257b1a571a67e86bb83207df6732566aa923)
+
 ### 11/11/2026 · Americanas · Política de Privacidade
 
 +1108 −0 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/7832bcbb4a50da00bc796862ccc7a32ae1e230a1)
