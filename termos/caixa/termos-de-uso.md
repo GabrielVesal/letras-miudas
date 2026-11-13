@@ -3,7 +3,7 @@ empresa: "Caixa"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
-capturado_em: 2026-10-22
+capturado_em: 2026-11-12
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md"
 ---
 
@@ -123,9 +123,9 @@ Cross Selling
 
 ## Outros produtos CAIXA
 
-### Crédito CAIXA
+### Crédito Caixa
 
-Se você acredita que pode mais, a CAIXA acredita com você.
+Se você acredita que pode mais, a Caixa acredita com você.
 
 Veja as opções ›
 
