@@ -3,10 +3,13 @@ empresa: "Rappi"
 documento: "Termos de Uso"
 categoria: "Apps"
 fonte: "https://legal.rappi.com/brazil/termos-e-condicoes-de-uso-da-plataforma-rappi/"
-capturado_em: 2025-10-14
-wayback: "https://web.archive.org/web/20251014154405/https://legal.rappi.com/brazil/termos-e-condicoes-de-uso-da-plataforma-rappi/"
+capturado_em: 2026-11-12
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/rappi/termos-de-uso.md"
 ---
+
+# Termos E Condições De Uso Da Plataforma “Rappi”
+
+Última actualización: 2025-08-04
 
 ***ASPECTOS GERAIS***
 
@@ -102,7 +105,7 @@ Fica claro para o Consumidor que a relação contratual que pode chegar a ser ge
 
 **10.DESCRIÇÃO DO SERVIÇO**
 
-A Operadora possibilita a exibição, através da Plataforma, dos produtos e serviços que estão à disposição dos Consumidores para serem adquiridos, usando a Plataforma como meio para solicitar um mandato remunerado, cujo encargo consiste na celebração de um contrato de compra. Desde logo, fica esclarecido aos USUÁRIOS – o qual se declara ciente – que o serviço oferecido pela OPERADORA se relaciona apenas à intermediação através da plataforma tecnológica para comercialização de produtos e/ou serviços, não abarcando quando cabível, preparo, embalagem, disponibilização e entrega física dos produtos e/ou serviços, sendo esses itens de responsabilidade integral do Parceiro Comercial, a quem deverão ser direcionados quaisquer reclamos acerca de problemas decorrentes de vício, defeito ou inexecução da feitura, preparo/realização e entrega de produtos e/ou serviços.
+A Operadora possibilita a exibição, através da Plataforma, dos produtos e serviços que estão à disposição dos Consumidores para serem adquiridos, usando a Plataforma como meio para solicitar um mandato remunerado, cujo encargo consiste na celebração de um contrato de compra. Desde logo, fica esclarecido aos USUÁRIOS - o qual se declara ciente - que o serviço oferecido pela OPERADORA se relaciona apenas à intermediação através da plataforma tecnológica para comercialização de produtos e/ou serviços, não abarcando quando cabível, preparo, embalagem, disponibilização e entrega física dos produtos e/ou serviços, sendo esses itens de responsabilidade integral do Parceiro Comercial, a quem deverão ser direcionados quaisquer reclamos acerca de problemas decorrentes de vício, defeito ou inexecução da feitura, preparo/realização e entrega de produtos e/ou serviços.
 
 **Parágrafo primeiro.** A Operadora pode cobrar do usuário uma taxa de serviço pela intermediação realizada na plataforma e continuar fornecendo um serviço de qualidade. Este valor só será cobrado caso o usuário aceite expressamente mediante seguimento/conclusão do pedido que contém tal taxa de serviço.
 
