@@ -3,15 +3,19 @@ empresa: "Rappi"
 documento: "Política de Privacidade"
 categoria: "Apps"
 fonte: "https://legal.rappi.com/brazil/aviso-de-privacidade-e-politicas-de-uso-das-informacao-utilizadas-pela-rappi/"
-capturado_em: 2026-10-22
+capturado_em: 2026-11-12
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/rappi/politica-de-privacidade.md"
 ---
+
+# Aviso de Privacidade e Políticas de uso das Informação utilizadas pela Rappi
+
+Última actualización: 2025-02-25
 
 **Aviso de Privacidade e Políticas de uso das Informação utilizadas pela Rappi**
 
 Este documento, denominado Política de Privacidade, possui finalidade de estabelecer as regras sobre o uso, armazenamento e tratamento dos dados e informações coletadas dos USUÁRIOS na PLATAFORMA RAPPI.
 
-**Responsáveis pelas Informações dos USUÁRIOS:** **RAPPI BRASIL INTERMEDIAÇÃO DE NEGÓCIOS LTDA.**, registrada sob o CNPJ 26.900.161/0001-25 e com sede na Rua Haddock Lobo, 595 – 9º andar – Conj 91 – Lado A – São Paulo/SP – CEP: 01414-905, e suas filiadas (“RAPPI”).
+**Responsáveis pelas Informações dos USUÁRIOS:** **RAPPI BRASIL INTERMEDIAÇÃO DE NEGÓCIOS LTDA.**, registrada sob o CNPJ 26.900.161/0001-25 e com sede na Rua Haddock Lobo, 595 - 9º andar - Conj 91 - Lado A - São Paulo/SP - CEP: 01414-905, e suas filiadas (“RAPPI”).
 
 Quando Você acessar, utilizar ou interagir com a Plataforma, podemos coletar Dados Pessoais sobre Você. Este documento (que também chamaremos de “Política de Privacidade” ou simplesmente de “Política”) tem o propósito de esclarecer como Dados Pessoais podem ser coletados, usados, compartilhados, armazenados na e de qualquer forma tratados na nossa operação da Plataforma.
 
@@ -170,9 +174,9 @@ Em alguns casos, você terá a opção de não fornecer certos Dados Pessoais e/
 
 Para apresentar uma requisição de exercício de qualquer dos direitos acima, você pode optar pelo uso dos meios descritos abaixo para entrar em contato com o encarregado pelo tratamento de dados pessoais da Rappi, Fernando Bousso:
 
-**Atendimento Eletrônico:** um requerimento deve ser apresentado por meio do envio do requerimento através da Plataforma Rappi na opção “Excluir minha conta Rappi” dentro da aba Dados Pessoais dentro do aplicativo e pelo site no seguinte link: https://www.rappi.com.br/account/profile ou através do e-mail [email protected]
+**Atendimento Eletrônico:** um requerimento deve ser apresentado por meio do envio do requerimento através da Plataforma Rappi na opção "Excluir minha conta Rappi" dentro da aba Dados Pessoais dentro do aplicativo e pelo site no seguinte link: https://www.rappi.com.br/account/profile ou através do e-mail dpo\_br@rappi.com
 
-**Atendimento Escrito:** um requerimento deve ser apresentado por meio do envio de uma solicitação escrita endereçada à Rappi, no Rua Haddock Lobo, 595 – 9º andar – Conj 91 – Lado A – São Paulo/SP – CEP: 01414-905,, sendo necessária a indicação do endereço escolhido para o posterior recebimento de notificações e respostas da Rappi.
+**Atendimento Escrito:** um requerimento deve ser apresentado por meio do envio de uma solicitação escrita endereçada à Rappi, no Rua Haddock Lobo, 595 - 9º andar - Conj 91 - Lado A - São Paulo/SP - CEP: 01414-905,, sendo necessária a indicação do endereço escolhido para o posterior recebimento de notificações e respostas da Rappi.
 
 Em qualquer dos casos, para a sua segurança e, para que possamos validar a sua identidade e confirmar que você está solicitando Dados Pessoais sobre os quais você efetivamente detém direitos, precisaremos submeter a sua requisição a um processo de validação interna de identidade. Diante disso, para que sua solicitação seja analisada e essencial observar o cumprimento dos seguintes requisitos:
 
@@ -196,7 +200,7 @@ Como estamos sempre buscando melhorar a Plataforma e os nossos serviços, essa P
 
 As disposições constantes desta Política de Privacidade poderão ser atualizadas ou modificadas a qualquer momento, cabendo ao USUÁRIO verificá-las sempre que efetuar o acesso à PLATAFORMA.
 
-Todos os visitantes das seguintes plataformas: (i) RappiShopper (com.rappi.shopper); (ii) Rappi Entregador – Seja um entregador (com.rappi.storekeeper); (iii) RappiAliado (com.rappi.restaurants); (iv) Rappi: Super, Restaurante e Mais (com.grability.rappi); e (v) Rappi Partners Rappi (com.rappi.partners), deverão realizar o seu cadastro e autorizar o tratamento de dados pessoais para utilização dos serviços oferecidos. Portanto, em cada um dos sistemas existe uma caixa que diz “Política de Privacidade e Tratamento de Dados Pessoais” que deve ser lida e aceita para continuar usando os serviços da RAPPI BRASIL, sendo aplicada integralmente a presente Política de Privacidade”
+Todos os visitantes das seguintes plataformas: (i) RappiShopper (com.rappi.shopper); (ii) Rappi Entregador – Seja um entregador (com.rappi.storekeeper); (iii) RappiAliado (com.rappi.restaurants); (iv) Rappi: Super, Restaurante e Mais (com.grability.rappi); e (v) Rappi Partners Rappi (com.rappi.partners), deverão realizar o seu cadastro e autorizar o tratamento de dados pessoais para utilização dos serviços oferecidos. Portanto, em cada um dos sistemas existe uma caixa que diz "Política de Privacidade e Tratamento de Dados Pessoais" que deve ser lida e aceita para continuar usando os serviços da RAPPI BRASIL, sendo aplicada integralmente a presente Política de Privacidade"
 
 **10.Lei Aplicável e Jurisdição:**
 
