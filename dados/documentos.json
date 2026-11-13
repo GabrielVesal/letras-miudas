@@ -265,6 +265,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/80210d3d28dd1793f5ae4f684b06d3f13591fbb1/termos/caixa/termos-de-uso.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/80210d3d28dd1793f5ae4f684b06d3f13591fbb1",
      "palavras": 830
+    },
+    {
+     "data": "2026-11-12",
+     "commit": "93de72968c33f07bde69d6165e738fa6dd6fafc6",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/93de72968c33f07bde69d6165e738fa6dd6fafc6/termos/caixa/termos-de-uso.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/93de72968c33f07bde69d6165e738fa6dd6fafc6",
+     "palavras": 830
     }
    ]
   },
@@ -1225,7 +1233,7 @@
     "Treinar modelos",
     "Publicidade personalizada"
    ],
-   "situacao": "falha",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -1258,7 +1266,7 @@
    "palavras": 15506,
    "minutos_de_leitura": 65,
    "assuntos": [],
-   "situacao": "falha",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -1412,7 +1420,7 @@
    "arquivo": "termos/rappi/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/rappi/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/rappi/politica-de-privacidade.md",
-   "palavras": 4542,
+   "palavras": 4557,
    "minutos_de_leitura": 19,
    "assuntos": [
     "Encarregado/DPO",
@@ -1510,6 +1518,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/e09a24dc441b939c7bb451d957b9d1368eb27907/termos/rappi/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/e09a24dc441b939c7bb451d957b9d1368eb27907",
      "palavras": 4542
+    },
+    {
+     "data": "2026-11-12",
+     "commit": "d7afdf4322659719d138ce6cc966c33dd565d360",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/d7afdf4322659719d138ce6cc966c33dd565d360/termos/rappi/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/d7afdf4322659719d138ce6cc966c33dd565d360",
+     "palavras": 4557
     }
    ]
   },
@@ -1523,7 +1539,7 @@
    "arquivo": "termos/rappi/termos-de-uso.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/rappi/termos-de-uso.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/rappi/termos-de-uso.md",
-   "palavras": 4825,
+   "palavras": 4836,
    "minutos_de_leitura": 20,
    "assuntos": [
     "Encarregado/DPO"
@@ -1583,6 +1599,14 @@
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/51b6629557c4dafc93deacd7c7a262263edd308b",
      "wayback": "https://web.archive.org/web/20251014154405/https://legal.rappi.com/brazil/termos-e-condicoes-de-uso-da-plataforma-rappi/",
      "palavras": 4825
+    },
+    {
+     "data": "2026-11-12",
+     "commit": "49f3257b1a571a67e86bb83207df6732566aa923",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/49f3257b1a571a67e86bb83207df6732566aa923/termos/rappi/termos-de-uso.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/49f3257b1a571a67e86bb83207df6732566aa923",
+     "palavras": 4836
     }
    ]
   },
@@ -1889,8 +1913,8 @@
    "arquivo": "termos/pinterest/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/pinterest/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md",
-   "palavras": 7928,
-   "minutos_de_leitura": 33,
+   "palavras": 8210,
+   "minutos_de_leitura": 34,
    "assuntos": [
     "Encarregado/DPO",
     "Inteligência artificial",
@@ -2149,6 +2173,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/cd9089384c3f2b19fb74b260494f631aac8d04d8/termos/pinterest/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/cd9089384c3f2b19fb74b260494f631aac8d04d8",
      "palavras": 7928
+    },
+    {
+     "data": "2026-11-12",
+     "commit": "ab2d9e5cff81fc966af89dafcc6d38fe860fb251",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/ab2d9e5cff81fc966af89dafcc6d38fe860fb251/termos/pinterest/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/ab2d9e5cff81fc966af89dafcc6d38fe860fb251",
+     "palavras": 8210
     }
    ]
   },
@@ -2162,9 +2194,11 @@
    "arquivo": "termos/pinterest/termos-de-uso.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/pinterest/termos-de-uso.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/termos-de-uso.md",
-   "palavras": 4807,
-   "minutos_de_leitura": 20,
-   "assuntos": [],
+   "palavras": 5408,
+   "minutos_de_leitura": 23,
+   "assuntos": [
+    "Inteligência artificial"
+   ],
    "situacao": "ok",
    "versoes": [
     {
@@ -2247,6 +2281,14 @@
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/780753a1264cbfd7363465e93377c8d2123c41f4",
      "wayback": "https://web.archive.org/web/20261021153248/https://policy.pinterest.com/pt-br/terms-of-service",
      "palavras": 4807
+    },
+    {
+     "data": "2026-11-12",
+     "commit": "795aca773a60f971f8aa1fd9ec9173ae0aadc4be",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/795aca773a60f971f8aa1fd9ec9173ae0aadc4be/termos/pinterest/termos-de-uso.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/795aca773a60f971f8aa1fd9ec9173ae0aadc4be",
+     "palavras": 5408
     }
    ]
   },
