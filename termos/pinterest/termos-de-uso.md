@@ -3,12 +3,9 @@ empresa: "Pinterest"
 documento: "Termos de Uso"
 categoria: "Redes sociais"
 fonte: "https://policy.pinterest.com/pt-br/terms-of-service"
-capturado_em: 2026-10-21
-wayback: "https://web.archive.org/web/20261021153248/https://policy.pinterest.com/pt-br/terms-of-service"
+capturado_em: 2026-11-12
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/termos-de-uso.md"
 ---
-
-*Vamos atualizar nossos Termos de Serviço no dia 12 de novembro de 2026. Você pode ver uma prévia desses Termos atualizados aqui.*
 
 # Obrigado por usar o Pinterest!
 
@@ -18,10 +15,13 @@ Você não pode usar o Serviço para fazer ou compartilhar algo que seja contrá
 
 - Nossas Diretrizes da Comunidade, que explicam o que é ou não permitido no Pinterest;
 - Nossas Diretrizes de Publicidade e Diretrizes para Comerciantes, que explicam políticas adicionais aplicáveis a anúncios e comerciantes no Pinterest;
-- Nossas Diretrizes de Conteúdo Comercial e de Marca, que explicam políticas adicionais aplicáveis a conteúdo patrocinado, de marca ou comercial; e
-- Nossas práticas de aplicação, que explicam como colocamos nossas políticas em prática, inclusive as restrições que podemos impor ao seu conteúdo ou uso do Pinterest.
+- Nossas Diretrizes de Conteúdo Comercial e de Marca, que explicam políticas adicionais aplicáveis a conteúdo patrocinado, de marca ou comercial;
+- Nossas práticas de Aplicação, que explicam como colocamos nossas políticas em prática, inclusive as restrições que podemos impor ao seu conteúdo ou uso do Pinterest; e
+- Nossas Diretrizes de Uso Aceitável de IA Generativa, que explicam como você pode e como não pode usar as ferramentas de IA generativas do Pinterest.
 
 Ao acessar ou usar o Pinterest, você concorda em cumprir e estar vinculado a estes Termos e não tentará contorná-los. Se você não concordar com nossos Termos, não deverá acessar ou usar o Pinterest.
+
+Se você residir fora do EEE, da Suíça e do Reino Unido, a aceitação destes Termos constitui o consentimento para as atividades de processamento descritas na nossa Política de Privacidade de acordo com as leis da sua jurisdição.
 
 Simplificando
 
@@ -42,6 +42,8 @@ O Pinterest ajuda a inspirar as pessoas a criar a vida que elas amam. Usaremos s
 Você só poderá usar o Pinterest se seguir estes Termos e todas as leis aplicáveis. O uso do Pinterest pode incluir o download de software para seu computador, telefone, tablet ou outro dispositivo. Você concorda que podemos atualizar automaticamente esse software, e estes Termos serão aplicados a todas as atualizações. Ao criar sua conta no Pinterest, você deverá nos fornecer informações precisas e completas.
 
 Não é permitido qualquer uso ou acesso ao Pinterest por menores de 13 anos de idade. Se você tiver mais de 13 anos, poderá usar o Pinterest se estiver acima da idade mínima de consentimento no seu país. Se você tiver de 13 a 18 anos, só poderá usar o Serviço com a permissão dos seus pais ou do responsável legal. Seus pais ou o responsável legal devem analisar e discutir estes Termos com você.
+
+No Brasil, o Pinterest é classificado como não recomendado para menores de 16 anos, nos termos da Portaria CGPCIND/DSPRAD/SEDIGI nº 515, de 17 de março de 2026.
 
 Se tivermos desativado previamente sua conta por violação destes Termos, qualquer uma das nossas políticas ou por motivos legais, você não poderá criar uma nova conta do Pinterest sem nossa permissão expressa por escrito, que é fornecida a nosso critério.
 
@@ -137,11 +139,11 @@ Você pode nos ajudar a manter sua conta e o Pinterest seguros mantendo estas di
 
 # 6. Links, sites e serviços de terceiros
 
-O Pinterest pode conter links para sites, anunciantes, serviços, componentes de software, ofertas especiais ou outros eventos ou atividades que não nos pertençam ou sejam controlados por nós. Não endossamos nem assumimos qualquer responsabilidade por tais sites, informações, materiais, produtos ou serviços de terceiros. Se você acessa qualquer site, serviço ou conteúdo de terceiros do Pinterest, você o faz por sua própria conta e risco, e concorda que não temos nenhuma responsabilidade resultante do seu uso de ou acesso a qualquer site, serviço ou conteúdo de terceiros.
+O Pinterest pode conter links para sites, anunciantes, serviços, componentes de software, ofertas especiais ou outros eventos ou atividades que não nos pertençam ou sejam controlados por nós. Não endossamos nem assumimos qualquer responsabilidade por tais sites, informações, materiais, produtos ou serviços de terceiros. Caso você acesse qualquer site, serviço ou conteúdo de terceiros do Pinterest, você o faz por sua própria conta e risco, e concorda que não temos nenhuma responsabilidade resultante do seu uso de ou acesso a qualquer site, serviço ou conteúdo de terceiros. Ao acessar conteúdo do YouTube no Pinterest, você também concorda em cumprir os Termos de Serviço do YouTube.
 
 Simplificando
 
-Permitimos que os usuários incluam links para conteúdo fora do Pinterest. Não somos responsáveis por qualquer conteúdo que você visualiza ou usa em sites ou serviços de terceiros.
+Permitimos que os usuários incluam links para conteúdo fora do Pinterest. Não somos responsáveis por qualquer conteúdo que você visualize em sites de terceiros ou pelo seu uso desses sites ou serviços, e você pode precisar cumprir os Termos de Serviço dessas entidades por interagir com tal conteúdo.
 
 # 7. Encerramento
 
@@ -165,9 +167,17 @@ Se você é um usuário de negócios e o Pinterest é processado por causa do se
 
 # 9. Isenções de responsabilidade
 
-| |
-| --- |
-| Até o limite permitido pela lei aplicável, o Serviço e todo o conteúdo do Pinterest são fornecidos "como estão", sem garantia de qualquer tipo, expressa ou implícita. O PINTEREST ISENTA-SE ESPECIFICAMENTE DE TODAS E QUAISQUER GARANTIAS E CONDIÇÕES DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO PROPÓSITO E NÃO VIOLAÇÃO, E DE TODAS AS GARANTIAS DECORRENTES DE NEGOCIAÇÃO OU USO COMERCIAL. O Pinterest não se compromete nem assume qualquer responsabilidade por qualquer Conteúdo do Usuário que você ou qualquer outra pessoa ou terceiros publiquem ou enviem usando nosso Serviço. Você entende e concorda que poderá ser exposto a Conteúdo do Usuário impreciso, censurável, impróprio para crianças ou de outra forma inadequado a seu propósito. Não garantimos que o Pinterest ou qualquer parte do Serviço ou qualquer material ou conteúdo oferecido por meio do Pinterest seja preciso, completo ou atual, ou seja ininterrupto, seguro ou livre de erros, vírus ou outros componentes nocivos. Podemos fazer alterações no Pinterest por vários motivos. Não teremos responsabilidade por qualquer alteração no Pinterest ou qualquer suspensão ou encerramento do seu acesso ao ou uso do Pinterest. As limitações, exclusões e isenções de responsabilidade nesta seção se aplicam na máxima extensão permitida pela lei aplicável. |
+Até o limite permitido pela lei aplicável, o Serviço e todo o conteúdo do Pinterest são fornecidos "como estão", sem garantia de qualquer tipo, expressa ou implícita.
+
+O PINTEREST ISENTA-SE ESPECIFICAMENTE DE TODAS E QUAISQUER GARANTIAS E CONDIÇÕES DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO PROPÓSITO E NÃO VIOLAÇÃO, E DE TODAS AS GARANTIAS DECORRENTES DE NEGOCIAÇÃO OU USO COMERCIAL.
+
+O Pinterest não se compromete nem assume qualquer responsabilidade por qualquer Conteúdo do Usuário que você ou qualquer outra pessoa ou terceiros publiquem ou enviem usando nosso Serviço. Você entende e concorda que poderá ser exposto a Conteúdo do Usuário impreciso, censurável, impróprio para crianças ou de outra forma inadequado a seu propósito.
+
+Não garantimos que o Pinterest ou qualquer parte do Serviço ou qualquer material ou conteúdo oferecido por meio do Pinterest seja preciso, completo ou atual, ou seja ininterrupto, seguro ou livre de erros, vírus ou outros componentes nocivos.
+
+Podemos fazer alterações no Pinterest por vários motivos. Não teremos responsabilidade por qualquer alteração no Pinterest ou qualquer suspensão ou encerramento do seu acesso ao ou uso do Pinterest.
+
+As limitações, exclusões e isenções de responsabilidade nesta seção se aplicam na máxima extensão permitida pela lei aplicável.
 
 Simplificando
 
@@ -175,9 +185,11 @@ Trabalhamos todos os dias para melhorar nosso Serviço e esperamos que você gos
 
 # 10. Limitação de responsabilidade
 
-| |
-| --- |
-| Na máxima extensão permitida pela lei, não seremos responsabilizados por qualquer dano indireto, incidental, especial, consequente ou punitivo, ou qualquer perda de lucro ou receita, direta ou indireta, ou qualquer perda de dados, uso, benefício ou outras perdas intangíveis, resultantes de (a) seu acesso ou uso ou incapacidade de acessar ou usar o Serviço; (b) qualquer conduta ou conteúdo de terceiros no Serviço, incluindo, sem limitação, qualquer conduta difamatória, ofensiva ou ilegal de outros usuários ou terceiros; ou (c) acesso, uso ou alteração não autorizados de suas transmissões ou conteúdo. Em nenhum caso nossa responsabilidade agregada por todas as reivindicações relacionadas ao Serviço excederá cem dólares americanos (US$ 100,00). O acima disposto não afeta nenhuma responsabilidade que não possa ser excluída ou limitada pela legislação aplicável. Se causarmos danos a você e você for um consumidor no EEE ou no Reino Unido, o acima disposto não se aplicará. A responsabilidade do Pinterest será limitada aos danos previsíveis decorrentes de uma violação de obrigações contratuais materiais típicas para este tipo de contrato. O Pinterest não é responsável por danos que resultem de uma violação não material de qualquer outro dever de cuidado aplicável. Esta limitação de responsabilidade não se aplica a qualquer responsabilidade estatutária que não possa ser limitada, à responsabilidade por morte ou danos pessoais causados por nossa negligência ou má conduta deliberada, ou para excluir nossa responsabilidade por algo que prometemos especificamente a você. |
+Na máxima extensão permitida pela lei, não seremos responsabilizados por qualquer dano indireto, incidental, especial, consequente ou punitivo, ou qualquer perda de lucro ou receita, direta ou indireta, ou qualquer perda de dados, uso, benefício ou outras perdas intangíveis, resultantes de (a) seu acesso ou uso ou incapacidade de acessar ou usar o Serviço; (b) qualquer conduta ou conteúdo de terceiros no Serviço, incluindo, sem limitação, qualquer conduta difamatória, ofensiva ou ilegal de outros usuários ou terceiros; ou (c) acesso, uso ou alteração não autorizados de suas transmissões ou conteúdo.
+
+Em nenhum caso nossa responsabilidade agregada por todas as reivindicações relacionadas ao Serviço excederá cem dólares americanos (US$ 100,00). O acima disposto não afeta nenhuma responsabilidade que não possa ser excluída ou limitada pela legislação aplicável.
+
+Se causarmos danos a você e você for um consumidor no EEE ou no Reino Unido, o acima disposto não se aplicará. A responsabilidade do Pinterest será limitada aos danos previsíveis decorrentes de uma violação de obrigações contratuais materiais típicas para este tipo de contrato. O Pinterest não é responsável por danos que resultem de uma violação não material de qualquer outro dever de cuidado aplicável. Esta limitação de responsabilidade não se aplica a qualquer responsabilidade estatutária que não possa ser limitada, à responsabilidade por morte ou danos pessoais causados por nossa negligência ou má conduta deliberada, ou para excluir nossa responsabilidade por algo que prometemos especificamente a você.
 
 Simplificando
 
@@ -187,25 +199,35 @@ Estamos desenvolvendo o melhor Serviço possível, mas nem sempre será perfeito
 
 Se você é um consumidor no EEE, na Suíça ou no Reino Unido, a Seção 11 não se aplica a você.
 
-Para qualquer disputa que tenha conosco, você concorda em entrar em contato conosco primeiro e tentar resolver a disputa amigavelmente. Na extensão permitida pela lei, nenhuma parte deverá iniciar qualquer processo legal, seja no tribunal, arbitragem ou qualquer outro fórum, até que os processos de notificação de disputa e Resolução de Disputa Informal descritos abaixo sejam concluídos. Nada nesta Seção, no entanto, impedirá que você ou nós busquemos uma medida cautelar temporária no tribunal (ou na arbitragem) para preservar o status quo ou para auxiliar a aplicação da cláusula de arbitragem no início de qualquer disputa.
+**a. Resolução informal obrigatória**
 
-Uma parte com uma disputa precisa primeiro nos enviar uma Notificação de Disputa, que precisa incluir seu nome completo; o nome do seu perfil do Pinterest (que começa com @); o endereço de email associado à sua conta do Pinterest; seu país de residência e, se você for residente dos EUA, o estado onde reside; seu advogado, se você for representado por um advogado; uma descrição detalhada da disputa e do dano alegado; e sua assinatura. Essas informações devem ser enviadas para o email litigation@pinterest.com. A notificação só pode ser enviada em nome de uma parte. Uma Notificação de Disputa que afirme os direitos de mais de uma parte não será considerada. Após o recebimento da Notificação de Disputa, o Pinterest responderá no prazo de 60 dias para tentar resolver a disputa amigavelmente. Após esse período, qualquer uma das partes pode iniciar uma arbitragem.
+Antes de iniciar a arbitragem ou registrar qualquer reivindicação, você e o Pinterest devem enviar um ao outro um aviso por escrito da reivindicação, uma descrição dela e a ajuda solicitada (a notificação de um requerente individual precisa ser assinada pessoalmente). Seu aviso ao Pinterest precisa ser enviado para litigation@pinterest.com e cobrir apenas um requerente. Você e o Pinterest concordam em trabalhar juntos de boa-fé para resolvê-la por 60 dias. Esse processo de resolução de disputas é um requisito obrigatório e uma condição precedente. Nenhuma das partes pode iniciar um processo de arbitragem ou uma ação judicial antes de encerrada esta etapa. Não obstante, qualquer uma das partes poderá apresentar uma ação para buscar providências cautelares ou outras equitativas em um tribunal de jurisdição competente para impedir a violação real ou ameaçada, apropriação indébita ou violação dos direitos de propriedade intelectual de uma parte.
 
-**Arbitragem**: se não conseguirmos resolver a disputa seguindo os processos obrigatórios acima, você e nós concordamos em resolver qualquer reivindicação, disputa ou controvérsia decorrente ou relacionada a estes Termos ou ao Serviço por meio de processo arbitral ou, para alegações qualificadas, em juizados especiais. O árbitro terá autoridade para emitir quaisquer recursos autorizados por lei.
+**b. Contrato de Arbitragem**
 
-A arbitragem é uma maneira mais informal de resolver nossos desacordos do que uma ação judicial. Ao aceitar estes Termos, você concorda que a Lei Federal de Arbitragem dos EUA rege a interpretação e a aplicação desta Seção, e que você e o Pinterest estão renunciando ao direito de um julgamento por júri ou de participar de uma ação coletiva. O árbitro também tem autoridade exclusiva para resolver qualquer disputa relacionada à interpretação, aplicabilidade ou exequibilidade deste contrato de processo arbitral, incluindo qualquer disputa relacionada à arbitrabilidade.
+Se isso não resolver a disputa, você e nós concordamos que qualquer reivindicação, disputa ou controvérsia relacionada a estes Termos ou Serviço ("Reivindicação") será resolvida por meio de arbitragem individual vinculativa administrada pela JAMS (Judicial Arbitration and Mediation Services) de acordo com suas Regras e Procedimentos de Arbitragem Abrangentes ("Regras da JAMS"), conforme modificadas por esta Seção 11 ou em tribunais de pequenas causas para reivindicações qualificadas. A Lei Federal de Arbitragem aplica-se a este Contrato de Arbitragem e o rege, prevalecendo sobre todas as leis estaduais na medida do possível. Este Contrato de Arbitragem aplica-se a qualquer Reivindicação você não tenha apresentado em juízo ou em arbitragem antes da data em que concordou com estes Termos, e substitui e altera qualquer contrato de arbitragem anterior entre você e o Pinterest, inclusive em relação a Reivindicações que surgiram antes deste ou de qualquer Contrato de Arbitragem anterior.
 
-Qualquer arbitragem será administrada pela American Arbitration Association ("AAA") sob as regras aplicáveis em vigor para a AAA. Se houver conflito entre as regras da AAA e estes Termos, os Termos prevalecerão. Você pode encontrar os formulários AAA em www.adr.org. O árbitro deverá emitir uma decisão fundamentada por escrito explicando as constatações e conclusões essenciais nas quais a sentença se baseia. Um julgamento sobre a sentença proferida pelo árbitro poderá ser registrado em qualquer tribunal de jurisdição competente. Quando as Regras de Arbitragem do Consumidor da AAA forem aplicáveis, se o árbitro determinar que a reivindicação de uma parte foi frívola ou imprópria, o árbitro precisará atribuir as tarifas e os custos associados à arbitragem a essa parte.
+Você e o Pinterest renunciam ao direito a um julgamento por júri. Exceto conforme estabelecido na subseção (c) para Arbitragem em Massa, na medida máxima permitida por lei, você e o Pinterest concordam que cada parte só pode apresentar Reivindicações em capacidade individual e não como autor ou membro de classe em qualquer ação coletiva, consolidada, de procurador-geral privado ou representativa. Esta renúncia permanece válida mesmo que o restante da Seção 11 seja considerada inexequível ou inválida. Exceto conforme estabelecido na subseção (c) para Arbitragem em Massa, o árbitro não pode consolidar as Reivindicações de mais de uma pessoa e não poderá presidir qualquer procedimento de classe, coletivo, consolidado ou representativo.
 
-Todas as disputas devem ser apresentadas na capacidade individual da parte, e não como membro de classe ou processo representante. Você concorda que, ao aceitar estes Termos, está renunciando ao direito a um julgamento por júri ou de participar de uma ação coletiva.
+É o tribunal, e não o árbitro, que decide se existe um acordo de arbitragem válido, mas o árbitro decide todas as questões relativas à interpretação, aplicabilidade ou exequibilidade desse acordo de arbitragem, incluindo qualquer disputa sobre a arbitrabilidade. Um pedido de auxílio cautelar público não será decidido ou concedido pelo árbitro e deve ser decidido por um tribunal após o resto da Reivindicação ser arbitrada. Uma única arbitragem, confidencial, será realizada perante um árbitro, cuja decisão vincula apenas as partes envolvidas. A Seção 11 não impede nenhuma das partes de buscar amparo de uma agência governamental ou medida judicial provisória (como uma liminar), e fazer isso não implica renúncia ao direito à arbitragem. As Reivindicações que não puderem ser atribuídas serão resolvidas nos termos da Seção 12 (Lei regente). O pagamento das taxas de arbitragem é regido pelas Regras da JAMS, porém, o árbitro pode impor sanções disponíveis de acordo com as Regras da JAMS, a Regra 11 das Regras Federais de Processo Civil ou qualquer lei aplicável contra qualquer parte ou advogado que as viole, incluindo a atribuição de honorários e custas a uma parte que tenha apresentado uma reivindicação ou defesa frívola ou com motivação indevida. Qualquer parte, mais de dez (10) dias antes da audiência de arbitragem, pode apresentar uma oferta por escrito de acordo à outra parte, que será interpretada e aplicada de acordo com o Código de Processo Civil da Califórnia, seção 998.
 
-Nada nestes Termos afetará quaisquer direitos legais indispensáveis que se apliquem a você. Na medida em que qualquer disputa não seja arbitrável sob as leis aplicáveis ou de outra forma, você concorda que tal disputa será resolvida exclusivamente de acordo com a Seção 12 destes Termos.
+A Seção 11 permanecerá válida mesmo após o término do seu relacionamento com o Pinterest. Exceto se expressamente disposto que qualquer parte desta Seção 11 seja considerada inexequível, abusiva ou ilegal, o restante permanecerá em vigor, e o Pinterest e você ainda poderão exigir arbitragem individual das demais Reivindicações.
 
-**Arbitragem em lote**: para o processo de arbitragem ser mais eficiente, você e nós concordamos que se 25 ou mais demandas de arbitragem similares forem registradas em um período de 60 dias ou com a assistência do mesmo escritório de advocacia ou grupo de escritórios de advocacia, a AAA vai consolidar as demandas de arbitragem. Para cada lote, a AAA vai administrar um conjunto de tarifas de registro e administrativas por lado, por lote, e a AAA vai apontar um árbitro para resolver cada lote como uma única arbitragem consolidada. As demandas de arbitragem serão similares se forem baseadas em fatos similares e levantarem questões jurídicas similares que buscam reparações similares. Qualquer disputa sobre similaridade será enviada a um único árbitro, cujos honorários serão pagos por nós.
+**c. Arbitragem em Massa**
+
+Se 25 ou mais reclamantes apresentarem Reivindicações semelhantes contra o Pinterest dentro de um prazo de 90 dias, ou forem representados, assistidos ou de alguma forma coordenados pelo mesmo escritório de advocacia, grupo de escritórios de advocacia ou outras entidades ou advogados coordenados (uma "Arbitragem em Massa"), todas essas Reivindicações serão consolidadas em uma única arbitragem perante um único árbitro, com um único conjunto de taxas de registro e administrativas, em vez de taxas separadas por requerente ou Reivindicação. Os Procedimentos e Diretrizes de Arbitragem em Massa da JAMS e a Programação da Taxa de Arbitragem em Massa da JAMS serão aplicados à sua Reivindicação e às Reivindicações de todos os outros requerentes que fizerem parte da Arbitragem em Massa, conforme modificado por esta Seção 11(c). As Reivindicações são semelhantes quando surgem ou estão relacionadas a fatos ou circunstâncias semelhantes e levantam questões legais ou causas de ação semelhantes. Um Árbitro de Processo decidirá em caso de disputas sobre a similaridade das Reivindicações. Se algum dos advogados, escritórios de advocacia, grupo de escritórios de advocacia ou seus parceiros de empresa ou financiadores ("financiador") estiverem adiantando os honorários ou custos do requerente, o Árbitro do Processo também poderá dividir todos os honorários e custos (incluindo todos os honorários do árbitro) entre esse financiador e o Pinterest conforme considerar justo. Na decisão final, o árbitro pode reavaliar e dividir os honorários e custos de arbitragem entre o Pinterest, os reclamantes e os advogados, escritórios de advocacia e grupo de escritórios de advocacia que eles acharem adequados para garantir uma divisão justa entre as partes.
+
+O Pinterest e cada requerente terão o direito de recusar a arbitragem se a JAMS se recusar a aplicar a subseção 11(c) do Contrato de Arbitragem, recusar-se a administrar qualquer parte de uma Arbitragem em Massa de acordo com a subseção 11(c), recusar-se a consolidar as Reivindicações em um processo de arbitragem com um árbitro e um único conjunto de taxas administrativas e de registro, conforme estabelecido nesta subseção 11(c), ou identificar, de alguma outra forma, que qualquer parte dessa subseção 11(c) é inconcebível, inexequível ou ilegal. Se uma das partes não aceitar a arbitragem, você e nós concordamos que será possível avançar com a Reivindicação em um tribunal sujeito à Seção 12.
+
+Qualquer prazo de limitação aplicável (incluindo estatutos de limitação) e quaisquer prazos para taxas de registro serão cobrados a partir de quando forem iniciados o Aviso Pré-Arbitral Obrigatório e os Procedimentos Informais de Resolução de Disputas, contanto que o Aviso Pré-Arbitral Obrigatório cumpra os requisitos da Seção 11, até que a Reivindicação de uma parte ou a demanda de arbitragem seja consolidada ou que uma parte opte por não participar da arbitragem.
+
+**d. Direito de recusar**
+
+Você pode recusar a vinculação aos termos desta Seção 11 no prazo de 30 dias após se submeter a eles enviando um email para litigation@pinterest.com com seu nome, email de conta e uma declaração de que você está optando por não se vincular; caso contrário, você concorda com seu vínculo a ela.
 
 Simplificando
 
-Você concorda em nos enviar uma notificação de qualquer disputa e tentar resolver a questão amigavelmente. Se isso não funcionar, a disputa será decidida de forma eficiente por meio de arbitragem, e não em um tribunal.
+A maioria das disputas deve inicialmente ser levantada informalmente, depois resolvida por meio de arbitragem individual, em vez de por uma ação judicial ou coletiva, exceto por grandes grupos de reivindicações semelhantes registradas juntas, que serão consolidadas em uma única arbitragem sob regras diferentes.
 
 # 12. Lei regente e jurisdição
 
@@ -249,4 +271,4 @@ Simplificando
 
 Com quem você trata depende de onde você mora.
 
-Data de vigência: 30 de abril de 2025
+Data de vigência: 12 de novembro de 2026
