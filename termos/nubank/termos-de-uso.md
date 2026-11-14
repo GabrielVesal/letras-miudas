@@ -3,8 +3,7 @@ empresa: "Nubank"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://nubank.com.br/transparencia/termos-de-uso"
-capturado_em: 2026-03-13
-wayback: "https://web.archive.org/web/20260313103249/https://nubank.com.br/transparencia/termos-de-uso"
+capturado_em: 2026-11-13
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/nubank/termos-de-uso.md"
 ---
 
@@ -341,7 +340,9 @@ Estes Termos de Uso, a + Política de Privacidade do Nubank e os contratos espec
 
 Fale com nossos atendentes pelo chat no app Nubank, disponível 24h por dia, ou se preferir, ligue para a Central de Atendimento de acordo com a sua região. Use os canais de Ouvidoria para situações nas quais você já tenha passado pela Central de Atendimento e ela não tenha solucionado a sua demanda.
 
-Precisa de uma ajuda agora? Entre em contato com nosso atendimento através do chat. Basta abrir o chat no app.
+Precisa de uma ajuda agora?
+
+Entre em contato com nosso atendimento através do chat. Basta abrir o chat no app.
 
 Central de Atendimento
 
@@ -358,6 +359,8 @@ Demais Localidades
 Ouvidoria
 
 Página da Ouvidoria
+
+Para situações em que você já tenha passado pela Central de Atendimento e ela não tenha solucionado sua demanda.
 
 Canal de atendimento em libras
 
