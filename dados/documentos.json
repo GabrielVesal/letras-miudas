@@ -622,7 +622,7 @@
    "arquivo": "termos/nubank/termos-de-uso.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/nubank/termos-de-uso.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/nubank/termos-de-uso.md",
-   "palavras": 3713,
+   "palavras": 3732,
    "minutos_de_leitura": 16,
    "assuntos": [
     "Biometria",
@@ -656,6 +656,14 @@
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/9304fdc6081f19aef0151ad46a59b63baa08bdb3",
      "wayback": "https://web.archive.org/web/20260313103249/https://nubank.com.br/transparencia/termos-de-uso",
      "palavras": 3713
+    },
+    {
+     "data": "2026-11-13",
+     "commit": "f02340cf5179b5233f5012e73f33baea09ed90b7",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/f02340cf5179b5233f5012e73f33baea09ed90b7/termos/nubank/termos-de-uso.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/f02340cf5179b5233f5012e73f33baea09ed90b7",
+     "palavras": 3732
     }
    ]
   },
@@ -831,7 +839,7 @@
     "Publicidade personalizada",
     "Transferência internacional"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2020-10-10",
@@ -886,7 +894,7 @@
    "assuntos": [
     "Inteligência artificial"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2020-11-10",
@@ -966,7 +974,7 @@
    "arquivo": "termos/shein/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/shein/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/shein/politica-de-privacidade.md",
-   "palavras": 7211,
+   "palavras": 7189,
    "minutos_de_leitura": 30,
    "assuntos": [
     "LGPD",
@@ -984,6 +992,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/ab70388d3a32f4e16481e8738c756328c27bf61f/termos/shein/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/ab70388d3a32f4e16481e8738c756328c27bf61f",
      "palavras": 7211
+    },
+    {
+     "data": "2026-11-13",
+     "commit": "827989dd78c0f1402149b257430adb2a8013e33b",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/827989dd78c0f1402149b257430adb2a8013e33b/termos/shein/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/827989dd78c0f1402149b257430adb2a8013e33b",
+     "palavras": 7189
     }
    ]
   },
