@@ -1249,7 +1249,7 @@
     "Treinar modelos",
     "Publicidade personalizada"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -1282,7 +1282,7 @@
    "palavras": 15506,
    "minutos_de_leitura": 65,
    "assuntos": [],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2026-10-22",
