@@ -974,13 +974,14 @@
    "arquivo": "termos/shein/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/shein/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/shein/politica-de-privacidade.md",
-   "palavras": 7189,
-   "minutos_de_leitura": 30,
+   "palavras": 7662,
+   "minutos_de_leitura": 32,
    "assuntos": [
     "LGPD",
     "Encarregado/DPO",
     "Treinar modelos",
     "Biometria",
+    "Reconhecimento facial",
     "Publicidade personalizada"
    ],
    "situacao": "ok",
@@ -1000,6 +1001,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/827989dd78c0f1402149b257430adb2a8013e33b/termos/shein/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/827989dd78c0f1402149b257430adb2a8013e33b",
      "palavras": 7189
+    },
+    {
+     "data": "2026-11-17",
+     "commit": "634c1450e1ec7bbaee37be42a0359146ee9ed0d6",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/634c1450e1ec7bbaee37be42a0359146ee9ed0d6/termos/shein/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/634c1450e1ec7bbaee37be42a0359146ee9ed0d6",
+     "palavras": 7662
     }
    ]
   },
@@ -5109,6 +5118,14 @@
      "origem": "robô do letras-miudas",
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/9a5cb293023637757955cb41412d79e015c8ef56/termos/tim/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/9a5cb293023637757955cb41412d79e015c8ef56",
+     "palavras": 3789
+    },
+    {
+     "data": "2026-11-17",
+     "commit": "dc65e8dc0fa90b3b4c5965a8ac2f6246032ed267",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/dc65e8dc0fa90b3b4c5965a8ac2f6246032ed267/termos/tim/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/dc65e8dc0fa90b3b4c5965a8ac2f6246032ed267",
      "palavras": 3789
     }
    ]

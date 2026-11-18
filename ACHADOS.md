@@ -22,7 +22,7 @@ na [página de estatísticas](https://gabrielvesal.github.io/letras-miudas/).
 | [Uber · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/uber/politica-de-privacidade.md) | 14 | abr/2025 |
 | [Apple · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/termos-de-uso.md) | 13 | jul/2018 |
 | [GitHub · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/github/termos-de-uso.md) | 13 | mar/2022 |
-| [QuintoAndar · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/quintoandar/politica-de-privacidade.md) | 12 | jun/2024 |
+| [TIM · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/tim/politica-de-privacidade.md) | 13 | out/2022 |
 
 ## Os mais longos
 
@@ -143,13 +143,14 @@ Aparece hoje em 19 de 67 documentos.
 
 ### Reconhecimento facial
 
-Aparece hoje em 12 de 67 documentos.
+Aparece hoje em 13 de 67 documentos.
 
 - set/2018: [Apple · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/termos-de-uso.md)
 - out/2021: [Rappi · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/rappi/politica-de-privacidade.md)
 - mar/2026: [QuintoAndar · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/quintoandar/politica-de-privacidade.md)
 - mai/2026: [Spotify · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/spotify/politica-de-privacidade.md)
 - jul/2026: [Microsoft · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/microsoft/politica-de-privacidade.md)
+- nov/2026: [Shein · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/shein/politica-de-privacidade.md)
 
 ### Localização
 
