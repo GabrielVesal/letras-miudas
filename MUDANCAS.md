@@ -10,6 +10,14 @@ O acompanhamento diário começou em 22/10/2026. As versões anteriores a isso v
 Wayback Machine e estão no histórico de cada arquivo em [termos/](termos/).
 
 <!-- MUDANCAS -->
+### 17/11/2026 · Shein · Política de Privacidade
+
++31 −26 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/634c1450e1ec7bbaee37be42a0359146ee9ed0d6)
+
+### 17/11/2026 · TIM · Política de Privacidade
+
++4 −4 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/dc65e8dc0fa90b3b4c5965a8ac2f6246032ed267)
+
 ### 13/11/2026 · Nubank · Termos de Uso
 
 +5 −1 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/f02340cf5179b5233f5012e73f33baea09ed90b7)
