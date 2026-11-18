@@ -3,7 +3,7 @@ empresa: "TIM"
 documento: "Política de Privacidade"
 categoria: "Telefonia"
 fonte: "https://www.tim.com.br/sobre-a-tim/institucional/seguranca/central-de-privacidade"
-capturado_em: 2026-11-11
+capturado_em: 2026-11-17
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/tim/politica-de-privacidade.md"
 ---
 
@@ -260,7 +260,7 @@ Seus dados são tratados com muita transparência e cuidado aqui na TIM, já que
 
 Esta informação foi útil para você?
 
-18 pessoas acharam esta informação útil.
+19 pessoas acharam esta informação útil.
 
 Agradecemos sua participação!
 
@@ -274,7 +274,7 @@ Você pode saber tudo sobre a nossas diretrizes na **página de Política de Coo
 
 Esta informação foi útil para você?
 
-7 pessoas acharam esta informação útil.
+8 pessoas acharam esta informação útil.
 
 Agradecemos sua participação!
 
@@ -295,7 +295,7 @@ Você pode conferir mais dicas na **página de dicas de segurança no WhatsApp.*
 
 Esta informação foi útil para você?
 
-23 pessoas acharam esta informação útil.
+24 pessoas acharam esta informação útil.
 
 Agradecemos sua participação!
 
@@ -326,7 +326,7 @@ Já os nossos SMS estão dentro da lei e são seguros. Você mais sobre o tema n
 
 Esta informação foi útil para você?
 
-15 pessoas acharam esta informação útil.
+16 pessoas acharam esta informação útil.
 
 Agradecemos sua participação!
 
