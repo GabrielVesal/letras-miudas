@@ -3,11 +3,11 @@ empresa: "Serasa"
 documento: "Política de Privacidade"
 categoria: "Serviços"
 fonte: "https://www.serasa.com.br/app/politica-de-privacidade/"
-capturado_em: 2026-10-31
+capturado_em: 2026-11-19
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md"
 ---
 
-Atualizado em 23 de outubro de 2026.
+Atualizado em 19 de novembro de 2026.
 
 Na Serasa S.A. (“Serasa”), privacidade e proteção de dados é nossa prioridade. Temos orgulho em ter a ética no tratamento de dados como valor fundamental. Este documento baseia-se no compromisso da Serasa com a transparência e o respeito ao tratamento de Dados Pessoais.
 
@@ -260,6 +260,8 @@ Nesse sentido, pode eventualmente disponibilizar os Dados Pessoais, quando estri
 (vi) outros terceiros indicados por Você ou com o seu Consentimento, nos limites da sua autorização
 
 As empresas específicas de cada categoria podem variar ao longo do tempo, em razão da dinâmica das operações da Serasa. Você pode solicitar informações adicionais sobre os destinatários dos seus dados, observados os segredos comercial e industrial, por meio do Encarregado (dpo@br.experian.com).
+
+A Serasa poderá utilizar dados cadastrais e de contato para convidar usuários a participar de pesquisas, entrevistas, testes de usabilidade e outras iniciativas voltadas à melhoria de produtos, serviços e da experiência dos usuários. Essas atividades poderão ser conduzidas pela própria Serasa ou por parceiros contratados para esse fim, que atuarão observando os requisitos de segurança e proteção de dados aplicáveis. A participação do usuário será sempre voluntária.
 
 **8. Relacionamento com terceiros**
 
