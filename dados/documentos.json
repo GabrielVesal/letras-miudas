@@ -1258,7 +1258,7 @@
     "Treinar modelos",
     "Publicidade personalizada"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -1291,7 +1291,7 @@
    "palavras": 15506,
    "minutos_de_leitura": 65,
    "assuntos": [],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -5409,7 +5409,7 @@
    "arquivo": "termos/serasa/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/serasa/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md",
-   "palavras": 5838,
+   "palavras": 5906,
    "minutos_de_leitura": 25,
    "assuntos": [
     "LGPD",
@@ -5571,6 +5571,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/832ca79e2140b54dcf41a4bee6e6ee2c22d149dd/termos/serasa/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/832ca79e2140b54dcf41a4bee6e6ee2c22d149dd",
      "palavras": 5838
+    },
+    {
+     "data": "2026-11-19",
+     "commit": "1321a28b261120b4ac2cdd43175cb8eed564cdbc",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/1321a28b261120b4ac2cdd43175cb8eed564cdbc/termos/serasa/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/1321a28b261120b4ac2cdd43175cb8eed564cdbc",
+     "palavras": 5906
     }
    ]
   },
