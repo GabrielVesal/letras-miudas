@@ -10,6 +10,10 @@ O acompanhamento diário começou em 22/10/2026. As versões anteriores a isso v
 Wayback Machine e estão no histórico de cada arquivo em [termos/](termos/).
 
 <!-- MUDANCAS -->
+### 19/11/2026 · Booking.com · Política de Privacidade
+
++32 −19 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/c21079438ff27f632fb3db3b497d5db095f836c5)
+
 ### 19/11/2026 · Serasa · Política de Privacidade
 
 +3 −1 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/1321a28b261120b4ac2cdd43175cb8eed564cdbc)
