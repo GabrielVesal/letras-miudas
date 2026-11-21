@@ -839,7 +839,7 @@
     "Publicidade personalizada",
     "Transferência internacional"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2020-10-10",
@@ -894,7 +894,7 @@
    "assuntos": [
     "Inteligência artificial"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2020-11-10",
@@ -1251,14 +1251,14 @@
    "arquivo": "termos/booking/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/booking/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/booking/politica-de-privacidade.md",
-   "palavras": 12344,
-   "minutos_de_leitura": 52,
+   "palavras": 12783,
+   "minutos_de_leitura": 54,
    "assuntos": [
     "Inteligência artificial",
     "Treinar modelos",
     "Publicidade personalizada"
    ],
-   "situacao": "falha",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -1275,6 +1275,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/695787bfb9bb0cea02474001163d830c7d99e637/termos/booking/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/695787bfb9bb0cea02474001163d830c7d99e637",
      "palavras": 12344
+    },
+    {
+     "data": "2026-11-19",
+     "commit": "c21079438ff27f632fb3db3b497d5db095f836c5",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/c21079438ff27f632fb3db3b497d5db095f836c5/termos/booking/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/c21079438ff27f632fb3db3b497d5db095f836c5",
+     "palavras": 12783
     }
    ]
   },
@@ -1291,7 +1299,7 @@
    "palavras": 15506,
    "minutos_de_leitura": 65,
    "assuntos": [],
-   "situacao": "falha",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -3676,7 +3684,7 @@
     "Localização",
     "Publicidade personalizada"
    ],
-   "situacao": "bloqueado",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2024-05-31",
@@ -3766,7 +3774,7 @@
     "Inteligência artificial",
     "Treinar modelos"
    ],
-   "situacao": "bloqueado",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2025-04-29",
@@ -5708,7 +5716,7 @@
    "assuntos": [
     "LGPD"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2022-09-27",
