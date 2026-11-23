@@ -839,7 +839,7 @@
     "Publicidade personalizada",
     "Transferência internacional"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2020-10-10",
@@ -894,7 +894,7 @@
    "assuntos": [
     "Inteligência artificial"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2020-11-10",
@@ -1258,7 +1258,7 @@
     "Treinar modelos",
     "Publicidade personalizada"
    ],
-   "situacao": "falha",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -1299,7 +1299,7 @@
    "palavras": 15506,
    "minutos_de_leitura": 65,
    "assuntos": [],
-   "situacao": "falha",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -1896,7 +1896,7 @@
    "palavras": 9905,
    "minutos_de_leitura": 42,
    "assuntos": [],
-   "situacao": "instável",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2026-10-22",
@@ -5716,7 +5716,7 @@
    "assuntos": [
     "LGPD"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2022-09-27",
