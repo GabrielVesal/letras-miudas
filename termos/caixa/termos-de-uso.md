@@ -3,7 +3,7 @@ empresa: "Caixa"
 documento: "Termos de Uso"
 categoria: "Bancos"
 fonte: "https://www.caixa.gov.br/termos-de-uso/Paginas/default.aspx"
-capturado_em: 2026-11-12
+capturado_em: 2026-11-23
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md"
 ---
 
@@ -131,18 +131,18 @@ Veja as opções ›
 
 ### Casa própria
 
-Venha para a CAIXA e a realize o sonho da casa própria.
+Venha para a Caixa e a realize o sonho da casa própria.
 
 Compre sua casa própria ›
 
-### Cartões CAIXA
+### Cartões Caixa
 
-A CAIXA tem sempre um cartão perfeito para você.
+A Caixa tem sempre um cartão perfeito para você.
 
 Escolha agora o seu ›
 
-### Conta Digital CAIXA
+### Conta Digital Caixa
 
-Abertura e movimentação pelo App CAIXA com atendimento digital pensado para você!
+Abertura e movimentação pelo Novo App da Caixa com atendimento digital pensado para você!
 
 Abra sua conta ›
