@@ -136,7 +136,7 @@
    "arquivo": "termos/caixa/termos-de-uso.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/caixa/termos-de-uso.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md",
-   "palavras": 830,
+   "palavras": 832,
    "minutos_de_leitura": 3,
    "assuntos": [],
    "situacao": "ok",
@@ -273,6 +273,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/93de72968c33f07bde69d6165e738fa6dd6fafc6/termos/caixa/termos-de-uso.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/93de72968c33f07bde69d6165e738fa6dd6fafc6",
      "palavras": 830
+    },
+    {
+     "data": "2026-11-23",
+     "commit": "f5c524b1190dfadf282d440a279f6b43c2686e07",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/f5c524b1190dfadf282d440a279f6b43c2686e07/termos/caixa/termos-de-uso.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/f5c524b1190dfadf282d440a279f6b43c2686e07",
+     "palavras": 832
     }
    ]
   },
@@ -839,7 +847,7 @@
     "Publicidade personalizada",
     "Transferência internacional"
    ],
-   "situacao": "falha",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2020-10-10",
@@ -894,7 +902,7 @@
    "assuntos": [
     "Inteligência artificial"
    ],
-   "situacao": "falha",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2020-11-10",
@@ -1864,11 +1872,12 @@
    "arquivo": "termos/discord/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/discord/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/discord/politica-de-privacidade.md",
-   "palavras": 5850,
-   "minutos_de_leitura": 25,
+   "palavras": 6575,
+   "minutos_de_leitura": 28,
    "assuntos": [
     "LGPD",
     "Encarregado/DPO",
+    "Inteligência artificial",
     "Transferência internacional"
    ],
    "situacao": "ok",
@@ -1880,6 +1889,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/995ddf059209a7fb046060d3906bd55cf27721f9/termos/discord/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/995ddf059209a7fb046060d3906bd55cf27721f9",
      "palavras": 5850
+    },
+    {
+     "data": "2026-11-23",
+     "commit": "58a024330a2e0ec8ae3c8e91109bc4a5fbf00ab8",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/58a024330a2e0ec8ae3c8e91109bc4a5fbf00ab8/termos/discord/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/58a024330a2e0ec8ae3c8e91109bc4a5fbf00ab8",
+     "palavras": 6575
     }
    ]
   },

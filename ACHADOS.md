@@ -16,8 +16,8 @@ na [página de estatísticas](https://gabrielvesal.github.io/letras-miudas/).
 | [Steam · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/politica-de-privacidade.md) | 19 | jan/2014 |
 | [Serasa · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md) | 18 | jun/2021 |
 | [Steam · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/termos-de-uso.md) | 17 | jan/2014 |
+| [Caixa · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md) | 16 | jan/2015 |
 | [Apple · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/politica-de-privacidade.md) | 15 | jun/2019 |
-| [Caixa · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md) | 15 | jan/2015 |
 | [Microsoft · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/microsoft/politica-de-privacidade.md) | 15 | out/2024 |
 | [Uber · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/uber/politica-de-privacidade.md) | 14 | abr/2025 |
 | [Apple · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/apple/termos-de-uso.md) | 13 | jul/2018 |
@@ -56,7 +56,7 @@ Só documentos com pelo menos dois anos de histórico.
 | [Caixa · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/politica-de-privacidade.md) | 1.676 palavras (jul/2021) | 6.648 palavras | 4,0× |
 | [Pinterest · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md) | 2.373 palavras (set/2017) | 8.210 palavras | 3,5× |
 | [Steam · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/steam/politica-de-privacidade.md) | 1.718 palavras (jan/2014) | 4.980 palavras | 2,9× |
-| [Caixa · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md) | 327 palavras (jan/2015) | 830 palavras | 2,5× |
+| [Caixa · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/caixa/termos-de-uso.md) | 327 palavras (jan/2015) | 832 palavras | 2,5× |
 | [Google · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/termos-de-uso.md) | 2.116 palavras (jun/2019) | 4.973 palavras | 2,4× |
 | [Rappi · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/rappi/politica-de-privacidade.md) | 1.996 palavras (jun/2019) | 4.557 palavras | 2,3× |
 | [Roblox · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/roblox/termos-de-uso.md) | 11.147 palavras (nov/2018) | 23.651 palavras | 2,1× |
@@ -99,7 +99,7 @@ Aparece hoje em 32 de 67 documentos.
 
 ### Inteligência artificial
 
-Aparece hoje em 27 de 67 documentos.
+Aparece hoje em 28 de 67 documentos.
 
 - ago/2020: [Google · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/google/termos-de-uso.md)
 - set/2023: [Pinterest · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/politica-de-privacidade.md)
@@ -117,6 +117,7 @@ Aparece hoje em 27 de 67 documentos.
 - out/2026: [Serasa · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/politica-de-privacidade.md)
 - out/2026: [Serasa · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/serasa/termos-de-uso.md)
 - nov/2026: [Pinterest · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/pinterest/termos-de-uso.md)
+- nov/2026: [Discord · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/discord/politica-de-privacidade.md)
 
 ### Treinar modelos
 
