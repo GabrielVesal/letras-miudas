@@ -44,7 +44,7 @@ Tempo de leitura a 238 palavras por minuto, a média de leitura silenciosa de ad
 | [Temu · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/temu/termos-de-uso.md) | 12.152 | 51 min |
 | [Uber · Política de Privacidade](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/uber/politica-de-privacidade.md) | 10.871 | 46 min |
 | [Shein · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/shein/termos-de-uso.md) | 10.642 | 45 min |
-| [Discord · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/discord/termos-de-uso.md) | 9.905 | 42 min |
+| [Discord · Termos de Uso](https://github.com/GabrielVesal/letras-miudas/commits/main/termos/discord/termos-de-uso.md) | 10.087 | 42 min |
 
 ## Os que mais cresceram
 

@@ -55,7 +55,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 ## Redes sociais
 
 - [Discord · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/discord/politica-de-privacidade.md): 6.575 palavras, 28 min de leitura, 2 versões desde out/2026
-- [Discord · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/discord/termos-de-uso.md): 9.905 palavras, 42 min de leitura, 1 versão desde out/2026
+- [Discord · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/discord/termos-de-uso.md): 10.087 palavras, 42 min de leitura, 2 versões desde out/2026
 - [Instagram · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/instagram/politica-de-privacidade.md): 8.279 palavras, 35 min de leitura, 1 versão desde out/2026
 - [Pinterest · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/pinterest/politica-de-privacidade.md): 8.210 palavras, 34 min de leitura, 29 versões desde set/2017
 - [Pinterest · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/pinterest/termos-de-uso.md): 5.408 palavras, 23 min de leitura, 10 versões desde mar/2019

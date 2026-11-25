@@ -1910,7 +1910,7 @@
    "arquivo": "termos/discord/termos-de-uso.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/discord/termos-de-uso.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/discord/termos-de-uso.md",
-   "palavras": 9905,
+   "palavras": 10087,
    "minutos_de_leitura": 42,
    "assuntos": [],
    "situacao": "ok",
@@ -1922,6 +1922,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/a2a51d364a0490ddd90af237bf8640c623afb9ba/termos/discord/termos-de-uso.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/a2a51d364a0490ddd90af237bf8640c623afb9ba",
      "palavras": 9905
+    },
+    {
+     "data": "2026-11-24",
+     "commit": "aac772e645d8713ebfb0fa5aaa0e820b85a4e0b2",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/aac772e645d8713ebfb0fa5aaa0e820b85a4e0b2/termos/discord/termos-de-uso.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/aac772e645d8713ebfb0fa5aaa0e820b85a4e0b2",
+     "palavras": 10087
     }
    ]
   },

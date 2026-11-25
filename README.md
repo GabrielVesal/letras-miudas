@@ -4,7 +4,7 @@ Os termos de uso e as políticas de privacidade das empresas que o brasileiro ma
 Markdown, com cabeçalho estruturado e o histórico de cada mudança. Um robô confere tudo todo dia.
 
 <!-- RESUMO -->
-**67 documentos de 43 empresas**, com **493 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 36 horas**.
+**67 documentos de 43 empresas**, com **494 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 36 horas**.
 <!-- /RESUMO -->
 
 O histórico do git é a própria linha do tempo: cada versão de cada documento é um commit, com a
@@ -31,7 +31,7 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 | Bancos | 8 | 11 | 67 | 3h30 |
 | Compras | 5 | 8 | 17 | 4h27 |
 | Apps | 6 | 9 | 62 | 5h33 |
-| Redes sociais | 5 | 8 | 72 | 3h50 |
+| Redes sociais | 5 | 8 | 73 | 3h51 |
 | Tecnologia | 4 | 8 | 96 | 6h54 |
 | IA | 1 | 2 | 12 | 34 min |
 | Streaming | 3 | 5 | 21 | 2h21 |
@@ -39,7 +39,7 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 | Telefonia | 4 | 4 | 17 | 1h10 |
 | Serviços | 3 | 5 | 48 | 2h09 |
 | Governo | 1 | 1 | 1 | 22 min |
-| **Total** | **43** | **67** | **493** | **36h10** |
+| **Total** | **43** | **67** | **494** | **36h10** |
 <!-- /NUMEROS -->
 
 Para ver em gráficos o que mais mudou, o que mais cresceu, quanto tempo leva para ler cada
@@ -121,7 +121,7 @@ de todas as versões, com o link do texto de cada uma, em
 | Uber | [Política de Privacidade](termos/uber/politica-de-privacidade.md) · [Termos de Uso](termos/uber/termos-de-uso.md) | abr/2025 | 15 |
 | Waze | [Política de Privacidade](termos/waze/politica-de-privacidade.md) | jun/2025 | 2 |
 | **Redes sociais** | | | |
-| Discord | [Política de Privacidade](termos/discord/politica-de-privacidade.md) · [Termos de Uso](termos/discord/termos-de-uso.md) | out/2026 | 3 |
+| Discord | [Política de Privacidade](termos/discord/politica-de-privacidade.md) · [Termos de Uso](termos/discord/termos-de-uso.md) | out/2026 | 4 |
 | Instagram | [Política de Privacidade](termos/instagram/politica-de-privacidade.md) | out/2026 | 1 |
 | Pinterest | [Política de Privacidade](termos/pinterest/politica-de-privacidade.md) · [Termos de Uso](termos/pinterest/termos-de-uso.md) | set/2017 | 39 |
 | TikTok | [Termos de Uso](termos/tiktok/termos-de-uso.md) | jun/2023 | 1 |
