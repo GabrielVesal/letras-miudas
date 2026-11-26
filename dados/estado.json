@@ -2,119 +2,123 @@
  "airbnb/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-10-23"
  },
  "amazon/politica-de-privacidade": {
-  "motivo": "",
-  "status": "ok",
+  "motivo": "HTTP 403 (navegador)",
+  "status": "falha",
   "ultima_leitura_ok": "2026-11-25"
  },
  "amazon/termos-de-uso": {
-  "motivo": "",
-  "status": "ok",
+  "motivo": "HTTP 403 (navegador)",
+  "status": "falha",
   "ultima_leitura_ok": "2026-11-25"
  },
  "americanas/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-11"
  },
  "apple/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "apple/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "booking/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-19"
  },
  "booking/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "bradesco/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "caixa/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "caixa/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-23"
  },
  "claro/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "correios/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "discord/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-23"
  },
  "discord/termos-de-uso": {
   "motivo": "",
+  "pendente": {
+   "desde": "2026-11-26",
+   "impressao": "357f9ad9026f2838"
+  },
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-24"
  },
  "epic-games/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "epic-games/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "github/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "github/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "globo/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-10-26"
  },
  "google/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "google/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "govbr/termos-de-uso": {
   "motivo": "erro de rede: ConnectionError",
@@ -124,76 +128,80 @@
  "hotmart/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "hotmart/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "instagram/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "inter/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "microsoft/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-09"
  },
  "microsoft/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "neon/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "neon/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "nubank/politica-de-privacidade": {
   "motivo": "",
+  "pendente": {
+   "desde": "2026-11-26",
+   "impressao": "bf17aa2e511e95c6"
+  },
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-10-22"
  },
  "nubank/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-13"
  },
  "oi/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "openai/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-03"
  },
  "openai/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "pagbank/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-10-27"
  },
  "paypal/politica-de-privacidade": {
@@ -205,35 +213,35 @@
  "picpay/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "pinterest/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-12"
  },
  "pinterest/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-12"
  },
  "quintoandar/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "rappi/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-12"
  },
  "rappi/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-12"
  },
  "roblox/politica-de-privacidade": {
@@ -251,92 +259,92 @@
  "serasa/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-19"
  },
  "serasa/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-10-28"
  },
  "shein/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-17"
  },
  "shein/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "shopee/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "spotify/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "spotify/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "steam/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "steam/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "temu/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "temu/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "tiktok/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "tim/politica-de-privacidade": {
-  "motivo": "",
-  "status": "ok",
+  "motivo": "conteúdo muda a cada leitura",
+  "status": "instável",
   "ultima_leitura_ok": "2026-11-25",
   "ultima_mudanca": "2026-11-17"
  },
  "twitch/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "twitch/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "uber/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25",
+  "ultima_leitura_ok": "2026-11-26",
   "ultima_mudanca": "2026-11-10"
  },
  "uber/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "vivo/politica-de-privacidade": {
   "motivo": "verificação anti-robô (HTTP 403)",
@@ -346,16 +354,16 @@
  "waze/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "whatsapp/politica-de-privacidade": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  },
  "whatsapp/termos-de-uso": {
   "motivo": "",
   "status": "ok",
-  "ultima_leitura_ok": "2026-11-25"
+  "ultima_leitura_ok": "2026-11-26"
  }
 }
