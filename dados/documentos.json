@@ -847,7 +847,7 @@
     "Publicidade personalizada",
     "Transferência internacional"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2020-10-10",
@@ -902,7 +902,7 @@
    "assuntos": [
     "Inteligência artificial"
    ],
-   "situacao": "ok",
+   "situacao": "falha",
    "versoes": [
     {
      "data": "2020-11-10",
@@ -5047,7 +5047,7 @@
     "LGPD",
     "Encarregado/DPO"
    ],
-   "situacao": "ok",
+   "situacao": "instável",
    "versoes": [
     {
      "data": "2022-10-16",
