@@ -10,6 +10,14 @@ O acompanhamento diário começou em 22/10/2026. As versões anteriores a isso v
 Wayback Machine e estão no histórico de cada arquivo em [termos/](termos/).
 
 <!-- MUDANCAS -->
+### 26/11/2026 · Discord · Termos de Uso
+
++1 −1 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/afe3e9d594bab347210b5e1b84dae69e9273c05d)
+
+### 26/11/2026 · Nubank · Política de Privacidade
+
++3 −3 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/6e0fe453aeaf6b030b94690d57e894b8693ea3fb)
+
 ### 24/11/2026 · Discord · Termos de Uso
 
 +40 −36 linhas · [ver o que mudou](https://github.com/GabrielVesal/letras-miudas/commit/aac772e645d8713ebfb0fa5aaa0e820b85a4e0b2)
