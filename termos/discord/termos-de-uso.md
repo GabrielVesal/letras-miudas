@@ -3,7 +3,7 @@ empresa: "Discord"
 documento: "Termos de Uso"
 categoria: "Redes sociais"
 fonte: "https://discord.com/terms"
-capturado_em: 2026-11-24
+capturado_em: 2026-11-26
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/discord/termos-de-uso.md"
 ---
 
@@ -103,7 +103,7 @@ Bem-vindo(a)! O Discord ajuda você a criar vínculos importantes em torno da al
 
 Estes termos estabelecem nossas obrigações jurídicas uns com os outros. Elas se aplicam ao uso que você faz dos nossos serviços.
 
-**IMPORTANT NOTE: The section titled “****Resolução de disputas entre você e a Discord****” contains an arbitration clause and class-action waiver that applies to all U.S. or Canada-based Discord users. Please read this section carefully as it may significantly affect your legal rights, including your right to file a lawsuit in court.**
+**OBSERVAÇÃO IMPORTANTE: a seção intitulada** **“Resolução de Controvérsias entre Você e o Discord”** **contém uma cláusula de renúncia a arbitragem e ação coletiva que se aplica a todos os usuários do Discord domiciliados nos EUA ou no Canadá. Leia esta seção com atenção, pois ela pode restringir seus direitos de forma significativa, inclusive seu direito de ajuizar ações.**
 
 Quando dizemos “Discord”, “nós”, “nos” e “nosso(a)” nestes termos, nos referimos à Discord Inc., suas respectivas subsidiárias e suas respectivas empresas relacionadas.
 
