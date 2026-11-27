@@ -4,7 +4,7 @@ Os termos de uso e as políticas de privacidade das empresas que o brasileiro ma
 Markdown, com cabeçalho estruturado e o histórico de cada mudança. Um robô confere tudo todo dia.
 
 <!-- RESUMO -->
-**67 documentos de 43 empresas**, com **494 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 36 horas**.
+**67 documentos de 43 empresas**, com **496 versões** arquivadas desde 2014. Ler tudo o que vale hoje, sem parar, leva **cerca de 36 horas**.
 <!-- /RESUMO -->
 
 O histórico do git é a própria linha do tempo: cada versão de cada documento é um commit, com a
@@ -28,10 +28,10 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 <!-- NUMEROS -->
 | Categoria | Empresas | Documentos | Versões arquivadas | Tempo de leitura |
 | --- | ---: | ---: | ---: | ---: |
-| Bancos | 8 | 11 | 67 | 3h30 |
+| Bancos | 8 | 11 | 68 | 3h30 |
 | Compras | 5 | 8 | 17 | 4h27 |
 | Apps | 6 | 9 | 62 | 5h33 |
-| Redes sociais | 5 | 8 | 73 | 3h51 |
+| Redes sociais | 5 | 8 | 74 | 3h51 |
 | Tecnologia | 4 | 8 | 96 | 6h54 |
 | IA | 1 | 2 | 12 | 34 min |
 | Streaming | 3 | 5 | 21 | 2h21 |
@@ -39,7 +39,7 @@ data em que aquela versão foi vista pela primeira vez. Abra qualquer arquivo em
 | Telefonia | 4 | 4 | 17 | 1h10 |
 | Serviços | 3 | 5 | 48 | 2h09 |
 | Governo | 1 | 1 | 1 | 22 min |
-| **Total** | **43** | **67** | **494** | **36h10** |
+| **Total** | **43** | **67** | **496** | **36h10** |
 <!-- /NUMEROS -->
 
 Para ver em gráficos o que mais mudou, o que mais cresceu, quanto tempo leva para ler cada
@@ -103,7 +103,7 @@ de todas as versões, com o link do texto de cada uma, em
 | Caixa | [Política de Privacidade](termos/caixa/politica-de-privacidade.md) · [Termos de Uso](termos/caixa/termos-de-uso.md) | jan/2015 | 24 |
 | Inter | [Política de Privacidade](termos/inter/politica-de-privacidade.md) | set/2023 | 11 |
 | Neon | [Política de Privacidade](termos/neon/politica-de-privacidade.md) · [Termos de Uso](termos/neon/termos-de-uso.md) | nov/2023 | 12 |
-| Nubank | [Política de Privacidade](termos/nubank/politica-de-privacidade.md) · [Termos de Uso](termos/nubank/termos-de-uso.md) | dez/2024 | 9 |
+| Nubank | [Política de Privacidade](termos/nubank/politica-de-privacidade.md) · [Termos de Uso](termos/nubank/termos-de-uso.md) | dez/2024 | 10 |
 | PagBank | [Política de Privacidade](termos/pagbank/politica-de-privacidade.md) | out/2026 | 2 |
 | PayPal | [Política de Privacidade](termos/paypal/politica-de-privacidade.md) | dez/2024 | 7 |
 | PicPay | [Política de Privacidade](termos/picpay/politica-de-privacidade.md) | out/2026 | 1 |
@@ -121,7 +121,7 @@ de todas as versões, com o link do texto de cada uma, em
 | Uber | [Política de Privacidade](termos/uber/politica-de-privacidade.md) · [Termos de Uso](termos/uber/termos-de-uso.md) | abr/2025 | 15 |
 | Waze | [Política de Privacidade](termos/waze/politica-de-privacidade.md) | jun/2025 | 2 |
 | **Redes sociais** | | | |
-| Discord | [Política de Privacidade](termos/discord/politica-de-privacidade.md) · [Termos de Uso](termos/discord/termos-de-uso.md) | out/2026 | 4 |
+| Discord | [Política de Privacidade](termos/discord/politica-de-privacidade.md) · [Termos de Uso](termos/discord/termos-de-uso.md) | out/2026 | 5 |
 | Instagram | [Política de Privacidade](termos/instagram/politica-de-privacidade.md) | out/2026 | 1 |
 | Pinterest | [Política de Privacidade](termos/pinterest/politica-de-privacidade.md) · [Termos de Uso](termos/pinterest/termos-de-uso.md) | set/2017 | 39 |
 | TikTok | [Termos de Uso](termos/tiktok/termos-de-uso.md) | jun/2023 | 1 |

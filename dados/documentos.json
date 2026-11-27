@@ -560,7 +560,7 @@
    "arquivo": "termos/nubank/politica-de-privacidade.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/nubank/politica-de-privacidade.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/nubank/politica-de-privacidade.md",
-   "palavras": 6045,
+   "palavras": 6046,
    "minutos_de_leitura": 25,
    "assuntos": [
     "LGPD",
@@ -617,6 +617,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/a90838ae5c23bf523441322f82201bd6c1ca6f2e/termos/nubank/politica-de-privacidade.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/a90838ae5c23bf523441322f82201bd6c1ca6f2e",
      "palavras": 6045
+    },
+    {
+     "data": "2026-11-26",
+     "commit": "6e0fe453aeaf6b030b94690d57e894b8693ea3fb",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/6e0fe453aeaf6b030b94690d57e894b8693ea3fb/termos/nubank/politica-de-privacidade.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/6e0fe453aeaf6b030b94690d57e894b8693ea3fb",
+     "palavras": 6046
     }
    ]
   },
@@ -1910,7 +1918,7 @@
    "arquivo": "termos/discord/termos-de-uso.md",
    "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/discord/termos-de-uso.md",
    "historico": "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/discord/termos-de-uso.md",
-   "palavras": 10087,
+   "palavras": 10092,
    "minutos_de_leitura": 42,
    "assuntos": [],
    "situacao": "ok",
@@ -1930,6 +1938,14 @@
      "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/aac772e645d8713ebfb0fa5aaa0e820b85a4e0b2/termos/discord/termos-de-uso.md",
      "diff": "https://github.com/GabrielVesal/letras-miudas/commit/aac772e645d8713ebfb0fa5aaa0e820b85a4e0b2",
      "palavras": 10087
+    },
+    {
+     "data": "2026-11-26",
+     "commit": "afe3e9d594bab347210b5e1b84dae69e9273c05d",
+     "origem": "robô do letras-miudas",
+     "texto": "https://raw.githubusercontent.com/GabrielVesal/letras-miudas/afe3e9d594bab347210b5e1b84dae69e9273c05d/termos/discord/termos-de-uso.md",
+     "diff": "https://github.com/GabrielVesal/letras-miudas/commit/afe3e9d594bab347210b5e1b84dae69e9273c05d",
+     "palavras": 10092
     }
    ]
   },

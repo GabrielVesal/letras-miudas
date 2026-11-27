@@ -23,7 +23,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 - [Inter · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/inter/politica-de-privacidade.md): 495 palavras, 2 min de leitura, 11 versões desde set/2023
 - [Neon · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/neon/politica-de-privacidade.md): 648 palavras, 3 min de leitura, 6 versões desde dez/2024
 - [Neon · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/neon/termos-de-uso.md): 4.700 palavras, 20 min de leitura, 6 versões desde nov/2023
-- [Nubank · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/nubank/politica-de-privacidade.md): 6.045 palavras, 25 min de leitura, 5 versões desde dez/2024
+- [Nubank · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/nubank/politica-de-privacidade.md): 6.046 palavras, 25 min de leitura, 6 versões desde dez/2024
 - [Nubank · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/nubank/termos-de-uso.md): 3.732 palavras, 16 min de leitura, 4 versões desde dez/2024
 - [PagBank · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/pagbank/politica-de-privacidade.md): 4.092 palavras, 17 min de leitura, 2 versões desde out/2026
 - [PayPal · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/paypal/politica-de-privacidade.md): 19.633 palavras, 1h22 de leitura, 7 versões desde dez/2024
@@ -55,7 +55,7 @@ Os textos são informativos e não são orientação jurídica. Vale o que está
 ## Redes sociais
 
 - [Discord · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/discord/politica-de-privacidade.md): 6.575 palavras, 28 min de leitura, 2 versões desde out/2026
-- [Discord · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/discord/termos-de-uso.md): 10.087 palavras, 42 min de leitura, 2 versões desde out/2026
+- [Discord · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/discord/termos-de-uso.md): 10.092 palavras, 42 min de leitura, 3 versões desde out/2026
 - [Instagram · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/instagram/politica-de-privacidade.md): 8.279 palavras, 35 min de leitura, 1 versão desde out/2026
 - [Pinterest · Política de Privacidade](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/pinterest/politica-de-privacidade.md): 8.210 palavras, 34 min de leitura, 29 versões desde set/2017
 - [Pinterest · Termos de Uso](https://raw.githubusercontent.com/GabrielVesal/letras-miudas/main/termos/pinterest/termos-de-uso.md): 5.408 palavras, 23 min de leitura, 10 versões desde mar/2019
