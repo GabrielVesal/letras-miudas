@@ -3,7 +3,7 @@ empresa: "Nubank"
 documento: "Política de Privacidade"
 categoria: "Bancos"
 fonte: "https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-privacidade"
-capturado_em: 2026-10-22
+capturado_em: 2026-11-26
 historico: "https://github.com/GabrielVesal/letras-miudas/commits/main/termos/nubank/politica-de-privacidade.md"
 ---
 
@@ -35,7 +35,7 @@ Este Aviso de Privacidade é aplicável a todos os clientes, ativos e inativos, 
 
 Para os candidatos a vagas de emprego no Nu, o Aviso de Privacidade pode ser encontrado no site https://nubank.com.br/carreiras/.
 
-Para os membros da NuCommunity, a comunidade do Nu, o Aviso de Privacidade pode ser encontrado no site https://comunidade.nubank.com.br/privacy. Todas as informações postadas na comunidade são públicas. Para evitar qualquer risco à segurança dos usuários da NuCommunity, recomendamos que **nunca divulguem dados pessoais** (principalmente número e senha do cartão, CVV, CPF, renda, endereço, número de telefone etc.).
+Para os membros da NuCommunity, a comunidade do Nu, o Aviso de Privacidade pode ser encontrado no site https://comunidade.nubank.com.br/privacidade. Todas as informações postadas na comunidade são públicas. Para evitar qualquer risco à segurança dos usuários da NuCommunity, recomendamos que **nunca divulguem dados pessoais** (principalmente número e senha do cartão, CVV, CPF, renda, endereço, número de telefone etc.).
 
 Para os produtos voltados aos clientes menores de idade, temos a Política de Privacidade Under-18.
 
@@ -45,8 +45,8 @@ Nós coletamos os seus dados pessoais sempre que você:
 - Solicitar a contratação de qualquer um dos nossos serviços ou produtos;
 - Contratar ou usar qualquer um dos nossos produtos ou serviços, (por exemplo fazendo compras com o seu cartão de crédito ou transações com a sua conta do Nu);
 - Navegar no website do Nu - https://www.nubank.com.br - ou da NuInvest - https://www.nuinvest.com.br/;
-- Navegar nos blogs do Nu - Fala, Nubank e Building Nubank;
-- Se inscrever na newsletter do Nu - https://blog.nubank.com.br/assinar-newsletter/;
+- Navegar nos blogs do Nu - Blog Nubank e Building Nubank;
+- Se inscrever na newsletter do Nu - Blog Nubank;
 - Entrar em contato conosco pelos nossos canais de atendimento;
 - Participar de pesquisas ou promoções realizadas pelo Nu.
 
