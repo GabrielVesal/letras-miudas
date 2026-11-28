@@ -50,7 +50,7 @@
     "Open Finance",
     "Transferência internacional"
    ],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2021-07-17",
@@ -139,7 +139,7 @@
    "palavras": 832,
    "minutos_de_leitura": 3,
    "assuntos": [],
-   "situacao": "ok",
+   "situacao": "bloqueado",
    "versoes": [
     {
      "data": "2015-01-18",
@@ -5063,7 +5063,7 @@
     "LGPD",
     "Encarregado/DPO"
    ],
-   "situacao": "instável",
+   "situacao": "ok",
    "versoes": [
     {
      "data": "2022-10-16",
